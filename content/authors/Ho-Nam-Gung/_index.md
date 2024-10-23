@@ -41,7 +41,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - MS Student
+  - M.S Student
 
 
 ---

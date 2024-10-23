@@ -10,9 +10,12 @@ main:
   # - name: News
   #   url: post
   #   weight: 20
-  - name: People
-    url: people
+  - name: Professor
+    url: people/#id-professor
     weight: 30
+  - name: Member
+    url: people/#id-member
+    weight: 35
   # - name: Events
   #   url: event
   #   weight: 40

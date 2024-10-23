@@ -27,9 +27,6 @@ interests:
 
 education:
   courses:
-    - course: PhD in Aerospace Engineering
-      institution: Seoul National University
-      year: 2026
     - course: M.S. in Aerospace Engineering
       institution: Seoul National University
       year: 2021
@@ -48,7 +45,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - PhD Student
+  - Ph.D Student
 
 ---
 

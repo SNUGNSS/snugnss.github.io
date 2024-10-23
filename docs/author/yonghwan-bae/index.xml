@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yonghwan Bae | Wowchemy Research Group</title>
-    <link>https://example.com/author/yonghwan-bae/</link>
-      <atom:link href="https://example.com/author/yonghwan-bae/index.xml" rel="self" type="application/rss+xml" />
+    <title>Yonghwan Bae | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/yonghwan-bae/</link>
+      <atom:link href="http://localhost:1313/author/yonghwan-bae/index.xml" rel="self" type="application/rss+xml" />
     <description>Yonghwan Bae</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/author/yonghwan-bae/avatar_hu2301838735809906848.jpg</url>
+      <url>http://localhost:1313/author/yonghwan-bae/avatar_hu2301838735809906848.jpg</url>
       <title>Yonghwan Bae</title>
-      <link>https://example.com/author/yonghwan-bae/</link>
+      <link>http://localhost:1313/author/yonghwan-bae/</link>
     </image>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>http://localhost:1313/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
+      <guid>http://localhost:1313/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
