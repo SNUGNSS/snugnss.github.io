@@ -7,21 +7,18 @@ main:
   # - name: Tour
   #   url: tour
   #   weight: 10
-  # - name: News
-  #   url: post
-  #   weight: 20
   - name: Professor
     url: people/#id-professor
-    weight: 30
+    weight: 10
   - name: Member
     url: people/#id-member
-    weight: 35
-  # - name: Events
-  #   url: event
-  #   weight: 40
+    weight: 20
   - name: Publications
     url: publication
-    weight: 50
-  # - name: Contact
-  #   url: contact
-  #   weight: 60
+    weight: 30
+  - name: News
+    url: event
+    weight: 40
+  - name: Contact
+    url: contact
+    weight: 60

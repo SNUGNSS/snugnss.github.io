@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/tag/news/</link>
+      <atom:link href="https://snugnss.github.io/tag/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>News</title>
+      <link>https://snugnss.github.io/tag/news/</link>
+    </image>
+    
+    <item>
+      <title>2024년 전기 학위 수여식</title>
+      <link>https://snugnss.github.io/event/240301-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/event/240301-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <description>&lt;h2 id=&#34;2024년-전기-학위-수여식&#34;&gt;2024년 전기 학위 수여식&lt;/h2&gt;
+&lt;h2 id=&#34;spring-2024-commencement-ceremony&#34;&gt;Spring 2024 Commencement Ceremony&lt;/h2&gt;
+&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;석사졸업: 송준원&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
