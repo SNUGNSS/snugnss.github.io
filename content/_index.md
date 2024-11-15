@@ -9,9 +9,7 @@ sections:
     content:
       slides:
       - title: <strong>SNUGLITE CubeSat</strong>
-        content: 
-          Seoul National University
-          </br>
+        content: |-
           </br>
           
         align: center
@@ -28,13 +26,8 @@ sections:
           text: <strong>보도자료</strong>
           url: event/
 
-      - title: <strong>Differential GPS</strong>
+      - title: <strong>Wide Area Differential GPS</strong>
         content: |-
-
-          </br>
-          </br>
-          WADGPS is an acronym for Wide Area Differential GPS. It's a general term for solutions used to enhance GPS accuracy, availability and integrity over large areas. A WADGPS uses a state-based approach in their software architecture. This means that a separate correction is made available for each error source rather than the sum effect of errors on the user equipment’s range measurements. This more effectively manages the issue of spatial decorrelation than some other techniques, resulting in a more consistent system performance regardless of geographic location with respect to reference stations.
-          
           
         align: center
         background:

@@ -21,31 +21,41 @@ organizations:
 bio: ''
 
 interests:
-  - Test
+  - Satellite Navigation System (GPS, GALILEO, GLONASS, QZSS, COMPASS)
+  - Satellite Augmentation System (SBAS, DGPS, WADGPS, WASS)
+  - Real-Time Kinematic (Compact Network RTK)
+  - Pseudolite (Indoor Navigation System)
+  - GNSS Receiver
+  - GNSS Orbit Determination
+  - CubeSat
+  - UAV Automatic Navigation and Control
+  - GPS Attitude Determination
+  - Spacecraft Attitude Orbit Control System (ADCS, AOCS)
+  - Avionics
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Aeronautics and Astronautics
       institution: Stanford University
-      year: 2012
-    - course: test
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: test
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 1993
+    - course: MSc in Aeronautics Engineering
+      institution: Seoul National University
+      year: 1986
+    - course: BSc in Aeronautics Engineering
+      institution: Seoul National University
+      year: 1984
 
 # Social/Academic Networking
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@snu.ac.kr'
+    link: 'mailto:kee@snu.ac.kr'
   - icon: google-scholar
     icon_pack: ai
-    link: 
+    link: 'https://scholar.google.com/citations?user=BvyvsEEAAAAJ&hl=ko'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:

@@ -2,20 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://snugnss.github.io/event/240301-%EC%A1%B8%EC%97%85%EC%8B%9D/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <loc>https://snugnss.github.io/event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/</loc>
+    <lastmod>2024-08-29T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://snugnss.github.io/tag/news/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://snugnss.github.io/event/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://snugnss.github.io/tags/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-29T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://snugnss.github.io/event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/</loc>
+    <lastmod>2024-02-26T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://snugnss.github.io/</loc>
@@ -125,6 +129,12 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://snugnss.github.io/author/changdon-kee/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://snugnss.github.io/author/jeonbeom-kim/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://snugnss.github.io/author/minhuck-park/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
