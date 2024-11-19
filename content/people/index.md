@@ -17,17 +17,6 @@ sections:
         **Professor**
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: Changdon Kee
-    design:
-      background:
-        image:
-          # Add your image background to `assets/media/`.
-          # filename: welcome.jpg
-          # filters:
-          #   brightness: 1.0
-          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.  
-          size: cover
-          position: center
-          parallax: false
 
 #---------------------------------------------------------------------------------
 
