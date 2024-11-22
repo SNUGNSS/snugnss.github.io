@@ -23,7 +23,7 @@ sections:
         link:
           # icon: graduation-cap
           # icon_pack: fas
-          text: <strong>보도자료</strong>
+          text: <strong>Test Link</strong>
           url: event/
 
       - title: <strong>Wide Area Differential GPS</strong>

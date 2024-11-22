@@ -57,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 # Postdoc, Ph.D Student, M.S Student, Alumini
 user_groups: 
-  - Alumni
+  - Ph.D
   
 ---
 

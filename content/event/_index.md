@@ -2,6 +2,10 @@
 title: |-
   News
 
+subtitle: |-
+  </br>
+  </br>
+
 # Listing view
 view: compact
 

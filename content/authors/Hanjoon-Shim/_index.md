@@ -58,7 +58,7 @@ highlight_name: false
 # Postdoc, Ph.D Student, M.S Student, Alumini
 user_groups: 
   - Postdoc
-  - Alumni
+  - Ph.D
   
 ---
 
