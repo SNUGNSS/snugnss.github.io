@@ -18,39 +18,6 @@ organizations:
   - name: 'Samsung Electronics'
     url: 
 
-# Short bio (displayed in user profile at end of posts)
-bio: ''
-
-interests:
-  # - GPS Applications in LEO
-  # - RTK Relative Navigation
-  # - CubeSat
-  # - Attitude Orbit Control System (AOCS)
-  # - Hardware-In-the-Loop Simulation (HILS)
-
-education:
-  # courses:
-    # - course: PhD in Aerospace Engineering
-    #   institution: Seoul National University, Seoul, Korea
-    #   year: 2024
-
-    # - course: MSc in Mechanical and Aerospace Engineering
-    #   institution: Seoul National University, Seoul, Korea
-    #   year: 2019
-
-    # - course: BSc in Mechanical and Aerospace Engineering
-    #   institution: Seoul National University, Seoul, Korea
-    #   year: 2016
-
-# Social/Academic Networking
-social:
-  # - icon: envelope
-    # icon_pack: fas
-    # link: 'mailto:hanjos@snu.ac.kr'
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.com/citations?user=RLkR0CoAAAAJ&hl=en
-
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
@@ -58,7 +25,7 @@ highlight_name: false
 # Postdoc, Ph.D Student, M.S Student, Alumini
 user_groups: 
   - Ph.D
-  
+
 ---
 
 <!----- 이름" **별표2개 사이에 적을것** ----->
@@ -76,7 +43,7 @@ user_groups:
 
 <!----- 학위논문 및 졸업연도(석사): 없으면 삭제----->
 
-**MSc Thesis (2017):** Position and Measurement Accuracy Analysis of GNSS Receiver using LQG based Vector Tracking Algorithm 
+**MSc Thesis (2017):** Position and Measurement Accuracy Analysis of GNSS Receiver using LQG based Vector Tracking Algorithm
 
 <!-----  Biography: 없으면 아래 공란----> </br> 
 

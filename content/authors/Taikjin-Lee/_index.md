@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Junwon Song
+title: Taikjin Lee
 
 # Full Name (for SEO)
-first_name: Junwon
-last_name: Song
-grad_year: 2024
+first_name: Taikjin
+last_name: Lee
+grad_year: 2008
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position: 최종 졸업 학위 (Ph.D or M.S)
-role: M.S
+role: Ph.D
 
 # Organizations/Affiliations
 organizations:
-  - name: 'Republic of Korea Army'
+  - name: 'KIST'
     url: 
 
 # Highlight the author in author lists? (true/false)
@@ -24,26 +24,26 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 # Postdoc, Ph.D Student, M.S Student, Alumini
 user_groups: 
-  - M.S
+  - Ph.D
 
 ---
 
 <!----- 이름" **별표2개 사이에 적을것** ----->
 
-## **JUNWON SONG | 송준원** 
+## **TAIKJIN LEE | 이택진** 
 
 <!----- 현재 직위/직장: *별표 사이에 적을것*----->
 
-*Republic of Korea Army*</br>
-*육군*</br>
+*KIST*</br>
+*한국과학기술연구원*</br>
 
 <!----- 학위논문 및 졸업연도(박사): 없으면 삭제----->
 
-
+**PhD Dissertation (2008):** Study on the smart pseudolite navigation system using two-way measuring technique
 
 <!----- 학위논문 및 졸업연도(석사): 없으면 삭제----->
 
-**MSc Thesis (2024):** A Study on Orbit Design of Lunar Navigation Satellite System for Moon Exploration
+
 
 <!-----  Biography: 없으면 아래 공란----> </br> 
 

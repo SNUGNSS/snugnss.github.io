@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Junwon Song
+title: Chulsu Pyeong
 
 # Full Name (for SEO)
-first_name: Junwon
-last_name: Song
-grad_year: 2024
+first_name: Chulsu
+last_name: Pyeong
+grad_year: 2000
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,7 +15,7 @@ role: M.S
 
 # Organizations/Affiliations
 organizations:
-  - name: 'Republic of Korea Army'
+  - name: ''
     url: 
 
 # Highlight the author in author lists? (true/false)
@@ -30,12 +30,12 @@ user_groups:
 
 <!----- 이름" **별표2개 사이에 적을것** ----->
 
-## **JUNWON SONG | 송준원** 
+## **CHULSU PYEONG | 평철수** 
 
 <!----- 현재 직위/직장: *별표 사이에 적을것*----->
 
-*Republic of Korea Army*</br>
-*육군*</br>
+**</br>
+**</br>
 
 <!----- 학위논문 및 졸업연도(박사): 없으면 삭제----->
 
@@ -43,7 +43,7 @@ user_groups:
 
 <!----- 학위논문 및 졸업연도(석사): 없으면 삭제----->
 
-**MSc Thesis (2024):** A Study on Orbit Design of Lunar Navigation Satellite System for Moon Exploration
+**MSc Thesis (2000):** A Study on WADGPS Real World Examples Based on NDGPS Testbed
 
 <!-----  Biography: 없으면 아래 공란----> </br> 
 
