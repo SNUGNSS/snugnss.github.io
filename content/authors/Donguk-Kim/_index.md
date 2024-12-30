@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Dopnguk Kim
+title: Donguk Kim
 
 # Full Name (for SEO)
-first_name: Dopnguk
+first_name: Donguk
 last_name: Kim
 grad_year: 2020
 

@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  Seonho Kang
+title: Seonho Kang
 
 # Full Name (for SEO)
 first_name: Seonho
@@ -30,7 +30,7 @@ user_groups:
 
 <!----- 이름" **별표2개 사이에 적을것** ----->
 
-## ** SEONHO KANG | 강선호** 
+## **SEONHO KANG | 강선호** 
 
 <!----- 현재 직위/직장: *별표 사이에 적을것*----->
 
