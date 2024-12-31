@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minjae Kang | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/minjae-kang/</link>
-      <atom:link href="https://snugnss.github.io/author/minjae-kang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/minjae-kang/</link>
+      <atom:link href="http://localhost:1313/author/minjae-kang/index.xml" rel="self" type="application/rss+xml" />
     <description>Minjae Kang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/minjae-kang/avatar_hu18132070377364877995.jpg</url>
+      <url>http://localhost:1313/author/minjae-kang/avatar_hu18132070377364877995.jpg</url>
       <title>Minjae Kang</title>
-      <link>https://snugnss.github.io/author/minjae-kang/</link>
+      <link>http://localhost:1313/author/minjae-kang/</link>
     </image>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://snugnss.github.io/publication/preprint/</link>
+      <link>http://localhost:1313/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/preprint/</guid>
+      <guid>http://localhost:1313/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.

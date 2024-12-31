@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sunkyoung Yu | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/sunkyoung-yu/</link>
+      <atom:link href="http://localhost:1313/author/sunkyoung-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sunkyoung Yu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/author/sunkyoung-yu/avatar_hu4906615097916613267.jpg</url>
+      <title>Sunkyoung Yu</title>
+      <link>http://localhost:1313/author/sunkyoung-yu/</link>
+    </image>
+    
+  </channel>
+</rss>

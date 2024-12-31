@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Changdon Kee | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/changdon-kee/</link>
-      <atom:link href="https://snugnss.github.io/author/changdon-kee/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/changdon-kee/</link>
+      <atom:link href="http://localhost:1313/author/changdon-kee/index.xml" rel="self" type="application/rss+xml" />
     <description>Changdon Kee</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://snugnss.github.io/author/changdon-kee/avatar_hu16533673885635161239.jpg</url>
+      <url>http://localhost:1313/author/changdon-kee/avatar_hu16533673885635161239.jpg</url>
       <title>Changdon Kee</title>
-      <link>https://snugnss.github.io/author/changdon-kee/</link>
+      <link>http://localhost:1313/author/changdon-kee/</link>
     </image>
     
   </channel>
