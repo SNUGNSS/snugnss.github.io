@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hyoungmin So | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/hyoungmin-so/</link>
-      <atom:link href="http://localhost:1313/author/hyoungmin-so/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/hyoungmin-so/</link>
+      <atom:link href="https://snugnss.github.io/author/hyoungmin-so/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyoungmin So</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/hyoungmin-so/avatar_hu3123421185524857804.jpg</url>
+      <url>https://snugnss.github.io/author/hyoungmin-so/avatar_hu3123421185524857804.jpg</url>
       <title>Hyoungmin So</title>
-      <link>http://localhost:1313/author/hyoungmin-so/</link>
+      <link>https://snugnss.github.io/author/hyoungmin-so/</link>
     </image>
     
   </channel>

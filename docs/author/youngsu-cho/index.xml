@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Youngsu Cho | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/youngsu-cho/</link>
-      <atom:link href="http://localhost:1313/author/youngsu-cho/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/youngsu-cho/</link>
+      <atom:link href="https://snugnss.github.io/author/youngsu-cho/index.xml" rel="self" type="application/rss+xml" />
     <description>Youngsu Cho</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/youngsu-cho/avatar_hu3203467846349905903.jpg</url>
+      <url>https://snugnss.github.io/author/youngsu-cho/avatar_hu3203467846349905903.jpg</url>
       <title>Youngsu Cho</title>
-      <link>http://localhost:1313/author/youngsu-cho/</link>
+      <link>https://snugnss.github.io/author/youngsu-cho/</link>
     </image>
     
   </channel>

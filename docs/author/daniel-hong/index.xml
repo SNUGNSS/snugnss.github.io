@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Hong | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/daniel-hong/</link>
-      <atom:link href="http://localhost:1313/author/daniel-hong/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/daniel-hong/</link>
+      <atom:link href="https://snugnss.github.io/author/daniel-hong/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Hong</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/daniel-hong/avatar_hu4850453822118204559.jpg</url>
+      <url>https://snugnss.github.io/author/daniel-hong/avatar_hu4850453822118204559.jpg</url>
       <title>Daniel Hong</title>
-      <link>http://localhost:1313/author/daniel-hong/</link>
+      <link>https://snugnss.github.io/author/daniel-hong/</link>
     </image>
     
   </channel>

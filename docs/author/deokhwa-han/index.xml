@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deokhwa Han | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/deokhwa-han/</link>
-      <atom:link href="http://localhost:1313/author/deokhwa-han/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/deokhwa-han/</link>
+      <atom:link href="https://snugnss.github.io/author/deokhwa-han/index.xml" rel="self" type="application/rss+xml" />
     <description>Deokhwa Han</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/deokhwa-han/avatar_hu8553648151014349672.jpg</url>
+      <url>https://snugnss.github.io/author/deokhwa-han/avatar_hu8553648151014349672.jpg</url>
       <title>Deokhwa Han</title>
-      <link>http://localhost:1313/author/deokhwa-han/</link>
+      <link>https://snugnss.github.io/author/deokhwa-han/</link>
     </image>
     
   </channel>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Junwon Song | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/junwon-song/</link>
-      <atom:link href="http://localhost:1313/author/junwon-song/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/junwon-song/</link>
+      <atom:link href="https://snugnss.github.io/author/junwon-song/index.xml" rel="self" type="application/rss+xml" />
     <description>Junwon Song</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/junwon-song/avatar_hu2066658779944254182.jpg</url>
+      <url>https://snugnss.github.io/author/junwon-song/avatar_hu2066658779944254182.jpg</url>
       <title>Junwon Song</title>
-      <link>http://localhost:1313/author/junwon-song/</link>
+      <link>https://snugnss.github.io/author/junwon-song/</link>
     </image>
     
   </channel>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bogeun Cho | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/bogeun-cho/</link>
-      <atom:link href="http://localhost:1313/author/bogeun-cho/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/bogeun-cho/</link>
+      <atom:link href="https://snugnss.github.io/author/bogeun-cho/index.xml" rel="self" type="application/rss+xml" />
     <description>Bogeun Cho</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/bogeun-cho/avatar_hu3203467846349905903.jpg</url>
+      <url>https://snugnss.github.io/author/bogeun-cho/avatar_hu9584729276996652926.jpg</url>
       <title>Bogeun Cho</title>
-      <link>http://localhost:1313/author/bogeun-cho/</link>
+      <link>https://snugnss.github.io/author/bogeun-cho/</link>
     </image>
     
   </channel>
