@@ -5,12 +5,140 @@
     <link>https://snugnss.github.io/author/doyoon-kim/</link>
       <atom:link href="https://snugnss.github.io/author/doyoon-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Doyoon Kim</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Nov 2011 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snugnss.github.io/author/doyoon-kim/avatar_hu14203477273336758347.jpg</url>
       <title>Doyoon Kim</title>
       <link>https://snugnss.github.io/author/doyoon-kim/</link>
     </image>
+    
+    <item>
+      <title>한국형 광역보정시스템 테스트베드 가용성 성능 분석</title>
+      <link>https://snugnss.github.io/publication/dc_201107/</link>
+      <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201107/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L1/L5 이중주파수 광역보정시스템 한반도 사용자 성능 예측</title>
+      <link>https://snugnss.github.io/publication/dc_201106/</link>
+      <pubDate>Fri, 21 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201106/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>광역보정시스템 (WA-DGNSS) 전리층지연 오차추정 알고리즘</title>
+      <link>https://snugnss.github.io/publication/dc_201104/</link>
+      <pubDate>Thu, 09 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201104/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SBAS의 시스템별 특성 및 국내 이용가능성 분석</title>
+      <link>https://snugnss.github.io/publication/dc_200902/</link>
+      <pubDate>Thu, 16 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200902/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SBAS의 시스템별 특성 및 국내 이용가능성 분석</title>
+      <link>https://snugnss.github.io/publication/dc_200803/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200803/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>의사 위성과 무인 항공기를 이용한 한국형 대체 항법 시스템</title>
+      <link>https://snugnss.github.io/publication/dc_200804/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200804/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>비정규 오차분포를 고려한 가우시산 합 필터를 이용한 DGNSS 무결성 감시 알고리즘</title>
+      <link>https://snugnss.github.io/publication/dc_200706/</link>
+      <pubDate>Fri, 02 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200706/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of 2D &amp; 3D ionospheric model in interfrequency bias estimation</title>
+      <link>https://snugnss.github.io/publication/dc_200603/</link>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200603/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV 의사위성 항법 시스템의 항법 메시지 형식 제안</title>
+      <link>https://snugnss.github.io/publication/dc_200602/</link>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200602/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>한국형 지역 위성 통신항법시스템의 위성 궤도 설계에 관한 연구</title>
+      <link>https://snugnss.github.io/publication/dc_200502/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200502/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NDGPS 기준국 데이터를 이용한 한국형 WADGPS 알고리즘의 성능 분석</title>
+      <link>https://snugnss.github.io/publication/dc_200402/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200402/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>분리된 가우시안 판단변수를 이용한 미지정수 검색기법</title>
+      <link>https://snugnss.github.io/publication/dc_200401/</link>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200401/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>아시아의 WADGPS 상호 운용성을 위한 해법 : 분산형 WADGPS</title>
+      <link>https://snugnss.github.io/publication/dc_200302/</link>
+      <pubDate>Fri, 21 Nov 2003 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200302/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>실내항법시스템을 이용한 모형차량 자동 제어 시스템 개발</title>
+      <link>https://snugnss.github.io/publication/dc_200007/</link>
+      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DGPS를 이용한 스키어(skier) 교육용 소프트웨어 개발</title>
+      <link>https://snugnss.github.io/publication/dc_200004/</link>
+      <pubDate>Sun, 01 Oct 2000 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>실시간 DGPS를 이용한 스키어 교육용 소프트웨어 개발</title>
+      <link>https://snugnss.github.io/publication/dc_200005/</link>
+      <pubDate>Sun, 01 Oct 2000 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200005/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

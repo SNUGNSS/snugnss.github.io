@@ -5,12 +5,28 @@
     <link>https://snugnss.github.io/author/bosung-kim/</link>
       <atom:link href="https://snugnss.github.io/author/bosung-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Bosung Kim</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2007 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snugnss.github.io/author/bosung-kim/avatar_hu3203467846349905903.jpg</url>
       <title>Bosung Kim</title>
       <link>https://snugnss.github.io/author/bosung-kim/</link>
     </image>
+    
+    <item>
+      <title>GPS-RTK와 single antenna axis를 이용한 모형차량의 자동제어</title>
+      <link>https://snugnss.github.io/publication/dc_200701/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200701/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>단일안테나 GPS 수신기를 이용한 무인항공기의 자동이착륙 및 지상활주</title>
+      <link>https://snugnss.github.io/publication/dc_200702/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200702/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

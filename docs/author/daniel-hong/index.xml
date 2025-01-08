@@ -5,12 +5,28 @@
     <link>https://snugnss.github.io/author/daniel-hong/</link>
       <atom:link href="https://snugnss.github.io/author/daniel-hong/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Hong</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snugnss.github.io/author/daniel-hong/avatar_hu4850453822118204559.jpg</url>
       <title>Daniel Hong</title>
       <link>https://snugnss.github.io/author/daniel-hong/</link>
     </image>
+    
+    <item>
+      <title>Centimeter-level Precision Smartphone Navigation Using RTK</title>
+      <link>https://snugnss.github.io/publication/dc_202008/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_202008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS/GLONASS Compact Network RTK 데모 시스템 개발</title>
+      <link>https://snugnss.github.io/publication/dc_201810/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201810/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

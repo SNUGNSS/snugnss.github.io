@@ -17,6 +17,42 @@ sections:
         **Professor**
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: Changdon Kee
+      text: |-
+        - Satellite Navigation System (GPS, GALILEO, GLONASS, QZSS, COMPASS)
+        - Satellite Augmentation System (SBAS, DGPS, WADGPS, WASS)
+        - Real-Time Kinematic (Compact Network RTK)
+        - Pseudolite (Indoor Navigation System)
+        - GNSS Receiver
+        - GNSS Orbit Determination
+        - CubeSat
+        - UAV Automatic Navigation and Control
+        - GPS Attitude Determination
+        - Spacecraft Attitude Orbit Control System (ADCS, AOCS)
+        - Avionics
+
+#---------------------------------------------------------------------------------
+  - block: markdown
+    id: id-interests
+    content:
+      title: |-
+        Research</br>Interests
+      text: |-
+        - Satellite Navigation System (GPS, GALILEO, GLONASS, QZSS, COMPASS)
+        - Satellite Augmentation System (SBAS, DGPS, WADGPS, WASS)
+        - Real-Time Kinematic (Compact Network RTK)
+        - Pseudolite (Indoor Navigation System)
+        - GNSS Receiver
+        - GNSS Orbit Determination
+        - CubeSat
+        - UAV Automatic Navigation and Control
+        - GPS Attitude Determination
+        - Spacecraft Attitude Orbit Control System (ADCS, AOCS)
+        - Avionics
+
+    design:
+      view: citation   
+      columns: '2'
+
 
 #---------------------------------------------------------------------------------
 

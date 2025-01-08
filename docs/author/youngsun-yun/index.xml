@@ -5,12 +5,92 @@
     <link>https://snugnss.github.io/author/youngsun-yun/</link>
       <atom:link href="https://snugnss.github.io/author/youngsun-yun/index.xml" rel="self" type="application/rss+xml" />
     <description>Youngsun Yun</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Oct 2009 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snugnss.github.io/author/youngsun-yun/avatar_hu10351970094325355828.jpg</url>
       <title>Youngsun Yun</title>
       <link>https://snugnss.github.io/author/youngsun-yun/</link>
     </image>
+    
+    <item>
+      <title>가우시안 합 필터를 이용한 반송파 위상 기반 수신기 자체 무결성 검사 기법</title>
+      <link>https://snugnss.github.io/publication/dc_200904/</link>
+      <pubDate>Fri, 16 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200904/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>비정규 오차분포를 고려한 가우시산 합 필터를 이용한 DGNSS 무결성 감시 알고리즘</title>
+      <link>https://snugnss.github.io/publication/dc_200706/</link>
+      <pubDate>Fri, 02 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200706/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NDGPS 기준국 데이터를 이용한 한국형 WADGPS 알고리즘의 성능 분석</title>
+      <link>https://snugnss.github.io/publication/dc_200402/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200402/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GBAS와 기존 항공기 정밀 접근 유도시스템의 성능 비교</title>
+      <link>https://snugnss.github.io/publication/dc_200207/</link>
+      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200207/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GBAS(Ground Based Augmentation System) 시스템 개발 및 시험 평가</title>
+      <link>https://snugnss.github.io/publication/dc_200206/</link>
+      <pubDate>Wed, 01 May 2002 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200206/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DGPS 측정치 무결성 감시 시스템 구현</title>
+      <link>https://snugnss.github.io/publication/dc_200203/</link>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200203/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RTCM SC-104와 SARPs 프로토콜 비교 연구</title>
+      <link>https://snugnss.github.io/publication/dc_200108/</link>
+      <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200108/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>근거리 오차 보정 시스템의 성능 평가</title>
+      <link>https://snugnss.github.io/publication/dc_200105/</link>
+      <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200105/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DGPS를 이용한 스키어(skier) 교육용 소프트웨어 개발</title>
+      <link>https://snugnss.github.io/publication/dc_200004/</link>
+      <pubDate>Sun, 01 Oct 2000 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>실시간 DGPS를 이용한 스키어 교육용 소프트웨어 개발</title>
+      <link>https://snugnss.github.io/publication/dc_200005/</link>
+      <pubDate>Sun, 01 Oct 2000 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200005/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

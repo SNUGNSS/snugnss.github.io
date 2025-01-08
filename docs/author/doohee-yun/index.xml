@@ -5,12 +5,92 @@
     <link>https://snugnss.github.io/author/doohee-yun/</link>
       <atom:link href="https://snugnss.github.io/author/doohee-yun/index.xml" rel="self" type="application/rss+xml" />
     <description>Doohee Yun</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2000 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snugnss.github.io/author/doohee-yun/avatar_hu3899849209484653351.jpg</url>
       <title>Doohee Yun</title>
       <link>https://snugnss.github.io/author/doohee-yun/</link>
     </image>
+    
+    <item>
+      <title>실내항법시스템을 이용한 모형차량 자동 제어 시스템 개발</title>
+      <link>https://snugnss.github.io/publication/dc_200007/</link>
+      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>비동기 의사위성 반송파 위상을 이용한 실시간 실내 항법 시스템 개발</title>
+      <link>https://snugnss.github.io/publication/dc_200006/</link>
+      <pubDate>Sat, 01 Apr 2000 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>의사위성을 이용한 실시간 실내 이동체 외치 파악 시스템 개발</title>
+      <link>https://snugnss.github.io/publication/dc_200002/</link>
+      <pubDate>Sat, 01 Apr 2000 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>의사위성을 이용한 정밀 실내 항법 시스템 개발</title>
+      <link>https://snugnss.github.io/publication/dc_200001/</link>
+      <pubDate>Sat, 01 Apr 2000 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>실내항법시스템을 위한 의사위성 정밀 위치 측정 기법에 관한 연구</title>
+      <link>https://snugnss.github.io/publication/dc_199908/</link>
+      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_199908/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>의사위성을 이용한 정밀 실내 항법 시스템 개발</title>
+      <link>https://snugnss.github.io/publication/dc_199909/</link>
+      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_199909/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>전리층 지연 및 대류층 지연모델을 이용한 실시간 보정위성항법시스템(SNUDGPS) 개발</title>
+      <link>https://snugnss.github.io/publication/dc_199906/</link>
+      <pubDate>Mon, 01 Nov 1999 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_199906/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>위성항법(GPS)을 이용한 항공기 자동착륙 시뮬레이션</title>
+      <link>https://snugnss.github.io/publication/dc_199704/</link>
+      <pubDate>Wed, 01 Oct 1997 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_199704/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>단일주파수 및 보정위성항법 사용자들을 위한 한국형 전리층 지연모델 개발</title>
+      <link>https://snugnss.github.io/publication/dc_199702/</link>
+      <pubDate>Mon, 01 Sep 1997 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_199702/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS 수신기를 이용한 전리층 시간지연측정 및 L1/L2 오차의 추정</title>
+      <link>https://snugnss.github.io/publication/dc_199701/</link>
+      <pubDate>Tue, 01 Apr 1997 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_199701/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

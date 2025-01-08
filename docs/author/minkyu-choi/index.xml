@@ -5,12 +5,60 @@
     <link>https://snugnss.github.io/author/minkyu-choi/</link>
       <atom:link href="https://snugnss.github.io/author/minkyu-choi/index.xml" rel="self" type="application/rss+xml" />
     <description>Minkyu Choi</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snugnss.github.io/author/minkyu-choi/avatar_hu3467280762965791529.jpg</url>
       <title>Minkyu Choi</title>
       <link>https://snugnss.github.io/author/minkyu-choi/</link>
     </image>
+    
+    <item>
+      <title>자기토커를 탑재한 SNUGLITE 큐브위성의 지상환경을 고려한 단일축 자세결정 및 제어 HILS</title>
+      <link>https://snugnss.github.io/publication/dc_201718/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201718/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>위성항법 신호를 이용한 우주환경 및 지진관측을 위한 SNUGLITE 큐브위성 개발 및 발사 준비</title>
+      <link>https://snugnss.github.io/publication/dc_201706/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201706/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE 큐브위성 자세제어 PIL(Processor In the Loop) 시뮬레이션</title>
+      <link>https://snugnss.github.io/publication/dc_201701/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201701/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE 큐브위성의 우주환경을 고려한 자세제어 SIL(Software In the Loop) 시뮬레이션</title>
+      <link>https://snugnss.github.io/publication/dc_201613/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201613/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE 큐브위성의 임무 및 탑재체 개발 현황</title>
+      <link>https://snugnss.github.io/publication/dc_201612/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201612/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>위성항법 신호를 이용한 우주환경 및 지진관측 큐브위성 SNUGLITE 예비설계</title>
+      <link>https://snugnss.github.io/publication/dc_201601/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201601/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

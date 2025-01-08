@@ -15,7 +15,7 @@ role: M.S
 
 # Organizations/Affiliations
 organizations:
-  - name: 'DANAM System'
+  - name: 'DANAM Systems'
     url: 
 
 # Highlight the author in author lists? (true/false)
@@ -34,7 +34,7 @@ user_groups:
 
 <!----- 현재 직위/직장: *별표 사이에 적을것*----->
 
-*DANAM System*</br>
+*DANAM Systems*</br>
 *단암시스템즈*</br>
 
 <!----- 학위논문 및 졸업연도(박사): 없으면 삭제----->

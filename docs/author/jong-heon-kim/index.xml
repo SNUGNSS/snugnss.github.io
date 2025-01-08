@@ -5,12 +5,20 @@
     <link>https://snugnss.github.io/author/jong-heon-kim/</link>
       <atom:link href="https://snugnss.github.io/author/jong-heon-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Jong-Heon Kim</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snugnss.github.io/author/jong-heon-kim/avatar_hu6503580071980017540.jpg</url>
       <title>Jong-Heon Kim</title>
       <link>https://snugnss.github.io/author/jong-heon-kim/</link>
     </image>
+    
+    <item>
+      <title>스마트폰 정밀 측위를 위한 스마트폰 GNSS 안테나 캘리브레이션 기법 연구</title>
+      <link>https://snugnss.github.io/publication/dc_202206/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_202206/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -5,12 +5,28 @@
     <link>https://snugnss.github.io/author/sungyong-lee/</link>
       <atom:link href="https://snugnss.github.io/author/sungyong-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Sungyong Lee</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Nov 2012 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snugnss.github.io/author/sungyong-lee/avatar_hu15297248805196883451.jpg</url>
       <title>Sungyong Lee</title>
       <link>https://snugnss.github.io/author/sungyong-lee/</link>
     </image>
+    
+    <item>
+      <title>Adaptive Arrays를 이용한 GNSS 교란 신호 DOA 추정 가능성 분석</title>
+      <link>https://snugnss.github.io/publication/dc_201208/</link>
+      <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201208/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>저궤도 위성용 GPS(L1/L2C)/Galileo(E1B) 통합 수신 MATLAB 소프트웨어 개발</title>
+      <link>https://snugnss.github.io/publication/dc_201114/</link>
+      <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201114/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

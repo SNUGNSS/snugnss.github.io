@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongman Park | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/hongman-park/</link>
+      <atom:link href="https://snugnss.github.io/author/hongman-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hongman Park</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 1999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Hongman Park</title>
+      <link>https://snugnss.github.io/author/hongman-park/</link>
+    </image>
+    
+    <item>
+      <title>Real-time DGPS를 이용한 항공기 착륙시스템 개발 및 비행실험</title>
+      <link>https://snugnss.github.io/publication/dc_199910/</link>
+      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_199910/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>실시간 DGPS를 이용한 헬리콥터 착륙 시스템 개발</title>
+      <link>https://snugnss.github.io/publication/dc_199905/</link>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_199905/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

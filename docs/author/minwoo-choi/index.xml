@@ -5,12 +5,36 @@
     <link>https://snugnss.github.io/author/minwoo-choi/</link>
       <atom:link href="https://snugnss.github.io/author/minwoo-choi/index.xml" rel="self" type="application/rss+xml" />
     <description>Minwoo Choi</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snugnss.github.io/author/minwoo-choi/avatar_hu13438589979491267633.png</url>
       <title>Minwoo Choi</title>
       <link>https://snugnss.github.io/author/minwoo-choi/</link>
     </image>
+    
+    <item>
+      <title>고고도 장기체공 무인기를 활용한 국지적 대체항법에 관한 연구</title>
+      <link>https://snugnss.github.io/publication/dc_201502/</link>
+      <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201502/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>대체에너지를 이용하는 고고도 장기체공 무인기의 민군 복합 운용 전망4</title>
+      <link>https://snugnss.github.io/publication/dc_201412/</link>
+      <pubDate>Wed, 19 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201412/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>위성 항법 차폐지역 가시성 개선을 위한 의사위성 탑재 고고도 무인기 활용방안</title>
+      <link>https://snugnss.github.io/publication/dc_201406/</link>
+      <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201406/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

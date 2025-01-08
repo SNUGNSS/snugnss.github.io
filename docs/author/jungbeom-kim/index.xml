@@ -5,12 +5,164 @@
     <link>https://snugnss.github.io/author/jungbeom-kim/</link>
       <atom:link href="https://snugnss.github.io/author/jungbeom-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Jungbeom Kim</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snugnss.github.io/author/jungbeom-kim/avatar_hu14702229512411554235.JPG</url>
       <title>Jungbeom Kim</title>
       <link>https://snugnss.github.io/author/jungbeom-kim/</link>
     </image>
+    
+    <item>
+      <title>스마트폰 정밀 측위를 위한 스마트폰 GNSS 안테나 캘리브레이션 기법 연구</title>
+      <link>https://snugnss.github.io/publication/dc_202206/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_202206/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>스마트폰 수집 GNSS 측정치의 전방향 특성에 대한 연구</title>
+      <link>https://snugnss.github.io/publication/dc_202104/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_202104/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrity Monitoring Simulation in Urban Scenario by Using Single Frequency RRAIM</title>
+      <link>https://snugnss.github.io/publication/dc_202004/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_202004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE 큐브위성의 자세결정 및 제어시스템 검증을 위한 헬름홀츠 케이지 설계</title>
+      <link>https://snugnss.github.io/publication/dc_201908/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201908/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS/INS 통합 항법 알고리즘을 위한 반송파 위상 시간차분 측정치 소음 상관 관계 고려 방법</title>
+      <link>https://snugnss.github.io/publication/dc_201903/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201903/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>한반도 지역 RAIM/ARAIM 사용자의 가용성 분석</title>
+      <link>https://snugnss.github.io/publication/dc_201813/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201813/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KASS 운용 시험 및 성능 평가를 위한 위치 영역 분석 알고리즘</title>
+      <link>https://snugnss.github.io/publication/dc_201806/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201806/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>항공기 자세를 고려한 SBAS 가용성 성능 예측 시뮬레이션 소프트웨어 개발</title>
+      <link>https://snugnss.github.io/publication/dc_201805/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201805/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>기압 고도계 및 가속도계 결합을 통한 고도 추정</title>
+      <link>https://snugnss.github.io/publication/dc_201801/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201801/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SBAS 가용성 성능 예측을 위한 시뮬레이션 소프트웨어 설계</title>
+      <link>https://snugnss.github.io/publication/dc_201802/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201802/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MATLAB GUI 기반 KASS 운용시험 연구용 분석도구 개발</title>
+      <link>https://snugnss.github.io/publication/dc_201704/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201704/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>정밀 궤도력을 이용한 SBAS 위성 보정 정보 성능 평가</title>
+      <link>https://snugnss.github.io/publication/dc_201607/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201607/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WAAS와 EGNOS의 위치 영역 성능 분석</title>
+      <link>https://snugnss.github.io/publication/dc_201605/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201605/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>한반도 지각변동에 의한 GPS 기준국 좌표 이동 보상 방법</title>
+      <link>https://snugnss.github.io/publication/dc_201604/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201604/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KASS 성능평가를 위한 운용시험 요소기술 분석</title>
+      <link>https://snugnss.github.io/publication/dc_201603/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201603/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>단일 위성고장 가정, Solution Separation RAIM과 Residual Based RAIM의 성능 비교</title>
+      <link>https://snugnss.github.io/publication/dc_201508/</link>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201508/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>의사위성 기반 WADGNSS 데모 시스템 개발</title>
+      <link>https://snugnss.github.io/publication/dc_201408/</link>
+      <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201408/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FKP 보정정보를 이용한 DGPS 위치정확도 향상 연구</title>
+      <link>https://snugnss.github.io/publication/dc_201309/</link>
+      <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201309/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Arrays를 이용한 GNSS 교란 신호 DOA 추정 가능성 분석</title>
+      <link>https://snugnss.github.io/publication/dc_201208/</link>
+      <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201208/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

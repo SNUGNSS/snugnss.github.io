@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samok Koo (KARI) | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/samok-koo-kari/</link>
+      <atom:link href="https://snugnss.github.io/author/samok-koo-kari/index.xml" rel="self" type="application/rss+xml" />
+    <description>Samok Koo (KARI)</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Samok Koo (KARI)</title>
+      <link>https://snugnss.github.io/author/samok-koo-kari/</link>
+    </image>
+    
+    <item>
+      <title>소형체공형 무인기용 저속 단일안테나 GPS 기반 비행제어시스템 설계 연구</title>
+      <link>https://snugnss.github.io/publication/dc_200808/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200808/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

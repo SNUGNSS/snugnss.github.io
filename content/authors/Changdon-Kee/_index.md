@@ -21,17 +21,7 @@ organizations:
 bio: ''
 
 interests:
-  - Satellite Navigation System (GPS, GALILEO, GLONASS, QZSS, COMPASS)
-  - Satellite Augmentation System (SBAS, DGPS, WADGPS, WASS)
-  - Real-Time Kinematic (Compact Network RTK)
-  - Pseudolite (Indoor Navigation System)
-  - GNSS Receiver
-  - GNSS Orbit Determination
-  - CubeSat
-  - UAV Automatic Navigation and Control
-  - GPS Attitude Determination
-  - Spacecraft Attitude Orbit Control System (ADCS, AOCS)
-  - Avionics
+
 
 education:
   courses:

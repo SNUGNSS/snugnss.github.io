@@ -5,12 +5,28 @@
     <link>https://snugnss.github.io/author/inmo-jang/</link>
       <atom:link href="https://snugnss.github.io/author/inmo-jang/index.xml" rel="self" type="application/rss+xml" />
     <description>Inmo Jang</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Nov 2009 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snugnss.github.io/author/inmo-jang/avatar_hu1127851644176134510.jpg</url>
       <title>Inmo Jang</title>
       <link>https://snugnss.github.io/author/inmo-jang/</link>
     </image>
+    
+    <item>
+      <title>NDGNSS 인프라 개선을 위한 한국형 지역보강시스템</title>
+      <link>https://snugnss.github.io/publication/dc_200909/</link>
+      <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200909/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>고고도 사용자를 위한 DGNSS 보정치 생성 앙고리즘</title>
+      <link>https://snugnss.github.io/publication/dc_200908/</link>
+      <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200908/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

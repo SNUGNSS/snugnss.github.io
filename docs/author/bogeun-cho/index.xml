@@ -5,12 +5,28 @@
     <link>https://snugnss.github.io/author/bogeun-cho/</link>
       <atom:link href="https://snugnss.github.io/author/bogeun-cho/index.xml" rel="self" type="application/rss+xml" />
     <description>Bogeun Cho</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snugnss.github.io/author/bogeun-cho/avatar_hu9584729276996652926.jpg</url>
       <title>Bogeun Cho</title>
       <link>https://snugnss.github.io/author/bogeun-cho/</link>
     </image>
+    
+    <item>
+      <title>스마트폰 정밀 측위를 위한 스마트폰 GNSS 안테나 캘리브레이션 기법 연구</title>
+      <link>https://snugnss.github.io/publication/dc_202206/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_202206/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>스마트폰 수집 GNSS 측정치의 전방향 특성에 대한 연구</title>
+      <link>https://snugnss.github.io/publication/dc_202104/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_202104/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

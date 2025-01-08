@@ -5,12 +5,116 @@
     <link>https://snugnss.github.io/author/jihoon-kim/</link>
       <atom:link href="https://snugnss.github.io/author/jihoon-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Jihoon Kim</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Nov 2011 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snugnss.github.io/author/jihoon-kim/avatar_hu5667853917107654720.jpg</url>
       <title>Jihoon Kim</title>
       <link>https://snugnss.github.io/author/jihoon-kim/</link>
     </image>
+    
+    <item>
+      <title>저가 자이로스코프의 단순 통합을 통한 단일 안테나 GPS 기반 자세의 성능 향상</title>
+      <link>https://snugnss.github.io/publication/dc_201110/</link>
+      <pubDate>Fri, 11 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201110/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>비행중 자이로 보정 방법을 이용한 저가의 단일안테나 GPS와 1축 자이로에 기반한 고정익 항공기의 롤각 추정</title>
+      <link>https://snugnss.github.io/publication/dc_201008/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4Hz GPS 수신기만을 이용한 소형체공형무인기 비행제어시스템 설계 및 비행시험</title>
+      <link>https://snugnss.github.io/publication/dc_200911/</link>
+      <pubDate>Thu, 12 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200911/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>소형 체공형 무인기 공력계수 추정 및 보정</title>
+      <link>https://snugnss.github.io/publication/dc_200910/</link>
+      <pubDate>Thu, 12 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200910/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>소형체공형 무인기용 저속 단일안테나 GPS 기반 비행제어시스템 설계 연구</title>
+      <link>https://snugnss.github.io/publication/dc_200808/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200808/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>무인항공기의 공력계수 추정 및 보정</title>
+      <link>https://snugnss.github.io/publication/dc_200705/</link>
+      <pubDate>Thu, 15 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200705/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS-RTK와 single antenna axis를 이용한 모형차량의 자동제어</title>
+      <link>https://snugnss.github.io/publication/dc_200701/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200701/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>단일안테나 GPS 수신기를 이용한 무인항공기의 자동이착륙 및 지상활주</title>
+      <link>https://snugnss.github.io/publication/dc_200702/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200702/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>무인항공기의 안정계소 및 조정계수 추정 방법</title>
+      <link>https://snugnss.github.io/publication/dc_200703/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200703/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>단일안테나 GPS 수신기와 Airspeed 센서를 갖춘 무인항공기를 이용한 바람 추정</title>
+      <link>https://snugnss.github.io/publication/dc_200604/</link>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200604/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV 의사위성 항법 시스템의 항법 메시지 형식 제안</title>
+      <link>https://snugnss.github.io/publication/dc_200602/</link>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200602/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>무인항공기의 지상활주 모델링</title>
+      <link>https://snugnss.github.io/publication/dc_200403/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200403/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>단일 안테나 GPS 수신기를 이용한 무인항공기의 자동 제어</title>
+      <link>https://snugnss.github.io/publication/dc_200301/</link>
+      <pubDate>Sat, 01 Nov 2003 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200301/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

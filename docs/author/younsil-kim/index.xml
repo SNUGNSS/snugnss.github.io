@@ -5,12 +5,68 @@
     <link>https://snugnss.github.io/author/younsil-kim/</link>
       <atom:link href="https://snugnss.github.io/author/younsil-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Younsil Kim</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://snugnss.github.io/author/younsil-kim/avatar_hu10236916127824685928.jpg</url>
       <title>Younsil Kim</title>
       <link>https://snugnss.github.io/author/younsil-kim/</link>
     </image>
+    
+    <item>
+      <title>GPS/INS 통합 항법 알고리즘을 위한 반송파 위상 시간차분 측정치 소음 상관 관계 고려 방법</title>
+      <link>https://snugnss.github.io/publication/dc_201903/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201903/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>차량 환경에서 RTK 위치 결정을 위한 저가 관성센서 기반 GPS 반송파 불연속 측정치 검출</title>
+      <link>https://snugnss.github.io/publication/dc_201401/</link>
+      <pubDate>Thu, 17 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201401/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>고속도로 환경에서 GPS 반송파 기반 Positioning을 위한 반송파 불연속 측정치 검출에 대한 연구</title>
+      <link>https://snugnss.github.io/publication/dc_201307/</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201307/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAC 기반 Compact Network RTK를 활용한 공간 이격 오차 감소 방안 및 성능 검증</title>
+      <link>https://snugnss.github.io/publication/dc_201109/</link>
+      <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201109/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stand-alone GPS 모듈의 NMEA 출력 측위정확도 향상에 효과적인 위치영역 DGPS의 새로운 보정정보 생성 알고리즘 제안</title>
+      <link>https://snugnss.github.io/publication/dc_201009/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>저가 GPS 수신기와 MEMS IMU를 이용한 보행자 항법 시스템</title>
+      <link>https://snugnss.github.io/publication/dc_201010/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>머리에 장착한 센서를 이용한 보행자 항법 알고리즘 분석</title>
+      <link>https://snugnss.github.io/publication/dc_201004/</link>
+      <pubDate>Thu, 28 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201004/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

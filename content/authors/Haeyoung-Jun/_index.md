@@ -15,7 +15,7 @@ role: Ph.D
 
 # Organizations/Affiliations
 organizations:
-  - name: 'Samsung'
+  - name: 'Samsung Electronics'
     url: 
 
 # Highlight the author in author lists? (true/false)
@@ -34,8 +34,8 @@ user_groups:
 
 <!----- 현재 직위/직장: *별표 사이에 적을것*----->
 
-*Samsung*</br>
-*삼성전자, 수원*</br>
+*Samsung Electronics*</br>
+*삼성전자*</br>
 
 <!----- 학위논문 및 졸업연도(박사): 없으면 삭제----->
 

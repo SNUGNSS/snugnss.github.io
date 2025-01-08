@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanguk Lee | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/sanguk-lee/</link>
+      <atom:link href="https://snugnss.github.io/author/sanguk-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sanguk Lee</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Nov 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Sanguk Lee</title>
+      <link>https://snugnss.github.io/author/sanguk-lee/</link>
+    </image>
+    
+    <item>
+      <title>GPS(L1)/Galileo(E1/E5a) 다중 신호 통합 수신 소프트웨어 플랫폼 개발</title>
+      <link>https://snugnss.github.io/publication/dc_200906/</link>
+      <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200906/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

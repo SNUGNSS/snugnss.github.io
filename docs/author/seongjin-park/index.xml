@@ -5,26 +5,12 @@
     <link>https://snugnss.github.io/author/seongjin-park/</link>
       <atom:link href="https://snugnss.github.io/author/seongjin-park/index.xml" rel="self" type="application/rss+xml" />
     <description>Seongjin Park</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
       <url>https://snugnss.github.io/author/seongjin-park/avatar_hu6188253226734134237.jpg</url>
       <title>Seongjin Park</title>
       <link>https://snugnss.github.io/author/seongjin-park/</link>
     </image>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>https://snugnss.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

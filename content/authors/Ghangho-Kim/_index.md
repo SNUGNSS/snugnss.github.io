@@ -1,6 +1,6 @@
 ---
 # Display name
-title:  Ghangho Kim
+title: Ghangho Kim
 
 # Full Name (for SEO)
 first_name: Ghangho
@@ -30,7 +30,7 @@ user_groups:
 
 <!----- 이름" **별표2개 사이에 적을것** ----->
 
-## ** GHANGHO KIM | 김강호** 
+## **GHANGHO KIM | 김강호** 
 
 <!----- 현재 직위/직장: *별표 사이에 적을것*----->
 
