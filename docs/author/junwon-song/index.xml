@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Junwon Song | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/junwon-song/</link>
-      <atom:link href="https://snugnss.github.io/author/junwon-song/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/junwon-song/</link>
+      <atom:link href="http://localhost:1313/author/junwon-song/index.xml" rel="self" type="application/rss+xml" />
     <description>Junwon Song</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/junwon-song/avatar_hu2066658779944254182.jpg</url>
+      <url>http://localhost:1313/author/junwon-song/avatar_hu2066658779944254182.jpg</url>
       <title>Junwon Song</title>
-      <link>https://snugnss.github.io/author/junwon-song/</link>
+      <link>http://localhost:1313/author/junwon-song/</link>
     </image>
     
     <item>
       <title>궤도 동역학을 이용한 달 위성 항법 시스템의 Frozen Orbit 설계</title>
-      <link>https://snugnss.github.io/publication/dc_202305/</link>
+      <link>http://localhost:1313/publication/dc_202305/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202305/</guid>
+      <guid>http://localhost:1313/publication/dc_202305/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNUGLITE-II 큐브위성 지상국 구성 및 지상 운용 시험</title>
-      <link>https://snugnss.github.io/publication/dc_202209/</link>
+      <link>http://localhost:1313/publication/dc_202209/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202209/</guid>
+      <guid>http://localhost:1313/publication/dc_202209/</guid>
       <description></description>
     </item>
     
     <item>
       <title>달 항법 시스템 구축을 위한 궤도 예비 설계</title>
-      <link>https://snugnss.github.io/publication/dc_202205/</link>
+      <link>http://localhost:1313/publication/dc_202205/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202205/</guid>
+      <guid>http://localhost:1313/publication/dc_202205/</guid>
       <description></description>
     </item>
     

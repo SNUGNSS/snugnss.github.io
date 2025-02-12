@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gwandong Park | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/gwandong-park/</link>
+      <atom:link href="http://localhost:1313/author/gwandong-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gwandong Park</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Gwandong Park</title>
+      <link>http://localhost:1313/author/gwandong-park/</link>
+    </image>
+    
+    <item>
+      <title>Feasibility Study on Integration of SSR Correction into Network RTK to Provide More Robust Service</title>
+      <link>http://localhost:1313/publication/dj_201806/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201806/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NDGPS 관측자료의 품질향상을 위한 비교실험</title>
+      <link>http://localhost:1313/publication/dj_201204/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201204/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of GPS signal environment at DGNSS stations</title>
+      <link>http://localhost:1313/publication/dj_201106/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201106/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DGNSS 기준국 관측환경 분석</title>
+      <link>http://localhost:1313/publication/dj_201105/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201105/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

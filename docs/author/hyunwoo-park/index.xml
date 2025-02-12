@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hyunwoo Park | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/hyunwoo-park/</link>
-      <atom:link href="https://snugnss.github.io/author/hyunwoo-park/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/hyunwoo-park/</link>
+      <atom:link href="http://localhost:1313/author/hyunwoo-park/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyunwoo Park</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/hyunwoo-park/avatar_hu15003065157421600734.jpg</url>
+      <url>http://localhost:1313/author/hyunwoo-park/avatar_hu15003065157421600734.jpg</url>
       <title>Hyunwoo Park</title>
-      <link>https://snugnss.github.io/author/hyunwoo-park/</link>
+      <link>http://localhost:1313/author/hyunwoo-park/</link>
     </image>
     
     <item>
+      <title>Analysis of Smartphone Based Dual Frequency RTK Performance Using RF Shielded Box</title>
+      <link>http://localhost:1313/publication/ic_202305/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_202305/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SNUGLITE-III 큐브위성 전력계 상세설계</title>
-      <link>https://snugnss.github.io/publication/dc_202304/</link>
+      <link>http://localhost:1313/publication/dc_202304/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202304/</guid>
+      <guid>http://localhost:1313/publication/dc_202304/</guid>
       <description></description>
     </item>
     

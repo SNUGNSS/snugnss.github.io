@@ -2,21 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noha Park | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/noha-park/</link>
-      <atom:link href="https://snugnss.github.io/author/noha-park/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/noha-park/</link>
+      <atom:link href="http://localhost:1313/author/noha-park/index.xml" rel="self" type="application/rss+xml" />
     <description>Noha Park</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2007 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/noha-park/avatar_hu3203467846349905903.jpg</url>
+      <url>http://localhost:1313/author/noha-park/avatar_hu3203467846349905903.jpg</url>
       <title>Noha Park</title>
-      <link>https://snugnss.github.io/author/noha-park/</link>
+      <link>http://localhost:1313/author/noha-park/</link>
     </image>
     
     <item>
+      <title>Fully automatic taxiing, takeoff and landing of a UAV based on a single-antenna GNSS receiver</title>
+      <link>http://localhost:1313/publication/ic_200801/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200801/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>단일안테나 GPS 수신기를 이용한 무인항공기의 자동이착륙 및 지상활주</title>
-      <link>https://snugnss.github.io/publication/dc_200702/</link>
+      <link>http://localhost:1313/publication/dc_200702/</link>
       <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200702/</guid>
+      <guid>http://localhost:1313/publication/dc_200702/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully Automatic Taxiing, Takeoff and Landing of a UAV using a Single-Antenna GPS Receiver only</title>
+      <link>http://localhost:1313/publication/ic_200706/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200706/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully Automatic Taxiing, Takeoff and Landing of a UAV only with a Single-Antenna GPS Receiver</title>
+      <link>http://localhost:1313/publication/ic_200703/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200703/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yongyun Kim | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/yongyun-kim/</link>
-      <atom:link href="https://snugnss.github.io/author/yongyun-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yongyun-kim/</link>
+      <atom:link href="http://localhost:1313/author/yongyun-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Yongyun Kim</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 1997 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 1998 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Yongyun Kim</title>
-      <link>https://snugnss.github.io/author/yongyun-kim/</link>
+      <link>http://localhost:1313/author/yongyun-kim/</link>
     </image>
     
     <item>
+      <title>헬리콥터 비행시험을 통한 DGPS 성능평가</title>
+      <link>http://localhost:1313/publication/dj_199802/</link>
+      <pubDate>Tue, 01 Dec 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_199802/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>헬리콥터 공중 비행 궤적 생성을 통한 DGPS 성능 평가</title>
-      <link>https://snugnss.github.io/publication/dc_199707/</link>
+      <link>http://localhost:1313/publication/dc_199707/</link>
       <pubDate>Sat, 01 Nov 1997 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_199707/</guid>
+      <guid>http://localhost:1313/publication/dc_199707/</guid>
       <description></description>
     </item>
     

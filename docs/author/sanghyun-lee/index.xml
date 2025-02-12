@@ -2,37 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sanghyun Lee | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/sanghyun-lee/</link>
-      <atom:link href="https://snugnss.github.io/author/sanghyun-lee/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/sanghyun-lee/</link>
+      <atom:link href="http://localhost:1313/author/sanghyun-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Sanghyun Lee</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2005 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/sanghyun-lee/avatar_hu3203467846349905903.jpg</url>
+      <url>http://localhost:1313/author/sanghyun-lee/avatar_hu3203467846349905903.jpg</url>
       <title>Sanghyun Lee</title>
-      <link>https://snugnss.github.io/author/sanghyun-lee/</link>
+      <link>http://localhost:1313/author/sanghyun-lee/</link>
     </image>
     
     <item>
       <title>군의 효율적인 작전 수행을 위한 대체 항법 구성과 의사위성의 최적 배치에 대한 연구</title>
-      <link>https://snugnss.github.io/publication/dc_200504/</link>
+      <link>http://localhost:1313/publication/dc_200504/</link>
       <pubDate>Thu, 01 Dec 2005 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200504/</guid>
+      <guid>http://localhost:1313/publication/dc_200504/</guid>
       <description></description>
     </item>
     
     <item>
       <title>의사위성과 무인항공기를 이용한 한국형 대체 항법 시스템 구성에 관한 연구</title>
-      <link>https://snugnss.github.io/publication/dc_200503/</link>
+      <link>http://localhost:1313/publication/dc_200503/</link>
       <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200503/</guid>
+      <guid>http://localhost:1313/publication/dc_200503/</guid>
       <description></description>
     </item>
     
     <item>
       <title>한국형 지역 위성 통신항법시스템의 위성 궤도 설계에 관한 연구</title>
-      <link>https://snugnss.github.io/publication/dc_200502/</link>
+      <link>http://localhost:1313/publication/dc_200502/</link>
       <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200502/</guid>
+      <guid>http://localhost:1313/publication/dc_200502/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>한국형 지역 위성 통신항법시스템의 위성 궤도설계에 관한 연구</title>
+      <link>http://localhost:1313/publication/dj_200501/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_200501/</guid>
       <description></description>
     </item>
     

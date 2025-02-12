@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jaeheon Kim | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/jaeheon-kim/</link>
-      <atom:link href="https://snugnss.github.io/author/jaeheon-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jaeheon-kim/</link>
+      <atom:link href="http://localhost:1313/author/jaeheon-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Jaeheon Kim</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Jaeheon Kim</title>
-      <link>https://snugnss.github.io/author/jaeheon-kim/</link>
+      <link>http://localhost:1313/author/jaeheon-kim/</link>
     </image>
     
     <item>
       <title>WiFiSLAM을 이용한 Radio Map 생성 및 성능 분석</title>
-      <link>https://snugnss.github.io/publication/dc_201608/</link>
+      <link>http://localhost:1313/publication/dc_201608/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201608/</guid>
+      <guid>http://localhost:1313/publication/dc_201608/</guid>
       <description></description>
     </item>
     

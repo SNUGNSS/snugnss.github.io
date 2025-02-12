@@ -2,37 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Youngmin Han | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/youngmin-han/</link>
-      <atom:link href="https://snugnss.github.io/author/youngmin-han/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/youngmin-han/</link>
+      <atom:link href="http://localhost:1313/author/youngmin-han/index.xml" rel="self" type="application/rss+xml" />
     <description>Youngmin Han</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/youngmin-han/avatar_hu3203467846349905903.jpg</url>
+      <url>http://localhost:1313/author/youngmin-han/avatar_hu3203467846349905903.jpg</url>
       <title>Youngmin Han</title>
-      <link>https://snugnss.github.io/author/youngmin-han/</link>
+      <link>http://localhost:1313/author/youngmin-han/</link>
     </image>
     
     <item>
+      <title>차량 간 GPS 공통 가시위성 검색을 통한 상대위치 추정 정확도 향상에 대한 연구</title>
+      <link>http://localhost:1313/publication/dj_201205/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201205/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Attitude determination method using single-antenna GPS, Gyro and Magnetometer</title>
+      <link>http://localhost:1313/publication/ic_201206/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201206/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS/IMU integrated relative positioning for moving land vehicles with V2V(Vehicle-to-Vehicle) communication module</title>
+      <link>http://localhost:1313/publication/ic_201203/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201203/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>저궤도 위성 환경에서의 GPS L1 신호 생성 소프트웨어 시뮬레이터 개발</title>
-      <link>https://snugnss.github.io/publication/dc_201112/</link>
+      <link>http://localhost:1313/publication/dc_201112/</link>
       <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201112/</guid>
+      <guid>http://localhost:1313/publication/dc_201112/</guid>
       <description></description>
     </item>
     
     <item>
       <title>저가 GPS 수신기와 MEMS IMU를 이용한 보행자 항법 시스템</title>
-      <link>https://snugnss.github.io/publication/dc_201010/</link>
+      <link>http://localhost:1313/publication/dc_201010/</link>
       <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201010/</guid>
+      <guid>http://localhost:1313/publication/dc_201010/</guid>
       <description></description>
     </item>
     
     <item>
       <title>머리에 장착한 센서를 이용한 보행자 항법 알고리즘 분석</title>
-      <link>https://snugnss.github.io/publication/dc_201004/</link>
+      <link>http://localhost:1313/publication/dc_201004/</link>
       <pubDate>Thu, 28 Oct 2010 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201004/</guid>
+      <guid>http://localhost:1313/publication/dc_201004/</guid>
       <description></description>
     </item>
     

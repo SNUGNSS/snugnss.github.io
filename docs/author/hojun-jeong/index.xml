@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hojun Jeong | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/hojun-jeong/</link>
-      <atom:link href="https://snugnss.github.io/author/hojun-jeong/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:6034/author/hojun-jeong/</link>
+      <atom:link href="http://localhost:6034/author/hojun-jeong/index.xml" rel="self" type="application/rss+xml" />
     <description>Hojun Jeong</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:6034/media/logo.svg</url>
       <title>Hojun Jeong</title>
-      <link>https://snugnss.github.io/author/hojun-jeong/</link>
+      <link>http://localhost:6034/author/hojun-jeong/</link>
     </image>
     
     <item>
       <title>SNUGLITE-III 큐브위성 전력계 상세설계</title>
-      <link>https://snugnss.github.io/publication/dc_202304/</link>
+      <link>http://localhost:6034/publication/dc_202304/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202304/</guid>
+      <guid>http://localhost:6034/publication/dc_202304/</guid>
       <description></description>
     </item>
     
     <item>
       <title>궤도 동역학을 이용한 달 위성 항법 시스템의 Frozen Orbit 설계</title>
-      <link>https://snugnss.github.io/publication/dc_202305/</link>
+      <link>http://localhost:6034/publication/dc_202305/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202305/</guid>
+      <guid>http://localhost:6034/publication/dc_202305/</guid>
       <description></description>
     </item>
     
     <item>
       <title>달 항법 시스템 구축을 위한 궤도 예비 설계</title>
-      <link>https://snugnss.github.io/publication/dc_202205/</link>
+      <link>http://localhost:6034/publication/dc_202205/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202205/</guid>
+      <guid>http://localhost:6034/publication/dc_202205/</guid>
       <description></description>
     </item>
     
     <item>
       <title>단일 스테이션 기반 위치결정시스템의 실재 데모 시스템 개발</title>
-      <link>https://snugnss.github.io/publication/dc_202109/</link>
+      <link>http://localhost:6034/publication/dc_202109/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202109/</guid>
+      <guid>http://localhost:6034/publication/dc_202109/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPS/eLoran/INS 통합 항법 구현 및 GPS 불능상황에서 테스트 결과</title>
-      <link>https://snugnss.github.io/publication/dc_202105/</link>
+      <link>http://localhost:6034/publication/dc_202105/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202105/</guid>
+      <guid>http://localhost:6034/publication/dc_202105/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrity Monitoring Simulation in Urban Scenario by Using Single Frequency RRAIM</title>
-      <link>https://snugnss.github.io/publication/dc_202004/</link>
+      <link>http://localhost:6034/publication/dc_202004/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202004/</guid>
+      <guid>http://localhost:6034/publication/dc_202004/</guid>
       <description></description>
     </item>
     
     <item>
       <title>위성항법신호를 이용한 3D 지구대기관측 큐브위성 SNUGLITE-II 예비설계</title>
-      <link>https://snugnss.github.io/publication/dc_202001/</link>
+      <link>http://localhost:6034/publication/dc_202001/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202001/</guid>
+      <guid>http://localhost:6034/publication/dc_202001/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNUGLITE 큐브 위성의 항법해를 활용한 궤도 결정 및 예측 성능 분석</title>
-      <link>https://snugnss.github.io/publication/dc_201909/</link>
+      <link>http://localhost:6034/publication/dc_201909/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201909/</guid>
+      <guid>http://localhost:6034/publication/dc_201909/</guid>
       <description></description>
     </item>
     

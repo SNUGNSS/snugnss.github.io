@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taewon Kang | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/taewon-kang/</link>
-      <atom:link href="https://snugnss.github.io/author/taewon-kang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/taewon-kang/</link>
+      <atom:link href="http://localhost:1313/author/taewon-kang/index.xml" rel="self" type="application/rss+xml" />
     <description>Taewon Kang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Taewon Kang</title>
-      <link>https://snugnss.github.io/author/taewon-kang/</link>
+      <link>http://localhost:1313/author/taewon-kang/</link>
     </image>
     
     <item>
       <title>소프트웨어 기반 기만 시뮬레이터 개발 및 기만 시나리오 생성</title>
-      <link>https://snugnss.github.io/publication/dc_201712/</link>
+      <link>http://localhost:1313/publication/dc_201712/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201712/</guid>
+      <guid>http://localhost:1313/publication/dc_201712/</guid>
       <description></description>
     </item>
     

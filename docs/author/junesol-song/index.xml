@@ -2,245 +2,709 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Junesol Song | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/junesol-song/</link>
-      <atom:link href="https://snugnss.github.io/author/junesol-song/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/junesol-song/</link>
+      <atom:link href="http://localhost:1313/author/junesol-song/index.xml" rel="self" type="application/rss+xml" />
     <description>Junesol Song</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/junesol-song/avatar_hu14102256953682283935.jpg</url>
+      <url>http://localhost:1313/author/junesol-song/avatar_hu14102256953682283935.jpg</url>
       <title>Junesol Song</title>
-      <link>https://snugnss.github.io/author/junesol-song/</link>
+      <link>http://localhost:1313/author/junesol-song/</link>
     </image>
     
     <item>
+      <title>Time-Differenced Carrier Phase Based Integrity Monitoring for Urban Air Mobility Using 3D City Model</title>
+      <link>http://localhost:1313/publication/ic_202306/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_202306/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrity Monitoring for Urban Air Mobility Using Time-Difference Carrier Phase</title>
+      <link>http://localhost:1313/publication/ic_202302/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_202302/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>달 항법 시스템 구축을 위한 궤도 예비 설계</title>
-      <link>https://snugnss.github.io/publication/dc_202205/</link>
+      <link>http://localhost:1313/publication/dc_202205/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202205/</guid>
+      <guid>http://localhost:1313/publication/dc_202205/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chapman 전자 밀도 분포를 이용한 Radio Occultation 시뮬레이션 기반 지진에 의한 전리층 교란 분석</title>
-      <link>https://snugnss.github.io/publication/dc_201906/</link>
+      <link>http://localhost:1313/publication/dc_201906/</link>
       <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201906/</guid>
+      <guid>http://localhost:1313/publication/dc_201906/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Real-Time High-Accuracy Tropospheric Correction Generation Method for Compact Wide-Area RTK (WARTK)</title>
+      <link>http://localhost:1313/publication/ic_201908/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201908/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of The Earth&#39;s and Moon&#39;s Shadows Phenomenon On The GPS Orbits</title>
+      <link>http://localhost:1313/publication/ic_201907/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201907/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covariance Analysis of Real-Time Precise GPS Orbit Estimated from Double-Differenced Carrier Phase Observations</title>
+      <link>http://localhost:1313/publication/ij_201907/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201907/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving the Accuracy of Regional Ionospheric Mapping with Double-Difference Carrier Phase Measurement</title>
+      <link>http://localhost:1313/publication/ij_201906/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201906/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Method to Improve the Detection of Co-Seismic Ionospheric Disturbances using Sequential Measurement Combination</title>
+      <link>http://localhost:1313/publication/ij_201904/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201904/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Improvement of Time-Differenced Carrier Phase Measurement-Based Integrated GPS/INS Considering Noise Correlation</title>
+      <link>http://localhost:1313/publication/ij_201905/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201905/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of MATLAB GUI Based Software for Monitoring Ionospheric Disturbances</title>
+      <link>http://localhost:1313/publication/dj_201902/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201902/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Detection Techniques of Coseismic Disturbances by using Differential Ionospheric Delay of GNSS signal</title>
+      <link>http://localhost:1313/publication/ic_201904/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201904/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Cycle-Slip Detection Algorithm for Network RTK Using Optimal Dual-Frequency Carrier-Phase Combinations</title>
+      <link>http://localhost:1313/publication/ic_201902/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201902/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GNSS 신호를 이용한 지진에 의한 전리층 교란의 주파수 분석</title>
+      <link>http://localhost:1313/publication/dj_201808/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201808/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPS/GLONASS Compact Network RTK 데모 시스템 개발</title>
-      <link>https://snugnss.github.io/publication/dc_201810/</link>
+      <link>http://localhost:1313/publication/dc_201810/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201810/</guid>
+      <guid>http://localhost:1313/publication/dc_201810/</guid>
       <description></description>
     </item>
     
     <item>
       <title>네트워크 RTK 기준국 미지정수 결정에 적합한 GPS 삼중주파수 활용 방안 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201812/</link>
+      <link>http://localhost:1313/publication/dc_201812/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201812/</guid>
+      <guid>http://localhost:1313/publication/dc_201812/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GNSS 신호를 이용한 지진에 의한 전리층 교란 검출 및 교란의 전파 속도 분석</title>
-      <link>https://snugnss.github.io/publication/dc_201803/</link>
+      <link>http://localhost:1313/publication/dc_201803/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201803/</guid>
+      <guid>http://localhost:1313/publication/dc_201803/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Detection Performance of Ionospheric Disturbances due to Earthquake by Optimization of Sequential Measurement Combination</title>
+      <link>http://localhost:1313/publication/ic_201808/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201808/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Algorithm for High-Integrity Detection  Compensation of Dual-Frequency Cycle Slip under Severe Ionospheric Storm Conditions</title>
+      <link>http://localhost:1313/publication/ij_201802/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201802/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Enhancement and Countermeasure for GPS Failure of GPS/INS Navigation System of UAV Through Integration of 3D Magnetc Vector</title>
+      <link>http://localhost:1313/publication/dj_201803/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201803/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-Time Detection of Ionospheric Disturbances Induced by Earthquake with Detection Window Considering Ionospheric Activity</title>
+      <link>http://localhost:1313/publication/ic_201804/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201804/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>정상상황 전리층 경향 분석 및 지진에 의한 전리층 교란검출</title>
+      <link>http://localhost:1313/publication/dj_201802/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201802/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Study on Compact Network RTK for Land Vehicles and Real-Time Test Results</title>
+      <link>http://localhost:1313/publication/dj_201801/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201801/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficiency Enhancement Plan of the Ambiguity Leveling System for Multiple Custers</title>
+      <link>http://localhost:1313/publication/dj_201704/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201704/</guid>
       <description></description>
     </item>
     
     <item>
       <title>3차원 지자기 벡터 결합을 통한 UAV GPS/INS 항법 시스템의 성능 향상 및 GPS고장 대응</title>
-      <link>https://snugnss.github.io/publication/dc_201716/</link>
+      <link>http://localhost:1313/publication/dc_201716/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201716/</guid>
+      <guid>http://localhost:1313/publication/dc_201716/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPS/GLONASS Compact Network RTK 성능 검증 및 시간지연 오차 보상 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201710/</link>
+      <link>http://localhost:1313/publication/dc_201710/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201710/</guid>
+      <guid>http://localhost:1313/publication/dc_201710/</guid>
       <description></description>
     </item>
     
     <item>
       <title>위도별/계절별/태양 활동기별 전리층 경향분석 및 지진에 의한 전리층 교란 검출 기법 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201715/</link>
+      <link>http://localhost:1313/publication/dc_201715/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201715/</guid>
+      <guid>http://localhost:1313/publication/dc_201715/</guid>
       <description></description>
     </item>
     
     <item>
       <title>전국 단위 다중 클러스터 확장에 적합한 미지정수 수준 조정 알고리즘 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201713/</link>
+      <link>http://localhost:1313/publication/dc_201713/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201713/</guid>
+      <guid>http://localhost:1313/publication/dc_201713/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modified Kriging Based Double-Difference Tropospheric Correction Interpolation Method for Network RTK User</title>
+      <link>http://localhost:1313/publication/ic_201711/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201711/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accuracy Improvement of DGPS for Low-Cost Single-Frequency Receiver Using Modified Flächen Korrektur Parameter Correction</title>
+      <link>http://localhost:1313/publication/ij_201702/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201702/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Study on GPS/GLONASS Compact Network RTK and Anlaysis on Temporal Variations of Carrier Phase Corrections for Reducing Broadcast </title>
+      <link>http://localhost:1313/publication/ic_201703/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201703/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Vector Calibration Method for Magnetometer and Its Impact on Integrated Navigation System for Low-cost UAV</title>
+      <link>http://localhost:1313/publication/ic_201702/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201702/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Study on Cycle Slip Detection for Integrated Navigation of Single Frequency GNSS Receiver and Low Cost INS</title>
+      <link>http://localhost:1313/publication/ic_201602/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201602/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Analysis of Height-Related Multiple Correction Interpolation Methods with Constraints for Network RTK in Mountainous Areas</title>
+      <link>http://localhost:1313/publication/ij_201602/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201602/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Selection of an Inertial Sensor for Cycle Slip Detection Considering Single-frequency RTK/INS Integrated Navigation</title>
+      <link>http://localhost:1313/publication/ij_201604/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201604/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Single Distance Measuring Equipment (DME) Station-Based Positioning System for Alternative Position Navigation  Timing (APNT)</title>
+      <link>http://localhost:1313/publication/ij_201506/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201506/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS Cycle Slip Detection Considering Satellite Geometry Based on TDCP/INS Integrated Navigation</title>
+      <link>http://localhost:1313/publication/ij_201505/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201505/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Development of Pseudolite Based Augmentation System (PBAS)</title>
+      <link>http://localhost:1313/publication/ic_201505/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201505/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Feasibility Analysis of Real-Time FKP-DGPS Algorithm for L1 Single-Frequency GPS Receiver in Korea</title>
+      <link>http://localhost:1313/publication/ic_201503/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201503/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis of Low-Order Surface Methods for Compact Network RTK: Case Study</title>
+      <link>http://localhost:1313/publication/ij_201501/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201501/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Approach for GNSS Frequency Selection Considering Detection of Cycle Slip Insensitive Pairs of Ionospheric Combination for Dual-Frequency Receivers</title>
+      <link>http://localhost:1313/publication/ic_201506/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201506/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of FKP-DGPS Positioning Module with Low-Priced GPS Receiver for Intelligent Vehicle</title>
+      <link>http://localhost:1313/publication/ic_201508/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201508/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Selection of an Inertial Sensor for Cycle Slip Detection by Considering INS Output Errors</title>
+      <link>http://localhost:1313/publication/ic_201507/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201507/</guid>
       <description></description>
     </item>
     
     <item>
       <title>APNT를 위한 단일 스테이션 기반 위치결정 시스템 MOSAIC/DME의 송신 안테나 수에 따른 성능 분석</title>
-      <link>https://snugnss.github.io/publication/dc_201410/</link>
+      <link>http://localhost:1313/publication/dc_201410/</link>
       <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201410/</guid>
+      <guid>http://localhost:1313/publication/dc_201410/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compact Network RTK 보정정보 생성을 위한 저 차수 곡면 모델 성능 분석</title>
-      <link>https://snugnss.github.io/publication/dc_201409/</link>
+      <link>http://localhost:1313/publication/dc_201409/</link>
       <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201409/</guid>
+      <guid>http://localhost:1313/publication/dc_201409/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MATLAB GUI 기반 GPS 수신기 측정치 생성 소프트웨어의 개발</title>
-      <link>https://snugnss.github.io/publication/dc_201407/</link>
+      <link>http://localhost:1313/publication/dc_201407/</link>
       <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201407/</guid>
+      <guid>http://localhost:1313/publication/dc_201407/</guid>
       <description></description>
     </item>
     
     <item>
       <title>의사위성 기반 WADGNSS 데모 시스템 개발</title>
-      <link>https://snugnss.github.io/publication/dc_201408/</link>
+      <link>http://localhost:1313/publication/dc_201408/</link>
       <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201408/</guid>
+      <guid>http://localhost:1313/publication/dc_201408/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Inertial Aided Cycle Slip Detection by Considering Satellite Geometry for Land Vehicle</title>
+      <link>http://localhost:1313/publication/ic_201406/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201406/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Latency Compensation by Compact RTK Under Harsh Communication Environment of Land Transportation</title>
+      <link>http://localhost:1313/publication/ic_201407/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201407/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Correction Combination of Compact Network RTK Considering Tropospheric Delay Variation Over Height</title>
+      <link>http://localhost:1313/publication/ic_201401/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201401/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predictions of Allowable Sensor Error Limit for Cycle-Slip Detection</title>
+      <link>http://localhost:1313/publication/ij_201402/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201402/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Study of Error Sources for MOSAIC/DME System: A Single Station Based Positioning System for APNT</title>
+      <link>http://localhost:1313/publication/ic_201402/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201402/</guid>
       <description></description>
     </item>
     
     <item>
       <title>차량 환경에서 RTK 위치 결정을 위한 저가 관성센서 기반 GPS 반송파 불연속 측정치 검출</title>
-      <link>https://snugnss.github.io/publication/dc_201401/</link>
+      <link>http://localhost:1313/publication/dc_201401/</link>
       <pubDate>Thu, 17 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201401/</guid>
+      <guid>http://localhost:1313/publication/dc_201401/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Improvement of DGPS Positioning Accuracy for Low Cost Receiver using FKP Correction Message</title>
+      <link>http://localhost:1313/publication/ic_201404/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201404/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FKP 보정정보를 이용한 DGPS 위치정확도 향상 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201309/</link>
+      <link>http://localhost:1313/publication/dc_201309/</link>
       <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201309/</guid>
+      <guid>http://localhost:1313/publication/dc_201309/</guid>
       <description></description>
     </item>
     
     <item>
       <title>고속도로 환경에서 GPS 반송파 기반 Positioning을 위한 반송파 불연속 측정치 검출에 대한 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201307/</link>
+      <link>http://localhost:1313/publication/dc_201307/</link>
       <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201307/</guid>
+      <guid>http://localhost:1313/publication/dc_201307/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“A Study on the Low-cost Inertial-aided Cycle-slip Detection for RTK Positioning of Land Vehicle</title>
+      <link>http://localhost:1313/publication/ic_201313/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201313/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>다중 기준국 보정정보 모델링 방식에 따른 Compact Network RTK 사용자 성능 비교</title>
+      <link>http://localhost:1313/publication/dj_201305/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201305/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>육상교통 인프라 구축을 위한 다중 네트워크 간 미지정수 수준 조정이 고려된 Compact Network RTK 보정정보 생성기법 연구</title>
+      <link>http://localhost:1313/publication/dj_201304/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201304/</guid>
       <description></description>
     </item>
     
     <item>
       <title>육상교통 사용자를 위한 미지정수 수준이 고려된 Compact Network RTK 보정정보 생성방안 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201303/</link>
+      <link>http://localhost:1313/publication/dc_201303/</link>
       <pubDate>Wed, 10 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201303/</guid>
+      <guid>http://localhost:1313/publication/dc_201303/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Ambiguity Level Adjustment among Networks of Compact Network RTK for Land Vehicle Users</title>
+      <link>http://localhost:1313/publication/ic_201304/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201304/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“GPS Cycle-slip Detection with Low-cost IMU and Single-freuency Receiver for Land Vehicle</title>
+      <link>http://localhost:1313/publication/ic_201305/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201305/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>차량 간 GPS 공통 가시위성 검색을 통한 상대위치 추정 정확도 향상에 대한 연구</title>
+      <link>http://localhost:1313/publication/dj_201205/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201205/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-effective Selection of Inertial Sensor for Cycle-slip Detection of Land Vehicle</title>
+      <link>http://localhost:1313/publication/ic_201207/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201207/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS/IMU integrated relative positioning for moving land vehicles with V2V(Vehicle-to-Vehicle) communication module</title>
+      <link>http://localhost:1313/publication/ic_201203/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201203/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Network RTK 항체의 불연속 위치 결정 개선을 위한 기준국 셀간 미지정수 차이 조정 연구</title>
+      <link>http://localhost:1313/publication/dj_201201/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201201/</guid>
       <description></description>
     </item>
     
     <item>
       <title>이동형 항체를 위한 Network RTK 보정정보 불연속 해소 방안</title>
-      <link>https://snugnss.github.io/publication/dc_201203/</link>
+      <link>http://localhost:1313/publication/dc_201203/</link>
       <pubDate>Thu, 21 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201203/</guid>
+      <guid>http://localhost:1313/publication/dc_201203/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Development of Compact Network RTK for Land Vehicle Users and Performance Evaluation for Selected Networks in South Korea</title>
+      <link>http://localhost:1313/publication/ic_201202/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201202/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“A New Concept of APNT: MOSAIC/DME 3D- Positioning with a Single DME Station</title>
+      <link>http://localhost:1313/publication/ic_201201/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201201/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAC 기반 Compact Network RTK를 활용한 공간 이격 오차 감소 방안 및 성능 검증</title>
-      <link>https://snugnss.github.io/publication/dc_201109/</link>
+      <link>http://localhost:1313/publication/dc_201109/</link>
       <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201109/</guid>
+      <guid>http://localhost:1313/publication/dc_201109/</guid>
       <description></description>
     </item>
     
     <item>
       <title>저궤도 위성에 탑재 가능한 GPS/Galileo 복합 수신기 기술 개발</title>
-      <link>https://snugnss.github.io/publication/dc_201113/</link>
+      <link>http://localhost:1313/publication/dc_201113/</link>
       <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201113/</guid>
+      <guid>http://localhost:1313/publication/dc_201113/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Cycle Slip Detection Algorithm by Integrating Vehicle and Inertial Sensors for Land Vehicle Users</title>
+      <link>http://localhost:1313/publication/ic_201109/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201109/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MAC 기반 Compact Network RTK 준실시간 프로그램 구현 및 사용자 성능 예측</title>
-      <link>https://snugnss.github.io/publication/dc_201108/</link>
+      <link>http://localhost:1313/publication/dc_201108/</link>
       <pubDate>Fri, 21 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201108/</guid>
+      <guid>http://localhost:1313/publication/dc_201108/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L1/L2 측정치 조합을 이용한 GPS 기준국간 반송파 미지정수 결정 기법</title>
+      <link>http://localhost:1313/publication/dj_201103/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201103/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Compact network RTK를 이용한 GPS 시·공간 비상관 오차의 효율적인 감소</title>
-      <link>https://snugnss.github.io/publication/dc_201103/</link>
+      <link>http://localhost:1313/publication/dc_201103/</link>
       <pubDate>Thu, 21 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201103/</guid>
+      <guid>http://localhost:1313/publication/dc_201103/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korean WADGPS Development Plan</title>
+      <link>http://localhost:1313/publication/ic_201105/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201105/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Odometer-Aided Real Time Cycle Slip Detection Algorithm for Land Vehicle Users</title>
+      <link>http://localhost:1313/publication/ic_201101/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201101/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RTK 보정정보 난수신환경에서의 측위연속성 향상을 위한 시간지연 보상 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201005/</link>
+      <link>http://localhost:1313/publication/dc_201005/</link>
       <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201005/</guid>
+      <guid>http://localhost:1313/publication/dc_201005/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RTK 보정정보 난수신환경에서의 측위연속성 향상을 위한 시간지연 보상 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201011/</link>
+      <link>http://localhost:1313/publication/dc_201011/</link>
       <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201011/</guid>
+      <guid>http://localhost:1313/publication/dc_201011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>이중주파수 GPS 수신기를 이용한 실시간 사이클슬립 검출 알고리즘 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201007/</link>
+      <link>http://localhost:1313/publication/dc_201007/</link>
       <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201007/</guid>
+      <guid>http://localhost:1313/publication/dc_201007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Real-Time Cycle Slip Detection Algorithm for Universal Dual-Frequency GPS Users in All Cases Including a Half Cycle Slip</title>
+      <link>http://localhost:1313/publication/ic_201005/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RTK 보정정보 난수신 환경에서의 측위연속성 향상을 위한 시간지연 보상연구</title>
+      <link>http://localhost:1313/publication/dj_201002/</link>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201002/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NDGNSS 인프라 개선을 위한 한국형 지역보강시스템</title>
-      <link>https://snugnss.github.io/publication/dc_200909/</link>
+      <link>http://localhost:1313/publication/dc_200909/</link>
       <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200909/</guid>
+      <guid>http://localhost:1313/publication/dc_200909/</guid>
       <description></description>
     </item>
     
     <item>
       <title>고고도 사용자를 위한 DGNSS 보정치 생성 앙고리즘</title>
-      <link>https://snugnss.github.io/publication/dc_200908/</link>
+      <link>http://localhost:1313/publication/dc_200908/</link>
       <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200908/</guid>
+      <guid>http://localhost:1313/publication/dc_200908/</guid>
       <description></description>
     </item>
     
     <item>
       <title>가우시안 합 필터를 이용한 반송파 위상 기반 수신기 자체 무결성 검사 기법</title>
-      <link>https://snugnss.github.io/publication/dc_200904/</link>
+      <link>http://localhost:1313/publication/dc_200904/</link>
       <pubDate>Fri, 16 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200904/</guid>
+      <guid>http://localhost:1313/publication/dc_200904/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Carrier phase-based RAIM using a Gaussian sum filter</title>
+      <link>http://localhost:1313/publication/ic_200907/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200907/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UAV Gimbaled Camera 를 이용한 조난자 탐색 및 추적 알고리즘 연구</title>
-      <link>https://snugnss.github.io/publication/dc_200901/</link>
+      <link>http://localhost:1313/publication/dc_200901/</link>
       <pubDate>Thu, 16 Apr 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200901/</guid>
+      <guid>http://localhost:1313/publication/dc_200901/</guid>
       <description></description>
     </item>
     

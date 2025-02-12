@@ -2,117 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bugyeom Kim | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/bugyeom-kim/</link>
-      <atom:link href="https://snugnss.github.io/author/bugyeom-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/bugyeom-kim/</link>
+      <atom:link href="http://localhost:1313/author/bugyeom-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Bugyeom Kim</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Bugyeom Kim</title>
-      <link>https://snugnss.github.io/author/bugyeom-kim/</link>
+      <link>http://localhost:1313/author/bugyeom-kim/</link>
     </image>
     
     <item>
-      <title>대류층 수직 지연오차 사용 대류층 지연오차 기울기 성분 추정 연구</title>
-      <link>https://snugnss.github.io/publication/dc_202207/</link>
-      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202207/</guid>
+      <title>Statistical Detection Threshold for Ionospheric Disturbances induced by Tsunami Using GPS Measurements of LEO Satellite</title>
+      <link>http://localhost:1313/publication/ic_202003/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_202003/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Network RTK 보정 정보 분리를 위한 실시간 정밀궤도 데어터 정확도 비교</title>
-      <link>https://snugnss.github.io/publication/dc_202201/</link>
-      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202201/</guid>
+      <title>A Real-Time High-Accuracy Tropospheric Correction Generation Method for Compact Wide-Area RTK (WARTK)</title>
+      <link>http://localhost:1313/publication/ic_201908/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201908/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>IGSO/GEO 항법위성 궤도 전파 정확도에 대한 섭동력 영향 분석</title>
-      <link>https://snugnss.github.io/publication/dc_202108/</link>
-      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202108/</guid>
+      <title>A New Method to Improve the Detection of Co-Seismic Ionospheric Disturbances using Sequential Measurement Combination</title>
+      <link>http://localhost:1313/publication/ij_201904/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201904/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>스마트폰 수집 GNSS 측정치의 전방향 특성에 대한 연구</title>
-      <link>https://snugnss.github.io/publication/dc_202104/</link>
-      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202104/</guid>
+      <title>Improving Detection Performance of Ionospheric Disturbances due to Earthquake by Optimization of Sequential Measurement Combination</title>
+      <link>http://localhost:1313/publication/ic_201808/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201808/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>우천 시 Network RTK 사용자를 위한 비선형 가중치 모델</title>
-      <link>https://snugnss.github.io/publication/dc_202107/</link>
-      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202107/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SNUGLITE-II 큐브위성의 GNSS 자세결정을 위한 미지정수 결정 방법</title>
-      <link>https://snugnss.github.io/publication/dc_202009/</link>
-      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202009/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GPS/GALILEO 측정치 기반 큐브위성 자세결정의 성능 분석 (Performance Analysis of GPS/GALLILEO-based Attitude Determination for Cubesatellite)</title>
-      <link>https://snugnss.github.io/publication/dc_202006/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202006/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integrity Monitoring Simulation in Urban Scenario by Using Single Frequency RRAIM</title>
-      <link>https://snugnss.github.io/publication/dc_202004/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202004/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>이중 차분 반송파 위상 측정치 활용 대류층 지연 오차의 수평 기울기 추정 (Estimation of Tropospheric Horizontal Gradient by Using Double-Differenced Carrier Phase Measurement)</title>
-      <link>https://snugnss.github.io/publication/dc_202003/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202003/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>위성항법신호를 이용한 3D 지구대기관측 큐브위성 SNUGLITE-II 예비설계</title>
-      <link>https://snugnss.github.io/publication/dc_202001/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202001/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chapman 전자 밀도 분포를 이용한 Radio Occultation 시뮬레이션 기반 지진에 의한 전리층 교란 분석</title>
-      <link>https://snugnss.github.io/publication/dc_201906/</link>
-      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201906/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GNSS 신호를 이용한 지진에 의한 전리층 교란 검출 및 교란의 전파 속도 분석</title>
-      <link>https://snugnss.github.io/publication/dc_201803/</link>
-      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201803/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Online-PPP 결과를 활용한 한반도 지역 대류층 지연 환경 분석</title>
-      <link>https://snugnss.github.io/publication/dc_201705/</link>
-      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201705/</guid>
+      <title>Real-Time Detection of Ionospheric Disturbances Induced by Earthquake with Detection Window Considering Ionospheric Activity</title>
+      <link>http://localhost:1313/publication/ic_201804/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201804/</guid>
       <description></description>
     </item>
     

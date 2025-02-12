@@ -2,29 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bogeun Cho | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/bogeun-cho/</link>
-      <atom:link href="https://snugnss.github.io/author/bogeun-cho/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/bogeun-cho/</link>
+      <atom:link href="http://localhost:1313/author/bogeun-cho/index.xml" rel="self" type="application/rss+xml" />
     <description>Bogeun Cho</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/bogeun-cho/avatar_hu9584729276996652926.jpg</url>
+      <url>http://localhost:1313/author/bogeun-cho/avatar_hu9584729276996652926.jpg</url>
       <title>Bogeun Cho</title>
-      <link>https://snugnss.github.io/author/bogeun-cho/</link>
+      <link>http://localhost:1313/author/bogeun-cho/</link>
     </image>
     
     <item>
+      <title>A study on Improving Smartphone Precise Positioning Performance through Antenna Calibration according to Smartphone Attitude</title>
+      <link>http://localhost:1313/publication/ic_202303/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_202303/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>스마트폰 정밀 측위를 위한 스마트폰 GNSS 안테나 캘리브레이션 기법 연구</title>
-      <link>https://snugnss.github.io/publication/dc_202206/</link>
+      <link>http://localhost:1313/publication/dc_202206/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202206/</guid>
+      <guid>http://localhost:1313/publication/dc_202206/</guid>
       <description></description>
     </item>
     
     <item>
       <title>스마트폰 수집 GNSS 측정치의 전방향 특성에 대한 연구</title>
-      <link>https://snugnss.github.io/publication/dc_202104/</link>
+      <link>http://localhost:1313/publication/dc_202104/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202104/</guid>
+      <guid>http://localhost:1313/publication/dc_202104/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of the Quality of Raw Measurement From SAMSUNG SOC GNSS Chip and Analysis of Positioning Accuracy Using PPP</title>
+      <link>http://localhost:1313/publication/ic_202101/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_202101/</guid>
       <description></description>
     </item>
     

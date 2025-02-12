@@ -2,15 +2,119 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hojoon Jeong | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/hojoon-jeong/</link>
-      <atom:link href="https://snugnss.github.io/author/hojoon-jeong/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/hojoon-jeong/</link>
+      <atom:link href="http://localhost:1313/author/hojoon-jeong/index.xml" rel="self" type="application/rss+xml" />
     <description>Hojoon Jeong</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/hojoon-jeong/avatar_hu531829473158910577.jpg</url>
+      <url>http://localhost:1313/author/hojoon-jeong/avatar_hu531829473158910577.jpg</url>
       <title>Hojoon Jeong</title>
-      <link>https://snugnss.github.io/author/hojoon-jeong/</link>
+      <link>http://localhost:1313/author/hojoon-jeong/</link>
     </image>
+    
+    <item>
+      <title>GPS 반송파 측정치를 이용한 대류층 3차원 관측 및 정밀 자세결정 큐브위성 SNUGLITE-II 운용 결과</title>
+      <link>http://localhost:1313/publication/dj_202304/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_202304/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multipath Estimation of Dynamic Users in Urban Environment Using Time-Differenced Code-Minus-Carrier</title>
+      <link>http://localhost:1313/publication/ic_202309/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_202309/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-Differenced Carrier Phase Based Integrity Monitoring for Urban Air Mobility Using 3D City Model</title>
+      <link>http://localhost:1313/publication/ic_202306/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_202306/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE-III 큐브위성 전력계 상세설계</title>
+      <link>http://localhost:1313/publication/dc_202304/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202304/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>궤도 동역학을 이용한 달 위성 항법 시스템의 Frozen Orbit 설계</title>
+      <link>http://localhost:1313/publication/dc_202305/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202305/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrity Monitoring for Urban Air Mobility Using Time-Difference Carrier Phase</title>
+      <link>http://localhost:1313/publication/ic_202302/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_202302/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrity Monitoring for Drone Landing in Urban Area using Single Frequency Based RRAIM</title>
+      <link>http://localhost:1313/publication/dj_202201/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_202201/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>달 항법 시스템 구축을 위한 궤도 예비 설계</title>
+      <link>http://localhost:1313/publication/dc_202205/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202205/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>단일 스테이션 기반 위치결정시스템의 실재 데모 시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_202109/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202109/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS/eLoran/INS 통합 항법 구현 및 GPS 불능상황에서 테스트 결과</title>
+      <link>http://localhost:1313/publication/dc_202105/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202105/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrity Monitoring Simulation in Urban Scenario by Using Single Frequency RRAIM</title>
+      <link>http://localhost:1313/publication/dc_202004/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>위성항법신호를 이용한 3D 지구대기관측 큐브위성 SNUGLITE-II 예비설계</title>
+      <link>http://localhost:1313/publication/dc_202001/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE 큐브 위성의 항법해를 활용한 궤도 결정 및 예측 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_201909/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201909/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

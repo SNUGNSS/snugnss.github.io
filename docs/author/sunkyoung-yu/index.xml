@@ -2,277 +2,485 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sunkyoung Yu | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/sunkyoung-yu/</link>
-      <atom:link href="https://snugnss.github.io/author/sunkyoung-yu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/sunkyoung-yu/</link>
+      <atom:link href="http://localhost:1313/author/sunkyoung-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Sunkyoung Yu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/sunkyoung-yu/avatar_hu4906615097916613267.jpg</url>
+      <url>http://localhost:1313/author/sunkyoung-yu/avatar_hu4906615097916613267.jpg</url>
       <title>Sunkyoung Yu</title>
-      <link>https://snugnss.github.io/author/sunkyoung-yu/</link>
+      <link>http://localhost:1313/author/sunkyoung-yu/</link>
     </image>
     
     <item>
       <title>SNUGLITE-I 큐브위성의 4년간 위성 상태 분석 결과</title>
-      <link>https://snugnss.github.io/publication/dc_202303/</link>
+      <link>http://localhost:1313/publication/dc_202303/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202303/</guid>
+      <guid>http://localhost:1313/publication/dc_202303/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precise in-orbit relative navigation technique for rendezvous mission of CubeSats using only GPS receivers</title>
+      <link>http://localhost:1313/publication/ij_202302/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_202302/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study on Improving Smartphone Precise Positioning Performance through Antenna Calibration according to Smartphone Attitude</title>
+      <link>http://localhost:1313/publication/ic_202303/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_202303/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of RTK Positioning Accuracy Using Antenna Calibrated Commercial Samsung Smartphone</title>
+      <link>http://localhost:1313/publication/ic_202304/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_202304/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of Space GPS Receiver Navigation Performance Based on Full-orbit Navigation Solutions of CubeSat</title>
+      <link>http://localhost:1313/publication/ic_202301/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_202301/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rendezvous Technology of SNU CubeSat (SNUGLITE-III) Using Only GPS Receivers</title>
-      <link>https://snugnss.github.io/publication/dc_202210/</link>
+      <link>http://localhost:1313/publication/dc_202210/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202210/</guid>
+      <guid>http://localhost:1313/publication/dc_202210/</guid>
       <description></description>
     </item>
     
     <item>
       <title>스마트폰 정밀 측위를 위한 스마트폰 GNSS 안테나 캘리브레이션 기법 연구</title>
-      <link>https://snugnss.github.io/publication/dc_202206/</link>
+      <link>http://localhost:1313/publication/dc_202206/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202206/</guid>
+      <guid>http://localhost:1313/publication/dc_202206/</guid>
       <description></description>
     </item>
     
     <item>
       <title>한국 달 탐사선의 항법을 위한 궤도 설계</title>
-      <link>https://snugnss.github.io/publication/dc_202101/</link>
+      <link>http://localhost:1313/publication/dc_202101/</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202101/</guid>
+      <guid>http://localhost:1313/publication/dc_202101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessment of the Quality of Raw Measurement From SAMSUNG SOC GNSS Chip and Analysis of Positioning Accuracy Using PPP</title>
+      <link>http://localhost:1313/publication/ic_202101/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_202101/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single Frequency GPS Relative Navigation for Autonomous Rendezvous and Docking Mission of Low-Earth Orbit Cube-Satellites</title>
+      <link>http://localhost:1313/publication/dj_202002/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_202002/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNUGLITE-I 큐브위성 장기운용 결과 및 분석</title>
-      <link>https://snugnss.github.io/publication/dc_202002/</link>
+      <link>http://localhost:1313/publication/dc_202002/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202002/</guid>
+      <guid>http://localhost:1313/publication/dc_202002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-Orbit Results  Attitude Analysis of the SNUGLITE Cube-Satellite</title>
+      <link>http://localhost:1313/publication/ij_202001/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_202001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of Space GPS Receiver Navigation Performance Using a Cube satellite</title>
+      <link>http://localhost:1313/publication/ic_202002/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_202002/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNUGLITE 큐브 위성의 항법해를 활용한 궤도 결정 및 예측 성능 분석</title>
-      <link>https://snugnss.github.io/publication/dc_201909/</link>
+      <link>http://localhost:1313/publication/dc_201909/</link>
       <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201909/</guid>
+      <guid>http://localhost:1313/publication/dc_201909/</guid>
       <description></description>
     </item>
     
     <item>
       <title>다수의 GPS 안테나를 활용한 큐브위성 자세결정</title>
-      <link>https://snugnss.github.io/publication/dc_201904/</link>
+      <link>http://localhost:1313/publication/dc_201904/</link>
       <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201904/</guid>
+      <guid>http://localhost:1313/publication/dc_201904/</guid>
       <description></description>
     </item>
     
     <item>
       <title>초소형위성의 자율 랑데부 및 도킹을 위한 DGPS 기반 상대항법</title>
-      <link>https://snugnss.github.io/publication/dc_201905/</link>
+      <link>http://localhost:1313/publication/dc_201905/</link>
       <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201905/</guid>
+      <guid>http://localhost:1313/publication/dc_201905/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Real-Time High-Accuracy Tropospheric Correction Generation Method for Compact Wide-Area RTK (WARTK)</title>
+      <link>http://localhost:1313/publication/ic_201908/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201908/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of The Earth&#39;s and Moon&#39;s Shadows Phenomenon On The GPS Orbits</title>
+      <link>http://localhost:1313/publication/ic_201907/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201907/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Covariance Analysis of Real-Time Precise GPS Orbit Estimated from Double-Differenced Carrier Phase Observations</title>
+      <link>http://localhost:1313/publication/ij_201907/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201907/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNUGLITE 큐브 위성의 On-board GPS수신기 항법해 분석</title>
-      <link>https://snugnss.github.io/publication/dc_201901/</link>
+      <link>http://localhost:1313/publication/dc_201901/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201901/</guid>
+      <guid>http://localhost:1313/publication/dc_201901/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNUGLITE 큐브위성의 궤도상 자세결정 및 제어시스템 검증</title>
-      <link>https://snugnss.github.io/publication/dc_201902/</link>
+      <link>http://localhost:1313/publication/dc_201902/</link>
       <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201902/</guid>
+      <guid>http://localhost:1313/publication/dc_201902/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Cycle-Slip Detection Algorithm for Network RTK Using Optimal Dual-Frequency Carrier-Phase Combinations</title>
+      <link>http://localhost:1313/publication/ic_201902/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201902/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS 궤도의 태양풍 모델 비교</title>
+      <link>http://localhost:1313/publication/dj_201807/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201807/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNUGLITE 큐브위성 지상국 통신 및 관제 시스템 운용시험</title>
-      <link>https://snugnss.github.io/publication/dc_201817/</link>
+      <link>http://localhost:1313/publication/dc_201817/</link>
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201817/</guid>
+      <guid>http://localhost:1313/publication/dc_201817/</guid>
       <description></description>
     </item>
     
     <item>
       <title>위성항법 신호를 이용한 우주환경 및 지진관측을 위한 SNUGLITE 큐브위성 개발 및 발사 준비</title>
-      <link>https://snugnss.github.io/publication/dc_201816/</link>
+      <link>http://localhost:1313/publication/dc_201816/</link>
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201816/</guid>
+      <guid>http://localhost:1313/publication/dc_201816/</guid>
       <description></description>
     </item>
     
     <item>
       <title>네트워크 RTK 기준국 미지정수 결정에 적합한 GPS 삼중주파수 활용 방안 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201812/</link>
+      <link>http://localhost:1313/publication/dc_201812/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201812/</guid>
+      <guid>http://localhost:1313/publication/dc_201812/</guid>
       <description></description>
     </item>
     
     <item>
       <title>운용 시나리오를 고려한 SNUGLITE 큐브위성의 자세결정 및 제어 시스템 지상환경 HILS</title>
-      <link>https://snugnss.github.io/publication/dc_201804/</link>
+      <link>http://localhost:1313/publication/dc_201804/</link>
       <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201804/</guid>
+      <guid>http://localhost:1313/publication/dc_201804/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Algorithm for High-Integrity Detection  Compensation of Dual-Frequency Cycle Slip under Severe Ionospheric Storm Conditions</title>
+      <link>http://localhost:1313/publication/ij_201802/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201802/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and Verification of Attitude Determination and Control Algorithm for SNUGLITE Cube Satellite</title>
+      <link>http://localhost:1313/publication/ic_201802/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201802/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficiency Enhancement Plan of the Ambiguity Leveling System for Multiple Custers</title>
+      <link>http://localhost:1313/publication/dj_201704/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201704/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-axis Hardware in the Loop Experiment Verification of ADCS for Low Earth Orbit Cube-Satellite</title>
+      <link>http://localhost:1313/publication/dj_201702/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201702/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNUGLITE 큐브위성 지상국 구축 및 통신 시스템 검증</title>
-      <link>https://snugnss.github.io/publication/dc_201717/</link>
+      <link>http://localhost:1313/publication/dc_201717/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201717/</guid>
+      <guid>http://localhost:1313/publication/dc_201717/</guid>
       <description></description>
     </item>
     
     <item>
       <title>자기토커를 탑재한 SNUGLITE 큐브위성의 지상환경을 고려한 단일축 자세결정 및 제어 HILS</title>
-      <link>https://snugnss.github.io/publication/dc_201718/</link>
+      <link>http://localhost:1313/publication/dc_201718/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201718/</guid>
+      <guid>http://localhost:1313/publication/dc_201718/</guid>
       <description></description>
     </item>
     
     <item>
       <title>전국 단위 다중 클러스터 확장에 적합한 미지정수 수준 조정 알고리즘 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201713/</link>
+      <link>http://localhost:1313/publication/dc_201713/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201713/</guid>
+      <guid>http://localhost:1313/publication/dc_201713/</guid>
       <description></description>
     </item>
     
     <item>
       <title>위성항법 신호를 이용한 우주환경 및 지진관측을 위한 SNUGLITE 큐브위성 개발 및 발사 준비</title>
-      <link>https://snugnss.github.io/publication/dc_201706/</link>
+      <link>http://localhost:1313/publication/dc_201706/</link>
       <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201706/</guid>
+      <guid>http://localhost:1313/publication/dc_201706/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modified Kriging Based Double-Difference Tropospheric Correction Interpolation Method for Network RTK User</title>
+      <link>http://localhost:1313/publication/ic_201711/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201711/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Navigation Augmentation in Urban Area by HALE UAV with Onboard Pseudolite during Multi-Purpose Missions</title>
+      <link>http://localhost:1313/publication/ij_201703/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201703/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNUGLITE 큐브위성 관제를 위한 지상국 구축 상황</title>
-      <link>https://snugnss.github.io/publication/dc_201702/</link>
+      <link>http://localhost:1313/publication/dc_201702/</link>
       <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201702/</guid>
+      <guid>http://localhost:1313/publication/dc_201702/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNUGLITE 큐브위성 자세제어 PIL(Processor In the Loop) 시뮬레이션</title>
-      <link>https://snugnss.github.io/publication/dc_201701/</link>
+      <link>http://localhost:1313/publication/dc_201701/</link>
       <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201701/</guid>
+      <guid>http://localhost:1313/publication/dc_201701/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE Project: Space Weather Monitoring and Earthquake Observation using Dual-Frequency GPS Receivers on Cube-Satellite Platform</title>
+      <link>http://localhost:1313/publication/ic_201606/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201606/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPS 저가시성 환경에서 지구정지궤도 위성의 초기 궤도 결정</title>
-      <link>https://snugnss.github.io/publication/dc_201614/</link>
+      <link>http://localhost:1313/publication/dc_201614/</link>
       <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201614/</guid>
+      <guid>http://localhost:1313/publication/dc_201614/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNUGLITE 큐브위성의 우주환경을 고려한 자세제어 SIL(Software In the Loop) 시뮬레이션</title>
-      <link>https://snugnss.github.io/publication/dc_201613/</link>
+      <link>http://localhost:1313/publication/dc_201613/</link>
       <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201613/</guid>
+      <guid>http://localhost:1313/publication/dc_201613/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNUGLITE 큐브위성의 임무 및 탑재체 개발 현황</title>
-      <link>https://snugnss.github.io/publication/dc_201612/</link>
+      <link>http://localhost:1313/publication/dc_201612/</link>
       <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201612/</guid>
+      <guid>http://localhost:1313/publication/dc_201612/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CNAV Live Data를 활용한 GPS위성의 위치 및 좌표변환 정확도 분석</title>
-      <link>https://snugnss.github.io/publication/dc_201609/</link>
+      <link>http://localhost:1313/publication/dc_201609/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201609/</guid>
+      <guid>http://localhost:1313/publication/dc_201609/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and Verification of LQG based Attitude Determination and Control Algorithm of Cube-satellite “SNUGLITE using GPS and Multiple Sensors</title>
+      <link>http://localhost:1313/publication/ic_201604/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201604/</guid>
       <description></description>
     </item>
     
     <item>
       <title>위성항법 신호를 이용한 우주환경 및 지진관측 큐브위성 SNUGLITE 예비설계</title>
-      <link>https://snugnss.github.io/publication/dc_201601/</link>
+      <link>http://localhost:1313/publication/dc_201601/</link>
       <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201601/</guid>
+      <guid>http://localhost:1313/publication/dc_201601/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multipath Mitigation using GPS/INS Integrated Navigation with Adaptive Kalman Filtering</title>
+      <link>http://localhost:1313/publication/ic_201601/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201601/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>고고도 장기체공 무인기와 의사위성/트랜시버를 활용한 국지적 대체항법에 관한 연구</title>
+      <link>http://localhost:1313/publication/dj_201503/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201503/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPS CNAV 데이터를 이용한 GPS 위성의 위치,속도,가속도의 정확도 예측</title>
-      <link>https://snugnss.github.io/publication/dc_201507/</link>
+      <link>http://localhost:1313/publication/dc_201507/</link>
       <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201507/</guid>
+      <guid>http://localhost:1313/publication/dc_201507/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Regional Alternative Navigation Using the High Altitude Long Endurance UAVs with Onboard Pseudolite and Transceiver</title>
+      <link>http://localhost:1313/publication/ic_201510/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201510/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mission and Preliminary Design of Cubesat SNUGLITE Observing Space Environment and Earthquake Using GPS Signals</title>
-      <link>https://snugnss.github.io/publication/dc_201504/</link>
+      <link>http://localhost:1313/publication/dc_201504/</link>
       <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201504/</guid>
+      <guid>http://localhost:1313/publication/dc_201504/</guid>
       <description></description>
     </item>
     
     <item>
       <title>고고도 장기체공 무인기를 활용한 국지적 대체항법에 관한 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201502/</link>
+      <link>http://localhost:1313/publication/dc_201502/</link>
       <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201502/</guid>
+      <guid>http://localhost:1313/publication/dc_201502/</guid>
       <description></description>
     </item>
     
     <item>
       <title>자기 제어를 이용한 큐브위성의 자세 결정 및 제어에 관한 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201501/</link>
+      <link>http://localhost:1313/publication/dc_201501/</link>
       <pubDate>Thu, 23 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201501/</guid>
+      <guid>http://localhost:1313/publication/dc_201501/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Navigation Augmentation in Urban Area with Pseudolite Equipped High Altitude Long Endurance UAV</title>
+      <link>http://localhost:1313/publication/ic_201501/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201501/</guid>
       <description></description>
     </item>
     
     <item>
       <title>대체에너지를 이용하는 고고도 장기체공 무인기의 민군 복합 운용 전망4</title>
-      <link>https://snugnss.github.io/publication/dc_201412/</link>
+      <link>http://localhost:1313/publication/dc_201412/</link>
       <pubDate>Wed, 19 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201412/</guid>
+      <guid>http://localhost:1313/publication/dc_201412/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MATLAB GUI 기반 GPS 수신기 측정치 생성 소프트웨어의 개발</title>
-      <link>https://snugnss.github.io/publication/dc_201407/</link>
+      <link>http://localhost:1313/publication/dc_201407/</link>
       <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201407/</guid>
+      <guid>http://localhost:1313/publication/dc_201407/</guid>
       <description></description>
     </item>
     
     <item>
       <title>위성 항법 차폐지역 가시성 개선을 위한 의사위성 탑재 고고도 무인기 활용방안</title>
-      <link>https://snugnss.github.io/publication/dc_201406/</link>
+      <link>http://localhost:1313/publication/dc_201406/</link>
       <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201406/</guid>
+      <guid>http://localhost:1313/publication/dc_201406/</guid>
       <description></description>
     </item>
     
     <item>
       <title>자기장토커와 LQR 제어기를 이용한 큐브위성의 자세 제어</title>
-      <link>https://snugnss.github.io/publication/dc_201405/</link>
+      <link>http://localhost:1313/publication/dc_201405/</link>
       <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201405/</guid>
+      <guid>http://localhost:1313/publication/dc_201405/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Precise Orbit Determination of LEO Satellites with Less than Four Visible GPS Satellites</title>
+      <link>http://localhost:1313/publication/ic_201408/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201408/</guid>
       <description></description>
     </item>
     

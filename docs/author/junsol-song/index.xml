@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junsol Song | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/junsol-song/</link>
+      <atom:link href="http://localhost:1313/author/junsol-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junsol Song</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Junsol Song</title>
+      <link>http://localhost:1313/author/junsol-song/</link>
+    </image>
+    
+    <item>
+      <title>“A New Method to Design Broadcasting Schedules for Compact-RTK Corrections: Reducing GNSS Temporal Decorrelation</title>
+      <link>http://localhost:1313/publication/ic_201003/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

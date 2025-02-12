@@ -2,117 +2,213 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jihoon Kim | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/jihoon-kim/</link>
-      <atom:link href="https://snugnss.github.io/author/jihoon-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jihoon-kim/</link>
+      <atom:link href="http://localhost:1313/author/jihoon-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Jihoon Kim</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Nov 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/jihoon-kim/avatar_hu5667853917107654720.jpg</url>
+      <url>http://localhost:1313/author/jihoon-kim/avatar_hu5667853917107654720.jpg</url>
       <title>Jihoon Kim</title>
-      <link>https://snugnss.github.io/author/jihoon-kim/</link>
+      <link>http://localhost:1313/author/jihoon-kim/</link>
     </image>
     
     <item>
       <title>저가 자이로스코프의 단순 통합을 통한 단일 안테나 GPS 기반 자세의 성능 향상</title>
-      <link>https://snugnss.github.io/publication/dc_201110/</link>
+      <link>http://localhost:1313/publication/dc_201110/</link>
       <pubDate>Fri, 11 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201110/</guid>
+      <guid>http://localhost:1313/publication/dc_201110/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wind Estimation  Airspeed Calibration Using a UAV with a Single-Antenna GPS Receiver  Pitot Tube</title>
+      <link>http://localhost:1313/publication/ij_201102/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201102/</guid>
       <description></description>
     </item>
     
     <item>
       <title>비행중 자이로 보정 방법을 이용한 저가의 단일안테나 GPS와 1축 자이로에 기반한 고정익 항공기의 롤각 추정</title>
-      <link>https://snugnss.github.io/publication/dc_201008/</link>
+      <link>http://localhost:1313/publication/dc_201008/</link>
       <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201008/</guid>
+      <guid>http://localhost:1313/publication/dc_201008/</guid>
       <description></description>
     </item>
     
     <item>
       <title>4Hz GPS 수신기만을 이용한 소형체공형무인기 비행제어시스템 설계 및 비행시험</title>
-      <link>https://snugnss.github.io/publication/dc_200911/</link>
+      <link>http://localhost:1313/publication/dc_200911/</link>
       <pubDate>Thu, 12 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200911/</guid>
+      <guid>http://localhost:1313/publication/dc_200911/</guid>
       <description></description>
     </item>
     
     <item>
       <title>소형 체공형 무인기 공력계수 추정 및 보정</title>
-      <link>https://snugnss.github.io/publication/dc_200910/</link>
+      <link>http://localhost:1313/publication/dc_200910/</link>
       <pubDate>Thu, 12 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200910/</guid>
+      <guid>http://localhost:1313/publication/dc_200910/</guid>
       <description></description>
     </item>
     
     <item>
       <title>소형체공형 무인기용 저속 단일안테나 GPS 기반 비행제어시스템 설계 연구</title>
-      <link>https://snugnss.github.io/publication/dc_200808/</link>
+      <link>http://localhost:1313/publication/dc_200808/</link>
       <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200808/</guid>
+      <guid>http://localhost:1313/publication/dc_200808/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Efficient Navigation Message Format for UAV Pseudolite Navigation System</title>
+      <link>http://localhost:1313/publication/ij_200807/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_200807/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time Target Localization Using a Gimbaled Camera for a Single-antenna GPS-guided UAV</title>
+      <link>http://localhost:1313/publication/ij_200808/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_200808/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Fully Automatic Taxiing, Takeoff and Landing of a UAV only with a Single-Antenna GPS Receiver</title>
+      <link>http://localhost:1313/publication/ic_200802/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200802/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully automatic taxiing, takeoff and landing of a UAV based on a single-antenna GNSS receiver</title>
+      <link>http://localhost:1313/publication/ic_200801/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200801/</guid>
       <description></description>
     </item>
     
     <item>
       <title>무인항공기의 공력계수 추정 및 보정</title>
-      <link>https://snugnss.github.io/publication/dc_200705/</link>
+      <link>http://localhost:1313/publication/dc_200705/</link>
       <pubDate>Thu, 15 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200705/</guid>
+      <guid>http://localhost:1313/publication/dc_200705/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPS-RTK와 single antenna axis를 이용한 모형차량의 자동제어</title>
-      <link>https://snugnss.github.io/publication/dc_200701/</link>
+      <link>http://localhost:1313/publication/dc_200701/</link>
       <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200701/</guid>
+      <guid>http://localhost:1313/publication/dc_200701/</guid>
       <description></description>
     </item>
     
     <item>
       <title>단일안테나 GPS 수신기를 이용한 무인항공기의 자동이착륙 및 지상활주</title>
-      <link>https://snugnss.github.io/publication/dc_200702/</link>
+      <link>http://localhost:1313/publication/dc_200702/</link>
       <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200702/</guid>
+      <guid>http://localhost:1313/publication/dc_200702/</guid>
       <description></description>
     </item>
     
     <item>
       <title>무인항공기의 안정계소 및 조정계수 추정 방법</title>
-      <link>https://snugnss.github.io/publication/dc_200703/</link>
+      <link>http://localhost:1313/publication/dc_200703/</link>
       <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200703/</guid>
+      <guid>http://localhost:1313/publication/dc_200703/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully Automatic Taxiing, Takeoff and Landing of a UAV using a Single-Antenna GPS Receiver only</title>
+      <link>http://localhost:1313/publication/ic_200706/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200706/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully Automatic Taxiing, Takeoff and Landing of a UAV only with a Single-Antenna GPS Receiver</title>
+      <link>http://localhost:1313/publication/ic_200703/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200703/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proposal of Navigation Message Format for UAV Pseudolite Navigation System</title>
+      <link>http://localhost:1313/publication/ic_200702/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200702/</guid>
       <description></description>
     </item>
     
     <item>
       <title>단일안테나 GPS 수신기와 Airspeed 센서를 갖춘 무인항공기를 이용한 바람 추정</title>
-      <link>https://snugnss.github.io/publication/dc_200604/</link>
+      <link>http://localhost:1313/publication/dc_200604/</link>
       <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200604/</guid>
+      <guid>http://localhost:1313/publication/dc_200604/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UAV 의사위성 항법 시스템의 항법 메시지 형식 제안</title>
-      <link>https://snugnss.github.io/publication/dc_200602/</link>
+      <link>http://localhost:1313/publication/dc_200602/</link>
       <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200602/</guid>
+      <guid>http://localhost:1313/publication/dc_200602/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully Automatic Control from Takeoff to Landing of a UAV Based on a Single-Antenna GPS Receiver</title>
+      <link>http://localhost:1313/publication/ic_200608/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200608/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wind Estimation and Airspeed Calibration Using the UAV with a Single-Antenna GNSS Receiver and Airspeed Sensor</title>
+      <link>http://localhost:1313/publication/ic_200607/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200607/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Control of Unmanned Aircrafts Using a Single-Antenna GPS Receiver</title>
+      <link>http://localhost:1313/publication/ic_200403/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200403/</guid>
       <description></description>
     </item>
     
     <item>
       <title>무인항공기의 지상활주 모델링</title>
-      <link>https://snugnss.github.io/publication/dc_200403/</link>
+      <link>http://localhost:1313/publication/dc_200403/</link>
       <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200403/</guid>
+      <guid>http://localhost:1313/publication/dc_200403/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing an Automatic Control System of Unmanned Aircrafts with a Single-antenna GPS Receiver</title>
+      <link>http://localhost:1313/publication/ic_200404/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200404/</guid>
       <description></description>
     </item>
     
     <item>
       <title>단일 안테나 GPS 수신기를 이용한 무인항공기의 자동 제어</title>
-      <link>https://snugnss.github.io/publication/dc_200301/</link>
+      <link>http://localhost:1313/publication/dc_200301/</link>
       <pubDate>Sat, 01 Nov 2003 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200301/</guid>
+      <guid>http://localhost:1313/publication/dc_200301/</guid>
       <description></description>
     </item>
     

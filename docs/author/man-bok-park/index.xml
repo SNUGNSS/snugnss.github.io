@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Man-Bok Park | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/man-bok-park/</link>
+      <atom:link href="http://localhost:1313/author/man-bok-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Man-Bok Park</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Man-Bok Park</title>
+      <link>http://localhost:1313/author/man-bok-park/</link>
+    </image>
+    
+    <item>
+      <title>Development of FKP-DGPS Positioning Module with Low-Priced GPS Receiver for Intelligent Vehicle</title>
+      <link>http://localhost:1313/publication/ic_201508/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201508/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Implementation of Real-Time FKP-DGPS Algorithm For L1 Single-Frequency GPS Receiver in Korea</title>
+      <link>http://localhost:1313/publication/ic_201409/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201409/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

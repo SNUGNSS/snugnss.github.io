@@ -2,21 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sujin Choi | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/sujin-choi/</link>
-      <atom:link href="https://snugnss.github.io/author/sujin-choi/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/sujin-choi/</link>
+      <atom:link href="http://localhost:1313/author/sujin-choi/index.xml" rel="self" type="application/rss+xml" />
     <description>Sujin Choi</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2007 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/sujin-choi/avatar_hu13580062563859438043.jpg</url>
+      <url>http://localhost:1313/author/sujin-choi/avatar_hu13580062563859438043.jpg</url>
       <title>Sujin Choi</title>
-      <link>https://snugnss.github.io/author/sujin-choi/</link>
+      <link>http://localhost:1313/author/sujin-choi/</link>
     </image>
     
     <item>
+      <title>On-line Detection of Tracking Loss in Aviation GPS Receivers Using Frequency-lock Loops</title>
+      <link>http://localhost:1313/publication/ij_200901/</link>
+      <pubDate>Wed, 01 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_200901/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GPS-RTK와 single antenna axis를 이용한 모형차량의 자동제어</title>
-      <link>https://snugnss.github.io/publication/dc_200701/</link>
+      <link>http://localhost:1313/publication/dc_200701/</link>
       <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200701/</guid>
+      <guid>http://localhost:1313/publication/dc_200701/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully Automatic Taxiing, Takeoff and Landing of a UAV using a Single-Antenna GPS Receiver only</title>
+      <link>http://localhost:1313/publication/ic_200706/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200706/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fully Automatic Taxiing, Takeoff and Landing of a UAV only with a Single-Antenna GPS Receiver</title>
+      <link>http://localhost:1313/publication/ic_200703/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200703/</guid>
       <description></description>
     </item>
     

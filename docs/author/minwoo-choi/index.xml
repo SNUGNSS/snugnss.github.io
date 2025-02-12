@@ -2,37 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minwoo Choi | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/minwoo-choi/</link>
-      <atom:link href="https://snugnss.github.io/author/minwoo-choi/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/minwoo-choi/</link>
+      <atom:link href="http://localhost:1313/author/minwoo-choi/index.xml" rel="self" type="application/rss+xml" />
     <description>Minwoo Choi</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/minwoo-choi/avatar_hu13438589979491267633.png</url>
+      <url>http://localhost:1313/author/minwoo-choi/avatar_hu13438589979491267633.png</url>
       <title>Minwoo Choi</title>
-      <link>https://snugnss.github.io/author/minwoo-choi/</link>
+      <link>http://localhost:1313/author/minwoo-choi/</link>
     </image>
     
     <item>
+      <title>Navigation Augmentation in Urban Area by HALE UAV with Onboard Pseudolite during Multi-Purpose Missions</title>
+      <link>http://localhost:1313/publication/ij_201703/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201703/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>고고도 장기체공 무인기와 의사위성/트랜시버를 활용한 국지적 대체항법에 관한 연구</title>
+      <link>http://localhost:1313/publication/dj_201503/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201503/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Regional Alternative Navigation Using the High Altitude Long Endurance UAVs with Onboard Pseudolite and Transceiver</title>
+      <link>http://localhost:1313/publication/ic_201510/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201510/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability Verification of MATLAB GUI Based Simulation Tool for Generating GPS Measurements</title>
+      <link>http://localhost:1313/publication/ic_201511/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201511/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>고고도 장기체공 무인기를 활용한 국지적 대체항법에 관한 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201502/</link>
+      <link>http://localhost:1313/publication/dc_201502/</link>
       <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201502/</guid>
+      <guid>http://localhost:1313/publication/dc_201502/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Navigation Augmentation in Urban Area with Pseudolite Equipped High Altitude Long Endurance UAV</title>
+      <link>http://localhost:1313/publication/ic_201501/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201501/</guid>
       <description></description>
     </item>
     
     <item>
       <title>대체에너지를 이용하는 고고도 장기체공 무인기의 민군 복합 운용 전망4</title>
-      <link>https://snugnss.github.io/publication/dc_201412/</link>
+      <link>http://localhost:1313/publication/dc_201412/</link>
       <pubDate>Wed, 19 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201412/</guid>
+      <guid>http://localhost:1313/publication/dc_201412/</guid>
       <description></description>
     </item>
     
     <item>
       <title>위성 항법 차폐지역 가시성 개선을 위한 의사위성 탑재 고고도 무인기 활용방안</title>
-      <link>https://snugnss.github.io/publication/dc_201406/</link>
+      <link>http://localhost:1313/publication/dc_201406/</link>
       <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201406/</guid>
+      <guid>http://localhost:1313/publication/dc_201406/</guid>
       <description></description>
     </item>
     
