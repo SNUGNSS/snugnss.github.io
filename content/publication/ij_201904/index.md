@@ -1,5 +1,5 @@
 ---
-title: ""A New Method to Improve the Detection of Co-Seismic Ionospheric Disturbances using Sequential Measurement Combination""
+title: "A New Method to Improve the Detection of Co-Seismic Ionospheric Disturbances using Sequential Measurement Combination"
 authors:
 - Seonho Kang
 - Junesol Song

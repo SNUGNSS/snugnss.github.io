@@ -1,5 +1,5 @@
 ---
-title: ""One-way deep indoor positioning system for conventional GNSS receiver using paired transmitters""
+title: "One-way deep indoor positioning system for conventional GNSS receiver using paired transmitters"
 authors:
 - Minhuck Park
 - Changdon Kee

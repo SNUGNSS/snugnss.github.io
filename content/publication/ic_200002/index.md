@@ -1,5 +1,5 @@
 ---
-title: "“Development of Indoor Navigation System using Asynchronous Pseudolites”"
+title: "Development of Indoor Navigation System using Asynchronous Pseudolites"
 authors:
 - Changdon Kee
 - Haeyoung Jun
@@ -11,7 +11,7 @@ authors:
 - Sam Pullen and JungTaek Lee
 date: "2000-10-01T00:00:00Z"
 publishDate: "2000-10-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     Proceedings of ION GPS-2000, Salt Lake, Utah, USA, September, 2000
 ---

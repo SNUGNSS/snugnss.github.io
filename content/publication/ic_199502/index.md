@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of Orbit and Clock Models for Real Time WAAS”"
+title: "Evaluation of Orbit and Clock Models for Real Time WAAS"
 authors:
 - Tsai
 - Y. J.
@@ -16,7 +16,7 @@ authors:
 - B. W.
 date: "1995-01-01T00:00:00Z"
 publishDate: "1995-01-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     Proceedings of ION National Technical Meeting, California, January 18-20, 1995, pp. 539-547
 ---

@@ -1,5 +1,5 @@
 ---
-title: "“GPS Cycle Slip Detection Considering Satellite Geometry Based on TDCP/INS Integrated Navigation”"
+title: "GPS Cycle Slip Detection Considering Satellite Geometry Based on TDCP/INS Integrated Navigation"
 authors:
 - Younsil Kim
 - Junesol Song

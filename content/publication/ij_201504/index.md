@@ -1,5 +1,5 @@
 ---
-title: "“Attitude estimation method for small UAV under accelerative environment”"
+title: "Attitude estimation method for small UAV under accelerative environment"
 authors:
 - Heekwon No
 - Am Cho

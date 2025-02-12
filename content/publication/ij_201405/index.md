@@ -1,5 +1,5 @@
 ---
-title: "“Design and Validation of Korean WADGNSS Reference Station Software”"
+title: "Design  Validation of Korean WADGNSS Reference Station Software"
 authors:
 - Wan Sik Choi
 - Shah Sayed Chhattan

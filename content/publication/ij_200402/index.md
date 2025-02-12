@@ -1,5 +1,5 @@
 ---
-title: ""RTK-GPS correction generation technique for low-rate data-link""
+title: "RTK-GPS correction generation technique for low-rate data-link"
 authors:
 - Changdon Kee
 - Jeonghan Kim

@@ -1,5 +1,5 @@
 ---
-title: "“Implementation of Software GPS Receiver Algorithm for GEO Satellites”"
+title: "“Implementation of Software GPS Receiver Algorithm for GEO Satellites"
 authors:
 - Chongwon Kim
 - Ghangho Kim
@@ -7,7 +7,7 @@ authors:
 - Changdon Kee
 date: "2013-04-01T00:00:00Z"
 publishDate: "2013-04-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     Proceedings of ION PNT 2013, Honolulu, Hawaii, April, 2013
 ---

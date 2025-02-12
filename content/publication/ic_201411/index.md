@@ -1,5 +1,5 @@
 ---
-title: "“Smartphone based 3D PDR System Development and its Performance Analysis in Various Indoor Environment”"
+title: "“Smartphone based 3D PDR System Development and its Performance Analysis in Various Indoor Environment"
 authors:
 - Beomju Shin
 - Seok Lee
@@ -9,7 +9,7 @@ authors:
 - Taikjin Lee
 date: "2014-10-01T00:00:00Z"
 publishDate: "2014-10-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     ISGNSS 2014 in conjunction with KGS Conference, Jeju, Korea, October, 2014
 ---

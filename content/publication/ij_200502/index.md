@@ -1,5 +1,5 @@
 ---
-title: ""Performance Analysis of Korean WADGPS Algorithms with Korean NDGPS Data""
+title: "Performance Analysis of Korean WADGPS Algorithms with Korean NDGPS Data"
 authors:
 - Youngsun Yun
 - D. Kim

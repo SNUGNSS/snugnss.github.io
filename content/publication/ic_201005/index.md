@@ -1,5 +1,5 @@
 ---
-title: "" Real-Time Cycle Slip Detection Algorithm for Universal Dual-Frequency GPS Users in All Cases Including a Half Cycle Slip""
+title: " Real-Time Cycle Slip Detection Algorithm for Universal Dual-Frequency GPS Users in All Cases Including a Half Cycle Slip"
 authors:
 - Junesol Song
 - Byungwoon Park
@@ -8,7 +8,7 @@ authors:
 - Changdon Kee
 date: "2010-10-01T00:00:00Z"
 publishDate: "2010-10-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     International Syumposium on GPS/GNSS 2010, Taipei, Taiwan, October, 2010
 ---

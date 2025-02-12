@@ -1,11 +1,9 @@
 ---
-title: "“Wide Area Differential GPS""
+title: "Wide Area Differential GPS"
 authors:
 - Changdon Kee
-- Axalrad
-- P.
-- and Parkinson
-- B. W.
+- Axalrad P
+- Bradford Parkinson
 date: "1991-06-01T00:00:00Z"
 publishDate: "1991-06-01T00:00:00Z"
 publication_types: ["article-journal"]

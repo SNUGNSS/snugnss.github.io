@@ -1,10 +1,10 @@
 ---
-title: "“Overcoming performance bottlenecks in using OpenMP on SMP clusters”"
+title: "Overcoming performance bottlenecks in using OpenMP on SMP clusters"
 authors:
 - Woo-Chul Jeun
 - Yang-Suk Kee
 - Soonhoi Ha
-- and Changdon Kee
+- Changdon Kee
 date: "2008-10-01T00:00:00Z"
 publishDate: "2008-10-01T00:00:00Z"
 publication_types: ["article-journal"]

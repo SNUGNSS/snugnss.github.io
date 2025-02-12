@@ -1,9 +1,9 @@
 ---
-title: ""Integer Ambiguity Search Technique Using Separated Gaussian Variables""
+title: "Integer Ambiguity Search Technique Using Separated Gaussian Variables"
 authors:
 - Doyoon Kim
 - Jaegyu Jang
-- and Changdon Kee
+- Changdon Kee
 date: "2004-11-01T00:00:00Z"
 publishDate: "2004-11-01T00:00:00Z"
 publication_types: ["article-journal"]

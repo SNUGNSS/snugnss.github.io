@@ -1,5 +1,5 @@
 ---
-title: ""Development and Preliminary Test Results of Korean WADGPS Test Bed Using NDGPS Infrastructure in Korea""
+title: "Development and Preliminary Test Results of Korean WADGPS Test Bed Using NDGPS Infrastructure in Korea"
 authors:
 - D. Kim
 - Youngsun Yun
@@ -9,7 +9,7 @@ authors:
 - Changdon Kee
 date: "2006-09-01T00:00:00Z"
 publishDate: "2006-09-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     ION GPS/GNSS 2006, Fort Worth, Texas, U.S., September, 2006
 ---

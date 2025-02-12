@@ -1,7 +1,8 @@
 ---
-title: "“Wide Area Differential GPS (WADGPS) as a Future Navigation System in the United States”"
+title: "Wide Area Differential GPS (WADGPS) as a Future Navigation System in the United States"
 authors:
-- Changdon Kee and Parkinson
+- Changdon Kee
+- Parkinson
 - B. W.
 date: "1996-04-01T00:00:00Z"
 publishDate: "1996-04-01T00:00:00Z"

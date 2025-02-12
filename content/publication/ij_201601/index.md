@@ -1,5 +1,5 @@
 ---
-title: ""Position Accuracy Improvement by Implementing the DGNSS-CP Algorithm in Smartphones""
+title: "Position Accuracy Improvement by Implementing the DGNSS-CP Algorithm in Smartphones"
 authors:
 - Donghwan Yoon
 - Changdon Kee

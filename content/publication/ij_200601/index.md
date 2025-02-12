@@ -1,5 +1,5 @@
 ---
-title: ""Flight Test of Attitude Determination System using Multiple GPS Antennae""
+title: "Flight Test of Attitude Determination System using Multiple GPS Antennae"
 authors:
 - Jaegyu Jang
 - Changdon Kee

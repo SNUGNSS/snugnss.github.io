@@ -1,5 +1,5 @@
 ---
-title: ""L1 SFMC SBAS System to Improve the Position Accuracy of Android Device""
+title: "L1 SFMC SBAS System to Improve the Position Accuracy of Android Device"
 authors:
 - Cheolsoon Lim
 - Donghyun Shin
@@ -10,7 +10,7 @@ authors:
 - Am Cho
 date: "2018-09-01T00:00:00Z"
 publishDate: "2018-09-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     ION GNSS+ 2018
 ---

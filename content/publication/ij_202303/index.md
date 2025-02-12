@@ -1,5 +1,5 @@
 ---
-title: ""Development of Hardware-In-the-Loop Simulation for CubeSat Platform: Focusing on Magnetometer and Magnetorquer""
+title: "Development of Hardware-In-the-Loop Simulation for CubeSat Platform: Focusing on Magnetometer  Magnetorquer"
 authors:
 - Hanjoon Shim
 - O-Jong Kim

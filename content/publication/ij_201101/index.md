@@ -1,5 +1,5 @@
 ---
-title: ""Carrier Phase-based RAIM Algorithm Using a Gaussian Sum Filter""
+title: "Carrier Phase-based RAIM Algorithm Using a Gaussian Sum Filter"
 authors:
 - Ho Yun
 - Youngsun Yun

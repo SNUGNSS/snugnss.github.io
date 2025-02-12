@@ -1,12 +1,12 @@
 ---
-title: "“GPS Satellite State Vector Determination in ECI Coordinate System using the Civil Navigation Message“"
+title: "GPS Satellite State Vector Determination in ECI Coordinate System using the Civil Navigation Message"
 authors:
 - Ghangho Kim
 - Sanghoon Jeon
 - Changdon Kee
 - Tae Soo No
 - Kiho Kwon
-- and Seungwoon Choi
+- Seungwoon Choi
 date: "2014-01-01T00:00:00Z"
 publishDate: "2014-01-01T00:00:00Z"
 publication_types: ["article-journal"]

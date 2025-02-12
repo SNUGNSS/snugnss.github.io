@@ -1,5 +1,5 @@
 ---
-title: ""SNUGLITE Project: Space Weather Monitoring and Earthquake Observation using Dual-Frequency GPS Receivers on Cube-Satellite Platform""
+title: "SNUGLITE Project: Space Weather Monitoring and Earthquake Observation using Dual-Frequency GPS Receivers on Cube-Satellite Platform"
 authors:
 - O-Jong Kim
 - Sanghoon Jeon
@@ -13,7 +13,7 @@ authors:
 - 
 date: "2016-12-01T00:00:00Z"
 publishDate: "2016-12-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     International Symposium On GNSS 2016
 ---

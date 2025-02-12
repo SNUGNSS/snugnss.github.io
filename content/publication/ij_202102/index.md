@@ -1,5 +1,5 @@
 ---
-title: ""Global Navigation Satellite System Signal Generation Method for Wide Area Protection Against Numerous Unintentional Drones""
+title: "Global Navigation Satellite System Signal Generation Method for Wide Area Protection Against Numerous Unintentional Drones"
 authors:
 - Minhuck Park
 - Changdon Kee

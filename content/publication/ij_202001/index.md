@@ -1,5 +1,5 @@
 ---
-title: ""In-Orbit Results and Attitude Analysis of the SNUGLITE Cube-Satellite""
+title: "In-Orbit Results  Attitude Analysis of the SNUGLITE Cube-Satellite"
 authors:
 - O-Jong Kim
 - Hanjoon Shim

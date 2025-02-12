@@ -1,5 +1,5 @@
 ---
-title: ""Improving the Accuracy of Regional Ionospheric Mapping with Double-Difference Carrier Phase Measurement""
+title: "Improving the Accuracy of Regional Ionospheric Mapping with Double-Difference Carrier Phase Measurement"
 authors:
 - Deokhwa Han
 - Donguk Kim

@@ -1,5 +1,5 @@
 ---
-title: ""A New Algorithm for High-Integrity Detection and Compensation of Dual-Frequency Cycle Slip under Severe Ionospheric Storm Conditions""
+title: "A New Algorithm for High-Integrity Detection  Compensation of Dual-Frequency Cycle Slip under Severe Ionospheric Storm Conditions"
 authors:
 - Donguk Kim
 - Junesol Song

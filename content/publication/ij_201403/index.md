@@ -1,10 +1,10 @@
 ---
-title: "“A Pseudolite-Based Positioning System for Legacy GNSS Receivers""
+title: "A Pseudolite-Based Positioning System for Legacy GNSS Receivers"
 authors:
 - Chongwon Kim
 - Hyoungmin So
 - Taikjin Lee
-- and Changdon Kee
+- Changdon Kee
 date: "2014-04-01T00:00:00Z"
 publishDate: "2014-04-01T00:00:00Z"
 publication_types: ["article-journal"]

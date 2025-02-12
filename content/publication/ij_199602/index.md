@@ -1,17 +1,12 @@
 ---
-title: "“Wide Area Augmentation of the Global Positioning System”"
+title: "Wide Area Augmentation of the Global Positioning System"
 authors:
-- Enge
-- P.
-- Walter
-- T.
-- Pullen
-- S.
+- Enge P
+- Walter T
+- Pullen S
 - Changdon Kee
-- Chao
-- Y.
-- and Tsai
-- Y.
+- Chao Y
+- Tsai Y.
 date: "1996-07-01T00:00:00Z"
 publishDate: "1996-07-01T00:00:00Z"
 publication_types: ["article-journal"]

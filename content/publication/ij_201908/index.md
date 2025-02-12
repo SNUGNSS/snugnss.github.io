@@ -1,5 +1,5 @@
 ---
-title: ""Single station–based precise positioning system: Multiple‐antenna arrangement for instantaneous ambiguity resolution""
+title: "Single station–based precise positioning system: Multiple‐antenna arrangement for instantaneous ambiguity resolution"
 authors:
 - O-Jong Kim
 - Changdon Kee

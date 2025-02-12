@@ -1,17 +1,15 @@
 ---
-title: ""Estimation of Multipath Error in GPS Pseudorange Measurements""
+title: "Estimation of Multipath Error in GPS Pseudorange Measurements"
 authors:
 - Breivik
 - K.
 - Forssel
 - B.
 - Changdon Kee
-- Enge
-- P.
-- and Walter
-- T.
-date: "1997-01-03T00:00:00Z"
-publishDate: "1997-01-03T00:00:00Z"
+- Enge P.
+- Walter Told.
+date: "1997-03-01T00:00:00Z"
+publishDate: "1997-03-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: |-
     Journal of The Institute of Navigation, Vol. 44, No. 1, Spring, 1997, pp. 43-52

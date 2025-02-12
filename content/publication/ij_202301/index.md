@@ -1,5 +1,5 @@
 ---
-title: ""Wavelet and Neural Network-Based Multipath Detection for Precise Positioning Systems""
+title: "Wavelet  Neural Network-Based Multipath Detection for Precise Positioning Systems"
 authors:
 - O-Jong Kim
 - Changdon Kee

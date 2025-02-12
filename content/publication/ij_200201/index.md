@@ -1,5 +1,5 @@
 ---
-title: ""Extending Coverage of DGPS by Considering Atmospheric Models and Corrections""
+title: "Extending Coverage of DGPS by Considering Atmospheric Models  Corrections"
 authors:
 - Changdon Kee
 - Doohee Yun

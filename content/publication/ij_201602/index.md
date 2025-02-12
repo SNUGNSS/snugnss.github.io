@@ -1,5 +1,5 @@
 ---
-title: ""Comparative Analysis of Height-Related Multiple Correction Interpolation Methods with Constraints for Network RTK in Mountainous Areas""
+title: "Comparative Analysis of Height-Related Multiple Correction Interpolation Methods with Constraints for Network RTK in Mountainous Areas"
 authors:
 - Junesol Song
 - Byungwoon Park

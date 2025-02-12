@@ -1,5 +1,5 @@
 ---
-title: ""Detecting RFI Through Integrity Monitoring at a DGPS Reference Station""
+title: "Detecting RFI Through Integrity Monitoring at a DGPS Reference Station"
 authors:
 - Youngsun Yun
 - Changdon Kee

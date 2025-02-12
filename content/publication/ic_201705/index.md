@@ -1,5 +1,5 @@
 ---
-title: ""Advanced GPS-based Attitude Estimation Scheme for Various IMU Failure Scenarios of Low-Cost UAV""
+title: "Advanced GPS-based Attitude Estimation Scheme for Various IMU Failure Scenarios of Low-Cost UAV"
 authors:
 - Heekwon No
 - Changdon Kee
@@ -7,7 +7,7 @@ authors:
 - Byungwoon Park
 date: "2017-09-01T00:00:00Z"
 publishDate: "2017-09-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     ION GNSS+ 2017
 ---

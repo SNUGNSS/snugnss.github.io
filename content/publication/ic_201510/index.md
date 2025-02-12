@@ -1,5 +1,5 @@
 ---
-title: ""A Regional Alternative Navigation Using the High Altitude Long Endurance UAVs with Onboard Pseudolite and Transceiver""
+title: "A Regional Alternative Navigation Using the High Altitude Long Endurance UAVs with Onboard Pseudolite and Transceiver"
 authors:
 - Minwoo Choi
 - Donguk Kim
@@ -12,7 +12,7 @@ authors:
 - Junpyo Park
 date: "2015-11-01T00:00:00Z"
 publishDate: "2015-11-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     International Symposium On GNSS 2015
 ---

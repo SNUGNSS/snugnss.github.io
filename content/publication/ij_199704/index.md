@@ -1,10 +1,9 @@
 ---
-title: ""Algorithms for Crossover Point Determination""
+title: "Algorithms for Crossover Point Determination"
 authors:
-- Lo
-- S.
-- Changdon Kee and Enge
-- P.
+- Lo S.
+- Changdon Kee
+- Enge P.
 date: "1997-06-01T00:00:00Z"
 publishDate: "1997-06-01T00:00:00Z"
 publication_types: ["article-journal"]

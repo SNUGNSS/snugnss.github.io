@@ -1,5 +1,5 @@
 ---
-title: ""Study on the Availability of Vector Tracking Loop in Outdoor Field for GPS and Pseudolite System""
+title: "Study on the Availability of Vector Tracking Loop in Outdoor Field for GPS and Pseudolite System"
 authors:
 - Sanghoon Jeon
 - Hyoungmin So
@@ -11,7 +11,7 @@ authors:
 - Kiho Kwon
 date: "2011-11-01T00:00:00Z"
 publishDate: "2011-11-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     International Symposium on GPS/GNSS 2011, Sydney, Austrelia, November, 2011
 ---

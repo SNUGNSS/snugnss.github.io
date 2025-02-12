@@ -1,5 +1,5 @@
 ---
-title: ""On-line Detection of Tracking Loss in Aviation GPS Receivers Using Frequency-lock Loops""
+title: "On-line Detection of Tracking Loss in Aviation GPS Receivers Using Frequency-lock Loops"
 authors:
 - Hyoungmin So
 - Sujin Choi

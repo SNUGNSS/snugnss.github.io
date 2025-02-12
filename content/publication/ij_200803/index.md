@@ -1,5 +1,5 @@
 ---
-title: "“A Feasibility Study on a Regional Navigation Transceiver System”"
+title: "A Feasibility Study on a Regional Navigation Transceiver System"
 authors:
 - Byungwoon Park
 - Doyoon Kim

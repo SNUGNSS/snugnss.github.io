@@ -1,12 +1,12 @@
 ---
-title: ""1 Antenna, 3 Dimensions Flight Control in UAV Operations""
+title: "1 Antenna, 3 Dimensions Flight Control in UAV Operations"
 authors:
 - Changdon Kee
 - Cho
 - A.
 - Kim
 - J.
-- and No
+- No
 - H.
 date: "2010-03-01T00:00:00Z"
 publishDate: "2010-03-01T00:00:00Z"

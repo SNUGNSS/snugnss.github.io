@@ -1,9 +1,9 @@
 ---
-title: ""Indoor Navigation System using Asynchronous Pseudolites""
+title: "Indoor Navigation System using Asynchronous Pseudolites"
 authors:
 - Changdon Kee
 - Haeyoung Jun
-- and Doohee Yun
+- Doohee Yun
 date: "2003-09-01T00:00:00Z"
 publishDate: "2003-09-01T00:00:00Z"
 publication_types: ["article-journal"]

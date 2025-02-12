@@ -1,5 +1,5 @@
 ---
-title: ""Improving performance of GPS satellite DCB estimation for regional GPS networks using long‑term stability""
+title: "Improving performance of GPS satellite DCB estimation for regional GPS networks using long‑term stability"
 authors:
 - Deokhaw Han
 - Donguk Kim

@@ -1,5 +1,5 @@
 ---
-title: ""Accuracy Improvement of DGPS for Low-Cost Single-Frequency Receiver Using Modified Flächen Korrektur Parameter Correction""
+title: "Accuracy Improvement of DGPS for Low-Cost Single-Frequency Receiver Using Modified Flächen Korrektur Parameter Correction"
 authors:
 - Jungbeom Kim
 - Junesol Song

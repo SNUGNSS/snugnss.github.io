@@ -1,5 +1,5 @@
 ---
-title: ""Optimal Divergence-Free Hatch Filter for GNSS Single-Frequency Measurement""
+title: "Optimal Divergence-Free Hatch Filter for GNSS Single-Frequency Measurement"
 authors:
 - Byungwoon Park
 - Cheolsoon Lim

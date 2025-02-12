@@ -1,5 +1,5 @@
 ---
-title: ""Modified Tomographic Estimation of the Ionosphere using Fewer Coefficients""
+title: "Modified Tomographic Estimation of the Ionosphere using Fewer Coefficients"
 authors:
 - Youngho Sohn
 - Changdon Kee

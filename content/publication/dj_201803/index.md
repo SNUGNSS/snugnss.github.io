@@ -1,5 +1,5 @@
 ---
-title: "Performance Enhancement and Countermeasure for GPS Failure of GPS/INS Navigation System of UAV Through Integration of 3D Magnetc Vector""
+title: "Performance Enhancement and Countermeasure for GPS Failure of GPS/INS Navigation System of UAV Through Integration of 3D Magnetc Vector"
 authors:
 - Heekwon No
 - Junesol Song

@@ -1,5 +1,5 @@
 ---
-title: ""Tecnologie GPS e Pseudolite per rilievi al chiuso""
+title: "Tecnologie GPS e Pseudolite per rilievi al chiuso"
 authors:
 - Changdon Kee
 date: "2001-10-01T00:00:00Z"

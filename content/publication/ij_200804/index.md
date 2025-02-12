@@ -1,5 +1,5 @@
 ---
-title: "“Optimal Hatch Filter with an Adaptive Smoothing Window Width”"
+title: "Optimal Hatch Filter with an Adaptive Smoothing Window Width"
 authors:
 - Byungwoon Park
 - Kyoungho Sohn

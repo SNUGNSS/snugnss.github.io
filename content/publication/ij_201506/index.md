@@ -1,5 +1,5 @@
 ---
-title: "“A Single Distance Measuring Equipment (DME) Station-Based Positioning System for Alternative Position Navigation and Timing (APNT)”"
+title: "A Single Distance Measuring Equipment (DME) Station-Based Positioning System for Alternative Position Navigation  Timing (APNT)"
 authors:
 - O-Jong Kim
 - Chongwon Kim

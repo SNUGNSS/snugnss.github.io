@@ -1,5 +1,5 @@
 ---
-title: ""Fully Automatic Taxiing, Takeoff and Landing of a UAV only with a Single-Antenna GPS Receiver”"
+title: "Fully Automatic Taxiing, Takeoff and Landing of a UAV only with a Single-Antenna GPS Receiver"
 authors:
 - Am Cho
 - Jihoon Kim
@@ -12,7 +12,7 @@ authors:
 - Changdon Kee
 date: "2007-05-01T00:00:00Z"
 publishDate: "2007-05-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     AIAA Infotech@Aerospace 2007 Conference and Exhibit, Rohnert Park, California, USA, May 2007
 ---

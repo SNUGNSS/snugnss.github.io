@@ -1,5 +1,5 @@
 ---
-title: ""Generation of Ionospheric Error and Confidence Estimates for WAAS""
+title: "Generation of Ionospheric Error and Confidence Estimates for WAAS"
 authors:
 - Chao
 - Y. C.
@@ -22,7 +22,7 @@ authors:
 - B. W.
 date: "1996-06-01T00:00:00Z"
 publishDate: "1996-06-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     Proceedings of 52nd ION Annual Meeting, Cambridge, Massachusetts, June 19-21, 1996, pp. 139-146
 ---

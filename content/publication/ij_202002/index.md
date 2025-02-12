@@ -1,5 +1,5 @@
 ---
-title: ""Experimental Study of Single-Transmitter-Based Precise Indoor Positioning System""
+title: "Experimental Study of Single-Transmitter-Based Precise Indoor Positioning System"
 authors:
 - O-Jong Kim
 - Daniel Hong

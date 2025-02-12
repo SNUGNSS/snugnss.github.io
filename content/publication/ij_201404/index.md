@@ -1,5 +1,5 @@
 ---
-title: "“Hybrid Model based Motion Recogniton for Smartphone User”"
+title: "Hybrid Model based Motion Recogniton for Smartphone User"
 authors:
 - Beomju Shin
 - Chulki Kim

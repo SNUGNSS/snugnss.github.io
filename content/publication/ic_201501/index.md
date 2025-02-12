@@ -1,5 +1,5 @@
 ---
-title: "“Navigation Augmentation in Urban Area with Pseudolite Equipped High Altitude Long Endurance UAV”"
+title: "“Navigation Augmentation in Urban Area with Pseudolite Equipped High Altitude Long Endurance UAV"
 authors:
 - O-Jong Kim
 - Minwoo Choi
@@ -12,7 +12,7 @@ authors:
 - Cheolkyu Jee
 date: "2015-01-01T00:00:00Z"
 publishDate: "2015-01-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     2015 ION ITM 2015, Dana Point, California, Jan, 2015
 ---

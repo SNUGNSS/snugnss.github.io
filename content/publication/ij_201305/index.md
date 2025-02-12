@@ -1,5 +1,5 @@
 ---
-title: "“Performance Evaluation of Ionosphere Modeling Using Spherical Harmonics in the Korean Peninsula”"
+title: "Performance Evaluation of Ionosphere Modeling Using Spherical Harmonics in the Korean Peninsula"
 authors:
 - Deokhwa Han
 - Ho Yun

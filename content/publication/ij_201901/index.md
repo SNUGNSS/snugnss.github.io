@@ -1,5 +1,5 @@
 ---
-title: ""Spoofing Attack Results Determination in Code Domain Using a Spoofing Process Equation""
+title: "Spoofing Attack Results Determination in Code Domain Using a Spoofing Process Equation"
 authors:
 - Beomju Shin
 - Minhuck Park

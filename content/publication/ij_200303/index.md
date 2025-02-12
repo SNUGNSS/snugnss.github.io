@@ -1,5 +1,5 @@
 ---
-title: ""Test of GBAS Integrity Monitoring System using GPS Simulator""
+title: "Test of GBAS Integrity Monitoring System using GPS Simulator"
 authors:
 - Youngsun Yun
 - Sungmin Park

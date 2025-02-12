@@ -1,5 +1,5 @@
 ---
-title: ""Centimeter-Accuracy Indoor Navigation""
+title: "Centimeter-Accuracy Indoor Navigation"
 authors:
 - Changdon Kee
 - Yun
@@ -10,7 +10,7 @@ authors:
 - B.
 - Pullen
 - S.
-- and Lagenstein
+- Lagenstein
 - T.
 date: "2001-11-01T00:00:00Z"
 publishDate: "2001-11-01T00:00:00Z"

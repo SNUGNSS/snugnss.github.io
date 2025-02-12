@@ -1,5 +1,5 @@
 ---
-title: ""Implementation of a Vector-based Tracking Loop Receiver in a Pseudolite Navigation System""
+title: "Implementation of a Vector-based Tracking Loop Receiver in a Pseudolite Navigation System"
 authors:
 - Hyoungmin So
 - Taikjin Lee

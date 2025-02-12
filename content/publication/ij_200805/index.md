@@ -1,5 +1,5 @@
 ---
-title: ""A Gaussian Sum Filter Approach for DGNSS Integrity Monitoring""
+title: "A Gaussian Sum Filter Approach for DGNSS Integrity Monitoring"
 authors:
 - Youngsun Yun
 - Ho Yun

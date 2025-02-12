@@ -1,5 +1,5 @@
 ---
-title: ""Quality Control Algorithms on WAAS Wide-Area Reference Stations""
+title: "Quality Control Algorithms on WAAS Wide-Area Reference Stations"
 authors:
 - Changdon Kee
 - Todd Walter

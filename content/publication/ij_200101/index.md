@@ -1,5 +1,5 @@
 ---
-title: ""GPS Indoor Navigation System""
+title: "GPS Indoor Navigation System"
 authors:
 - Changdon Kee
 date: "2001-07-01T00:00:00Z"

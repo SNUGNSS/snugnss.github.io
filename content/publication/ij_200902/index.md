@@ -1,5 +1,5 @@
 ---
-title: ""Modified High-Resolution Correlator Technique for Short-Delayed Multipath Mitigation""
+title: "Modified High-Resolution Correlator Technique for Short-Delayed Multipath Mitigation"
 authors:
 - Hyoungmin So
 - Ghangho Kim

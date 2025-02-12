@@ -1,5 +1,5 @@
 ---
-title: ""Single-frequency Divergence-free Hatch Filter for the Android N GNSS Raw Measurements""
+title: "Single-frequency Divergence-free Hatch Filter for the Android N GNSS Raw Measurements"
 authors:
 - Donghyun Shin
 - Cheolsoon Lim
@@ -9,7 +9,7 @@ authors:
 - Changdon Kee
 date: "2017-09-01T00:00:00Z"
 publishDate: "2017-09-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     ION GNSS+ 2017
 ---

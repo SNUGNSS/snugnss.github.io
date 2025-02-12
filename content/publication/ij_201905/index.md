@@ -1,5 +1,5 @@
 ---
-title: ""Performance Improvement of Time-Differenced Carrier Phase Measurement-Based Integrated GPS/INS Considering Noise Correlation""
+title: "Performance Improvement of Time-Differenced Carrier Phase Measurement-Based Integrated GPS/INS Considering Noise Correlation"
 authors:
 - Jungbeom Kim
 - Younsil Kim

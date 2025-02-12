@@ -1,5 +1,5 @@
 ---
-title: ""High Accuracy Pseudolite-based Navigation System: Compensating for Right-Hand Circularly Polarized Effect""
+title: "High Accuracy Pseudolite-based Navigation System: Compensating for Right-H Circularly Polarized Effect"
 authors:
 - Haeyoung Jun
 - Changdon Kee

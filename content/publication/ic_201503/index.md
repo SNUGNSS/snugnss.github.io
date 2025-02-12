@@ -1,5 +1,5 @@
 ---
-title: "“Feasibility Analysis of Real-Time FKP-DGPS Algorithm for L1 Single-Frequency GPS Receiver in Korea”"
+title: "“Feasibility Analysis of Real-Time FKP-DGPS Algorithm for L1 Single-Frequency GPS Receiver in Korea"
 authors:
 - Jungbeom Kim
 - Junesol Song
@@ -7,7 +7,7 @@ authors:
 - Changdon Kee
 date: "2015-04-01T00:00:00Z"
 publishDate: "2015-04-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     Pacific PNT 2015, Hawaii, USA, April, 2015
 ---

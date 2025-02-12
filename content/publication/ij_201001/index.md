@@ -1,5 +1,5 @@
 ---
-title: ""The Compact Network RTK method: An effective solution to reduce GNSS temporal and spatial decorrelation error""
+title: "The Compact Network RTK method: An effective solution to reduce GNSS temporal  spatial decorrelation error"
 authors:
 - Byungwoon Park
 - Changdon Kee

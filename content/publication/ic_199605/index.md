@@ -1,5 +1,5 @@
 ---
-title: ""Future Satellite Navigation System: Wide-area Augmentation System (WAAS)""
+title: "Future Satellite Navigation System: Wide-area Augmentation System (WAAS)"
 authors:
 - Changdon Kee
 - Lawrence
@@ -22,7 +22,7 @@ authors:
 - B. W.
 date: "1996-06-01T00:00:00Z"
 publishDate: "1996-06-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     Korean International Science and Technology Conference (KISTC-96), Seoul, Korea, June 24-28, 1996
 ---

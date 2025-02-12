@@ -1,5 +1,5 @@
 ---
-title: ""WiFi and PDR based Robust SLAM Implementation using Surface Correlation""
+title: "WiFi and PDR based Robust SLAM Implementation using Surface Correlation"
 authors:
 - Beomju Shin
 - Boseon Yu
@@ -8,7 +8,7 @@ authors:
 - Taikjin Lee
 date: "2017-09-01T00:00:00Z"
 publishDate: "2017-09-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     ION GNSS+ 2017
 ---

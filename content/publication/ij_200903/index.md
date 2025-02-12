@@ -1,5 +1,5 @@
 ---
-title: ""Verification of a real-time attitude determination algorithm through development of 48-channel GPS attitude receiver hardware""
+title: "Verification of a real-time attitude determination algorithm through development of 48-channel GPS attitude receiver hardware"
 authors:
 - Jaegyu Jang
 - Changdon Kee

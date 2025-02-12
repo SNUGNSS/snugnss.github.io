@@ -1,5 +1,5 @@
 ---
-title: ""Covariance Analysis of Real-Time Precise GPS Orbit Estimated from Double-Differenced Carrier Phase Observations""
+title: "Covariance Analysis of Real-Time Precise GPS Orbit Estimated from Double-Differenced Carrier Phase Observations"
 authors:
 - Sunkyoung Yu
 - Donguk Kim

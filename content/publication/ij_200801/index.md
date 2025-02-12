@@ -1,14 +1,14 @@
 ---
-title: "“A Guideline on Establishing DGPS Reference Station Requirements”"
+title: "A Guideline on Establishing DGPS Reference Station Requirements"
 authors:
 - Changdon Kee
 - Byungwoon Park
 - Jeonghan Kim
-- Cleveland
+- Clevel
 - A.
 - Parsons
 - M.
-- and Wolfe
+- Wolfe
 - D.
 date: "2008-01-01T00:00:00Z"
 publishDate: "2008-01-01T00:00:00Z"

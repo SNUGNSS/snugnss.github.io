@@ -1,5 +1,5 @@
 ---
-title: ""A Study on Cycle Slip Detection for Integrated Navigation of Single Frequency GNSS Receiver and Low Cost INS""
+title: "A Study on Cycle Slip Detection for Integrated Navigation of Single Frequency GNSS Receiver and Low Cost INS"
 authors:
 - Younsil Kim
 - Junesol Song
@@ -7,7 +7,7 @@ authors:
 - Changdon Kee
 date: "2016-09-01T00:00:00Z"
 publishDate: "2016-09-01T00:00:00Z"
-publication_types: ["article-confernce"]
+publication_types: ["article-conference"]
 publication: |-
     ION GNSS+ 2016
 ---

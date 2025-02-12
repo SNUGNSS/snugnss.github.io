@@ -18,12 +18,12 @@ sections:
 
         | Year | [International</br>Journal](#id-ij) | [International</br>Conference](#id-ic) | [Domestic</br>Journal](#id-dj) | [Domestic</br>Conference](#id-dc) |
         |-----------|:---------------------:|:------------------------:|:----------------:|:-------------------:|
-        |  **2023** |                     0 |                        0 |                0 |                   5 |
-        |  **2022** |                     0 |                        0 |                0 |                  10 |
-        |  **2021** |                     0 |                        0 |                0 |                  10 |
-        | **2011~2020** |                 0 |                        0 |                0 |                 127 |
-        | **2001~2010** |                 0 |                        0 |                0 |                  72 |
-        | **1996~2000** |                 0 |                        0 |                0 |                  38 |
+        |  **2023** |                     3 |                        9 |                4 |                   5 |
+        |  **2022** |                     1 |                        2 |                2 |                  10 |
+        |  **2021** |                     2 |                        1 |                1 |                  10 |
+        | **2011~2020** |                44 |                      100 |               42 |                 127 |
+        | **2001~2010** |                38 |                       83 |               12 |                  72 |
+        | **1996~2000** |                 9 |                       31 |               11 |                  38 |
 
         
 
@@ -45,7 +45,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'international-journal'
+        publication_type: 'article-journal'
     design:
       view: citation   
       columns: '2'
@@ -62,7 +62,7 @@ sections:
       filters:
         folders:
           - publication
-        publication_type: 'international-conference'
+        publication_type: 'article-conference'
     design:
       view: citation
       columns: '2'

@@ -1,5 +1,5 @@
 ---
-title: "“Coarse Initial Orbit Determination for a Geostationary Satellite Using Single-Epoch GPS Measurements”"
+title: "Coarse Initial Orbit Determination for a Geostationary Satellite Using Single-Epoch GPS Measurements"
 authors:
 - Ghangho Kim
 - Chongwon Kim

@@ -1,12 +1,12 @@
 ---
-title: ""Motion Recognition-Based 3D Pedestrian Navigation System Using Smartphone""
+title: "Motion Recognition-Based 3D Pedestrian Navigation System Using Smartphone"
 authors:
 - Beomju Shin
 - Chulki Kim
 - Jaehun Kim
 - Seok Lee
 - Changdon Kee
-- and Taikjin Lee
+- Taikjin Lee
 date: "2016-09-01T00:00:00Z"
 publishDate: "2016-09-01T00:00:00Z"
 publication_types: ["article-journal"]

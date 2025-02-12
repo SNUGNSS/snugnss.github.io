@@ -1,5 +1,5 @@
 ---
-title: "“DGPS Enhancement to GPS NMEA Output Data: DGPS by Correction Projection to Position-Domain”"
+title: "DGPS Enhancement to GPS NMEA Output Data: DGPS by Correction Projection to Position-Domain"
 authors:
 - Byungwoon Park
 - Jeongkeun Lee

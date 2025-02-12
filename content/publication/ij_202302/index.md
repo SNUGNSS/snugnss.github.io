@@ -1,5 +1,5 @@
 ---
-title: ""Precise in-orbit relative navigation technique for rendezvous mission of CubeSats using only GPS receivers""
+title: "Precise in-orbit relative navigation technique for rendezvous mission of CubeSats using only GPS receivers"
 authors:
 - Hanjoon Shim
 - O-Jong Kim

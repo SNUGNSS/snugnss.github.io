@@ -1,5 +1,5 @@
 ---
-title: ""A Low-Cost, High-Precision Vehicle Navigation System for Deep Urban Multipath Environment Using TDCP Measurements""
+title: "A Low-Cost, High-Precision Vehicle Navigation System for Deep Urban Multipath Environment Using TDCP Measurements"
 authors:
 - Jungbeom Kim
 - Minhuck Park

@@ -1,5 +1,5 @@
 ---
-title: ""Development of Attitude Constraints for Real-time Attitude Determination System using GPS carrier phase""
+title: "Development of Attitude Constraints for Real-time Attitude Determination System using GPS carrier phase"
 authors:
 - Jaegyu Jang
 - Changdon Kee

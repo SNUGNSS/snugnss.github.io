@@ -1,8 +1,8 @@
 ---
-title: ""Efficient Ambiguity Search Technique Using Separated Decision Variables""
+title: "Efficient Ambiguity Search Technique Using Separated Decision Variables"
 authors:
 - Changdon Kee
-- Doyoon Kim and Jaegyu Jang
+- Doyoon Kim  Jaegyu Jang
 date: "2007-01-01T00:00:00Z"
 publishDate: "2007-01-01T00:00:00Z"
 publication_types: ["article-journal"]

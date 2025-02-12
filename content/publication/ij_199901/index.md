@@ -1,10 +1,10 @@
 ---
-title: ""Performance Analysis of Wide Area Differential GPS (Wadgps) in East-Asia""
+title: "Performance Analysis of Wide Area Differential GPS (Wadgps) in East-Asia"
 authors:
 - Changdon Kee
 - Shin
 - D.
-- and Pyong
+- Pyong
 - C.
 date: "1998-08-01T00:00:00Z"
 publishDate: "1998-08-01T00:00:00Z"

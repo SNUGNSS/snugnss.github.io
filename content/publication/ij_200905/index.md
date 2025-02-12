@@ -1,5 +1,5 @@
 ---
-title: ""Enhanced SBAS Integration Method Using Combination of Multiple SBAS Corrections""
+title: "Enhanced SBAS Integration Method Using Combination of Multiple SBAS Corrections"
 authors:
 - Ho Yun
 - Doyoon Kim
