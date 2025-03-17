@@ -10,48 +10,45 @@ grad_year: 2025
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: Ph.D Candidate
+# Role/position: 최종 졸업 학위 (Ph.D or M.S)
+role: Ph.D
 
 # Organizations/Affiliations
 organizations:
-  - name: 'GNSS Laboratory'
+  - name: 'Seoul National University'
     url: 
-
-# Short bio (displayed in user profile at end of posts)
-bio: 'Yonghwan Bae is a Ph.D. candidate of GNSS Laboratory in the Department of Aerospace Engineering at Seoul National University, South Korea.'
-
-interests:
-  - Unmanned Aerial Vehicle
-  - Cube-satellite
-  - Urban Navigation
-
-education:
-  courses:
-    - course: BSc in Mechanical and Aerospace Engineering
-      institution: Seoul National University
-      year: 2017
-
-# Social/Academic Networking
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'yhbae1@snu.ac.kr'
-  - icon: google-scholar
-    icon_pack: ai
-    link: 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
+# Postdoc, Ph.D Student, M.S Student, Alumini
 user_groups:
-  - Ph.D Student
+  - Ph.D
+  - Postdoc
 
 ---
 
-Yonghwan Bae is a Ph.D. candidate of GNSS Laboratory in the Department of Aerospace Engineering at Seoul National University, South Korea. 
+<!----- 이름" **별표2개 사이에 적을것** ----->
 
-He received the B.S. from Seoul National University. 
+## **YONGHWAN BAE | 배영환** 
 
-His research interests include the unmanned aerial vehicle, cube-satellite and urban navigation.
+<!----- 현재 직위/직장: *별표 사이에 적을것*----->
+
+*Seoul National University*</br>
+*서울대학교*</br>
+
+<!----- 학위논문 및 졸업연도(박사): 없으면 삭제----->
+
+**PhD Dissertation (2025):** A Study on Real-Time GPS-Based Attitude Determination Algorithms for CubeSat
+
+<!----- 학위논문 및 졸업연도(석사): 없으면 삭제----->
+
+
+
+<!-----  Biography: 없으면 아래 공란----> </br> 
+
+
+
+<!------------------------------------>
+</br> 

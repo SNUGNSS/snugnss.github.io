@@ -10,46 +10,45 @@ grad_year: 2025
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: M.S Student
+# Role/position: 최종 졸업 학위 (Ph.D or M.S)
+role: M.S
 
 # Organizations/Affiliations
 organizations:
-  - name: 'GNSS Laboratory'
+  - name: 'Seoul National University'
     url: 
-
-# Short bio (displayed in user profile at end of posts)
-bio: ''
-
-interests:
-  - CubeSat
-  - Formation-flying and Rendezvous-Docking
-
-education:
-  courses:
-    - course: MEng in Aerospace Engineering
-      institution: Massachusetts Institute of Technology
-      year: 2025
-    - course: BSc in Mechanical and Aerospace Engineering
-      institution: Seoul National University
-      year: 2023
-
-# Social/Academic Networking
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'pyj05016@snu.ac.kr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
-user_groups:
-  - M.S Student
-
+# Postdoc, Ph.D Student, M.S Student, Alumini
+user_groups: 
+  - M.S
+  - Researcher
 
 ---
 
-Jae Woong Hwang is a M.S. student of the GNSS Laboratory in the Department of Aerospace Engineering at Seoul National University. He received B.S. degree in aerospace engineering from the same university. His main research interests include formation-flying and rendezvous for CubeSat.
+<!----- 이름" **별표2개 사이에 적을것** ----->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+## **JAE WOONG HWANG | 황재웅** 
+
+<!----- 현재 직위/직장: *별표 사이에 적을것*----->
+
+*Seoul National University*</br>
+*서울대학교*</br>
+
+<!----- 학위논문 및 졸업연도(박사): 없으면 삭제----->
+
+
+
+<!----- 학위논문 및 졸업연도(석사): 없으면 삭제----->
+
+**MSc Thesis (2025):** Autonomous CubeSat Rendezvous and Docking Using Differential Aerodynamic Forces in Low-Earth Orbit
+
+<!-----  Biography: 없으면 아래 공란----> </br> 
+
+
+
+<!------------------------------------>
+</br> 

@@ -10,47 +10,44 @@ grad_year: 2025
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: M.S Student
+# Role/position: 최종 졸업 학위 (Ph.D or M.S)
+role: M.S
 
 # Organizations/Affiliations
 organizations:
-  - name: 'GNSS Laboratory'
+  - name: 'Republic of Korea Air Force'
     url: 
-
-# Short bio (displayed in user profile at end of posts)
-bio: ''
-
-interests:
-  - Lunar Navigation Satellite System
-  - Satellite Constellation
-  - Military strategy
-
-education:
-  courses:
-    - course: BSc in Military Strategy
-      institution: Republic of Korea Air Force Academy
-      year: 2016
-
-# Social/Academic Networking
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'bad7boys@snu.ac.kr'
-  - icon: google-scholar
-    icon_pack: ai
-    link: 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
-user_groups:
-  - M.S Student
-
+# Postdoc, Ph.D Student, M.S Student, Alumini
+user_groups: 
+  - M.S
 
 ---
 
-Minjae Kang is a M.S. student of the GNSS Laboratory in the Department of Aerospace Engineering at Seoul National University. He received B.S. degree in military strategy from Republic of Korea Air Force Academy. His main research interests include Lunar Navigation Satellite System and satellite constellation.
+<!----- 이름" **별표2개 사이에 적을것** ----->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+## **MINJAE KANG | 강민재** 
+
+<!----- 현재 직위/직장: *별표 사이에 적을것*----->
+
+*Republic of Korea Air Force*</br>
+*대한민국 공군*</br>
+
+<!----- 학위논문 및 졸업연도(박사): 없으면 삭제----->
+
+
+
+<!----- 학위논문 및 졸업연도(석사): 없으면 삭제----->
+
+**MSc Thesis (2025):** A Study on Design of Navigation Satellite Constellation for Global Lunar PNT
+
+<!-----  Biography: 없으면 아래 공란----> </br> 
+
+
+
+<!------------------------------------>
+</br> 

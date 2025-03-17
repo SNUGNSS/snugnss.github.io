@@ -10,43 +10,44 @@ grad_year: 2025
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: Ph.D Candidate
+# Role/position: 최종 졸업 학위 (Ph.D or M.S)
+role: Ph.D
 
 # Organizations/Affiliations
 organizations:
-  - name: 'GNSS Laboratory'
+  - name: 'Samsung Electronics'
     url: 
-
-# Short bio (displayed in user profile at end of posts)
-bio: ''
-
-interests:
-  - Satellite Based Augmented System (SBAS)
-  - Real Time Kinematics (RTK)
-  - Precise Point Positioning (PPP)
-
-education:
-  courses:
-    - course: BSc in Mechanical and Aerospace Engineering
-      institution: Seoul National University
-      year: 2018
-
-# Social/Academic Networking
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'kbg7588@snu.ac.kr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
-user_groups:
-  - Ph.D Student
+# Postdoc, Ph.D Student, M.S Student, Alumini
+user_groups: 
+  - Ph.D
 
 ---
 
-Bu-gyeom Kim is a Ph.D candidate of the GNSS Laboratory in the Department of Aerospace Engineering at Seoul National University. He received B.S degree in aerospace engineering from the same university. His main research interest is Satellite Based Augmented System (SBAS), Real Time Kinematics (RTK), and Precise Point Positioning (PPP).
+<!----- 이름" **별표2개 사이에 적을것** ----->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+## **BU-GYEOM KIM | 김부겸** 
+
+<!----- 현재 직위/직장: *별표 사이에 적을것*----->
+
+*Samsung Electronics*</br>
+*삼성전자*</br>
+
+<!----- 학위논문 및 졸업연도(박사): 없으면 삭제----->
+
+**PhD Dissertation (2025):** A Study on Compact Wide-Area RTK System for Nationwide Centimeter Level Positioning Service
+
+<!----- 학위논문 및 졸업연도(석사): 없으면 삭제----->
+
+
+
+<!-----  Biography: 없으면 아래 공란----> </br> 
+
+
+
+<!------------------------------------>
+</br> 
