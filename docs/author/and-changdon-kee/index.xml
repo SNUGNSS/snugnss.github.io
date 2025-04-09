@@ -1,28 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>And Changdon Kee. | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/and-changdon-kee./</link>
-      <atom:link href="http://localhost:1313/author/and-changdon-kee./index.xml" rel="self" type="application/rss+xml" />
-    <description>And Changdon Kee.</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2004 00:00:00 +0000</lastBuildDate>
+    <title>And Changdon Kee | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/and-changdon-kee/</link>
+      <atom:link href="http://localhost:1313/author/and-changdon-kee/index.xml" rel="self" type="application/rss+xml" />
+    <description>And Changdon Kee</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo.svg</url>
-      <title>And Changdon Kee.</title>
-      <link>http://localhost:1313/author/and-changdon-kee./</link>
+      <title>And Changdon Kee</title>
+      <link>http://localhost:1313/author/and-changdon-kee/</link>
     </image>
     
     <item>
-      <title>Budget Analysis of the Minimum Size of correction message and baudrate for USCG</title>
-      <link>http://localhost:1313/publication/ic_200407/</link>
-      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_200407/</guid>
+      <title>SNUGLITE Project: Space Weather Monitoring and Earthquake Observation using Dual-Frequency GPS Receivers on Cube-Satellite Platform</title>
+      <link>http://localhost:1313/publication/ic_201606/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201606/</guid>
       <description></description>
-    </item>
-    
-  </channel>
-</rss>
-ription>
     </item>
     
     <item>

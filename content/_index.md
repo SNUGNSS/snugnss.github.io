@@ -46,4 +46,19 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 10000
+
+  - block: collection
+    content:
+      title: Latest News
+      text: ""
+      count: 3
+      filters:
+        folders: 
+          - event
+        featured_only: false
+        order: desc  # 최신 포스트를 우선 표시
+    design:
+      view: compact
+      columns: '2'
+
 ---

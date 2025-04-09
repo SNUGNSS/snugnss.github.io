@@ -3,15 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/tag/news/</loc>
-    <lastmod>2024-11-14T15:00:00+00:00</lastmod>
+    <lastmod>2025-04-02T15:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/event/</loc>
-    <lastmod>2024-11-14T15:00:00+00:00</lastmod>
+    <lastmod>2025-04-02T15:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-11-14T15:00:00+00:00</lastmod>
+    <lastmod>2025-04-02T15:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/event/250402-ksas/</loc>
+    <lastmod>2025-04-02T15:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/</loc>
+    <lastmod>2025-02-26T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/</loc>
+    <lastmod>2025-02-25T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/event/241114-ksas/</loc>
@@ -24,6 +36,10 @@
   </url><url>
     <loc>http://localhost:1313/publications/</loc>
     <lastmod>2024-09-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/event/240928-%ED%99%88%EC%BB%A4%EB%B0%8D%EB%8D%B0%EC%9D%B4/</loc>
+    <lastmod>2024-09-28T12:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/</loc>
