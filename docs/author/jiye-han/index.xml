@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiye Han | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/jiye-han/</link>
-      <atom:link href="http://localhost:1313/author/jiye-han/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/jiye-han/</link>
+      <atom:link href="https://snugnss.github.io/author/jiye-han/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiye Han</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Jiye Han</title>
-      <link>http://localhost:1313/author/jiye-han/</link>
+      <link>https://snugnss.github.io/author/jiye-han/</link>
     </image>
     
     <item>
       <title>Methodology for Evaluating SBAS Satellite Correction</title>
-      <link>http://localhost:1313/publication/dj_201805/</link>
+      <link>https://snugnss.github.io/publication/dj_201805/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dj_201805/</guid>
+      <guid>https://snugnss.github.io/publication/dj_201805/</guid>
       <description></description>
     </item>
     

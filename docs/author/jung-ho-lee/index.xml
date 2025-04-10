@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jung Ho Lee | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/jung-ho-lee/</link>
-      <atom:link href="http://localhost:1313/author/jung-ho-lee/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/jung-ho-lee/</link>
+      <atom:link href="https://snugnss.github.io/author/jung-ho-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Jung Ho Lee</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Jung Ho Lee</title>
-      <link>http://localhost:1313/author/jung-ho-lee/</link>
+      <link>https://snugnss.github.io/author/jung-ho-lee/</link>
     </image>
     
     <item>
       <title>LTE Signal Based Vehicle Positioning System in Tunnel Environment</title>
-      <link>http://localhost:1313/publication/ic_201909/</link>
+      <link>https://snugnss.github.io/publication/ic_201909/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201909/</guid>
+      <guid>https://snugnss.github.io/publication/ic_201909/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LTE Signal Based Vehicle Localization in Indoor Parking Lot using Mobile Phone</title>
-      <link>http://localhost:1313/publication/ic_201906/</link>
+      <link>https://snugnss.github.io/publication/ic_201906/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201906/</guid>
+      <guid>https://snugnss.github.io/publication/ic_201906/</guid>
       <description></description>
     </item>
     

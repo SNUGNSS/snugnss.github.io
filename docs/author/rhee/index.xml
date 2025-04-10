@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rhee | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/rhee/</link>
-      <atom:link href="http://localhost:1313/author/rhee/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/rhee/</link>
+      <atom:link href="https://snugnss.github.io/author/rhee/index.xml" rel="self" type="application/rss+xml" />
     <description>Rhee</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2003 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Rhee</title>
-      <link>http://localhost:1313/author/rhee/</link>
+      <link>https://snugnss.github.io/author/rhee/</link>
     </image>
     
     <item>
       <title>A Robust Longitudinal Landing Controller to Datalink Time Delay</title>
-      <link>http://localhost:1313/publication/ic_200303/</link>
+      <link>https://snugnss.github.io/publication/ic_200303/</link>
       <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_200303/</guid>
+      <guid>https://snugnss.github.io/publication/ic_200303/</guid>
       <description></description>
     </item>
     

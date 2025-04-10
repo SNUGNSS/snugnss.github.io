@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kyoungho Sohn | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/kyoungho-sohn/</link>
-      <atom:link href="http://localhost:1313/author/kyoungho-sohn/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/kyoungho-sohn/</link>
+      <atom:link href="https://snugnss.github.io/author/kyoungho-sohn/index.xml" rel="self" type="application/rss+xml" />
     <description>Kyoungho Sohn</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Kyoungho Sohn</title>
-      <link>http://localhost:1313/author/kyoungho-sohn/</link>
+      <link>https://snugnss.github.io/author/kyoungho-sohn/</link>
     </image>
     
     <item>
       <title>“ Efficient Ionospheric Model using Wavelet for Geomagnetic Storm</title>
-      <link>http://localhost:1313/publication/ic_200902/</link>
+      <link>https://snugnss.github.io/publication/ic_200902/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_200902/</guid>
+      <guid>https://snugnss.github.io/publication/ic_200902/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A New Modeling Scheme of Satellite Ephemeris and Clock Errors for Korean WADGPS Test Bed</title>
-      <link>http://localhost:1313/publication/ic_200803/</link>
+      <link>https://snugnss.github.io/publication/ic_200803/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_200803/</guid>
+      <guid>https://snugnss.github.io/publication/ic_200803/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal Hatch Filter with an Adaptive Smoothing Window Width</title>
-      <link>http://localhost:1313/publication/ij_200804/</link>
+      <link>https://snugnss.github.io/publication/ij_200804/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ij_200804/</guid>
+      <guid>https://snugnss.github.io/publication/ij_200804/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling and Estimation of Satellite-Induced Errors for GNSS Augmentation in Korean Region</title>
-      <link>http://localhost:1313/publication/ic_200708/</link>
+      <link>https://snugnss.github.io/publication/ic_200708/</link>
       <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_200708/</guid>
+      <guid>https://snugnss.github.io/publication/ic_200708/</guid>
       <description></description>
     </item>
     

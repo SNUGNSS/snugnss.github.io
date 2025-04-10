@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Richard Langley | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/richard-langley/</link>
-      <atom:link href="http://localhost:1313/author/richard-langley/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/richard-langley/</link>
+      <atom:link href="https://snugnss.github.io/author/richard-langley/index.xml" rel="self" type="application/rss+xml" />
     <description>Richard Langley</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2006 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Richard Langley</title>
-      <link>http://localhost:1313/author/richard-langley/</link>
+      <link>https://snugnss.github.io/author/richard-langley/</link>
     </image>
     
     <item>
       <title>The effect of 2D &amp; 3D ionospheric model in interfrequency bias estimation</title>
-      <link>http://localhost:1313/publication/dc_200603/</link>
+      <link>https://snugnss.github.io/publication/dc_200603/</link>
       <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_200603/</guid>
+      <guid>https://snugnss.github.io/publication/dc_200603/</guid>
       <description></description>
     </item>
     

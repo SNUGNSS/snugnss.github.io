@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Walter | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/walter/</link>
-      <atom:link href="http://localhost:1313/author/walter/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/walter/</link>
+      <atom:link href="https://snugnss.github.io/author/walter/index.xml" rel="self" type="application/rss+xml" />
     <description>Walter</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 1996 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Walter</title>
-      <link>http://localhost:1313/author/walter/</link>
+      <link>https://snugnss.github.io/author/walter/</link>
     </image>
     
     <item>
       <title>Detection and Estimation of Multipath Error in GPS Pseudorange Measurements using Signal-To-Noise Ratio in a Stationary Single-Frequency Receiver</title>
-      <link>http://localhost:1313/publication/ic_199604/</link>
+      <link>https://snugnss.github.io/publication/ic_199604/</link>
       <pubDate>Sat, 01 Jun 1996 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_199604/</guid>
+      <guid>https://snugnss.github.io/publication/ic_199604/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Future Satellite Navigation System: Wide-area Augmentation System (WAAS)</title>
-      <link>http://localhost:1313/publication/ic_199605/</link>
+      <link>https://snugnss.github.io/publication/ic_199605/</link>
       <pubDate>Sat, 01 Jun 1996 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_199605/</guid>
+      <guid>https://snugnss.github.io/publication/ic_199605/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Generation of Ionospheric Error and Confidence Estimates for WAAS</title>
-      <link>http://localhost:1313/publication/ic_199603/</link>
+      <link>https://snugnss.github.io/publication/ic_199603/</link>
       <pubDate>Sat, 01 Jun 1996 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_199603/</guid>
+      <guid>https://snugnss.github.io/publication/ic_199603/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPS Satellite Ephemeris Error Estimation using National Satellite Testbed (NSTB) Data</title>
-      <link>http://localhost:1313/publication/ic_199601/</link>
+      <link>https://snugnss.github.io/publication/ic_199601/</link>
       <pubDate>Sat, 01 Jun 1996 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_199601/</guid>
+      <guid>https://snugnss.github.io/publication/ic_199601/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quality Control Algorithms on Wide-area Reference Station for WAAS</title>
-      <link>http://localhost:1313/publication/ic_199602/</link>
+      <link>https://snugnss.github.io/publication/ic_199602/</link>
       <pubDate>Sat, 01 Jun 1996 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_199602/</guid>
+      <guid>https://snugnss.github.io/publication/ic_199602/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Validation of the RTCA Message Format for WAAS</title>
-      <link>http://localhost:1313/publication/ic_199507/</link>
+      <link>https://snugnss.github.io/publication/ic_199507/</link>
       <pubDate>Fri, 01 Sep 1995 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_199507/</guid>
+      <guid>https://snugnss.github.io/publication/ic_199507/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparison of Full Vector and Common View WAAS Algorithms</title>
-      <link>http://localhost:1313/publication/ic_199505/</link>
+      <link>https://snugnss.github.io/publication/ic_199505/</link>
       <pubDate>Thu, 01 Jun 1995 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_199505/</guid>
+      <guid>https://snugnss.github.io/publication/ic_199505/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real-time Flight Test Result of Wide-Area Differential GPS (WADGPS)</title>
-      <link>http://localhost:1313/publication/ic_199504/</link>
+      <link>https://snugnss.github.io/publication/ic_199504/</link>
       <pubDate>Sat, 01 Apr 1995 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_199504/</guid>
+      <guid>https://snugnss.github.io/publication/ic_199504/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real-time Flight Demonstration of Wide-Area Differential GPS (WADGPS)</title>
-      <link>http://localhost:1313/publication/ic_199503/</link>
+      <link>https://snugnss.github.io/publication/ic_199503/</link>
       <pubDate>Wed, 01 Feb 1995 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_199503/</guid>
+      <guid>https://snugnss.github.io/publication/ic_199503/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluation of Orbit and Clock Models for Real Time WAAS</title>
-      <link>http://localhost:1313/publication/ic_199502/</link>
+      <link>https://snugnss.github.io/publication/ic_199502/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_199502/</guid>
+      <guid>https://snugnss.github.io/publication/ic_199502/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Ionospheric Delay Improvement of the Stanford WAAS Network</title>
-      <link>http://localhost:1313/publication/ic_199501/</link>
+      <link>https://snugnss.github.io/publication/ic_199501/</link>
       <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_199501/</guid>
+      <guid>https://snugnss.github.io/publication/ic_199501/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flight Trials of the Wide-Area Augmentation System (WAAS)</title>
-      <link>http://localhost:1313/publication/ic_199403/</link>
+      <link>https://snugnss.github.io/publication/ic_199403/</link>
       <pubDate>Thu, 01 Sep 1994 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_199403/</guid>
+      <guid>https://snugnss.github.io/publication/ic_199403/</guid>
       <description></description>
     </item>
     

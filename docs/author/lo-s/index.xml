@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lo S. | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/lo-s./</link>
-      <atom:link href="http://localhost:1313/author/lo-s./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/lo-s./</link>
+      <atom:link href="https://snugnss.github.io/author/lo-s./index.xml" rel="self" type="application/rss+xml" />
     <description>Lo S.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 1997 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Lo S.</title>
-      <link>http://localhost:1313/author/lo-s./</link>
+      <link>https://snugnss.github.io/author/lo-s./</link>
     </image>
     
     <item>
       <title>Algorithms for Crossover Point Determination</title>
-      <link>http://localhost:1313/publication/ij_199704/</link>
+      <link>https://snugnss.github.io/publication/ij_199704/</link>
       <pubDate>Sun, 01 Jun 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ij_199704/</guid>
+      <guid>https://snugnss.github.io/publication/ij_199704/</guid>
       <description></description>
     </item>
     

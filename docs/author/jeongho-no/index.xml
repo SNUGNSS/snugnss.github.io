@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeongho No | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/jeongho-no/</link>
-      <atom:link href="http://localhost:1313/author/jeongho-no/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/jeongho-no/</link>
+      <atom:link href="https://snugnss.github.io/author/jeongho-no/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeongho No</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Nov 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Jeongho No</title>
-      <link>http://localhost:1313/author/jeongho-no/</link>
+      <link>https://snugnss.github.io/author/jeongho-no/</link>
     </image>
     
     <item>
       <title>저궤도 위성용 위성항법 수신기 항법필터 개발</title>
-      <link>http://localhost:1313/publication/dc_201304/</link>
+      <link>https://snugnss.github.io/publication/dc_201304/</link>
       <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201304/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201304/</guid>
       <description></description>
     </item>
     
     <item>
       <title>저궤도 위성용 정밀궤도 계산모델 개발</title>
-      <link>http://localhost:1313/publication/dj_201207/</link>
+      <link>https://snugnss.github.io/publication/dj_201207/</link>
       <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dj_201207/</guid>
+      <guid>https://snugnss.github.io/publication/dj_201207/</guid>
       <description></description>
     </item>
     
     <item>
       <title>저궤도 위성용 위성항법 수신기 항법필터 개발</title>
-      <link>http://localhost:1313/publication/dc_201211/</link>
+      <link>https://snugnss.github.io/publication/dc_201211/</link>
       <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201211/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201211/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Samok Gu (KARI) | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/samok-gu-kari/</link>
-      <atom:link href="http://localhost:1313/author/samok-gu-kari/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/samok-gu-kari/</link>
+      <atom:link href="https://snugnss.github.io/author/samok-gu-kari/index.xml" rel="self" type="application/rss+xml" />
     <description>Samok Gu (KARI)</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Nov 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Samok Gu (KARI)</title>
-      <link>http://localhost:1313/author/samok-gu-kari/</link>
+      <link>https://snugnss.github.io/author/samok-gu-kari/</link>
     </image>
     
     <item>
       <title>4Hz GPS 수신기만을 이용한 소형체공형무인기 비행제어시스템 설계 및 비행시험</title>
-      <link>http://localhost:1313/publication/dc_200911/</link>
+      <link>https://snugnss.github.io/publication/dc_200911/</link>
       <pubDate>Thu, 12 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_200911/</guid>
+      <guid>https://snugnss.github.io/publication/dc_200911/</guid>
       <description></description>
     </item>
     
     <item>
       <title>소형 체공형 무인기 공력계수 추정 및 보정</title>
-      <link>http://localhost:1313/publication/dc_200910/</link>
+      <link>https://snugnss.github.io/publication/dc_200910/</link>
       <pubDate>Thu, 12 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_200910/</guid>
+      <guid>https://snugnss.github.io/publication/dc_200910/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cheolho Im | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/cheolho-im/</link>
-      <atom:link href="http://localhost:1313/author/cheolho-im/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/cheolho-im/</link>
+      <atom:link href="https://snugnss.github.io/author/cheolho-im/index.xml" rel="self" type="application/rss+xml" />
     <description>Cheolho Im</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2001 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Cheolho Im</title>
-      <link>http://localhost:1313/author/cheolho-im/</link>
+      <link>https://snugnss.github.io/author/cheolho-im/</link>
     </image>
     
     <item>
       <title>CDGPS를 이용한 무인항공기 정밀 위치측정</title>
-      <link>http://localhost:1313/publication/dc_200107/</link>
+      <link>https://snugnss.github.io/publication/dc_200107/</link>
       <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_200107/</guid>
+      <guid>https://snugnss.github.io/publication/dc_200107/</guid>
       <description></description>
     </item>
     

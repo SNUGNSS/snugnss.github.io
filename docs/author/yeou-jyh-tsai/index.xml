@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yeou-Jyh Tsai | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/yeou-jyh-tsai/</link>
-      <atom:link href="http://localhost:1313/author/yeou-jyh-tsai/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/yeou-jyh-tsai/</link>
+      <atom:link href="https://snugnss.github.io/author/yeou-jyh-tsai/index.xml" rel="self" type="application/rss+xml" />
     <description>Yeou-Jyh Tsai</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 1995 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Yeou-Jyh Tsai</title>
-      <link>http://localhost:1313/author/yeou-jyh-tsai/</link>
+      <link>https://snugnss.github.io/author/yeou-jyh-tsai/</link>
     </image>
     
     <item>
       <title>An Algorithm for Inter-frequency Bias Calibration and Application to WAAS Ionosphere Modeling</title>
-      <link>http://localhost:1313/publication/ic_199506/</link>
+      <link>https://snugnss.github.io/publication/ic_199506/</link>
       <pubDate>Fri, 01 Sep 1995 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_199506/</guid>
+      <guid>https://snugnss.github.io/publication/ic_199506/</guid>
       <description></description>
     </item>
     

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taesu No | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/taesu-no/</link>
-      <atom:link href="http://localhost:1313/author/taesu-no/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/taesu-no/</link>
+      <atom:link href="https://snugnss.github.io/author/taesu-no/index.xml" rel="self" type="application/rss+xml" />
     <description>Taesu No</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Nov 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Taesu No</title>
-      <link>http://localhost:1313/author/taesu-no/</link>
+      <link>https://snugnss.github.io/author/taesu-no/</link>
     </image>
     
     <item>
       <title>GPS 방송 EOP 데이터를 이용한 저궤도 위성의 항법해 좌표변환 정확도 예상</title>
-      <link>http://localhost:1313/publication/dc_201207/</link>
+      <link>https://snugnss.github.io/publication/dc_201207/</link>
       <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201207/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201207/</guid>
       <description></description>
     </item>
     
     <item>
       <title>저궤도 위성에 탑재 가능한 GPS/Galileo 복합 수신기 기술 개발</title>
-      <link>http://localhost:1313/publication/dc_201206/</link>
+      <link>https://snugnss.github.io/publication/dc_201206/</link>
       <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201206/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201206/</guid>
       <description></description>
     </item>
     
     <item>
       <title>저궤도 위성에 탑재 가능한 GPS/Galileo 복합 수신기 기술 개발</title>
-      <link>http://localhost:1313/publication/dc_201113/</link>
+      <link>https://snugnss.github.io/publication/dc_201113/</link>
       <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201113/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201113/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Equinox 궤도 요소를 이용한 OOP의 성능 분석</title>
-      <link>http://localhost:1313/publication/dc_201111/</link>
+      <link>https://snugnss.github.io/publication/dc_201111/</link>
       <pubDate>Fri, 21 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201111/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201111/</guid>
       <description></description>
     </item>
     
     <item>
       <title>저궤도 위성의 GPS 데이터를 이용한 OOP의 성능 분석</title>
-      <link>http://localhost:1313/publication/dc_201101/</link>
+      <link>https://snugnss.github.io/publication/dc_201101/</link>
       <pubDate>Fri, 15 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201101/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201101/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KOMPSAT-2 GPS 데이터를 이용한 위성 궤도 전파기의 저궤도에 대한 적합성 분석</title>
-      <link>http://localhost:1313/publication/dc_201003/</link>
+      <link>https://snugnss.github.io/publication/dc_201003/</link>
       <pubDate>Thu, 28 Oct 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201003/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201003/</guid>
       <description></description>
     </item>
     
