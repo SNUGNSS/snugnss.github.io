@@ -2,141 +2,141 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jaeuk Park | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/jaeuk-park/</link>
-      <atom:link href="https://snugnss.github.io/author/jaeuk-park/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jaeuk-park/</link>
+      <atom:link href="http://localhost:1313/author/jaeuk-park/index.xml" rel="self" type="application/rss+xml" />
     <description>Jaeuk Park</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/jaeuk-park/avatar_hu7735538514044536182.jpg</url>
+      <url>http://localhost:1313/author/jaeuk-park/avatar_hu7735538514044536182.jpg</url>
       <title>Jaeuk Park</title>
-      <link>https://snugnss.github.io/author/jaeuk-park/</link>
+      <link>http://localhost:1313/author/jaeuk-park/</link>
     </image>
     
     <item>
       <title>GPS 반송파 측정치를 이용한 대류층 3차원 관측 및 정밀 자세결정 큐브위성 SNUGLITE-II 운용 결과</title>
-      <link>https://snugnss.github.io/publication/dj_202304/</link>
+      <link>http://localhost:1313/publication/dj_202304/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dj_202304/</guid>
+      <guid>http://localhost:1313/publication/dj_202304/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perforance Analysis of Orbit and Clock Correction of Wide Area Differential Regional Navigation Satellite System</title>
-      <link>https://snugnss.github.io/publication/ic_202307/</link>
+      <link>http://localhost:1313/publication/ic_202307/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_202307/</guid>
+      <guid>http://localhost:1313/publication/ic_202307/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance Analysis of Real-time Orbit Determination and Prediction for Navigation Message of Regional Navigation Satellite System</title>
-      <link>https://snugnss.github.io/publication/dj_202303/</link>
+      <link>http://localhost:1313/publication/dj_202303/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dj_202303/</guid>
+      <guid>http://localhost:1313/publication/dj_202303/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNUGLITE-III 큐브위성 전력계 상세설계</title>
-      <link>https://snugnss.github.io/publication/dc_202304/</link>
+      <link>http://localhost:1313/publication/dc_202304/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202304/</guid>
+      <guid>http://localhost:1313/publication/dc_202304/</guid>
       <description></description>
     </item>
     
     <item>
       <title>궤도 동역학을 이용한 달 위성 항법 시스템의 Frozen Orbit 설계</title>
-      <link>https://snugnss.github.io/publication/dc_202305/</link>
+      <link>http://localhost:1313/publication/dc_202305/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202305/</guid>
+      <guid>http://localhost:1313/publication/dc_202305/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNUGLITE-III 큐브위성 전력계 예비설계</title>
-      <link>https://snugnss.github.io/publication/dc_202302/</link>
+      <link>http://localhost:1313/publication/dc_202302/</link>
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202302/</guid>
+      <guid>http://localhost:1313/publication/dc_202302/</guid>
       <description></description>
     </item>
     
     <item>
       <title>편대비행 기반 GPS RO 큐브위성 SNUGLITE-III 예비설계</title>
-      <link>https://snugnss.github.io/publication/dc_202301/</link>
+      <link>http://localhost:1313/publication/dc_202301/</link>
       <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202301/</guid>
+      <guid>http://localhost:1313/publication/dc_202301/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Verification of Space GPS Receiver Navigation Performance Based on Full-orbit Navigation Solutions of CubeSat</title>
-      <link>https://snugnss.github.io/publication/ic_202301/</link>
+      <link>http://localhost:1313/publication/ic_202301/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_202301/</guid>
+      <guid>http://localhost:1313/publication/ic_202301/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNUGLITE-II 큐브위성 지상국 구성 및 지상 운용 시험</title>
-      <link>https://snugnss.github.io/publication/dc_202209/</link>
+      <link>http://localhost:1313/publication/dc_202209/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202209/</guid>
+      <guid>http://localhost:1313/publication/dc_202209/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNUGLITE-II 큐브위성의 초기운용 결과</title>
-      <link>https://snugnss.github.io/publication/dc_202208/</link>
+      <link>http://localhost:1313/publication/dc_202208/</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202208/</guid>
+      <guid>http://localhost:1313/publication/dc_202208/</guid>
       <description></description>
     </item>
     
     <item>
       <title>가중 최소자승법 기반 지역 위성항법시스템 궤도 결정 정확도 분석</title>
-      <link>https://snugnss.github.io/publication/dc_202203/</link>
+      <link>http://localhost:1313/publication/dc_202203/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202203/</guid>
+      <guid>http://localhost:1313/publication/dc_202203/</guid>
       <description></description>
     </item>
     
     <item>
       <title>달 항법 시스템 구축을 위한 궤도 예비 설계</title>
-      <link>https://snugnss.github.io/publication/dc_202205/</link>
+      <link>http://localhost:1313/publication/dc_202205/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202205/</guid>
+      <guid>http://localhost:1313/publication/dc_202205/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IGSO/GEO 항법위성 궤도 전파 정확도에 대한 섭동력 영향 분석</title>
-      <link>https://snugnss.github.io/publication/dc_202108/</link>
+      <link>http://localhost:1313/publication/dc_202108/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202108/</guid>
+      <guid>http://localhost:1313/publication/dc_202108/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SNGLITE-II 큐브위성의 전력계 분석</title>
-      <link>https://snugnss.github.io/publication/dc_202103/</link>
+      <link>http://localhost:1313/publication/dc_202103/</link>
       <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202103/</guid>
+      <guid>http://localhost:1313/publication/dc_202103/</guid>
       <description></description>
     </item>
     
     <item>
       <title>한국 달 탐사선의 항법을 위한 궤도 설계</title>
-      <link>https://snugnss.github.io/publication/dc_202101/</link>
+      <link>http://localhost:1313/publication/dc_202101/</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202101/</guid>
+      <guid>http://localhost:1313/publication/dc_202101/</guid>
       <description></description>
     </item>
     
     <item>
       <title>위성항법신호를 이용한 3D 지구대기관측 큐브위성 SNUGLITE-II 예비설계</title>
-      <link>https://snugnss.github.io/publication/dc_202001/</link>
+      <link>http://localhost:1313/publication/dc_202001/</link>
       <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202001/</guid>
+      <guid>http://localhost:1313/publication/dc_202001/</guid>
       <description></description>
     </item>
     

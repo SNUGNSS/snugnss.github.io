@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dusik Kim | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/dusik-kim/</link>
-      <atom:link href="https://snugnss.github.io/author/dusik-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/dusik-kim/</link>
+      <atom:link href="http://localhost:1313/author/dusik-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Dusik Kim</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Dusik Kim</title>
-      <link>https://snugnss.github.io/author/dusik-kim/</link>
+      <link>http://localhost:1313/author/dusik-kim/</link>
     </image>
     
     <item>
       <title>NDGPS 관측자료의 품질향상을 위한 비교실험</title>
-      <link>https://snugnss.github.io/publication/dj_201204/</link>
+      <link>http://localhost:1313/publication/dj_201204/</link>
       <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dj_201204/</guid>
+      <guid>http://localhost:1313/publication/dj_201204/</guid>
       <description></description>
     </item>
     

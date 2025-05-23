@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonghwa Kim | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/jonghwa-kim/</link>
-      <atom:link href="https://snugnss.github.io/author/jonghwa-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jonghwa-kim/</link>
+      <atom:link href="http://localhost:1313/author/jonghwa-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonghwa Kim</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 1998 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Jonghwa Kim</title>
-      <link>https://snugnss.github.io/author/jonghwa-kim/</link>
+      <link>http://localhost:1313/author/jonghwa-kim/</link>
     </image>
     
     <item>
       <title>헬리콥터를 이용한 실시간 DGPS 비행실험</title>
-      <link>https://snugnss.github.io/publication/dc_199803/</link>
+      <link>http://localhost:1313/publication/dc_199803/</link>
       <pubDate>Sun, 01 Nov 1998 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_199803/</guid>
+      <guid>http://localhost:1313/publication/dc_199803/</guid>
       <description></description>
     </item>
     
     <item>
       <title>헬리콥터를 이용한 실시간 DGPS 비행실험</title>
-      <link>https://snugnss.github.io/publication/dc_199805/</link>
+      <link>http://localhost:1313/publication/dc_199805/</link>
       <pubDate>Sun, 01 Nov 1998 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_199805/</guid>
+      <guid>http://localhost:1313/publication/dc_199805/</guid>
       <description></description>
     </item>
     

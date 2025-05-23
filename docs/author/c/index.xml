@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/c./</link>
-      <atom:link href="https://snugnss.github.io/author/c./index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/c./</link>
+      <atom:link href="http://localhost:1313/author/c./index.xml" rel="self" type="application/rss+xml" />
     <description>C.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2000 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>C.</title>
-      <link>https://snugnss.github.io/author/c./</link>
+      <link>http://localhost:1313/author/c./</link>
     </image>
     
     <item>
       <title>Development and Flight Test of Aircraft Landing System Using DGPS</title>
-      <link>https://snugnss.github.io/publication/ic_200004/</link>
+      <link>http://localhost:1313/publication/ic_200004/</link>
       <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200004/</guid>
+      <guid>http://localhost:1313/publication/ic_200004/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance Analysis of Wide Area Differential GPS (Wadgps) in East-Asia</title>
-      <link>https://snugnss.github.io/publication/ij_199901/</link>
+      <link>http://localhost:1313/publication/ij_199901/</link>
       <pubDate>Sat, 01 Aug 1998 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_199901/</guid>
+      <guid>http://localhost:1313/publication/ij_199901/</guid>
       <description></description>
     </item>
     

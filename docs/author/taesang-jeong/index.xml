@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taesang Jeong | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/taesang-jeong/</link>
-      <atom:link href="https://snugnss.github.io/author/taesang-jeong/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/taesang-jeong/</link>
+      <atom:link href="http://localhost:1313/author/taesang-jeong/index.xml" rel="self" type="application/rss+xml" />
     <description>Taesang Jeong</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Taesang Jeong</title>
-      <link>https://snugnss.github.io/author/taesang-jeong/</link>
+      <link>http://localhost:1313/author/taesang-jeong/</link>
     </image>
     
     <item>
       <title>의사위성의 펄싱방법에 대한 GPS 소프트웨어 수신기의 L1, L2C 신호획득 성능분석</title>
-      <link>https://snugnss.github.io/publication/dj_201206/</link>
+      <link>http://localhost:1313/publication/dj_201206/</link>
       <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dj_201206/</guid>
+      <guid>http://localhost:1313/publication/dj_201206/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>임철순 | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/%EC%9E%84%EC%B2%A0%EC%88%9C/</link>
-      <atom:link href="https://snugnss.github.io/author/%EC%9E%84%EC%B2%A0%EC%88%9C/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/%EC%9E%84%EC%B2%A0%EC%88%9C/</link>
+      <atom:link href="http://localhost:1313/author/%EC%9E%84%EC%B2%A0%EC%88%9C/index.xml" rel="self" type="application/rss+xml" />
     <description>임철순</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>임철순</title>
-      <link>https://snugnss.github.io/author/%EC%9E%84%EC%B2%A0%EC%88%9C/</link>
+      <link>http://localhost:1313/author/%EC%9E%84%EC%B2%A0%EC%88%9C/</link>
     </image>
     
     <item>
       <title>Feasibility Study on Integration of SSR Correction into Network RTK to Provide More Robust Service</title>
-      <link>https://snugnss.github.io/publication/dj_201806/</link>
+      <link>http://localhost:1313/publication/dj_201806/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dj_201806/</guid>
+      <guid>http://localhost:1313/publication/dj_201806/</guid>
       <description></description>
     </item>
     

@@ -2,525 +2,525 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taikjin Lee | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/taikjin-lee/</link>
-      <atom:link href="https://snugnss.github.io/author/taikjin-lee/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/taikjin-lee/</link>
+      <atom:link href="http://localhost:1313/author/taikjin-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Taikjin Lee</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/taikjin-lee/avatar_hu8036400849868505382.jpg</url>
+      <url>http://localhost:1313/author/taikjin-lee/avatar_hu8036400849868505382.jpg</url>
       <title>Taikjin Lee</title>
-      <link>https://snugnss.github.io/author/taikjin-lee/</link>
+      <link>http://localhost:1313/author/taikjin-lee/</link>
     </image>
     
     <item>
       <title>Experimental Study of Single-Transmitter-Based Precise Indoor Positioning System</title>
-      <link>https://snugnss.github.io/publication/ij_202002/</link>
+      <link>http://localhost:1313/publication/ij_202002/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_202002/</guid>
+      <guid>http://localhost:1313/publication/ij_202002/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LTE Signal Based Vehicle Positioning System in Tunnel Environment</title>
-      <link>https://snugnss.github.io/publication/ic_201909/</link>
+      <link>http://localhost:1313/publication/ic_201909/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201909/</guid>
+      <guid>http://localhost:1313/publication/ic_201909/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LTE Signal Based Vehicle Localization in Indoor Parking Lot using Mobile Phone</title>
-      <link>https://snugnss.github.io/publication/ic_201906/</link>
+      <link>http://localhost:1313/publication/ic_201906/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201906/</guid>
+      <guid>http://localhost:1313/publication/ic_201906/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single Transmitted based Precise Positioning System using Multiple Antenna: Experimental Test</title>
-      <link>https://snugnss.github.io/publication/ic_201901/</link>
+      <link>http://localhost:1313/publication/ic_201901/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201901/</guid>
+      <guid>http://localhost:1313/publication/ic_201901/</guid>
       <description></description>
     </item>
     
     <item>
       <title>모바일폰을 활용한 터널에서의 이동체 위치추적</title>
-      <link>https://snugnss.github.io/publication/dc_201808/</link>
+      <link>http://localhost:1313/publication/dc_201808/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201808/</guid>
+      <guid>http://localhost:1313/publication/dc_201808/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Precise Localization Technology of Mobile Phone on a Vehicle in Tunnel using LTE Signal Based Surface Correlation</title>
-      <link>https://snugnss.github.io/publication/ic_201805/</link>
+      <link>http://localhost:1313/publication/ic_201805/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201805/</guid>
+      <guid>http://localhost:1313/publication/ic_201805/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WiFi 신호 미약 환경에서의 실내 항법 시스템 개발</title>
-      <link>https://snugnss.github.io/publication/dc_201711/</link>
+      <link>http://localhost:1313/publication/dc_201711/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201711/</guid>
+      <guid>http://localhost:1313/publication/dc_201711/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WiFi and PDR based Robust SLAM Implementation using Surface Correlation</title>
-      <link>https://snugnss.github.io/publication/ic_201710/</link>
+      <link>http://localhost:1313/publication/ic_201710/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201710/</guid>
+      <guid>http://localhost:1313/publication/ic_201710/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WiFi Based Robust Positioning System in Large Scale and Weak Signal Environment</title>
-      <link>https://snugnss.github.io/publication/ic_201707/</link>
+      <link>http://localhost:1313/publication/ic_201707/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201707/</guid>
+      <guid>http://localhost:1313/publication/ic_201707/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WiFiSLAM을 이용한 Radio Map 생성 및 성능 분석</title>
-      <link>https://snugnss.github.io/publication/dc_201608/</link>
+      <link>http://localhost:1313/publication/dc_201608/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201608/</guid>
+      <guid>http://localhost:1313/publication/dc_201608/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motion Recognition-Based 3D Pedestrian Navigation System Using Smartphone</title>
-      <link>https://snugnss.github.io/publication/ij_201603/</link>
+      <link>http://localhost:1313/publication/ij_201603/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_201603/</guid>
+      <guid>http://localhost:1313/publication/ij_201603/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Particle Filter Based WiFi Positioning System Implementation Using WiFiSLAM Radio Map</title>
-      <link>https://snugnss.github.io/publication/ic_201603/</link>
+      <link>http://localhost:1313/publication/ic_201603/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201603/</guid>
+      <guid>http://localhost:1313/publication/ic_201603/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Single Distance Measuring Equipment (DME) Station-Based Positioning System for Alternative Position Navigation  Timing (APNT)</title>
-      <link>https://snugnss.github.io/publication/ij_201506/</link>
+      <link>http://localhost:1313/publication/ij_201506/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_201506/</guid>
+      <guid>http://localhost:1313/publication/ij_201506/</guid>
       <description></description>
     </item>
     
     <item>
       <title>맵매칭을 이용한 스마트폰 기반 실내 항법 기술</title>
-      <link>https://snugnss.github.io/publication/dc_201506/</link>
+      <link>http://localhost:1313/publication/dc_201506/</link>
       <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201506/</guid>
+      <guid>http://localhost:1313/publication/dc_201506/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smartphone Based Indoor Navigation System Using Motion Recognition and Map Matching Technology</title>
-      <link>https://snugnss.github.io/publication/ic_201509/</link>
+      <link>http://localhost:1313/publication/ic_201509/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201509/</guid>
+      <guid>http://localhost:1313/publication/ic_201509/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hybrid Model based Motion Recogniton for Smartphone User</title>
-      <link>https://snugnss.github.io/publication/ij_201404/</link>
+      <link>http://localhost:1313/publication/ij_201404/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_201404/</guid>
+      <guid>http://localhost:1313/publication/ij_201404/</guid>
       <description></description>
     </item>
     
     <item>
       <title>“Smartphone based 3D PDR System Development and its Performance Analysis in Various Indoor Environment</title>
-      <link>https://snugnss.github.io/publication/ic_201411/</link>
+      <link>http://localhost:1313/publication/ic_201411/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201411/</guid>
+      <guid>http://localhost:1313/publication/ic_201411/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Pseudolite-Based Positioning System for Legacy GNSS Receivers</title>
-      <link>https://snugnss.github.io/publication/ij_201403/</link>
+      <link>http://localhost:1313/publication/ij_201403/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_201403/</guid>
+      <guid>http://localhost:1313/publication/ij_201403/</guid>
       <description></description>
     </item>
     
     <item>
       <title>다중 RF신호 및 다중 안테나를 이용한 위치 결정 시스템</title>
-      <link>https://snugnss.github.io/publication/dc_201201/</link>
+      <link>http://localhost:1313/publication/dc_201201/</link>
       <pubDate>Sat, 02 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201201/</guid>
+      <guid>http://localhost:1313/publication/dc_201201/</guid>
       <description></description>
     </item>
     
     <item>
       <title>“A New Concept of APNT: MOSAIC/DME 3D- Positioning with a Single DME Station</title>
-      <link>https://snugnss.github.io/publication/ic_201201/</link>
+      <link>http://localhost:1313/publication/ic_201201/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201201/</guid>
+      <guid>http://localhost:1313/publication/ic_201201/</guid>
       <description></description>
     </item>
     
     <item>
       <title>“Implementation and Outdoor Test Results for GPS and Pseudolite System</title>
-      <link>https://snugnss.github.io/publication/ic_201208/</link>
+      <link>http://localhost:1313/publication/ic_201208/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201208/</guid>
+      <guid>http://localhost:1313/publication/ic_201208/</guid>
       <description></description>
     </item>
     
     <item>
       <title>“Indoor Positioning System using Single Pseudolite with Multiple Antenna</title>
-      <link>https://snugnss.github.io/publication/ic_201205/</link>
+      <link>http://localhost:1313/publication/ic_201205/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201205/</guid>
+      <guid>http://localhost:1313/publication/ic_201205/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Study on the Availability of Vector Tracking Loop in Outdoor Field for GPS and Pseudolite System</title>
-      <link>https://snugnss.github.io/publication/ic_201108/</link>
+      <link>http://localhost:1313/publication/ic_201108/</link>
       <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201108/</guid>
+      <guid>http://localhost:1313/publication/ic_201108/</guid>
       <description></description>
     </item>
     
     <item>
       <title>멀티 안테나와 반송파위상 측정치를 이용한 의사위성 위치 측정 방법</title>
-      <link>https://snugnss.github.io/publication/dc_201102/</link>
+      <link>http://localhost:1313/publication/dc_201102/</link>
       <pubDate>Fri, 15 Apr 2011 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201102/</guid>
+      <guid>http://localhost:1313/publication/dc_201102/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A New Approach to Calibrate Pseudolite Position using Multi-Antenna and Carrier Phase Measurement Without Cycle Ambiguity</title>
-      <link>https://snugnss.github.io/publication/ic_201103/</link>
+      <link>http://localhost:1313/publication/ic_201103/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201103/</guid>
+      <guid>http://localhost:1313/publication/ic_201103/</guid>
       <description></description>
     </item>
     
     <item>
       <title>실내환경에서 마이크로폰 배열을 이용한 음원 추적 알고리즘</title>
-      <link>https://snugnss.github.io/publication/dc_201012/</link>
+      <link>http://localhost:1313/publication/dc_201012/</link>
       <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201012/</guid>
+      <guid>http://localhost:1313/publication/dc_201012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>의사위성과 자이로스코프 및 지자기센서를 이용한 청소로봇의 위치 및 방위각 추정 기술 구현</title>
-      <link>https://snugnss.github.io/publication/dc_201006/</link>
+      <link>http://localhost:1313/publication/dc_201006/</link>
       <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201006/</guid>
+      <guid>http://localhost:1313/publication/dc_201006/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implementation of a Vector-based Tracking Loop Receiver in a Pseudolite Navigation System</title>
-      <link>https://snugnss.github.io/publication/ij_201002/</link>
+      <link>http://localhost:1313/publication/ij_201002/</link>
       <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_201002/</guid>
+      <guid>http://localhost:1313/publication/ij_201002/</guid>
       <description></description>
     </item>
     
     <item>
       <title>저가 IMU와 Magnetometer를 이용한 보행자용 실내항법 알고리즘</title>
-      <link>https://snugnss.github.io/publication/dc_201002/</link>
+      <link>http://localhost:1313/publication/dc_201002/</link>
       <pubDate>Thu, 15 Apr 2010 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201002/</guid>
+      <guid>http://localhost:1313/publication/dc_201002/</guid>
       <description></description>
     </item>
     
     <item>
       <title>반향음과 잡음 환경을 고려한 실시간 소리 추적 시스템</title>
-      <link>https://snugnss.github.io/publication/dj_201003/</link>
+      <link>http://localhost:1313/publication/dj_201003/</link>
       <pubDate>Mon, 01 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dj_201003/</guid>
+      <guid>http://localhost:1313/publication/dj_201003/</guid>
       <description></description>
     </item>
     
     <item>
       <title>USB RF 신호 수집장치를 활용한 실시간 소프트웨어 GPS 수신기의 개발</title>
-      <link>https://snugnss.github.io/publication/dc_201001/</link>
+      <link>http://localhost:1313/publication/dc_201001/</link>
       <pubDate>Wed, 20 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201001/</guid>
+      <guid>http://localhost:1313/publication/dc_201001/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development of Real-Time Software GPS Receiver using Windows Visual C&#43;&#43; and USB RF Front-end</title>
-      <link>https://snugnss.github.io/publication/ic_201001/</link>
+      <link>http://localhost:1313/publication/ic_201001/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201001/</guid>
+      <guid>http://localhost:1313/publication/ic_201001/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPS(L1)/Galileo(E1/E5a) 다중 신호 통합 수신 소프트웨어 플랫폼 개발</title>
-      <link>https://snugnss.github.io/publication/dc_200906/</link>
+      <link>http://localhost:1313/publication/dc_200906/</link>
       <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200906/</guid>
+      <guid>http://localhost:1313/publication/dc_200906/</guid>
       <description></description>
     </item>
     
     <item>
       <title>한빛호 차세대 항법 시스템 측정 능력 고도화 방안</title>
-      <link>https://snugnss.github.io/publication/dc_200907/</link>
+      <link>http://localhost:1313/publication/dc_200907/</link>
       <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200907/</guid>
+      <guid>http://localhost:1313/publication/dc_200907/</guid>
       <description></description>
     </item>
     
     <item>
       <title>“Solutions for Implementing Pseudolite Indoor Navigation System by Utilizing New Pulsing Scheme and RFID-based Ambiguity Searching Method</title>
-      <link>https://snugnss.github.io/publication/ic_200908/</link>
+      <link>http://localhost:1313/publication/ic_200908/</link>
       <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200908/</guid>
+      <guid>http://localhost:1313/publication/ic_200908/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implementation of a Vector Tracking Loop Receiver for Pseudolite Navigation System</title>
-      <link>https://snugnss.github.io/publication/ic_200910/</link>
+      <link>http://localhost:1313/publication/ic_200910/</link>
       <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200910/</guid>
+      <guid>http://localhost:1313/publication/ic_200910/</guid>
       <description></description>
     </item>
     
     <item>
       <title>저가의 마이크로폰을 이용한 효율적인 실시간 소리 위치 추적 시스템 개발</title>
-      <link>https://snugnss.github.io/publication/dc_200905/</link>
+      <link>http://localhost:1313/publication/dc_200905/</link>
       <pubDate>Fri, 16 Oct 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200905/</guid>
+      <guid>http://localhost:1313/publication/dc_200905/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AltBOC 변조 특성을 활용한 Galileo E5 신호 수신 소프트웨어 개발</title>
-      <link>https://snugnss.github.io/publication/dj_200902/</link>
+      <link>http://localhost:1313/publication/dj_200902/</link>
       <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dj_200902/</guid>
+      <guid>http://localhost:1313/publication/dj_200902/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Use of a Vector-based Tracking Loop Receiver for Solving the Near-Far Problem in a Pseudolite Navigation System</title>
-      <link>https://snugnss.github.io/publication/ic_200905/</link>
+      <link>http://localhost:1313/publication/ic_200905/</link>
       <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200905/</guid>
+      <guid>http://localhost:1313/publication/ic_200905/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extending Operational Area of Pseudolite Using Long Integration Time  Data-less Pseudolites</title>
-      <link>https://snugnss.github.io/publication/ij_200904/</link>
+      <link>http://localhost:1313/publication/ij_200904/</link>
       <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_200904/</guid>
+      <guid>http://localhost:1313/publication/ij_200904/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modified High-Resolution Correlator Technique for Short-Delayed Multipath Mitigation</title>
-      <link>https://snugnss.github.io/publication/ij_200902/</link>
+      <link>http://localhost:1313/publication/ij_200902/</link>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_200902/</guid>
+      <guid>http://localhost:1313/publication/ij_200902/</guid>
       <description></description>
     </item>
     
     <item>
       <title>해양교통시설측정선 &#39;한빛호&#39; 측정시스템 고도화 방안에 대한 연구</title>
-      <link>https://snugnss.github.io/publication/dc_200903/</link>
+      <link>http://localhost:1313/publication/dc_200903/</link>
       <pubDate>Thu, 18 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200903/</guid>
+      <guid>http://localhost:1313/publication/dc_200903/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPS(L1)/Galileo(E1/E5a) 다중 신호 통합 수신 소프트웨어 플랫폼 개발</title>
-      <link>https://snugnss.github.io/publication/dj_200901/</link>
+      <link>http://localhost:1313/publication/dj_200901/</link>
       <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dj_200901/</guid>
+      <guid>http://localhost:1313/publication/dj_200901/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Modified High Resolution Correlator Scheme for Improving the Performance of Short Delay Multipath Mitigation</title>
-      <link>https://snugnss.github.io/publication/ic_200805/</link>
+      <link>http://localhost:1313/publication/ic_200805/</link>
       <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200805/</guid>
+      <guid>http://localhost:1313/publication/ic_200805/</guid>
       <description></description>
     </item>
     
     <item>
       <title>양방향 측위기법을 이용한 스마트 의사위성 항법시스템</title>
-      <link>https://snugnss.github.io/publication/dc_200805/</link>
+      <link>http://localhost:1313/publication/dc_200805/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200805/</guid>
+      <guid>http://localhost:1313/publication/dc_200805/</guid>
       <description></description>
     </item>
     
     <item>
       <title>의사 위성과 무인 항공기를 이용한 한국형 대체 항법 시스템</title>
-      <link>https://snugnss.github.io/publication/dc_200804/</link>
+      <link>http://localhost:1313/publication/dc_200804/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200804/</guid>
+      <guid>http://localhost:1313/publication/dc_200804/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Feasibility Study on a Regional Navigation Transceiver System</title>
-      <link>https://snugnss.github.io/publication/ij_200803/</link>
+      <link>http://localhost:1313/publication/ij_200803/</link>
       <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_200803/</guid>
+      <guid>http://localhost:1313/publication/ij_200803/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smart Pseudolite Array System Using Two-way Pseudolites</title>
-      <link>https://snugnss.github.io/publication/ic_200704/</link>
+      <link>http://localhost:1313/publication/ic_200704/</link>
       <pubDate>Sat, 01 Sep 2007 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200704/</guid>
+      <guid>http://localhost:1313/publication/ic_200704/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Feasibility Study on the Regional Navigation Transceiver System Using a Transceiver Position Estimation Algorithm</title>
-      <link>https://snugnss.github.io/publication/ic_200611/</link>
+      <link>http://localhost:1313/publication/ic_200611/</link>
       <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200611/</guid>
+      <guid>http://localhost:1313/publication/ic_200611/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SBAS Signal Synchronization</title>
-      <link>https://snugnss.github.io/publication/ic_200610/</link>
+      <link>http://localhost:1313/publication/ic_200610/</link>
       <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200610/</guid>
+      <guid>http://localhost:1313/publication/ic_200610/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPS/의사위성의 통합 항법에 대한 응용 연구</title>
-      <link>https://snugnss.github.io/publication/dj_200601/</link>
+      <link>http://localhost:1313/publication/dj_200601/</link>
       <pubDate>Tue, 01 Aug 2006 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dj_200601/</guid>
+      <guid>http://localhost:1313/publication/dj_200601/</guid>
       <description></description>
     </item>
     
     <item>
       <title>의사위성을 이용한 비행실험</title>
-      <link>https://snugnss.github.io/publication/dc_200601/</link>
+      <link>http://localhost:1313/publication/dc_200601/</link>
       <pubDate>Fri, 14 Apr 2006 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200601/</guid>
+      <guid>http://localhost:1313/publication/dc_200601/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flight Test using Pseudolite Navigation System</title>
-      <link>https://snugnss.github.io/publication/dc_200507/</link>
+      <link>http://localhost:1313/publication/dc_200507/</link>
       <pubDate>Thu, 01 Dec 2005 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200507/</guid>
+      <guid>http://localhost:1313/publication/dc_200507/</guid>
       <description></description>
     </item>
     
     <item>
       <title>군의 효율적인 작전 수행을 위한 대체 항법 구성과 의사위성의 최적 배치에 대한 연구</title>
-      <link>https://snugnss.github.io/publication/dc_200504/</link>
+      <link>http://localhost:1313/publication/dc_200504/</link>
       <pubDate>Thu, 01 Dec 2005 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200504/</guid>
+      <guid>http://localhost:1313/publication/dc_200504/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applications of GPS/Pseudolite Navigation System</title>
-      <link>https://snugnss.github.io/publication/ic_200504/</link>
+      <link>http://localhost:1313/publication/ic_200504/</link>
       <pubDate>Tue, 01 Nov 2005 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200504/</guid>
+      <guid>http://localhost:1313/publication/ic_200504/</guid>
       <description></description>
     </item>
     
     <item>
       <title>비동기 의사위성을 이용한 GPS 보강 시스템</title>
-      <link>https://snugnss.github.io/publication/dc_200506/</link>
+      <link>http://localhost:1313/publication/dc_200506/</link>
       <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200506/</guid>
+      <guid>http://localhost:1313/publication/dc_200506/</guid>
       <description></description>
     </item>
     
     <item>
       <title>의사위성과 무인항공기를 이용한 한국형 대체 항법 시스템 구성에 관한 연구</title>
-      <link>https://snugnss.github.io/publication/dc_200503/</link>
+      <link>http://localhost:1313/publication/dc_200503/</link>
       <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200503/</guid>
+      <guid>http://localhost:1313/publication/dc_200503/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flight Test using Pseudolite Navigation System</title>
-      <link>https://snugnss.github.io/publication/ic_200503/</link>
+      <link>http://localhost:1313/publication/ic_200503/</link>
       <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200503/</guid>
+      <guid>http://localhost:1313/publication/ic_200503/</guid>
       <description></description>
     </item>
     
     <item>
       <title>비동기 의사위성을 이용한 GPS 보강 시스템</title>
-      <link>https://snugnss.github.io/publication/dc_200404/</link>
+      <link>http://localhost:1313/publication/dc_200404/</link>
       <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200404/</guid>
+      <guid>http://localhost:1313/publication/dc_200404/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Navigation System using Pseudolites</title>
-      <link>https://snugnss.github.io/publication/ic_200410/</link>
+      <link>http://localhost:1313/publication/ic_200410/</link>
       <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200410/</guid>
+      <guid>http://localhost:1313/publication/ic_200410/</guid>
       <description></description>
     </item>
     
     <item>
       <title>“Flight Test Results of UAV Automatic Control Using a Single-Antenna GPS Receiver</title>
-      <link>https://snugnss.github.io/publication/ic_200302/</link>
+      <link>http://localhost:1313/publication/ic_200302/</link>
       <pubDate>Fri, 01 Aug 2003 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200302/</guid>
+      <guid>http://localhost:1313/publication/ic_200302/</guid>
       <description></description>
     </item>
     
     <item>
       <title>단일 안테나 GPS 수신기를 이용한 무인항공기의 자세추정</title>
-      <link>https://snugnss.github.io/publication/dc_200204/</link>
+      <link>http://localhost:1313/publication/dc_200204/</link>
       <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200204/</guid>
+      <guid>http://localhost:1313/publication/dc_200204/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UAV Attitude Estimation Using a Single-Antenna GPS Receiver</title>
-      <link>https://snugnss.github.io/publication/ic_200204/</link>
+      <link>http://localhost:1313/publication/ic_200204/</link>
       <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200204/</guid>
+      <guid>http://localhost:1313/publication/ic_200204/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CDGPS를 이용한 무인항공기 정밀 위치측정</title>
-      <link>https://snugnss.github.io/publication/dc_200107/</link>
+      <link>http://localhost:1313/publication/dc_200107/</link>
       <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200107/</guid>
+      <guid>http://localhost:1313/publication/dc_200107/</guid>
       <description></description>
     </item>
     

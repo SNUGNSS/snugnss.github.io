@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cheolkyu Lee | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/cheolkyu-lee/</link>
-      <atom:link href="https://snugnss.github.io/author/cheolkyu-lee/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/cheolkyu-lee/</link>
+      <atom:link href="http://localhost:1313/author/cheolkyu-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Cheolkyu Lee</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Cheolkyu Lee</title>
-      <link>https://snugnss.github.io/author/cheolkyu-lee/</link>
+      <link>http://localhost:1313/author/cheolkyu-lee/</link>
     </image>
     
     <item>
       <title>A Regional Alternative Navigation Using the High Altitude Long Endurance UAVs with Onboard Pseudolite and Transceiver</title>
-      <link>https://snugnss.github.io/publication/ic_201510/</link>
+      <link>http://localhost:1313/publication/ic_201510/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201510/</guid>
+      <guid>http://localhost:1313/publication/ic_201510/</guid>
       <description></description>
     </item>
     

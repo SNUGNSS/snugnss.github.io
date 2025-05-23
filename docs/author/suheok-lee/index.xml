@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Suheok Lee | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/suheok-lee/</link>
-      <atom:link href="https://snugnss.github.io/author/suheok-lee/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/suheok-lee/</link>
+      <atom:link href="http://localhost:1313/author/suheok-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Suheok Lee</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 1998 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/suheok-lee/avatar_hu3203467846349905903.jpg</url>
+      <url>http://localhost:1313/author/suheok-lee/avatar_hu3203467846349905903.jpg</url>
       <title>Suheok Lee</title>
-      <link>https://snugnss.github.io/author/suheok-lee/</link>
+      <link>http://localhost:1313/author/suheok-lee/</link>
     </image>
     
     <item>
       <title>가중치행렬을 이용한 GPS무결성 검증기법 연구</title>
-      <link>https://snugnss.github.io/publication/dc_199804/</link>
+      <link>http://localhost:1313/publication/dc_199804/</link>
       <pubDate>Sun, 01 Nov 1998 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_199804/</guid>
+      <guid>http://localhost:1313/publication/dc_199804/</guid>
       <description></description>
     </item>
     
     <item>
       <title>가중치행렬을 이용한 GPS무결성 검증기법 연구</title>
-      <link>https://snugnss.github.io/publication/dc_199806/</link>
+      <link>http://localhost:1313/publication/dc_199806/</link>
       <pubDate>Sun, 01 Nov 1998 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_199806/</guid>
+      <guid>http://localhost:1313/publication/dc_199806/</guid>
       <description></description>
     </item>
     

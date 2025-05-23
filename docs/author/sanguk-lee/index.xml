@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sanguk Lee | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/sanguk-lee/</link>
-      <atom:link href="https://snugnss.github.io/author/sanguk-lee/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/sanguk-lee/</link>
+      <atom:link href="http://localhost:1313/author/sanguk-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Sanguk Lee</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Sanguk Lee</title>
-      <link>https://snugnss.github.io/author/sanguk-lee/</link>
+      <link>http://localhost:1313/author/sanguk-lee/</link>
     </image>
     
     <item>
       <title>Implementation of a Vector-based Tracking Loop Receiver in a Pseudolite Navigation System</title>
-      <link>https://snugnss.github.io/publication/ij_201002/</link>
+      <link>http://localhost:1313/publication/ij_201002/</link>
       <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_201002/</guid>
+      <guid>http://localhost:1313/publication/ij_201002/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPS(L1)/Galileo(E1/E5a) 다중 신호 통합 수신 소프트웨어 플랫폼 개발</title>
-      <link>https://snugnss.github.io/publication/dc_200906/</link>
+      <link>http://localhost:1313/publication/dc_200906/</link>
       <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200906/</guid>
+      <guid>http://localhost:1313/publication/dc_200906/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AltBOC 변조 특성을 활용한 Galileo E5 신호 수신 소프트웨어 개발</title>
-      <link>https://snugnss.github.io/publication/dj_200902/</link>
+      <link>http://localhost:1313/publication/dj_200902/</link>
       <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dj_200902/</guid>
+      <guid>http://localhost:1313/publication/dj_200902/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPS(L1)/Galileo(E1/E5a) 다중 신호 통합 수신 소프트웨어 플랫폼 개발</title>
-      <link>https://snugnss.github.io/publication/dj_200901/</link>
+      <link>http://localhost:1313/publication/dj_200901/</link>
       <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dj_200901/</guid>
+      <guid>http://localhost:1313/publication/dj_200901/</guid>
       <description></description>
     </item>
     

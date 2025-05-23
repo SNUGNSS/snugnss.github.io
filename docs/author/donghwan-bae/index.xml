@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Donghwan Bae | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/donghwan-bae/</link>
-      <atom:link href="https://snugnss.github.io/author/donghwan-bae/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/donghwan-bae/</link>
+      <atom:link href="http://localhost:1313/author/donghwan-bae/index.xml" rel="self" type="application/rss+xml" />
     <description>Donghwan Bae</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/donghwan-bae/avatar_hu3203467846349905903.jpg</url>
+      <url>http://localhost:1313/author/donghwan-bae/avatar_hu3203467846349905903.jpg</url>
       <title>Donghwan Bae</title>
-      <link>https://snugnss.github.io/author/donghwan-bae/</link>
+      <link>http://localhost:1313/author/donghwan-bae/</link>
     </image>
     
     <item>
       <title>UAV Gimbaled Camera 를 이용한 조난자 탐색 및 추적 알고리즘 연구</title>
-      <link>https://snugnss.github.io/publication/dc_200901/</link>
+      <link>http://localhost:1313/publication/dc_200901/</link>
       <pubDate>Thu, 16 Apr 2009 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200901/</guid>
+      <guid>http://localhost:1313/publication/dc_200901/</guid>
       <description></description>
     </item>
     

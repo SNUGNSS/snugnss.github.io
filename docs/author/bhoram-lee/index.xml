@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bhoram Lee | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/bhoram-lee/</link>
-      <atom:link href="https://snugnss.github.io/author/bhoram-lee/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/bhoram-lee/</link>
+      <atom:link href="http://localhost:1313/author/bhoram-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Bhoram Lee</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/bhoram-lee/avatar_hu9147998203501906774.jpg</url>
+      <url>http://localhost:1313/author/bhoram-lee/avatar_hu9147998203501906774.jpg</url>
       <title>Bhoram Lee</title>
-      <link>https://snugnss.github.io/author/bhoram-lee/</link>
+      <link>http://localhost:1313/author/bhoram-lee/</link>
     </image>
     
     <item>
       <title>Real-time Target Localization Using a Gimbaled Camera for a Single-antenna GPS-guided UAV</title>
-      <link>https://snugnss.github.io/publication/ij_200808/</link>
+      <link>http://localhost:1313/publication/ij_200808/</link>
       <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_200808/</guid>
+      <guid>http://localhost:1313/publication/ij_200808/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real-Time Target Localization Using a Gimbaled Camera for a Single-Antenna GPS-Based UAV</title>
-      <link>https://snugnss.github.io/publication/ic_200605/</link>
+      <link>http://localhost:1313/publication/ic_200605/</link>
       <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200605/</guid>
+      <guid>http://localhost:1313/publication/ic_200605/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deokhaw Han | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/deokhaw-han/</link>
-      <atom:link href="https://snugnss.github.io/author/deokhaw-han/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/deokhaw-han/</link>
+      <atom:link href="http://localhost:1313/author/deokhaw-han/index.xml" rel="self" type="application/rss+xml" />
     <description>Deokhaw Han</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Deokhaw Han</title>
-      <link>https://snugnss.github.io/author/deokhaw-han/</link>
+      <link>http://localhost:1313/author/deokhaw-han/</link>
     </image>
     
     <item>
       <title>Improving performance of GPS satellite DCB estimation for regional GPS networks using long‑term stability</title>
-      <link>https://snugnss.github.io/publication/ij_201801/</link>
+      <link>http://localhost:1313/publication/ij_201801/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_201801/</guid>
+      <guid>http://localhost:1313/publication/ij_201801/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Study of SBAS Position Domain Analysis Method: WAAS  EGNOS Performance Evaluation</title>
-      <link>https://snugnss.github.io/publication/ij_201605/</link>
+      <link>http://localhost:1313/publication/ij_201605/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_201605/</guid>
+      <guid>http://localhost:1313/publication/ij_201605/</guid>
       <description></description>
     </item>
     

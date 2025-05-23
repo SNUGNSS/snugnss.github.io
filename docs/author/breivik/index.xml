@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Breivik | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/breivik/</link>
-      <atom:link href="https://snugnss.github.io/author/breivik/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/breivik/</link>
+      <atom:link href="http://localhost:1313/author/breivik/index.xml" rel="self" type="application/rss+xml" />
     <description>Breivik</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 1997 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Breivik</title>
-      <link>https://snugnss.github.io/author/breivik/</link>
+      <link>http://localhost:1313/author/breivik/</link>
     </image>
     
     <item>
       <title>Estimation of Multipath Error in GPS Pseudorange Measurements</title>
-      <link>https://snugnss.github.io/publication/ij_199702/</link>
+      <link>http://localhost:1313/publication/ij_199702/</link>
       <pubDate>Sat, 01 Mar 1997 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_199702/</guid>
+      <guid>http://localhost:1313/publication/ij_199702/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detection and Estimation of Multipath Error in GPS Pseudorange Measurements using Signal-To-Noise Ratio in a Stationary Single-Frequency Receiver</title>
-      <link>https://snugnss.github.io/publication/ic_199604/</link>
+      <link>http://localhost:1313/publication/ic_199604/</link>
       <pubDate>Sat, 01 Jun 1996 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_199604/</guid>
+      <guid>http://localhost:1313/publication/ic_199604/</guid>
       <description></description>
     </item>
     
