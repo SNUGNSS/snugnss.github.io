@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S.C. Shah | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/s.c.-shah/</link>
+      <atom:link href="http://localhost:1313/author/s.c.-shah/index.xml" rel="self" type="application/rss+xml" />
+    <description>S.C. Shah</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>S.C. Shah</title>
+      <link>http://localhost:1313/author/s.c.-shah/</link>
+    </image>
+    
+    <item>
+      <title>Korean WA-DGNSS User Segment Software Design</title>
+      <link>http://localhost:1313/publication/ic_201308/</link>
+      <pubDate>Fri, 01 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201308/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

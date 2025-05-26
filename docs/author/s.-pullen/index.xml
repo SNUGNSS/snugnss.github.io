@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Pullen | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/s.-pullen/</link>
+      <atom:link href="http://localhost:1313/author/s.-pullen/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Pullen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>S. Pullen</title>
+      <link>http://localhost:1313/author/s.-pullen/</link>
+    </image>
+    
+    <item>
+      <title>Detecting RFI Through Integrity Monitoring at a DGPS Reference Station</title>
+      <link>http://localhost:1313/publication/ij_200605/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_200605/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting RFI Through Integrity Monitoring at a DGPS Reference Station</title>
+      <link>http://localhost:1313/publication/ic_200501/</link>
+      <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200501/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

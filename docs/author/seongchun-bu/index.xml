@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seongchun Bu | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/seongchun-bu/</link>
+      <atom:link href="http://localhost:1313/author/seongchun-bu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seongchun Bu</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Seongchun Bu</title>
+      <link>http://localhost:1313/author/seongchun-bu/</link>
+    </image>
+    
+    <item>
+      <title>정밀 궤도력을 이용한 SBAS 위성 보정 정보 성능 평가</title>
+      <link>http://localhost:1313/publication/dc_201607/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201607/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WAAS와 EGNOS의 위치 영역 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_201605/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201605/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

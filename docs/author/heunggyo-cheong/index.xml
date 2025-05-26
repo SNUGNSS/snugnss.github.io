@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heunggyo Cheong | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/heunggyo-cheong/</link>
+      <atom:link href="http://localhost:1313/author/heunggyo-cheong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heunggyo Cheong</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Heunggyo Cheong</title>
+      <link>http://localhost:1313/author/heunggyo-cheong/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Control of Unmanned Aircrafts Using a Single-Antenna GPS Receiver</title>
+      <link>http://localhost:1313/publication/ic_200403/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200403/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing an Automatic Control System of Unmanned Aircrafts with a Single-antenna GPS Receiver</title>
+      <link>http://localhost:1313/publication/ic_200404/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200404/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
