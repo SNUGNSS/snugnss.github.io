@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C. Pyung | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/c.-pyung/</link>
-      <atom:link href="http://localhost:1313/author/c.-pyung/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/c.-pyung/</link>
+      <atom:link href="https://snugnss.github.io/author/c.-pyung/index.xml" rel="self" type="application/rss+xml" />
     <description>C. Pyung</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2005 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>C. Pyung</title>
-      <link>http://localhost:1313/author/c.-pyung/</link>
+      <link>https://snugnss.github.io/author/c.-pyung/</link>
     </image>
     
     <item>
       <title>Performance Analysis of Korean WADGPS Algorithms with Korean NDGPS Data</title>
-      <link>http://localhost:1313/publication/ij_200502/</link>
+      <link>https://snugnss.github.io/publication/ij_200502/</link>
       <pubDate>Sun, 01 May 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ij_200502/</guid>
+      <guid>https://snugnss.github.io/publication/ij_200502/</guid>
       <description></description>
     </item>
     

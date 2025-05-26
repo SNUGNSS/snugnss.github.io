@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dohee Yun | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/dohee-yun/</link>
-      <atom:link href="http://localhost:1313/author/dohee-yun/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/dohee-yun/</link>
+      <atom:link href="https://snugnss.github.io/author/dohee-yun/index.xml" rel="self" type="application/rss+xml" />
     <description>Dohee Yun</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 1997 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Dohee Yun</title>
-      <link>http://localhost:1313/author/dohee-yun/</link>
+      <link>https://snugnss.github.io/author/dohee-yun/</link>
     </image>
     
     <item>
       <title>위성항법(GPS)을 이용한 항공기 자동착륙 시뮬레이션</title>
-      <link>http://localhost:1313/publication/dc_199706/</link>
+      <link>https://snugnss.github.io/publication/dc_199706/</link>
       <pubDate>Sat, 01 Nov 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_199706/</guid>
+      <guid>https://snugnss.github.io/publication/dc_199706/</guid>
       <description></description>
     </item>
     

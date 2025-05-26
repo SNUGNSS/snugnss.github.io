@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taeik Kang | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/taeik-kang/</link>
-      <atom:link href="http://localhost:1313/author/taeik-kang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/taeik-kang/</link>
+      <atom:link href="https://snugnss.github.io/author/taeik-kang/index.xml" rel="self" type="application/rss+xml" />
     <description>Taeik Kang</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2007 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Taeik Kang</title>
-      <link>http://localhost:1313/author/taeik-kang/</link>
+      <link>https://snugnss.github.io/author/taeik-kang/</link>
     </image>
     
     <item>
       <title>고효율 GPS-RTK 보정데이터에 기반한 정밀위치 결정</title>
-      <link>http://localhost:1313/publication/dj_200701/</link>
+      <link>https://snugnss.github.io/publication/dj_200701/</link>
       <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dj_200701/</guid>
+      <guid>https://snugnss.github.io/publication/dj_200701/</guid>
       <description></description>
     </item>
     

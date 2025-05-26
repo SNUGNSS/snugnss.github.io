@@ -2,90 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SNUGLITE-III | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/tag/snuglite-iii/</link>
-      <atom:link href="http://localhost:1313/tag/snuglite-iii/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/tag/snuglite-iii/</link>
+      <atom:link href="https://snugnss.github.io/tag/snuglite-iii/index.xml" rel="self" type="application/rss+xml" />
     <description>SNUGLITE-III</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>SNUGLITE-III</title>
-      <link>http://localhost:1313/tag/snuglite-iii/</link>
+      <link>https://snugnss.github.io/tag/snuglite-iii/</link>
     </image>
     
     <item>
-      <title>SNUGLITE-III A, B Naming Contest Results</title>
-      <link>http://localhost:1313/snuglite/241120/</link>
+      <title>[2024.11.20] SNUGLITE-III A, B 이름 공모전 결과 발표</title>
+      <link>https://snugnss.github.io/snuglite/241120/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/snuglite/241120/</guid>
+      <guid>https://snugnss.github.io/snuglite/241120/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;241120-fig1&#34; srcset=&#34;
-               /snuglite/241120/fig1_hu17134397127696490118.webp 400w,
-               /snuglite/241120/fig1_hu6441485031874410658.webp 760w,
-               /snuglite/241120/fig1_hu16720376437972486569.webp 1200w&#34;
-               src=&#34;http://localhost:1313/snuglite/241120/fig1_hu17134397127696490118.webp&#34;
-               width=&#34;537&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
+ &lt;!-- ![241120-fig1](featured.png) --&gt;</description>
     </item>
     
     <item>
-      <title>SNUGLITE-III A, B Naming Contest</title>
-      <link>http://localhost:1313/snuglite/241011/</link>
+      <title>[2024.10.11] SNUGLITE-III A, B 이름 공모전</title>
+      <link>https://snugnss.github.io/snuglite/241011/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/snuglite/241011/</guid>
+      <guid>https://snugnss.github.io/snuglite/241011/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;p&gt;Please refer to QR code in the poster or the link to participate in the contest.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://forms.gle/TcHth4r1rgcdwMne9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://forms.gle/TcHth4r1rgcdwMne9&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;241120-fig1&#34; srcset=&#34;
-               /snuglite/241011/fig1_hu5705552994880462097.webp 400w,
-               /snuglite/241011/fig1_hu3979486765610701335.webp 760w,
-               /snuglite/241011/fig1_hu10753233278181123604.webp 1200w&#34;
-               src=&#34;http://localhost:1313/snuglite/241011/fig1_hu5705552994880462097.webp&#34;
-               width=&#34;537&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
+ &lt;!-- ![241120-fig1](featured.png) --&gt;</description>
     </item>
     
   </channel>

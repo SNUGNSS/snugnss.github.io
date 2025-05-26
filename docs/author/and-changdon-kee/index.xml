@@ -1,94 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>And Changdon Kee | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/and-changdon-kee/</link>
-      <atom:link href="http://localhost:1313/author/and-changdon-kee/index.xml" rel="self" type="application/rss+xml" />
-    <description>And Changdon Kee</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <title>And Changdon Kee. | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/and-changdon-kee./</link>
+      <atom:link href="https://snugnss.github.io/author/and-changdon-kee./index.xml" rel="self" type="application/rss+xml" />
+    <description>And Changdon Kee.</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2004 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
-      <title>And Changdon Kee</title>
-      <link>http://localhost:1313/author/and-changdon-kee/</link>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>And Changdon Kee.</title>
+      <link>https://snugnss.github.io/author/and-changdon-kee./</link>
     </image>
     
     <item>
-      <title>SNUGLITE Project: Space Weather Monitoring and Earthquake Observation using Dual-Frequency GPS Receivers on Cube-Satellite Platform</title>
-      <link>http://localhost:1313/publication/ic_201606/</link>
-      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201606/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“Performance of Single-antenna GPS-based Attitude integrated with Gyroscope and Magnetometer under GPS Outage</title>
-      <link>http://localhost:1313/publication/ic_201410/</link>
-      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201410/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“The Performance Improvement of a Low Cost GPS/INS Integration System Using a Single-Antenna GPS Based Attitudes</title>
-      <link>http://localhost:1313/publication/ic_201004/</link>
-      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201004/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“Solutions for Implementing Pseudolite Indoor Navigation System by Utilizing New Pulsing Scheme and RFID-based Ambiguity Searching Method</title>
-      <link>http://localhost:1313/publication/ic_200908/</link>
-      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_200908/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Implementation of a Vector Tracking Loop Receiver for Pseudolite Navigation System</title>
-      <link>http://localhost:1313/publication/ic_200910/</link>
-      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_200910/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling and Estimation of Satellite-Induced Errors for GNSS Augmentation in Korean Region</title>
-      <link>http://localhost:1313/publication/ic_200708/</link>
-      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_200708/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A New Three Dimensional Signal Search &amp; Acquisition Algorithm Based on Cross-correlation Sequence with 0.1 Seconds’ Signal Receiving Time</title>
-      <link>http://localhost:1313/publication/ic_200606/</link>
-      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_200606/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fully Automatic Control from Takeoff to Landing of a UAV Based on a Single-Antenna GPS Receiver</title>
-      <link>http://localhost:1313/publication/ic_200608/</link>
-      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_200608/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wind Estimation and Airspeed Calibration Using the UAV with a Single-Antenna GNSS Receiver and Airspeed Sensor</title>
-      <link>http://localhost:1313/publication/ic_200607/</link>
-      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_200607/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>“Laboratory and Field Test of Indoor Navigation System using Asynchronous Pseudolites</title>
-      <link>http://localhost:1313/publication/ic_200208/</link>
-      <pubDate>Mon, 01 Jul 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_200208/</guid>
+      <title>Budget Analysis of the Minimum Size of correction message and baudrate for USCG</title>
+      <link>https://snugnss.github.io/publication/ic_200407/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/ic_200407/</guid>
       <description></description>
     </item>
     

@@ -2,213 +2,213 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beomju Shin | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/beomju-shin/</link>
-      <atom:link href="http://localhost:1313/author/beomju-shin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/beomju-shin/</link>
+      <atom:link href="https://snugnss.github.io/author/beomju-shin/index.xml" rel="self" type="application/rss+xml" />
     <description>Beomju Shin</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/author/beomju-shin/avatar_hu13962269754246293741.jpg</url>
+      <url>https://snugnss.github.io/author/beomju-shin/avatar_hu13962269754246293741.jpg</url>
       <title>Beomju Shin</title>
-      <link>http://localhost:1313/author/beomju-shin/</link>
+      <link>https://snugnss.github.io/author/beomju-shin/</link>
     </image>
     
     <item>
       <title>광역 보호를 위한 GNSS 신호 생성기의 최소 스윕 범위 별정 방법</title>
-      <link>http://localhost:1313/publication/dc_202106/</link>
+      <link>https://snugnss.github.io/publication/dc_202106/</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_202106/</guid>
+      <guid>https://snugnss.github.io/publication/dc_202106/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global Navigation Satellite System Signal Generation Method for Wide Area Protection Against Numerous Unintentional Drones</title>
-      <link>http://localhost:1313/publication/ij_202102/</link>
+      <link>https://snugnss.github.io/publication/ij_202102/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ij_202102/</guid>
+      <guid>https://snugnss.github.io/publication/ij_202102/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LTE Signal Based Vehicle Positioning System in Tunnel Environment</title>
-      <link>http://localhost:1313/publication/ic_201909/</link>
+      <link>https://snugnss.github.io/publication/ic_201909/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201909/</guid>
+      <guid>https://snugnss.github.io/publication/ic_201909/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LTE Signal Based Vehicle Localization in Indoor Parking Lot using Mobile Phone</title>
-      <link>http://localhost:1313/publication/ic_201906/</link>
+      <link>https://snugnss.github.io/publication/ic_201906/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201906/</guid>
+      <guid>https://snugnss.github.io/publication/ic_201906/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal GNSS Signal Tracking Loop Design Based on Plant Modeling</title>
-      <link>http://localhost:1313/publication/ij_201902/</link>
+      <link>https://snugnss.github.io/publication/ij_201902/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ij_201902/</guid>
+      <guid>https://snugnss.github.io/publication/ij_201902/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single Transmitted based Precise Positioning System using Multiple Antenna: Experimental Test</title>
-      <link>http://localhost:1313/publication/ic_201901/</link>
+      <link>https://snugnss.github.io/publication/ic_201901/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201901/</guid>
+      <guid>https://snugnss.github.io/publication/ic_201901/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spoofing Attack Results Determination in Code Domain Using a Spoofing Process Equation</title>
-      <link>http://localhost:1313/publication/ij_201901/</link>
+      <link>https://snugnss.github.io/publication/ij_201901/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ij_201901/</guid>
+      <guid>https://snugnss.github.io/publication/ij_201901/</guid>
       <description></description>
     </item>
     
     <item>
       <title>머신러닝을 활용한 수신기에서의 기만 결과 분석</title>
-      <link>http://localhost:1313/publication/dc_201811/</link>
+      <link>https://snugnss.github.io/publication/dc_201811/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201811/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201811/</guid>
       <description></description>
     </item>
     
     <item>
       <title>모바일폰을 활용한 터널에서의 이동체 위치추적</title>
-      <link>http://localhost:1313/publication/dc_201808/</link>
+      <link>https://snugnss.github.io/publication/dc_201808/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201808/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201808/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Precise Localization Technology of Mobile Phone on a Vehicle in Tunnel using LTE Signal Based Surface Correlation</title>
-      <link>http://localhost:1313/publication/ic_201805/</link>
+      <link>https://snugnss.github.io/publication/ic_201805/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201805/</guid>
+      <guid>https://snugnss.github.io/publication/ic_201805/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pseudolite/Ultra-low-cost IMU Integrated Robust Indoor Navigation System Through Real-time Cycle Slip Detection and Compensation</title>
-      <link>http://localhost:1313/publication/dj_201703/</link>
+      <link>https://snugnss.github.io/publication/dj_201703/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dj_201703/</guid>
+      <guid>https://snugnss.github.io/publication/dj_201703/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WiFi 신호 미약 환경에서의 실내 항법 시스템 개발</title>
-      <link>http://localhost:1313/publication/dc_201711/</link>
+      <link>https://snugnss.github.io/publication/dc_201711/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201711/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201711/</guid>
       <description></description>
     </item>
     
     <item>
       <title>소프트웨어 기반 기만 시뮬레이터 개발 및 기만 시나리오 생성</title>
-      <link>http://localhost:1313/publication/dc_201712/</link>
+      <link>https://snugnss.github.io/publication/dc_201712/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201712/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201712/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WiFi and PDR based Robust SLAM Implementation using Surface Correlation</title>
-      <link>http://localhost:1313/publication/ic_201710/</link>
+      <link>https://snugnss.github.io/publication/ic_201710/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201710/</guid>
+      <guid>https://snugnss.github.io/publication/ic_201710/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WiFi Based Robust Positioning System in Large Scale and Weak Signal Environment</title>
-      <link>http://localhost:1313/publication/ic_201707/</link>
+      <link>https://snugnss.github.io/publication/ic_201707/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201707/</guid>
+      <guid>https://snugnss.github.io/publication/ic_201707/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New LQG based Vector Tracking Algorithm using Additional Tracking Loops for High Disturbances Environment </title>
-      <link>http://localhost:1313/publication/ic_201704/</link>
+      <link>https://snugnss.github.io/publication/ic_201704/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201704/</guid>
+      <guid>https://snugnss.github.io/publication/ic_201704/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Performance Evaluation of LQG based Optimal GNSS Tracking Loop using Non-linear Measurements</title>
-      <link>http://localhost:1313/publication/ic_201701/</link>
+      <link>https://snugnss.github.io/publication/ic_201701/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201701/</guid>
+      <guid>https://snugnss.github.io/publication/ic_201701/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPS 기만 시나리오 생성 소프트웨어 구현 및 시뮬레이션 결과 분석</title>
-      <link>http://localhost:1313/publication/dc_201610/</link>
+      <link>https://snugnss.github.io/publication/dc_201610/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201610/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201610/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WiFiSLAM을 이용한 Radio Map 생성 및 성능 분석</title>
-      <link>http://localhost:1313/publication/dc_201608/</link>
+      <link>https://snugnss.github.io/publication/dc_201608/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201608/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201608/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Motion Recognition-Based 3D Pedestrian Navigation System Using Smartphone</title>
-      <link>http://localhost:1313/publication/ij_201603/</link>
+      <link>https://snugnss.github.io/publication/ij_201603/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ij_201603/</guid>
+      <guid>https://snugnss.github.io/publication/ij_201603/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Particle Filter Based WiFi Positioning System Implementation Using WiFiSLAM Radio Map</title>
-      <link>http://localhost:1313/publication/ic_201603/</link>
+      <link>https://snugnss.github.io/publication/ic_201603/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201603/</guid>
+      <guid>https://snugnss.github.io/publication/ic_201603/</guid>
       <description></description>
     </item>
     
     <item>
       <title>맵매칭을 이용한 스마트폰 기반 실내 항법 기술</title>
-      <link>http://localhost:1313/publication/dc_201506/</link>
+      <link>https://snugnss.github.io/publication/dc_201506/</link>
       <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201506/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201506/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smartphone Based Indoor Navigation System Using Motion Recognition and Map Matching Technology</title>
-      <link>http://localhost:1313/publication/ic_201509/</link>
+      <link>https://snugnss.github.io/publication/ic_201509/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201509/</guid>
+      <guid>https://snugnss.github.io/publication/ic_201509/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hybrid Model based Motion Recogniton for Smartphone User</title>
-      <link>http://localhost:1313/publication/ij_201404/</link>
+      <link>https://snugnss.github.io/publication/ij_201404/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ij_201404/</guid>
+      <guid>https://snugnss.github.io/publication/ij_201404/</guid>
       <description></description>
     </item>
     
     <item>
       <title>“Smartphone based 3D PDR System Development and its Performance Analysis in Various Indoor Environment</title>
-      <link>http://localhost:1313/publication/ic_201411/</link>
+      <link>https://snugnss.github.io/publication/ic_201411/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201411/</guid>
+      <guid>https://snugnss.github.io/publication/ic_201411/</guid>
       <description></description>
     </item>
     
