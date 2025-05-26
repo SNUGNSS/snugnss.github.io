@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chandon Kee | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/chandon-kee/</link>
-      <atom:link href="https://snugnss.github.io/author/chandon-kee/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/chandon-kee/</link>
+      <atom:link href="http://localhost:1313/author/chandon-kee/index.xml" rel="self" type="application/rss+xml" />
     <description>Chandon Kee</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Chandon Kee</title>
-      <link>https://snugnss.github.io/author/chandon-kee/</link>
+      <link>http://localhost:1313/author/chandon-kee/</link>
     </image>
     
     <item>
       <title>“A Study on the Low-cost Inertial-aided Cycle-slip Detection for RTK Positioning of Land Vehicle</title>
-      <link>https://snugnss.github.io/publication/ic_201313/</link>
+      <link>http://localhost:1313/publication/ic_201313/</link>
       <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201313/</guid>
+      <guid>http://localhost:1313/publication/ic_201313/</guid>
       <description></description>
     </item>
     
     <item>
       <title>“GPS Cycle-slip Detection with Low-cost IMU and Single-freuency Receiver for Land Vehicle</title>
-      <link>https://snugnss.github.io/publication/ic_201305/</link>
+      <link>http://localhost:1313/publication/ic_201305/</link>
       <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201305/</guid>
+      <guid>http://localhost:1313/publication/ic_201305/</guid>
       <description></description>
     </item>
     

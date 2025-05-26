@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SNUGLITE-II | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/tag/snuglite-ii/</link>
-      <atom:link href="https://snugnss.github.io/tag/snuglite-ii/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/snuglite-ii/</link>
+      <atom:link href="http://localhost:1313/tag/snuglite-ii/index.xml" rel="self" type="application/rss+xml" />
     <description>SNUGLITE-II</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>SNUGLITE-II</title>
-      <link>https://snugnss.github.io/tag/snuglite-ii/</link>
+      <link>http://localhost:1313/tag/snuglite-ii/</link>
     </image>
     
     <item>
       <title>[2022.07.22] SNUGLITE-II 보도자료</title>
-      <link>https://snugnss.github.io/snuglite/220722/</link>
+      <link>http://localhost:1313/snuglite/220722/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/220722/</guid>
+      <guid>http://localhost:1313/snuglite/220722/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -52,7 +52,7 @@
                /snuglite/220722/fig1_hu2826699924303695350.webp 400w,
                /snuglite/220722/fig1_hu10887397564639834098.webp 760w,
                /snuglite/220722/fig1_hu10788465635043347552.webp 1200w&#34;
-               src=&#34;https://snugnss.github.io/snuglite/220722/fig1_hu2826699924303695350.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/220722/fig1_hu2826699924303695350.webp&#34;
                width=&#34;672&#34;
                height=&#34;504&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -81,7 +81,7 @@
                /snuglite/220722/fig2_hu2593105319490383531.webp 400w,
                /snuglite/220722/fig2_hu12324045012933755667.webp 760w,
                /snuglite/220722/fig2_hu5657043242877037242.webp 1200w&#34;
-               src=&#34;https://snugnss.github.io/snuglite/220722/fig2_hu2593105319490383531.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/220722/fig2_hu2593105319490383531.webp&#34;
                width=&#34;704&#34;
                height=&#34;409&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -110,7 +110,7 @@
                /snuglite/220722/fig3_hu18267955096493260274.webp 400w,
                /snuglite/220722/fig3_hu15777040318419255484.webp 760w,
                /snuglite/220722/fig3_hu10456658597822113926.webp 1200w&#34;
-               src=&#34;https://snugnss.github.io/snuglite/220722/fig3_hu18267955096493260274.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/220722/fig3_hu18267955096493260274.webp&#34;
                width=&#34;704&#34;
                height=&#34;376&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -131,9 +131,9 @@
     
     <item>
       <title>[2022.07.04] SNUGLITE-II 보도자료</title>
-      <link>https://snugnss.github.io/snuglite/220705/</link>
+      <link>http://localhost:1313/snuglite/220705/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/220705/</guid>
+      <guid>http://localhost:1313/snuglite/220705/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;p&gt;서울대학교 SNUGLITE팀(항공우주공학과 기창돈 교수 연구팀)은 지난 7월 4일 오전 3시 27분경 서울대학교 신공학관(302동)에 위치한 지상국과의 첫 양방향 교신에 성공한데 이어, 오늘 16시 4분 교신에서 위성 전원이 켜진 순간부터 현재까지 상황 기록(300개)을 모두 수신하였다.&lt;/p&gt;
 &lt;p&gt;오늘 수신한 위성 상태 기록을 점검한 결과, 위성 전기부의 이상으로 초기 안테나 전개의 문제가 있음을 확인하였으며, 위성 초기화 명령을 통해 위성이 정상 작동하는 것을 확인하였다.&lt;/p&gt;
@@ -145,9 +145,9 @@
     
     <item>
       <title>[2022.07.04] SNUGLITE-II 보도자료 및 전체 홍보자료</title>
-      <link>https://snugnss.github.io/snuglite/220704/</link>
+      <link>http://localhost:1313/snuglite/220704/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/220704/</guid>
+      <guid>http://localhost:1313/snuglite/220704/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;p&gt;서울대학교 SNUGLITE팀(항공우주공학과 기창돈 교수 연구팀)은 지난 6월 21일 누리호가 목표 궤도에서 성능검증위성을 분리한데 이어, 성능검증위성에서 사출된 SNUGLITE-II 큐브위성이 7월 4일 오전 3시 27분경 서울 대학교 신공학관(302동)에 위치한 지상국과의 첫 양방향 교신에 성공하였다고 밝혔다.&lt;/p&gt;
 &lt;p&gt;7월 3일 16시 23분경에 성능검증위성으로부터 정상적으로 사출된데 이어, 오늘 새벽에 SNUGLITE-II 큐브위성의 교신이 이루어짐에 따라 성능검증위성의 사출 및 서울대학교에서 개발한 SNUGLITE-II 큐브위성의 정상 동작 여부가 완전히 확인되었다.&lt;/p&gt;
@@ -156,6 +156,82 @@
 &lt;p&gt;자세한 내용은 아래의 자료를 참고해주시기 바랍니다.&lt;/p&gt;
 &lt;p&gt;📎&lt;a href=&#34;press.pdf&#34;&gt;SNUGLITE-II 큐브위성 보도자료 (220704)&lt;/a&gt;&lt;/p&gt;
  &lt;!-- ![241120-fig1](featured.png) --&gt;</description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE-II (2019-2022)</title>
+      <link>http://localhost:1313/project/snuglite-ii/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/snuglite-ii/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;seoul-national-university-gnss-laboratory-satellite-snuglite-ii-project&#34;&gt;Seoul National University GNSS Laboratory Satellite (SNUGLITE)-II Project&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3U CubeSat mission (Launch: Jun 2022)&lt;/li&gt;
+&lt;li&gt;Funded by &lt;em&gt;Korea Aerospace Research Institute (KARI)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Finalist in the &lt;em&gt;2019 Korea CubeSat Competition&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;snuglite2-fig1&#34; srcset=&#34;
+               /project/snuglite-ii/fig1_hu10783770099360382218.webp 400w,
+               /project/snuglite-ii/fig1_hu14845766372746691067.webp 760w,
+               /project/snuglite-ii/fig1_hu3888080366056136092.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/snuglite-ii/fig1_hu10783770099360382218.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;242&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;SNUGLITE-II 임무 개념도&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;h3 id=&#34;snuglite-ii-cubesat&#34;&gt;SNUGLITE-II CubeSat&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;System&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;3U CubeSat&lt;/li&gt;
+&lt;li&gt;Main payloads: L1/L2C GPS receiver x3&lt;/li&gt;
+&lt;li&gt;Mass: 3.15 kg&lt;/li&gt;
+&lt;li&gt;Orbit: SSO 700km&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Frequency:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;UHF (436.4MHz)
+&lt;ul&gt;
+&lt;li&gt;downlink : beacon, command-return&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;VHF (145.9MHz)
+&lt;ul&gt;
+&lt;li&gt;uplink : tele-command&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;S-band (2405MHz)
+&lt;ul&gt;
+&lt;li&gt;downlink : housekeeping data, mission data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>

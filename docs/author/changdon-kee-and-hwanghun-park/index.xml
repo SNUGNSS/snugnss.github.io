@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Changdon Kee and Hwanghun Park | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/changdon-kee-and-hwanghun-park/</link>
-      <atom:link href="https://snugnss.github.io/author/changdon-kee-and-hwanghun-park/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/changdon-kee-and-hwanghun-park/</link>
+      <atom:link href="http://localhost:1313/author/changdon-kee-and-hwanghun-park/index.xml" rel="self" type="application/rss+xml" />
     <description>Changdon Kee and Hwanghun Park</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Changdon Kee and Hwanghun Park</title>
-      <link>https://snugnss.github.io/author/changdon-kee-and-hwanghun-park/</link>
+      <link>http://localhost:1313/author/changdon-kee-and-hwanghun-park/</link>
     </image>
     
     <item>
       <title>Korean WADGPS Development Plan</title>
-      <link>https://snugnss.github.io/publication/ic_201105/</link>
+      <link>http://localhost:1313/publication/ic_201105/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201105/</guid>
+      <guid>http://localhost:1313/publication/ic_201105/</guid>
       <description></description>
     </item>
     

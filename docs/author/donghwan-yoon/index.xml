@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Donghwan Yoon | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/donghwan-yoon/</link>
-      <atom:link href="https://snugnss.github.io/author/donghwan-yoon/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/donghwan-yoon/</link>
+      <atom:link href="http://localhost:1313/author/donghwan-yoon/index.xml" rel="self" type="application/rss+xml" />
     <description>Donghwan Yoon</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Donghwan Yoon</title>
-      <link>https://snugnss.github.io/author/donghwan-yoon/</link>
+      <link>http://localhost:1313/author/donghwan-yoon/</link>
     </image>
     
     <item>
       <title>Navigation Augmentation in Urban Area by HALE UAV with Onboard Pseudolite during Multi-Purpose Missions</title>
-      <link>https://snugnss.github.io/publication/ij_201703/</link>
+      <link>http://localhost:1313/publication/ij_201703/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_201703/</guid>
+      <guid>http://localhost:1313/publication/ij_201703/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Position Accuracy Improvement by Implementing the DGNSS-CP Algorithm in Smartphones</title>
-      <link>https://snugnss.github.io/publication/ij_201601/</link>
+      <link>http://localhost:1313/publication/ij_201601/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_201601/</guid>
+      <guid>http://localhost:1313/publication/ij_201601/</guid>
       <description></description>
     </item>
     
     <item>
       <title>“Navigation Augmentation in Urban Area with Pseudolite Equipped High Altitude Long Endurance UAV</title>
-      <link>https://snugnss.github.io/publication/ic_201501/</link>
+      <link>http://localhost:1313/publication/ic_201501/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201501/</guid>
+      <guid>http://localhost:1313/publication/ic_201501/</guid>
       <description></description>
     </item>
     

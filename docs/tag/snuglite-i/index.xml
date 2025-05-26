@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SNUGLITE-I | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/tag/snuglite-i/</link>
+      <atom:link href="http://localhost:1313/tag/snuglite-i/index.xml" rel="self" type="application/rss+xml" />
+    <description>SNUGLITE-I</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>SNUGLITE-I</title>
+      <link>http://localhost:1313/tag/snuglite-i/</link>
+    </image>
+    
+    <item>
+      <title>Ground Station</title>
+      <link>http://localhost:1313/project/groundstation/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/groundstation/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;snu-ground-station&#34;&gt;SNU Ground Station&lt;/h3&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;snuglite1-fig1&#34; srcset=&#34;
+               /project/groundstation/fig1_hu6671301076027197352.webp 400w,
+               /project/groundstation/fig1_hu4982187808751270297.webp 760w,
+               /project/groundstation/fig1_hu5496306937850853594.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/groundstation/fig1_hu6671301076027197352.webp&#34;
+               width=&#34;326&#34;
+               height=&#34;700&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;SNUGLITE-I 임무 개념도&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Antenna&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;UHF antenna: 436CP42UG w/ polarity SW (M2 Inc.)&lt;/li&gt;
+&lt;li&gt;VHF antenna: 2MCP22 w/ polarity SW (M2 Inc.)&lt;/li&gt;
+&lt;li&gt;L/S-band antenna: MANTL24 w/ order made L/S feeder (SatService GmbH) and order made band-pass filter (CONTEC)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Rotator&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;G-5500 (Yaesu)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Preamplifier&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;SP-2000 (SSB electronics GmbH)&lt;/li&gt;
+&lt;li&gt;SP-7000 (SSB electronics GmbH)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Transceiver&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;IC9100 (Icom Inc.)&lt;/li&gt;
+&lt;li&gt;HISPICO S-band receiver (IQ wireless GmbH)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;TNC&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;KAM-XL (Kantronics)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE-I (2017-2019)</title>
+      <link>http://localhost:1313/project/snuglite-i/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/snuglite-i/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;seoul-national-university-gnss-laboratory-satellite-snuglite-i-project&#34;&gt;Seoul National University GNSS Laboratory Satellite (SNUGLITE)-I Project&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2U CubeSat mission (Launch: Dec 2018)&lt;/li&gt;
+&lt;li&gt;Funded by &lt;em&gt;Korea Aerospace Research Institute (KARI)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Finalist in the &lt;em&gt;2015 Korea CubeSat Competition&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;snuglite1-fig1&#34; srcset=&#34;
+               /project/snuglite-i/fig1_hu10993104054456059190.webp 400w,
+               /project/snuglite-i/fig1_hu6136240691844320726.webp 760w,
+               /project/snuglite-i/fig1_hu11851385174518232234.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/snuglite-i/fig1_hu10993104054456059190.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;SNUGLITE-I 임무 개념도&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;h3 id=&#34;snuglite-i-cubesat&#34;&gt;SNUGLITE-I CubeSat&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;System&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;2U CubeSat&lt;/li&gt;
+&lt;li&gt;Main payloads: L1/L2C GPS receiver x2&lt;/li&gt;
+&lt;li&gt;Sub payloads:
+3-axis fluxgate magnetometer w/ deployable boom&lt;/li&gt;
+&lt;li&gt;Mass: 1.9 kg&lt;/li&gt;
+&lt;li&gt;Orbit: SSO 575km (LTDN 10h30m)​&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Frequency:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;UHF (437.275MHz)
+&lt;ul&gt;
+&lt;li&gt;downlink : beacon, command-return&lt;/li&gt;
+&lt;li&gt;uplink : tele-command&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;S-band (2405MHz)
+&lt;ul&gt;
+&lt;li&gt;downlink : housekeeping data, mission data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

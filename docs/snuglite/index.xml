@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SNUGLITE News | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/snuglite/</link>
-      <atom:link href="https://snugnss.github.io/snuglite/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/snuglite/</link>
+      <atom:link href="http://localhost:1313/snuglite/index.xml" rel="self" type="application/rss+xml" />
     <description>SNUGLITE News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>SNUGLITE News</title>
-      <link>https://snugnss.github.io/snuglite/</link>
+      <link>http://localhost:1313/snuglite/</link>
     </image>
     
     <item>
       <title>[2024.11.20] SNUGLITE-III A, B 이름 공모전 결과 발표</title>
-      <link>https://snugnss.github.io/snuglite/241120/</link>
+      <link>http://localhost:1313/snuglite/241120/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/241120/</guid>
+      <guid>http://localhost:1313/snuglite/241120/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
  &lt;!-- ![241120-fig1](featured.png) --&gt;</description>
     </item>
     
     <item>
       <title>[2024.10.11] SNUGLITE-III A, B 이름 공모전</title>
-      <link>https://snugnss.github.io/snuglite/241011/</link>
+      <link>http://localhost:1313/snuglite/241011/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/241011/</guid>
+      <guid>http://localhost:1313/snuglite/241011/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;p&gt;Please refer to QR code in the poster or the link to participate in the contest.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://forms.gle/TcHth4r1rgcdwMne9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://forms.gle/TcHth4r1rgcdwMne9&lt;/a&gt;&lt;/p&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>[2022.07.22] SNUGLITE-II 보도자료</title>
-      <link>https://snugnss.github.io/snuglite/220722/</link>
+      <link>http://localhost:1313/snuglite/220722/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/220722/</guid>
+      <guid>http://localhost:1313/snuglite/220722/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -72,7 +72,7 @@
                /snuglite/220722/fig1_hu2826699924303695350.webp 400w,
                /snuglite/220722/fig1_hu10887397564639834098.webp 760w,
                /snuglite/220722/fig1_hu10788465635043347552.webp 1200w&#34;
-               src=&#34;https://snugnss.github.io/snuglite/220722/fig1_hu2826699924303695350.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/220722/fig1_hu2826699924303695350.webp&#34;
                width=&#34;672&#34;
                height=&#34;504&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -101,7 +101,7 @@
                /snuglite/220722/fig2_hu2593105319490383531.webp 400w,
                /snuglite/220722/fig2_hu12324045012933755667.webp 760w,
                /snuglite/220722/fig2_hu5657043242877037242.webp 1200w&#34;
-               src=&#34;https://snugnss.github.io/snuglite/220722/fig2_hu2593105319490383531.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/220722/fig2_hu2593105319490383531.webp&#34;
                width=&#34;704&#34;
                height=&#34;409&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -130,7 +130,7 @@
                /snuglite/220722/fig3_hu18267955096493260274.webp 400w,
                /snuglite/220722/fig3_hu15777040318419255484.webp 760w,
                /snuglite/220722/fig3_hu10456658597822113926.webp 1200w&#34;
-               src=&#34;https://snugnss.github.io/snuglite/220722/fig3_hu18267955096493260274.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/220722/fig3_hu18267955096493260274.webp&#34;
                width=&#34;704&#34;
                height=&#34;376&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -151,9 +151,9 @@
     
     <item>
       <title>[2022.07.04] SNUGLITE-II 보도자료</title>
-      <link>https://snugnss.github.io/snuglite/220705/</link>
+      <link>http://localhost:1313/snuglite/220705/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/220705/</guid>
+      <guid>http://localhost:1313/snuglite/220705/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;p&gt;서울대학교 SNUGLITE팀(항공우주공학과 기창돈 교수 연구팀)은 지난 7월 4일 오전 3시 27분경 서울대학교 신공학관(302동)에 위치한 지상국과의 첫 양방향 교신에 성공한데 이어, 오늘 16시 4분 교신에서 위성 전원이 켜진 순간부터 현재까지 상황 기록(300개)을 모두 수신하였다.&lt;/p&gt;
 &lt;p&gt;오늘 수신한 위성 상태 기록을 점검한 결과, 위성 전기부의 이상으로 초기 안테나 전개의 문제가 있음을 확인하였으며, 위성 초기화 명령을 통해 위성이 정상 작동하는 것을 확인하였다.&lt;/p&gt;
@@ -165,9 +165,9 @@
     
     <item>
       <title>[2022.07.04] SNUGLITE-II 보도자료 및 전체 홍보자료</title>
-      <link>https://snugnss.github.io/snuglite/220704/</link>
+      <link>http://localhost:1313/snuglite/220704/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/220704/</guid>
+      <guid>http://localhost:1313/snuglite/220704/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;p&gt;서울대학교 SNUGLITE팀(항공우주공학과 기창돈 교수 연구팀)은 지난 6월 21일 누리호가 목표 궤도에서 성능검증위성을 분리한데 이어, 성능검증위성에서 사출된 SNUGLITE-II 큐브위성이 7월 4일 오전 3시 27분경 서울 대학교 신공학관(302동)에 위치한 지상국과의 첫 양방향 교신에 성공하였다고 밝혔다.&lt;/p&gt;
 &lt;p&gt;7월 3일 16시 23분경에 성능검증위성으로부터 정상적으로 사출된데 이어, 오늘 새벽에 SNUGLITE-II 큐브위성의 교신이 이루어짐에 따라 성능검증위성의 사출 및 서울대학교에서 개발한 SNUGLITE-II 큐브위성의 정상 동작 여부가 완전히 확인되었다.&lt;/p&gt;
