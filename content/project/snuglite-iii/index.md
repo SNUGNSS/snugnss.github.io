@@ -25,9 +25,7 @@ image:
 </figure>
 
 
-### SNUGLITE-III CubeSat
-
-> System
+### System
 - 3U+3U Twin CubeSat 
 - Main payloads: 
   * L1/L2C GPS receiver x3
@@ -35,7 +33,7 @@ image:
   * Electomagnetic docking device
 - Mass: 3.2 kg
 - Orbit: SSO 600km (LTAN 12h30m)​
-> Frequency:
+### Frequency:
 - UHF (MHz) 
    * downlink : beacon, command-return
    * uplink : tele-command

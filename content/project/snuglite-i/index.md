@@ -24,17 +24,14 @@ image:
 
 </figure>
 
-
-### SNUGLITE-I CubeSat
-
-> System
+### System
 - 2U CubeSat
 - Main payloads: L1/L2C GPS receiver x2
 - Sub payloads:
    3-axis fluxgate magnetometer w/ deployable boom
 - Mass: 1.9 kg
 - Orbit: SSO 575km (LTDN 10h30m)​
-> Frequency:
+### Frequency:
 - UHF (437.275MHz) 
    * downlink : beacon, command-return
    * uplink : tele-command

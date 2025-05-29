@@ -75,10 +75,7 @@
 
 &lt;em&gt;SNUGLITE-III 임무 개념도&lt;/em&gt;&lt;/p&gt;
 &lt;/figure&gt;
-&lt;h3 id=&#34;snuglite-iii-cubesat&#34;&gt;SNUGLITE-III CubeSat&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;System&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h3 id=&#34;system&#34;&gt;System&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;3U+3U Twin CubeSat&lt;/li&gt;
 &lt;li&gt;Main payloads:
@@ -91,9 +88,7 @@
 &lt;li&gt;Mass: 3.2 kg&lt;/li&gt;
 &lt;li&gt;Orbit: SSO 600km (LTAN 12h30m)​&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Frequency:&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h3 id=&#34;frequency&#34;&gt;Frequency:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;UHF (MHz)
 &lt;ul&gt;
@@ -108,6 +103,90 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Ground Station</title>
+      <link>http://localhost:1313/project/groundstation/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/groundstation/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h1 id=&#34;snu-ground-station&#34;&gt;SNU Ground Station&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Antennas of ground station for SNUGLITE project is located on rooftop of bldg#302 at Seoul National University.
+&lt;ul&gt;
+&lt;li&gt;Lat: 37°26&#39;54.0471&amp;quot; N &lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;Lon: 126°57&#39;08.9927&amp;quot; E &lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;Hgt: 279 meters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;gnd-fig1&#34; srcset=&#34;
+               /project/groundstation/fig1_hu6671301076027197352.webp 400w,
+               /project/groundstation/fig1_hu4982187808751270297.webp 760w,
+               /project/groundstation/fig1_hu5496306937850853594.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/groundstation/fig1_hu6671301076027197352.webp&#34;
+               width=&#34;326&#34;
+               height=&#34;700&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;지상국 정보&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;h3 id=&#34;antenna&#34;&gt;Antenna&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;UHF antenna: 436CP42UG w/ polarity SW (M2 Inc.)&lt;/li&gt;
+&lt;li&gt;VHF antenna: 2MCP22 w/ polarity SW (M2 Inc.)&lt;/li&gt;
+&lt;li&gt;L/S-band antenna: MANTL24 w/ order made L/S feeder (SatService GmbH) and order made band-pass filter (CONTEC)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;rotator&#34;&gt;Rotator&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;G-5500 (Yaesu)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;preamplifier&#34;&gt;Preamplifier&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;SP-2000 (SSB electronics GmbH)&lt;/li&gt;
+&lt;li&gt;SP-7000 (SSB electronics GmbH)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;transceiver&#34;&gt;Transceiver&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;IC9100 (Icom Inc.)&lt;/li&gt;
+&lt;li&gt;HISPICO S-band receiver (IQ wireless GmbH)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tnc&#34;&gt;TNC&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;KAM-XL (Kantronics)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/br&gt;
+&lt;h1 id=&#34;our-supporters&#34;&gt;Our Supporters&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Beacon listeners &lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;Telemetry Uploaders to
+&lt;a href=&#34;https://db.satnogs.org/satellite/99927/&#34; target=&#34;_blank&#34;&gt;SatNOGS &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&#34;center&#34;&gt;
+  YC3BVG, SV3CIX, JE9PEL, AD7NP, VK2FAK, EU1XX, &lt;br&gt;
+  &lt;a href=&#34;https://www.satblog.info/category/snuglite/&#34; target=&#34;_blank&#34;&gt;DK3WN&lt;/a&gt;, UX5UL, JA1GDE, W2RTV, VK3HBF, CX8AF
+&lt;/p&gt;</description>
     </item>
     
   </channel>

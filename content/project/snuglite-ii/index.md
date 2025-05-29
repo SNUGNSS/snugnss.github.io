@@ -11,7 +11,7 @@ image:
 
 <!-------------------------------------------------------------------------------------->
 
-### Seoul National University GNSS Laboratory Satellite (SNUGLITE)-II Project
+# Seoul National University GNSS Laboratory Satellite (SNUGLITE)-II Project
   - 3U CubeSat mission (Launch: Jun 2022)
   - Funded by *Korea Aerospace Research Institute (KARI)*
   - Finalist in the *2019 Korea CubeSat Competition*
@@ -24,15 +24,12 @@ image:
 
 </figure>
 
-
-### SNUGLITE-II CubeSat
-
-> System
+### System
 - 3U CubeSat
 - Main payloads: L1/L2C GPS receiver x3
 - Mass: 3.15 kg
 - Orbit: SSO 700km
-> Frequency:
+### Frequency:
 - UHF (436.4MHz) 
    * downlink : beacon, command-return
 - VHF (145.9MHz) 
