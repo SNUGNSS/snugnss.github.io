@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Enge P | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/enge-p/</link>
-      <atom:link href="http://localhost:1313/author/enge-p/index.xml" rel="self" type="application/rss+xml" />
-    <description>Enge P</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 1996 00:00:00 +0000</lastBuildDate>
+    <title>Enge P. | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/enge-p./</link>
+      <atom:link href="http://localhost:1313/author/enge-p./index.xml" rel="self" type="application/rss+xml" />
+    <description>Enge P.</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 1997 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo.svg</url>
-      <title>Enge P</title>
-      <link>http://localhost:1313/author/enge-p/</link>
+      <title>Enge P.</title>
+      <link>http://localhost:1313/author/enge-p./</link>
     </image>
     
     <item>
-      <title>Wide Area Augmentation of the Global Positioning System</title>
-      <link>http://localhost:1313/publication/ij_199602/</link>
-      <pubDate>Mon, 01 Jul 1996 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ij_199602/</guid>
+      <title>Algorithms for Crossover Point Determination</title>
+      <link>http://localhost:1313/publication/ij_199704/</link>
+      <pubDate>Sun, 01 Jun 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_199704/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of Multipath Error in GPS Pseudorange Measurements</title>
+      <link>http://localhost:1313/publication/ij_199702/</link>
+      <pubDate>Sat, 01 Mar 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_199702/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of Master Station  User Algorithms for Wide-Area Augmentation System</title>
+      <link>http://localhost:1313/publication/ij_199701/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_199701/</guid>
       <description></description>
     </item>
     
