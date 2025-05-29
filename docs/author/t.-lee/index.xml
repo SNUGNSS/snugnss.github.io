@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Lee | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/t.-lee/</link>
+      <atom:link href="http://localhost:1313/author/t.-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Lee</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>T. Lee</title>
+      <link>http://localhost:1313/author/t.-lee/</link>
+    </image>
+    
+    <item>
+      <title>Pedestrian Indoor Navigation Algorithm based on the Pseudolite and Low-cost IMU with Magnetometers Including In-Flight Calibration</title>
+      <link>http://localhost:1313/publication/ic_201002/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

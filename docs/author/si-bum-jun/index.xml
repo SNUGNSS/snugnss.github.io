@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Si-Bum JUN | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/si-bum-jun/</link>
+      <atom:link href="http://localhost:1313/author/si-bum-jun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Si-Bum JUN</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Si-Bum JUN</title>
+      <link>http://localhost:1313/author/si-bum-jun/</link>
+    </image>
+    
+    <item>
+      <title>“Implementation of Real-Time FKP-DGPS Algorithm For L1 Single-Frequency GPS Receiver in Korea</title>
+      <link>http://localhost:1313/publication/ic_201409/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201409/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

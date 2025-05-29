@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yonggwon Choi | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/yonggwon-choi/</link>
+      <atom:link href="http://localhost:1313/author/yonggwon-choi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yonggwon Choi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Yonggwon Choi</title>
+      <link>http://localhost:1313/author/yonggwon-choi/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of GPS signal environment at DGNSS stations</title>
+      <link>http://localhost:1313/publication/dj_201106/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201106/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DGNSS 기준국 관측환경 분석</title>
+      <link>http://localhost:1313/publication/dj_201105/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201105/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
