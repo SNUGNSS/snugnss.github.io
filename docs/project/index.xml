@@ -281,7 +281,7 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
-&lt;em&gt;SNUGLITE-I 임무 개념도&lt;/em&gt;&lt;/p&gt;
+&lt;em&gt;SNUGLITE-I Mission Concept&lt;/em&gt;&lt;/p&gt;
 &lt;/figure&gt;
 &lt;h3 id=&#34;system&#34;&gt;System&lt;/h3&gt;
 &lt;ul&gt;
@@ -306,6 +306,120 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;beacon-structure&#34;&gt;Beacon Structure&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;downlink frequency: 437.275MHz&lt;/li&gt;
+&lt;li&gt;modulation: GMSK&lt;/li&gt;
+&lt;li&gt;baudrate: 9600bps&lt;/li&gt;
+&lt;li&gt;protocol : AX.25 and CSP (cubesat space protocol)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;snuglite1-fig2&#34; srcset=&#34;
+               /project/snuglite-i/fig2_hu607393729337673756.webp 400w,
+               /project/snuglite-i/fig2_hu1833920852416602695.webp 760w,
+               /project/snuglite-i/fig2_hu9147676239849403267.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/snuglite-i/fig2_hu607393729337673756.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;76&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;message structure&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Payload data is covered by 4-byte header of  CSP (&lt;a href=&#34;https://en.wikipedia.org/wiki/Cubesat_Space_Protocol%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://en.wikipedia.org/wiki/Cubesat_Space_Protocol)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;32 byte Reed-Solomon (223, 255) block code is applied from CSP header to the end of payload data and added to the end of payload data.&lt;/li&gt;
+&lt;li&gt;AX.25 protocol is also used with the header and beginning and ending of &amp;ldquo;0xC0&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;There are two types of payload data: simple beacon (length: 45 byte) and full beacon (162 byte).&lt;/li&gt;
+&lt;li&gt;In stand-by operation mode, the period of simple beacon and full beacon is 10 sec and 30 sec, respectively. And full beacon is prior than simple beacon.&lt;/li&gt;
+&lt;li&gt;One of interesting is that all beacons include the position and velocity of satellite using own developed GPS receivers!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;snuglite1-fig2&#34; srcset=&#34;
+               /project/snuglite-i/fig3_hu8325200337168011019.webp 400w,
+               /project/snuglite-i/fig3_hu3567658781938656339.webp 760w,
+               /project/snuglite-i/fig3_hu8554290813538797425.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/snuglite-i/fig3_hu8325200337168011019.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;208&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Structure of simple beacon (45 bytes)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;snuglite1-fig2&#34; srcset=&#34;
+               /project/snuglite-i/fig4_hu617765291951407440.webp 400w,
+               /project/snuglite-i/fig4_hu2373958259801573671.webp 760w,
+               /project/snuglite-i/fig4_hu5084387135948728495.webp 1200w&#34;
+               src=&#34;http://localhost:1313/project/snuglite-i/fig4_hu617765291951407440.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;524&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Structure of full beacon (162 bytes)&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;If you receive any signals from SNUGLITE cubesat, please let us know!&lt;/li&gt;
+&lt;li&gt;All the data which you send us will be helpful to our research. (Earth quake detection, Space environment observation, Satellite monitoring and so on)&lt;/li&gt;
+&lt;li&gt;We would appreciate it if you send us as much data as possible. Also, if any paper utilizes your data, we will provide a certificate that your data has helped with the paper. (e-mail: &lt;a href=&#34;mailto:snuglite@gmail.com&#34;&gt;snuglite@gmail.com&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/br&gt;
+&lt;p&gt;2018/12/12 &lt;/br&gt;
+Object AC is the closest to SNUGLITE.&lt;/p&gt;
 </description>
     </item>
     

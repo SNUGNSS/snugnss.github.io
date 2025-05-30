@@ -20,5 +20,12 @@ featured: true
 ## 2025년 전기 학위 수여식 
 ## Spring 2025 Commencement Ceremony
 </br>
-  - 박사졸업: 배영환, 김부겸 </br>
-  - 석사졸업: 강민재, 박현우, 황재웅
+
+ - 박사졸업: 배영환, 김부겸 </br>
+ - 석사졸업: 강민재, 박현우, 황재웅
+
+
+  <!-- ![featuered](featured.jpg) -->
+  ![250229-fig1](fig1.jpg)
+  ![250229-fig2](fig2.jpg)
+  ![250229-fig3](fig3.jpg)
