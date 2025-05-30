@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chulsu Pyeong | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/chulsu-pyeong/</link>
+      <atom:link href="http://localhost:1313/author/chulsu-pyeong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chulsu Pyeong</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/author/chulsu-pyeong/avatar_hu3203467846349905903.jpg</url>
+      <title>Chulsu Pyeong</title>
+      <link>http://localhost:1313/author/chulsu-pyeong/</link>
+    </image>
+    
+    <item>
+      <title>NDGPS 기준국 데이터를 이용한 한국형 WADGPS 알고리즘의 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_200402/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200402/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Analysis of Korean WADGPS Algorithms with Korean NDGPS Data</title>
+      <link>http://localhost:1313/publication/ic_200405/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200405/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suggestions of a Substantial Alternative to Implement Asian WADGPS Network : Decentralized WADGPS</title>
+      <link>http://localhost:1313/publication/ic_200003/</link>
+      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>분산형 광역보정위성항법 설계 및 구현</title>
+      <link>http://localhost:1313/publication/dc_199907/</link>
+      <pubDate>Mon, 01 Nov 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199907/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Natural Way to Implement WADGPS in East-Asia: Decentralized WADGPS</title>
+      <link>http://localhost:1313/publication/ic_199903/</link>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_199903/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Solution of a Natural way to Implement WADGPS in East Asia : Decentralized WADGPS</title>
+      <link>http://localhost:1313/publication/dc_199904/</link>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199904/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Solution of Natural Way to Implement WADGPS in East-Asia: Decentralized WADGPS</title>
+      <link>http://localhost:1313/publication/ic_199902/</link>
+      <pubDate>Wed, 01 Sep 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_199902/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS 반송파 위상을 이용한 동적 정밀 측위</title>
+      <link>http://localhost:1313/publication/dc_199809/</link>
+      <pubDate>Thu, 01 Oct 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199809/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

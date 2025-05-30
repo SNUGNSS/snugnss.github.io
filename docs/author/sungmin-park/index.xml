@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sungmin Park | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/sungmin-park/</link>
+      <atom:link href="http://localhost:1313/author/sungmin-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sungmin Park</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/author/sungmin-park/avatar_hu3203467846349905903.jpg</url>
+      <title>Sungmin Park</title>
+      <link>http://localhost:1313/author/sungmin-park/</link>
+    </image>
+    
+    <item>
+      <title>Enhanced method for single-antenna GPS-based attitude determination</title>
+      <link>http://localhost:1313/publication/ij_200603/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_200603/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Study between GBAS  Conventional Aircraft Precision Approach Guidance System</title>
+      <link>http://localhost:1313/publication/ij_200401/</link>
+      <pubDate>Sun, 01 Feb 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_200401/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance Verification of GBAS through ILS Inspection Procedure</title>
+      <link>http://localhost:1313/publication/ic_200308/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200308/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Flight Test Results of UAV Automatic Control Using a Single-Antenna GPS Receiver</title>
+      <link>http://localhost:1313/publication/ic_200302/</link>
+      <pubDate>Fri, 01 Aug 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200302/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test of GBAS Integrity Monitoring System using GPS Simulator</title>
+      <link>http://localhost:1313/publication/ij_200303/</link>
+      <pubDate>Tue, 01 Jul 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_200303/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GBAS와 기존 항공기 정밀 접근 유도시스템의 성능 비교</title>
+      <link>http://localhost:1313/publication/dc_200207/</link>
+      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200207/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test of GBAS Integrity Monitoring System using GPS Simulator</title>
+      <link>http://localhost:1313/publication/ic_200206/</link>
+      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200206/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>단일 안테나 GPS 수신기를 이용한 무인항공기의 자세추정</title>
+      <link>http://localhost:1313/publication/dc_200204/</link>
+      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200204/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Study between GBAS and existing Aircraft Precision Approach Guidance System</title>
+      <link>http://localhost:1313/publication/ic_200205/</link>
+      <pubDate>Tue, 01 Oct 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200205/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DGPS 측정치 무결성 감시 시스템 구현 및 시험</title>
+      <link>http://localhost:1313/publication/dj_200201/</link>
+      <pubDate>Thu, 01 Aug 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_200201/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GBAS(Ground Based Augmentation System) 시스템 개발 및 시험 평가</title>
+      <link>http://localhost:1313/publication/dc_200206/</link>
+      <pubDate>Wed, 01 May 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200206/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DGPS 측정치 무결성 감시 시스템 구현</title>
+      <link>http://localhost:1313/publication/dc_200203/</link>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200203/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UAV Attitude Estimation Using a Single-Antenna GPS Receiver</title>
+      <link>http://localhost:1313/publication/ic_200204/</link>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200204/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS를 이용한 무인항공기의 비행실험</title>
+      <link>http://localhost:1313/publication/dc_200106/</link>
+      <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200106/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RTCM SC-104와 SARPs 프로토콜 비교 연구</title>
+      <link>http://localhost:1313/publication/dc_200108/</link>
+      <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200108/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>근거리 오차 보정 시스템의 성능 평가</title>
+      <link>http://localhost:1313/publication/dc_200105/</link>
+      <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200105/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>실시간 보정위성항법을 이용한 무인항공기 항법시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_200104/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200104/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>무선 인터넷에 기반한 실시간 DGPS 성능평가</title>
+      <link>http://localhost:1313/publication/dc_200102/</link>
+      <pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200102/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and Flight Test of Aircraft Landing System Using DGPS</title>
+      <link>http://localhost:1313/publication/ic_200004/</link>
+      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>무선 인터넷에 기반한 실시간 DGPS 성능평가</title>
+      <link>http://localhost:1313/publication/dc_200009/</link>
+      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DGPS를 이용한 스키어(skier) 교육용 소프트웨어 개발</title>
+      <link>http://localhost:1313/publication/dc_200004/</link>
+      <pubDate>Sun, 01 Oct 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>실시간 DGPS를 이용한 스키어 교육용 소프트웨어 개발</title>
+      <link>http://localhost:1313/publication/dc_200005/</link>
+      <pubDate>Sun, 01 Oct 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>보정위성항법을 이용한 항공기 착륙시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_200003/</link>
+      <pubDate>Sat, 01 Apr 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time DGPS를 이용한 항공기 착륙시스템 개발 및 비행실험</title>
+      <link>http://localhost:1313/publication/dc_199910/</link>
+      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199910/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>실시간 DGPS를 이용한 헬리콥터 착륙시스템 개발</title>
+      <link>http://localhost:1313/publication/dj_199906/</link>
+      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_199906/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flight Test of DGPS-based Helicopter Landing System and Cockpit Display</title>
+      <link>http://localhost:1313/publication/ic_200001/</link>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS를 이용한 스키어(skier) 교육용 소프트웨어 개발</title>
+      <link>http://localhost:1313/publication/dc_199903/</link>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199903/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>실시간 DGPS를 이용한 헬리콥터 착륙 시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_199905/</link>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199905/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flight Test of Helicopter Landing System Using Real-Time DGPS</title>
+      <link>http://localhost:1313/publication/ic_199901/</link>
+      <pubDate>Wed, 01 Sep 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_199901/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS를 이용한 도깨비 도로의 정밀 측위</title>
+      <link>http://localhost:1313/publication/dc_199902/</link>
+      <pubDate>Thu, 01 Apr 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199902/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>헬리콥터의 비행실험을 통한 실시간 DGPS 성능 평가</title>
+      <link>http://localhost:1313/publication/dc_199901/</link>
+      <pubDate>Thu, 01 Apr 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199901/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>헬리콥터를 이용한 실시간 DGPS 비행실험</title>
+      <link>http://localhost:1313/publication/dc_199803/</link>
+      <pubDate>Sun, 01 Nov 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199803/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>헬리콥터를 이용한 실시간 DGPS 비행실험</title>
+      <link>http://localhost:1313/publication/dc_199805/</link>
+      <pubDate>Sun, 01 Nov 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199805/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS 반송파 위상을 이용한 동적 정밀 측위</title>
+      <link>http://localhost:1313/publication/dc_199809/</link>
+      <pubDate>Thu, 01 Oct 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199809/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

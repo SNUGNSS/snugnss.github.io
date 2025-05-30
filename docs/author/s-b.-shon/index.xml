@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S-B. Shon | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/s-b.-shon/</link>
+      <atom:link href="http://localhost:1313/author/s-b.-shon/index.xml" rel="self" type="application/rss+xml" />
+    <description>S-B. Shon</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>S-B. Shon</title>
+      <link>http://localhost:1313/author/s-b.-shon/</link>
+    </image>
+    
+    <item>
+      <title>Real-Time Target Localization Using a Gimbaled Camera for a Single-Antenna GPS-Based UAV</title>
+      <link>http://localhost:1313/publication/ic_200605/</link>
+      <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200605/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

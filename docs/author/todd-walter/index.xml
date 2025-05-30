@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Todd Walter | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/todd-walter/</link>
+      <atom:link href="http://localhost:1313/author/todd-walter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Todd Walter</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 1997 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Todd Walter</title>
+      <link>http://localhost:1313/author/todd-walter/</link>
+    </image>
+    
+    <item>
+      <title>Quality Control Algorithms on WAAS Wide-Area Reference Stations</title>
+      <link>http://localhost:1313/publication/ij_199703/</link>
+      <pubDate>Sat, 01 Mar 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_199703/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Algorithm for Inter-frequency Bias Calibration and Application to WAAS Ionosphere Modeling</title>
+      <link>http://localhost:1313/publication/ic_199506/</link>
+      <pubDate>Fri, 01 Sep 1995 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_199506/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
