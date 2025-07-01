@@ -25,5 +25,5 @@ featured: true
 - 우수연구자: 강민재
 
  ![featuered](featured.jpg)
- ![240301-fig1](fig1.jpg)
- ![240301-fig2](fig2.jpg)
+ ![240901-fig1](fig1.jpg)
+ ![240901-fig2](fig2.jpg)

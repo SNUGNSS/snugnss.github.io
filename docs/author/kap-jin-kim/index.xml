@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kap-Jin Kim | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/kap-jin-kim/</link>
-      <atom:link href="http://localhost:1313/author/kap-jin-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/kap-jin-kim/</link>
+      <atom:link href="https://snugnss.github.io/author/kap-jin-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Kap-Jin Kim</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Kap-Jin Kim</title>
-      <link>http://localhost:1313/author/kap-jin-kim/</link>
+      <link>https://snugnss.github.io/author/kap-jin-kim/</link>
     </image>
     
     <item>
       <title>A New Method to Improve the Detection of Co-Seismic Ionospheric Disturbances using Sequential Measurement Combination</title>
-      <link>http://localhost:1313/publication/ij_201904/</link>
+      <link>https://snugnss.github.io/publication/ij_201904/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ij_201904/</guid>
+      <guid>https://snugnss.github.io/publication/ij_201904/</guid>
       <description></description>
     </item>
     

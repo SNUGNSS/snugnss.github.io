@@ -2,25 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Walter Told. | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/walter-told./</link>
-      <atom:link href="http://localhost:1313/author/walter-told./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/walter-told./</link>
+      <atom:link href="https://snugnss.github.io/author/walter-told./index.xml" rel="self" type="application/rss+xml" />
     <description>Walter Told.</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 1997 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Walter Told.</title>
-      <link>http://localhost:1313/author/walter-told./</link>
+      <link>https://snugnss.github.io/author/walter-told./</link>
     </image>
     
     <item>
       <title>Estimation of Multipath Error in GPS Pseudorange Measurements</title>
-      <link>http://localhost:1313/publication/ij_199702/</link>
+      <link>https://snugnss.github.io/publication/ij_199702/</link>
       <pubDate>Sat, 01 Mar 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ij_199702/</guid>
+      <guid>https://snugnss.github.io/publication/ij_199702/</guid>
       <description></description>
     </item>
     
   </channel>
-</rss>
-nel>
 </rss>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/tag/news/</link>
-      <atom:link href="http://localhost:1313/tag/news/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/tag/news/</link>
+      <atom:link href="https://snugnss.github.io/tag/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Apr 2025 15:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>News</title>
-      <link>http://localhost:1313/tag/news/</link>
+      <link>https://snugnss.github.io/tag/news/</link>
     </image>
     
     <item>
       <title>배영환 박사, 2024년 한국항공우주학회 추계학술대회 우수논문발표상 수상</title>
-      <link>http://localhost:1313/event/250402-ksas/</link>
+      <link>https://snugnss.github.io/event/250402-ksas/</link>
       <pubDate>Wed, 02 Apr 2025 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/250402-ksas/</guid>
+      <guid>https://snugnss.github.io/event/250402-ksas/</guid>
       <description>&lt;h2 id=&#34;2024년-한국항공우주학회-추계학술대회-우수논문발표상-수상&#34;&gt;2024년 한국항공우주학회 추계학술대회 우수논문발표상 수상&lt;/h2&gt;
 &lt;h2 id=&#34;2024-ksas-best-paper-presentation-award&#34;&gt;2024 KSAS Best Paper Presentation Award&lt;/h2&gt;
 &lt;/br&gt;
@@ -46,7 +46,7 @@
                /event/250402-ksas/fig1_hu17631714145546890757.webp 400w,
                /event/250402-ksas/fig1_hu1318985606138580678.webp 760w,
                /event/250402-ksas/fig1_hu14941115156154848207.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/250402-ksas/fig1_hu17631714145546890757.webp&#34;
+               src=&#34;https://snugnss.github.io/event/250402-ksas/fig1_hu17631714145546890757.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -57,9 +57,9 @@
     
     <item>
       <title>2025년 전기 학위 수여식</title>
-      <link>http://localhost:1313/event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <link>https://snugnss.github.io/event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
       <pubDate>Wed, 26 Feb 2025 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <guid>https://snugnss.github.io/event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
       <description>&lt;h2 id=&#34;2025년-전기-학위-수여식&#34;&gt;2025년 전기 학위 수여식&lt;/h2&gt;
 &lt;h2 id=&#34;spring-2025-commencement-ceremony&#34;&gt;Spring 2025 Commencement Ceremony&lt;/h2&gt;
 &lt;/br&gt;
@@ -67,7 +67,6 @@
 &lt;li&gt;박사졸업: 배영환, 김부겸 &lt;/br&gt;&lt;/li&gt;
 &lt;li&gt;석사졸업: 강민재, 박현우, 황재웅&lt;/li&gt;
 &lt;/ul&gt;
-  &lt;!-- ![featuered](featured.jpg) --&gt;
 &lt;p&gt;
 
 
@@ -86,17 +85,18 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;250229-fig1&#34; srcset=&#34;
-               /event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu2353377754133261531.webp 400w,
-               /event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu12569298720595358758.webp 760w,
-               /event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu15156775989174855033.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu2353377754133261531.webp&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;featuered&#34; srcset=&#34;
+               /event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu2353377754133261531.webp 400w,
+               /event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu12569298720595358758.webp 760w,
+               /event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu15156775989174855033.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu2353377754133261531.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-
-
+&lt;/p&gt;
+  &lt;!-- ![250229-fig1](fig1.jpg) --&gt;
+&lt;p&gt;
 
 
 
@@ -118,7 +118,7 @@
                /event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu18369805256877588470.webp 400w,
                /event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu13926009656587700871.webp 760w,
                /event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu11509372173111795122.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu18369805256877588470.webp&#34;
+               src=&#34;https://snugnss.github.io/event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu18369805256877588470.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -146,7 +146,7 @@
                /event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/fig3_hu5766002310710463694.webp 400w,
                /event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/fig3_hu7052055633127730485.webp 760w,
                /event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/fig3_hu795552383874008972.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/fig3_hu5766002310710463694.webp&#34;
+               src=&#34;https://snugnss.github.io/event/250229-%EC%A1%B8%EC%97%85%EC%8B%9D/fig3_hu5766002310710463694.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -157,9 +157,9 @@
     
     <item>
       <title>2025년 겨울 워크샵</title>
-      <link>http://localhost:1313/event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/</link>
+      <link>https://snugnss.github.io/event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/</link>
       <pubDate>Tue, 25 Feb 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/</guid>
+      <guid>https://snugnss.github.io/event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/</guid>
       <description>&lt;h2 id=&#34;2025-겨울-gnss-연구실-워크샵&#34;&gt;2025 겨울 GNSS 연구실 워크샵&lt;/h2&gt;
 &lt;h2 id=&#34;2025-winter-gnss-laboratory-workshop&#34;&gt;2025 Winter GNSS Laboratory Workshop&lt;/h2&gt;
 &lt;/br&gt;
@@ -189,7 +189,7 @@
                /event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu15300004960241902020.webp 400w,
                /event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu5504488326546087971.webp 760w,
                /event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu4886808431133101038.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu15300004960241902020.webp&#34;
+               src=&#34;https://snugnss.github.io/event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu15300004960241902020.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -217,7 +217,7 @@
                /event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu8291291958884701650.webp 400w,
                /event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu3862244359774137390.webp 760w,
                /event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu6425796394335488320.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu8291291958884701650.webp&#34;
+               src=&#34;https://snugnss.github.io/event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu8291291958884701650.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -245,7 +245,7 @@
                /event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu16030167820622992170.webp 400w,
                /event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu10452393928290150593.webp 760w,
                /event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu9529773258466968371.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu16030167820622992170.webp&#34;
+               src=&#34;https://snugnss.github.io/event/250223-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu16030167820622992170.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -256,9 +256,9 @@
     
     <item>
       <title>배영환 박사과정, 2024년 한국항공우주학회 춘계학술대회 우수논문발표상 수상</title>
-      <link>http://localhost:1313/event/241114-ksas/</link>
+      <link>https://snugnss.github.io/event/241114-ksas/</link>
       <pubDate>Thu, 14 Nov 2024 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/241114-ksas/</guid>
+      <guid>https://snugnss.github.io/event/241114-ksas/</guid>
       <description>&lt;h2 id=&#34;2024년-한국항공우주학회-춘계학술대회-우수논문발표상-수상&#34;&gt;2024년 한국항공우주학회 춘계학술대회 우수논문발표상 수상&lt;/h2&gt;
 &lt;h2 id=&#34;2024-ksas-best-paper-presentation-award&#34;&gt;2024 KSAS Best Paper Presentation Award&lt;/h2&gt;
 &lt;/br&gt;
@@ -288,7 +288,7 @@
                /event/241114-ksas/fig1_hu6318283802666238379.webp 400w,
                /event/241114-ksas/fig1_hu5218283335040608202.webp 760w,
                /event/241114-ksas/fig1_hu5552036444927316109.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/241114-ksas/fig1_hu6318283802666238379.webp&#34;
+               src=&#34;https://snugnss.github.io/event/241114-ksas/fig1_hu6318283802666238379.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -299,9 +299,9 @@
     
     <item>
       <title>강민재 석사과정, 2024년 항법시스템학회 정기학술대회 우수논문상 수상</title>
-      <link>http://localhost:1313/event/241108-ipnt/</link>
+      <link>https://snugnss.github.io/event/241108-ipnt/</link>
       <pubDate>Fri, 08 Nov 2024 15:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/241108-ipnt/</guid>
+      <guid>https://snugnss.github.io/event/241108-ipnt/</guid>
       <description>&lt;h2 id=&#34;2024-항법시스템학회-정기학술대회-우수논문상-수상&#34;&gt;2024 항법시스템학회 정기학술대회 우수논문상 수상&lt;/h2&gt;
 &lt;h2 id=&#34;2024-ipnt-best-paper-award&#34;&gt;2024 IPNT Best Paper Award&lt;/h2&gt;
 &lt;/br&gt;
@@ -331,7 +331,7 @@
                /event/241108-ipnt/fig1_hu3007123416910075206.webp 400w,
                /event/241108-ipnt/fig1_hu1809419684182450881.webp 760w,
                /event/241108-ipnt/fig1_hu10788737053061744571.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/241108-ipnt/fig1_hu3007123416910075206.webp&#34;
+               src=&#34;https://snugnss.github.io/event/241108-ipnt/fig1_hu3007123416910075206.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -359,7 +359,7 @@
                /event/241108-ipnt/fig2_hu11594309073716041828.webp 400w,
                /event/241108-ipnt/fig2_hu13997187834935834314.webp 760w,
                /event/241108-ipnt/fig2_hu1154731501892613403.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/241108-ipnt/fig2_hu11594309073716041828.webp&#34;
+               src=&#34;https://snugnss.github.io/event/241108-ipnt/fig2_hu11594309073716041828.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -370,9 +370,9 @@
     
     <item>
       <title>2024년 홈커밍데이</title>
-      <link>http://localhost:1313/event/240928-%ED%99%88%EC%BB%A4%EB%B0%8D%EB%8D%B0%EC%9D%B4/</link>
+      <link>https://snugnss.github.io/event/240928-%ED%99%88%EC%BB%A4%EB%B0%8D%EB%8D%B0%EC%9D%B4/</link>
       <pubDate>Sat, 28 Sep 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/240928-%ED%99%88%EC%BB%A4%EB%B0%8D%EB%8D%B0%EC%9D%B4/</guid>
+      <guid>https://snugnss.github.io/event/240928-%ED%99%88%EC%BB%A4%EB%B0%8D%EB%8D%B0%EC%9D%B4/</guid>
       <description>&lt;h2 id=&#34;2024-gnss-연구실-홈커밍데이&#34;&gt;2024 GNSS 연구실 홈커밍데이&lt;/h2&gt;
 &lt;h2 id=&#34;2024-summer-gnss-laboratory-homecoming-day&#34;&gt;2024 Summer GNSS Laboratory Homecoming Day&lt;/h2&gt;
 &lt;/br&gt;
@@ -403,7 +403,7 @@
                /event/240928-%ED%99%88%EC%BB%A4%EB%B0%8D%EB%8D%B0%EC%9D%B4/featured_hu6242897193219769462.webp 400w,
                /event/240928-%ED%99%88%EC%BB%A4%EB%B0%8D%EB%8D%B0%EC%9D%B4/featured_hu4877419995975482164.webp 760w,
                /event/240928-%ED%99%88%EC%BB%A4%EB%B0%8D%EB%8D%B0%EC%9D%B4/featured_hu1047361685849913265.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/240928-%ED%99%88%EC%BB%A4%EB%B0%8D%EB%8D%B0%EC%9D%B4/featured_hu6242897193219769462.webp&#34;
+               src=&#34;https://snugnss.github.io/event/240928-%ED%99%88%EC%BB%A4%EB%B0%8D%EB%8D%B0%EC%9D%B4/featured_hu6242897193219769462.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -414,9 +414,9 @@
     
     <item>
       <title>2024년 여름 워크샵</title>
-      <link>http://localhost:1313/event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/</link>
+      <link>https://snugnss.github.io/event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/</link>
       <pubDate>Sun, 01 Sep 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/</guid>
+      <guid>https://snugnss.github.io/event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/</guid>
       <description>&lt;h2 id=&#34;2024-여름-gnss-연구실-워크샵&#34;&gt;2024 여름 GNSS 연구실 워크샵&lt;/h2&gt;
 &lt;h2 id=&#34;2024-summer-gnss-laboratory-workshop&#34;&gt;2024 Summer GNSS Laboratory Workshop&lt;/h2&gt;
 &lt;/br&gt;
@@ -446,7 +446,7 @@
                /event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu5172212365071774266.webp 400w,
                /event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu3827636981637181377.webp 760w,
                /event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu17078933632365489543.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu5172212365071774266.webp&#34;
+               src=&#34;https://snugnss.github.io/event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu5172212365071774266.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -470,11 +470,11 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240301-fig1&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240901-fig1&#34; srcset=&#34;
                /event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu1040969654909327840.webp 400w,
                /event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu6575612173316647198.webp 760w,
                /event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu6092567202540671285.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu1040969654909327840.webp&#34;
+               src=&#34;https://snugnss.github.io/event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu1040969654909327840.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -498,11 +498,11 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240301-fig2&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;240901-fig2&#34; srcset=&#34;
                /event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu14933262508406478705.webp 400w,
                /event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu15146815803067952623.webp 760w,
                /event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu15351663305773577920.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu14933262508406478705.webp&#34;
+               src=&#34;https://snugnss.github.io/event/240901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu14933262508406478705.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -513,9 +513,9 @@
     
     <item>
       <title>2024년 후기 학위 수여식</title>
-      <link>http://localhost:1313/event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <link>https://snugnss.github.io/event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
       <pubDate>Thu, 29 Aug 2024 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <guid>https://snugnss.github.io/event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
       <description>&lt;h2 id=&#34;2024년-후기-학위-수여식&#34;&gt;2024년 후기 학위 수여식&lt;/h2&gt;
 &lt;h2 id=&#34;fall-2024-commencement-ceremony&#34;&gt;Fall 2024 Commencement Ceremony&lt;/h2&gt;
 &lt;/br&gt;
@@ -545,7 +545,7 @@
                /event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu5088747000466182906.webp 400w,
                /event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu9282296118413302106.webp 760w,
                /event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu11367401980874940060.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu5088747000466182906.webp&#34;
+               src=&#34;https://snugnss.github.io/event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu5088747000466182906.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -573,7 +573,7 @@
                /event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu118237236565085696.webp 400w,
                /event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu6726488072620182690.webp 760w,
                /event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu3401454405311137251.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu118237236565085696.webp&#34;
+               src=&#34;https://snugnss.github.io/event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu118237236565085696.webp&#34;
                width=&#34;760&#34;
                height=&#34;506&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -601,7 +601,7 @@
                /event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu17073168018714748379.webp 400w,
                /event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu13919480046040102742.webp 760w,
                /event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu5323745252134331166.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu17073168018714748379.webp&#34;
+               src=&#34;https://snugnss.github.io/event/240829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu17073168018714748379.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -612,9 +612,9 @@
     
     <item>
       <title>2024년 겨울 워크샵</title>
-      <link>http://localhost:1313/event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/</link>
+      <link>https://snugnss.github.io/event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/</link>
       <pubDate>Fri, 01 Mar 2024 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/</guid>
+      <guid>https://snugnss.github.io/event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/</guid>
       <description>&lt;h2 id=&#34;2024-겨울-gnss-연구실-워크샵&#34;&gt;2024 겨울 GNSS 연구실 워크샵&lt;/h2&gt;
 &lt;h2 id=&#34;2024-winter-gnss-laboratory-workshop&#34;&gt;2024 Winter GNSS Laboratory Workshop&lt;/h2&gt;
 &lt;/br&gt;
@@ -644,7 +644,7 @@
                /event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu17429410491820757130.webp 400w,
                /event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu17086610252901698363.webp 760w,
                /event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu926779279943234474.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu17429410491820757130.webp&#34;
+               src=&#34;https://snugnss.github.io/event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu17429410491820757130.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -672,7 +672,7 @@
                /event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu12641703411495686223.webp 400w,
                /event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu16117653319304610447.webp 760w,
                /event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu1271323889422090767.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu12641703411495686223.webp&#34;
+               src=&#34;https://snugnss.github.io/event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu12641703411495686223.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -700,7 +700,7 @@
                /event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu5120026812004896014.webp 400w,
                /event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu18260261737121055229.webp 760w,
                /event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu8527796443348775072.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu5120026812004896014.webp&#34;
+               src=&#34;https://snugnss.github.io/event/240301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu5120026812004896014.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -711,9 +711,9 @@
     
     <item>
       <title>2024년 전기 학위 수여식</title>
-      <link>http://localhost:1313/event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <link>https://snugnss.github.io/event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
       <pubDate>Mon, 26 Feb 2024 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <guid>https://snugnss.github.io/event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
       <description>&lt;h2 id=&#34;2024년-전기-학위-수여식&#34;&gt;2024년 전기 학위 수여식&lt;/h2&gt;
 &lt;h2 id=&#34;spring-2024-commencement-ceremony&#34;&gt;Spring 2024 Commencement Ceremony&lt;/h2&gt;
 &lt;/br&gt;
@@ -742,7 +742,7 @@
                /event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu10950735761714709558.webp 400w,
                /event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu5991761162700530998.webp 760w,
                /event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu12955849920817005264.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu10950735761714709558.webp&#34;
+               src=&#34;https://snugnss.github.io/event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu10950735761714709558.webp&#34;
                width=&#34;656&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -770,7 +770,7 @@
                /event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu17655277508066497460.webp 400w,
                /event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu767408033012887480.webp 760w,
                /event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu13355601095906513640.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu17655277508066497460.webp&#34;
+               src=&#34;https://snugnss.github.io/event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu17655277508066497460.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -798,7 +798,7 @@
                /event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu8233399980740340444.webp 400w,
                /event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu18283423906376781507.webp 760w,
                /event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu6297147897488587492.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu8233399980740340444.webp&#34;
+               src=&#34;https://snugnss.github.io/event/240226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu8233399980740340444.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -808,10 +808,208 @@
     </item>
     
     <item>
+      <title>2023년 여름 워크샵</title>
+      <link>https://snugnss.github.io/event/230901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/</link>
+      <pubDate>Fri, 01 Sep 2023 12:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/event/230901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/</guid>
+      <description>&lt;h2 id=&#34;2023-여름-gnss-연구실-워크샵&#34;&gt;2023 여름 GNSS 연구실 워크샵&lt;/h2&gt;
+&lt;h2 id=&#34;2023-summer-gnss-laboratory-workshop&#34;&gt;2023 Summer GNSS Laboratory Workshop&lt;/h2&gt;
+&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;2023 여름워크샵 (강원도 태백)&lt;/li&gt;
+&lt;li&gt;우수연구자: 송준원&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;featuered&#34; srcset=&#34;
+               /event/230901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu7011259055315709165.webp 400w,
+               /event/230901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu5927773590695944620.webp 760w,
+               /event/230901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu18101745296711668405.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/230901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu7011259055315709165.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;230901-fig1&#34; srcset=&#34;
+               /event/230901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu16382891478579339488.webp 400w,
+               /event/230901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu649508482643087810.webp 760w,
+               /event/230901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu18301713164948713358.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/230901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu16382891478579339488.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;230901-fig2&#34; srcset=&#34;
+               /event/230901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu15211822336085476929.webp 400w,
+               /event/230901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu7887560991549416112.webp 760w,
+               /event/230901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu8365945733781660897.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/230901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu15211822336085476929.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2023년 겨울 워크샵</title>
+      <link>https://snugnss.github.io/event/230301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/</link>
+      <pubDate>Wed, 01 Mar 2023 12:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/event/230301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/</guid>
+      <description>&lt;h2 id=&#34;2023-겨울-gnss-연구실-워크샵&#34;&gt;2023 겨울 GNSS 연구실 워크샵&lt;/h2&gt;
+&lt;h2 id=&#34;2023-winter-gnss-laboratory-workshop&#34;&gt;2023 Winter GNSS Laboratory Workshop&lt;/h2&gt;
+&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;2023 겨울워크샵 (강원도 용평)&lt;/li&gt;
+&lt;li&gt;우수연구자: 배영환&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;featuered&#34; srcset=&#34;
+               /event/230301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu3111673247142042539.webp 400w,
+               /event/230301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu16662306464404125253.webp 760w,
+               /event/230301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu4476891918061588002.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/230301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu3111673247142042539.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;230301-fig1&#34; srcset=&#34;
+               /event/230301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu1440625396121038564.webp 400w,
+               /event/230301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu5907251599899994791.webp 760w,
+               /event/230301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu907804792747980525.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/230301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu1440625396121038564.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;230301-fig2&#34; srcset=&#34;
+               /event/230301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu5369012145851188623.webp 400w,
+               /event/230301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu7886228235082689001.webp 760w,
+               /event/230301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu8604844239944983413.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/230301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu5369012145851188623.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>2023년 전기 학위 수여식</title>
-      <link>http://localhost:1313/event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <link>https://snugnss.github.io/event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
       <pubDate>Thu, 23 Feb 2023 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <guid>https://snugnss.github.io/event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
       <description>&lt;h2 id=&#34;2023년-전기-학위-수여식&#34;&gt;2023년 전기 학위 수여식&lt;/h2&gt;
 &lt;h2 id=&#34;spring-2023-commencement-ceremony&#34;&gt;Spring 2023 Commencement Ceremony&lt;/h2&gt;
 &lt;/br&gt;
@@ -841,7 +1039,7 @@
                /event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu3747030757814519284.webp 400w,
                /event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu11956414990198710687.webp 760w,
                /event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu7757788269035728835.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu3747030757814519284.webp&#34;
+               src=&#34;https://snugnss.github.io/event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu3747030757814519284.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -869,7 +1067,7 @@
                /event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu8718435833718192556.webp 400w,
                /event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu8823566488997754084.webp 760w,
                /event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu15302414871988971719.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu8718435833718192556.webp&#34;
+               src=&#34;https://snugnss.github.io/event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu8718435833718192556.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -897,7 +1095,7 @@
                /event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu17395148632294833494.webp 400w,
                /event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu2143555320088919627.webp 760w,
                /event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu3138523800424315456.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu17395148632294833494.webp&#34;
+               src=&#34;https://snugnss.github.io/event/230223-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu17395148632294833494.webp&#34;
                width=&#34;760&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -907,10 +1105,180 @@
     </item>
     
     <item>
+      <title>2022년 여름 워크샵</title>
+      <link>https://snugnss.github.io/event/220901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/</link>
+      <pubDate>Thu, 01 Sep 2022 12:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/event/220901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/</guid>
+      <description>&lt;h2 id=&#34;2022-여름-gnss-연구실-워크샵&#34;&gt;2022 여름 GNSS 연구실 워크샵&lt;/h2&gt;
+&lt;h2 id=&#34;2022-summer-gnss-laboratory-workshop&#34;&gt;2022 Summer GNSS Laboratory Workshop&lt;/h2&gt;
+&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;2022 여름워크샵 (강원도 횡성)&lt;/li&gt;
+&lt;li&gt;우수연구자: 정호준&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;featuered&#34; srcset=&#34;
+               /event/220901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu11582159764643173599.webp 400w,
+               /event/220901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu11539366565150558689.webp 760w,
+               /event/220901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu6998333357467884824.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/220901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu11582159764643173599.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;220901-fig1&#34; srcset=&#34;
+               /event/220901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu11545303301319307983.webp 400w,
+               /event/220901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu16384054133717698282.webp 760w,
+               /event/220901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu6948485283066519445.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/220901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu11545303301319307983.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;220901-fig2&#34; srcset=&#34;
+               /event/220901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu4901456761173729006.webp 400w,
+               /event/220901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu2923924402799745643.webp 760w,
+               /event/220901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu8922914946359608143.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/220901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu4901456761173729006.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2022년 겨울 워크샵</title>
+      <link>https://snugnss.github.io/event/220301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/</link>
+      <pubDate>Tue, 01 Mar 2022 12:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/event/220301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/</guid>
+      <description>&lt;h2 id=&#34;2022-겨울-gnss-연구실-워크샵&#34;&gt;2022 겨울 GNSS 연구실 워크샵&lt;/h2&gt;
+&lt;h2 id=&#34;2022-winter-gnss-laboratory-workshop&#34;&gt;2022 Winter GNSS Laboratory Workshop&lt;/h2&gt;
+&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;2022 겨울워크샵 (302동)&lt;/li&gt;
+&lt;li&gt;우수연구자: 김부겸&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;featuered&#34; srcset=&#34;
+               /event/220301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu1449857235393741907.webp 400w,
+               /event/220301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu6069305028726942026.webp 760w,
+               /event/220301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu437946577997771482.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/220301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu1449857235393741907.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;220301-fig1&#34; srcset=&#34;
+               /event/220301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu50923413847985018.webp 400w,
+               /event/220301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu18091313060636321866.webp 760w,
+               /event/220301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu17501594724724679684.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/220301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu50923413847985018.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+ &lt;!-- ![220301-fig2](fig2.jpg) --&gt;</description>
+    </item>
+    
+    <item>
       <title>2022년 전기 학위 수여식</title>
-      <link>http://localhost:1313/event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <link>https://snugnss.github.io/event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
       <pubDate>Fri, 25 Feb 2022 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <guid>https://snugnss.github.io/event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
       <description>&lt;h2 id=&#34;2022년-전기-학위-수여식&#34;&gt;2022년 전기 학위 수여식&lt;/h2&gt;
 &lt;h2 id=&#34;spring-2022-commencement-ceremony&#34;&gt;Spring 2022 Commencement Ceremony&lt;/h2&gt;
 &lt;/br&gt;
@@ -940,7 +1308,7 @@
                /event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu17101124277512904850.webp 400w,
                /event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu107994877936549526.webp 760w,
                /event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu6758463386637919063.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu17101124277512904850.webp&#34;
+               src=&#34;https://snugnss.github.io/event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu17101124277512904850.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -968,7 +1336,7 @@
                /event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu16708881832779803553.webp 400w,
                /event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu8015037327442153423.webp 760w,
                /event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu2388029830991334383.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu16708881832779803553.webp&#34;
+               src=&#34;https://snugnss.github.io/event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu16708881832779803553.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -996,7 +1364,7 @@
                /event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu437734225318007549.webp 400w,
                /event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu8543563483428637857.webp 760w,
                /event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu1032416081235924533.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu437734225318007549.webp&#34;
+               src=&#34;https://snugnss.github.io/event/220225-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu437734225318007549.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1006,10 +1374,81 @@
     </item>
     
     <item>
+      <title>2021년 여름 워크샵</title>
+      <link>https://snugnss.github.io/event/210901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/</link>
+      <pubDate>Wed, 01 Sep 2021 12:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/event/210901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/</guid>
+      <description>&lt;h2 id=&#34;2021-여름-gnss-연구실-워크샵&#34;&gt;2021 여름 GNSS 연구실 워크샵&lt;/h2&gt;
+&lt;h2 id=&#34;2021-summer-gnss-laboratory-workshop&#34;&gt;2021 Summer GNSS Laboratory Workshop&lt;/h2&gt;
+&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;2021 여름워크샵 (정밀연)&lt;/li&gt;
+&lt;li&gt;우수연구자: 박재욱&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;featuered&#34; srcset=&#34;
+               /event/210901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu11638852984520610069.webp 400w,
+               /event/210901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu3545964169074973467.webp 760w,
+               /event/210901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu15765443292058640131.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/210901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu11638852984520610069.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;210901-fig1&#34; srcset=&#34;
+               /event/210901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu14997592466422744566.webp 400w,
+               /event/210901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu9413842661280932618.webp 760w,
+               /event/210901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu16153626402213759335.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/210901-%EC%97%AC%EB%A6%84%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu14997592466422744566.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+ &lt;!-- ![220901-fig2](fig2.jpg) --&gt;</description>
+    </item>
+    
+    <item>
       <title>2021년 후기 학위 수여식</title>
-      <link>http://localhost:1313/event/210829-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <link>https://snugnss.github.io/event/210829-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
       <pubDate>Sun, 29 Aug 2021 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/210829-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <guid>https://snugnss.github.io/event/210829-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
       <description>&lt;h2 id=&#34;2021년-후기-학위-수여식&#34;&gt;2021년 후기 학위 수여식&lt;/h2&gt;
 &lt;h2 id=&#34;fall-2021-commencement-ceremony&#34;&gt;Fall 2021 Commencement Ceremony&lt;/h2&gt;
 &lt;/br&gt;
@@ -1038,7 +1477,107 @@
                /event/210829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu10730410874371367267.webp 400w,
                /event/210829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu8505475617320599947.webp 760w,
                /event/210829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu14536722223596707827.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/210829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu10730410874371367267.webp&#34;
+               src=&#34;https://snugnss.github.io/event/210829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu10730410874371367267.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2021년 겨울 워크샵</title>
+      <link>https://snugnss.github.io/event/210301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/</link>
+      <pubDate>Mon, 01 Mar 2021 12:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/event/210301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/</guid>
+      <description>&lt;h2 id=&#34;2022-겨울-gnss-연구실-워크샵&#34;&gt;2022 겨울 GNSS 연구실 워크샵&lt;/h2&gt;
+&lt;h2 id=&#34;2022-winter-gnss-laboratory-workshop&#34;&gt;2022 Winter GNSS Laboratory Workshop&lt;/h2&gt;
+&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;2021 겨울워크샵 (정밀연)&lt;/li&gt;
+&lt;li&gt;우수연구자: 김부겸&lt;/li&gt;
+&lt;li&gt;우수연구실: 정밀연&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;featuered&#34; srcset=&#34;
+               /event/210301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu7242021295160788042.webp 400w,
+               /event/210301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu12055479583717822081.webp 760w,
+               /event/210301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu7712032311149782724.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/210301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/featured_hu7242021295160788042.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;210301-fig1&#34; srcset=&#34;
+               /event/210301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu13816339022718543226.webp 400w,
+               /event/210301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu7466101098800944159.webp 760w,
+               /event/210301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu11453787535451827442.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/210301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig1_hu13816339022718543226.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;210301-fig2&#34; srcset=&#34;
+               /event/210301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu13260813890674000270.webp 400w,
+               /event/210301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu13384614610733283658.webp 760w,
+               /event/210301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu779839197881531518.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/210301-%EA%B2%A8%EC%9A%B8%EC%9B%8C%ED%81%AC%EC%83%B5/fig2_hu13260813890674000270.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1049,9 +1588,9 @@
     
     <item>
       <title>2021년 전기 학위 수여식</title>
-      <link>http://localhost:1313/event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <link>https://snugnss.github.io/event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
       <pubDate>Wed, 24 Feb 2021 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <guid>https://snugnss.github.io/event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
       <description>&lt;h2 id=&#34;2021년-전기-학위-수여식&#34;&gt;2021년 전기 학위 수여식&lt;/h2&gt;
 &lt;h2 id=&#34;spring-2021-commencement-ceremony&#34;&gt;Spring 2021 Commencement Ceremony&lt;/h2&gt;
 &lt;/br&gt;
@@ -1080,7 +1619,7 @@
                /event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu16207124466971780681.webp 400w,
                /event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu14759583598880294113.webp 760w,
                /event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu17066567235087268796.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu16207124466971780681.webp&#34;
+               src=&#34;https://snugnss.github.io/event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu16207124466971780681.webp&#34;
                width=&#34;760&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1108,7 +1647,7 @@
                /event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu4962230723561830361.webp 400w,
                /event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu10320120102831264370.webp 760w,
                /event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu10318596072257896137.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu4962230723561830361.webp&#34;
+               src=&#34;https://snugnss.github.io/event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu4962230723561830361.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1136,7 +1675,7 @@
                /event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu4652928483329919494.webp 400w,
                /event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu11247060141327804950.webp 760w,
                /event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu5450064140087833966.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu4652928483329919494.webp&#34;
+               src=&#34;https://snugnss.github.io/event/210224-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu4652928483329919494.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1147,9 +1686,9 @@
     
     <item>
       <title>2020년 전기 학위 수여식</title>
-      <link>http://localhost:1313/event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <link>https://snugnss.github.io/event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
       <pubDate>Thu, 27 Feb 2020 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <guid>https://snugnss.github.io/event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
       <description>&lt;h2 id=&#34;2020년-전기-학위-수여식&#34;&gt;2020년 전기 학위 수여식&lt;/h2&gt;
 &lt;h2 id=&#34;spring-2020-commencement-ceremony&#34;&gt;Spring 2020 Commencement Ceremony&lt;/h2&gt;
 &lt;/br&gt;
@@ -1180,7 +1719,7 @@
                /event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu9328967239059616903.webp 400w,
                /event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu13267248407521915604.webp 760w,
                /event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu3074944031019354198.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu9328967239059616903.webp&#34;
+               src=&#34;https://snugnss.github.io/event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu9328967239059616903.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1208,7 +1747,7 @@
                /event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu5776748932556515070.webp 400w,
                /event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu17726185653734708540.webp 760w,
                /event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu11097789143687294394.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu5776748932556515070.webp&#34;
+               src=&#34;https://snugnss.github.io/event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu5776748932556515070.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1236,7 +1775,7 @@
                /event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu18035955263626608564.webp 400w,
                /event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu13134791210048766785.webp 760w,
                /event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu1848536039205100497.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu18035955263626608564.webp&#34;
+               src=&#34;https://snugnss.github.io/event/200227-%EC%A1%B8%EC%97%85%EC%8B%9D/fig2_hu18035955263626608564.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1247,9 +1786,9 @@
     
     <item>
       <title>2019년 전기 학위 수여식</title>
-      <link>http://localhost:1313/event/190226-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <link>https://snugnss.github.io/event/190226-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
       <pubDate>Tue, 26 Feb 2019 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/190226-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <guid>https://snugnss.github.io/event/190226-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
       <description>&lt;h2 id=&#34;2019년-전기-학위-수여식&#34;&gt;2019년 전기 학위 수여식&lt;/h2&gt;
 &lt;h2 id=&#34;spring-2019-commencement-ceremony&#34;&gt;Spring 2019 Commencement Ceremony&lt;/h2&gt;
 &lt;/br&gt;
@@ -1278,7 +1817,7 @@
                /event/190226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu17081441056607651222.webp 400w,
                /event/190226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu4855119666606370878.webp 760w,
                /event/190226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu4070159756901986681.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/190226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu17081441056607651222.webp&#34;
+               src=&#34;https://snugnss.github.io/event/190226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu17081441056607651222.webp&#34;
                width=&#34;760&#34;
                height=&#34;506&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1306,7 +1845,7 @@
                /event/190226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu10051500249270360003.webp 400w,
                /event/190226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu14186423280804767007.webp 760w,
                /event/190226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu9933489249888072953.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/190226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu10051500249270360003.webp&#34;
+               src=&#34;https://snugnss.github.io/event/190226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu10051500249270360003.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1317,9 +1856,9 @@
     
     <item>
       <title>2018년 후기 학위 수여식</title>
-      <link>http://localhost:1313/event/180829-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <link>https://snugnss.github.io/event/180829-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
       <pubDate>Wed, 29 Aug 2018 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/180829-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <guid>https://snugnss.github.io/event/180829-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
       <description>&lt;h2 id=&#34;2018년-후기-학위-수여식&#34;&gt;2018년 후기 학위 수여식&lt;/h2&gt;
 &lt;h2 id=&#34;fall-2018-commencement-ceremony&#34;&gt;Fall 2018 Commencement Ceremony&lt;/h2&gt;
 &lt;/br&gt;
@@ -1348,7 +1887,7 @@
                /event/180829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu18030875124337366356.webp 400w,
                /event/180829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu4572794092619791508.webp 760w,
                /event/180829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu8056658466757632516.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/180829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu18030875124337366356.webp&#34;
+               src=&#34;https://snugnss.github.io/event/180829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu18030875124337366356.webp&#34;
                width=&#34;760&#34;
                height=&#34;506&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1376,7 +1915,7 @@
                /event/180829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu679880211837673279.webp 400w,
                /event/180829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu7776675587367286034.webp 760w,
                /event/180829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu9698285471203913334.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/180829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu679880211837673279.webp&#34;
+               src=&#34;https://snugnss.github.io/event/180829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu679880211837673279.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1387,9 +1926,9 @@
     
     <item>
       <title>2018년 전기 학위 수여식</title>
-      <link>http://localhost:1313/event/180226-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <link>https://snugnss.github.io/event/180226-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
       <pubDate>Mon, 26 Feb 2018 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/180226-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <guid>https://snugnss.github.io/event/180226-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
       <description>&lt;h2 id=&#34;2018년-전기-학위-수여식&#34;&gt;2018년 전기 학위 수여식&lt;/h2&gt;
 &lt;h2 id=&#34;spring-2018-commencement-ceremony&#34;&gt;Spring 2018 Commencement Ceremony&lt;/h2&gt;
 &lt;/br&gt;
@@ -1419,7 +1958,7 @@
                /event/180226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu16505807573598556712.webp 400w,
                /event/180226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu16930940035138690149.webp 760w,
                /event/180226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu8421356500217094508.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/180226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu16505807573598556712.webp&#34;
+               src=&#34;https://snugnss.github.io/event/180226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu16505807573598556712.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1447,7 +1986,7 @@
                /event/180226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu7257202608258819430.webp 400w,
                /event/180226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu10342187252933212707.webp 760w,
                /event/180226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu563934253076770936.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/180226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu7257202608258819430.webp&#34;
+               src=&#34;https://snugnss.github.io/event/180226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu7257202608258819430.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1458,9 +1997,9 @@
     
     <item>
       <title>2017년 후기 학위 수여식</title>
-      <link>http://localhost:1313/event/170829-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <link>https://snugnss.github.io/event/170829-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
       <pubDate>Tue, 29 Aug 2017 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/170829-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <guid>https://snugnss.github.io/event/170829-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
       <description>&lt;h2 id=&#34;2017년-후기-학위-수여식&#34;&gt;2017년 후기 학위 수여식&lt;/h2&gt;
 &lt;h2 id=&#34;fall-2017-commencement-ceremony&#34;&gt;Fall 2017 Commencement Ceremony&lt;/h2&gt;
 &lt;/br&gt;
@@ -1490,7 +2029,7 @@
                /event/170829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu7585182919187061882.webp 400w,
                /event/170829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu3363079517002315247.webp 760w,
                /event/170829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu13392841893076264733.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/170829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu7585182919187061882.webp&#34;
+               src=&#34;https://snugnss.github.io/event/170829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu7585182919187061882.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1518,7 +2057,7 @@
                /event/170829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu5624143965931393735.webp 400w,
                /event/170829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu6627221438096755006.webp 760w,
                /event/170829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu8434978259932968762.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/170829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu5624143965931393735.webp&#34;
+               src=&#34;https://snugnss.github.io/event/170829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu5624143965931393735.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1529,9 +2068,9 @@
     
     <item>
       <title>2017년 전기 학위 수여식</title>
-      <link>http://localhost:1313/event/170224-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <link>https://snugnss.github.io/event/170224-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
       <pubDate>Fri, 24 Feb 2017 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/170224-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <guid>https://snugnss.github.io/event/170224-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
       <description>&lt;h2 id=&#34;2017년-전기-학위-수여식&#34;&gt;2017년 전기 학위 수여식&lt;/h2&gt;
 &lt;h2 id=&#34;spring-2017-commencement-ceremony&#34;&gt;Spring 2017 Commencement Ceremony&lt;/h2&gt;
 &lt;/br&gt;
@@ -1562,7 +2101,7 @@
                /event/170224-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu14568903388435182542.webp 400w,
                /event/170224-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu7368110751070593978.webp 760w,
                /event/170224-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu12956906646758636935.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/170224-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu14568903388435182542.webp&#34;
+               src=&#34;https://snugnss.github.io/event/170224-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu14568903388435182542.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1590,7 +2129,7 @@
                /event/170224-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu16367696979031986197.webp 400w,
                /event/170224-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu10296641612830391522.webp 760w,
                /event/170224-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu18146459557815454614.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/170224-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu16367696979031986197.webp&#34;
+               src=&#34;https://snugnss.github.io/event/170224-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu16367696979031986197.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1601,9 +2140,9 @@
     
     <item>
       <title>2016년 후기 학위 수여식</title>
-      <link>http://localhost:1313/event/160829-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <link>https://snugnss.github.io/event/160829-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
       <pubDate>Mon, 29 Aug 2016 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/160829-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <guid>https://snugnss.github.io/event/160829-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
       <description>&lt;h2 id=&#34;2016년-후기-학위-수여식&#34;&gt;2016년 후기 학위 수여식&lt;/h2&gt;
 &lt;h2 id=&#34;fall-2016-commencement-ceremony&#34;&gt;Fall 2016 Commencement Ceremony&lt;/h2&gt;
 &lt;/br&gt;
@@ -1632,7 +2171,7 @@
                /event/160829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu13062124279805581576.webp 400w,
                /event/160829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu7467464012354264224.webp 760w,
                /event/160829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu8515522018823215281.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/160829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu13062124279805581576.webp&#34;
+               src=&#34;https://snugnss.github.io/event/160829-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu13062124279805581576.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1660,13 +2199,284 @@
                /event/160829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu7436834501028002212.webp 400w,
                /event/160829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu8036794488592913991.webp 760w,
                /event/160829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu852805911111147713.webp 1200w&#34;
-               src=&#34;http://localhost:1313/event/160829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu7436834501028002212.webp&#34;
+               src=&#34;https://snugnss.github.io/event/160829-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu7436834501028002212.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>2016년 전기 학위 수여식</title>
+      <link>https://snugnss.github.io/event/160225-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <pubDate>Thu, 25 Feb 2016 13:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/event/160225-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <description>&lt;h2 id=&#34;2016년-전기-학위-수여식&#34;&gt;2016년 전기 학위 수여식&lt;/h2&gt;
+&lt;h2 id=&#34;spring-2016-commencement-ceremony&#34;&gt;Spring 2016 Commencement Ceremony&lt;/h2&gt;
+&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;박사졸업: 김연실, 김종원, 송준솔&lt;/li&gt;
+&lt;li&gt;학사졸업: 김휘겸&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;featuered&#34; srcset=&#34;
+               /event/160225-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu8981882158018495374.webp 400w,
+               /event/160225-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu3744228473451672192.webp 760w,
+               /event/160225-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu4322047772096876138.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/160225-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu8981882158018495374.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;576&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;160225-fig1&#34; srcset=&#34;
+               /event/160225-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu17133566043008711605.webp 400w,
+               /event/160225-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu2899120017297569437.webp 760w,
+               /event/160225-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu1803384220949949682.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/160225-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu17133566043008711605.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+ &lt;!-- ![200227-fig2](fig2.jpg) --&gt;</description>
+    </item>
+    
+    <item>
+      <title>2015년 전기 학위 수여식</title>
+      <link>https://snugnss.github.io/event/150226-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <pubDate>Thu, 26 Feb 2015 13:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/event/150226-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <description>&lt;h2 id=&#34;2015년-전기-학위-수여식&#34;&gt;2015년 전기 학위 수여식&lt;/h2&gt;
+&lt;h2 id=&#34;spring-2015-commencement-ceremony&#34;&gt;Spring 2015 Commencement Ceremony&lt;/h2&gt;
+&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;석사졸업: 김영두&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;featuered&#34; srcset=&#34;
+               /event/150226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu253595387884449601.webp 400w,
+               /event/150226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu2104095808657781322.webp 760w,
+               /event/150226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu12872689777901006616.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/150226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu253595387884449601.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;572&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;150226-fig1&#34; srcset=&#34;
+               /event/150226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu284993589484839961.webp 400w,
+               /event/150226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu16517001994529332208.webp 760w,
+               /event/150226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu2948242445134643564.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/150226-%EC%A1%B8%EC%97%85%EC%8B%9D/fig1_hu284993589484839961.webp&#34;
+               width=&#34;567&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+ &lt;!-- ![200227-fig2](fig2.jpg) --&gt;</description>
+    </item>
+    
+    <item>
+      <title>2013년 전기 학위 수여식</title>
+      <link>https://snugnss.github.io/event/130226-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <pubDate>Tue, 26 Feb 2013 13:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/event/130226-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <description>&lt;h2 id=&#34;2013년-전기-학위-수여식&#34;&gt;2013년 전기 학위 수여식&lt;/h2&gt;
+&lt;h2 id=&#34;spring-2013-commencement-ceremony&#34;&gt;Spring 2013 Commencement Ceremony&lt;/h2&gt;
+&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;박사졸업: 윤호&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;featuered&#34; srcset=&#34;
+               /event/130226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu9566261472493631677.webp 400w,
+               /event/130226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu6939939103417737152.webp 760w,
+               /event/130226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu9049641763302335754.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/130226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu9566261472493631677.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;503&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+ &lt;!-- ![150226-fig1](fig1.jpg) --&gt;
+ &lt;!-- ![200227-fig2](fig2.jpg) --&gt;</description>
+    </item>
+    
+    <item>
+      <title>2008년 전기 학위 수여식</title>
+      <link>https://snugnss.github.io/event/080226-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <pubDate>Tue, 26 Feb 2008 13:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/event/080226-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <description>&lt;h2 id=&#34;2008년-전기-학위-수여식&#34;&gt;2008년 전기 학위 수여식&lt;/h2&gt;
+&lt;h2 id=&#34;spring-2008-commencement-ceremony&#34;&gt;Spring 2008 Commencement Ceremony&lt;/h2&gt;
+&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;박사졸업: 이택진, 박병운&lt;/li&gt;
+&lt;li&gt;석사졸업: 김보성&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;featuered&#34; srcset=&#34;
+               /event/080226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu1316902195620925759.webp 400w,
+               /event/080226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu5506548828919790051.webp 760w,
+               /event/080226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu1209218521976143949.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/080226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu1316902195620925759.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;505&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+ &lt;!-- ![150226-fig1](fig1.jpg) --&gt;
+ &lt;!-- ![200227-fig2](fig2.jpg) --&gt;</description>
+    </item>
+    
+    <item>
+      <title>2007년 전기 학위 수여식</title>
+      <link>https://snugnss.github.io/event/070226-%EC%A1%B8%EC%97%85%EC%8B%9D/</link>
+      <pubDate>Mon, 26 Feb 2007 13:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/event/070226-%EC%A1%B8%EC%97%85%EC%8B%9D/</guid>
+      <description>&lt;h2 id=&#34;2007년-전기-학위-수여식&#34;&gt;2007년 전기 학위 수여식&lt;/h2&gt;
+&lt;h2 id=&#34;spring-2007-commencement-ceremony&#34;&gt;Spring 2007 Commencement Ceremony&lt;/h2&gt;
+&lt;/br&gt;
+&lt;ul&gt;
+&lt;li&gt;박사졸업: 김도윤, 윤영선&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;featuered&#34; srcset=&#34;
+               /event/070226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu10510822661518180542.webp 400w,
+               /event/070226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu3286208771175251462.webp 760w,
+               /event/070226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu5589698428866363121.webp 1200w&#34;
+               src=&#34;https://snugnss.github.io/event/070226-%EC%A1%B8%EC%97%85%EC%8B%9D/featured_hu10510822661518180542.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;505&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+ &lt;!-- ![150226-fig1](fig1.jpg) --&gt;
+ &lt;!-- ![200227-fig2](fig2.jpg) --&gt;</description>
     </item>
     
   </channel>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taeyung Oh | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/taeyung-oh/</link>
-      <atom:link href="http://localhost:1313/author/taeyung-oh/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/taeyung-oh/</link>
+      <atom:link href="https://snugnss.github.io/author/taeyung-oh/index.xml" rel="self" type="application/rss+xml" />
     <description>Taeyung Oh</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 1999 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Taeyung Oh</title>
-      <link>http://localhost:1313/author/taeyung-oh/</link>
+      <link>https://snugnss.github.io/author/taeyung-oh/</link>
     </image>
     
     <item>
       <title>Real-time DGPS를 이용한 항공기 착륙시스템 개발 및 비행실험</title>
-      <link>http://localhost:1313/publication/dc_199910/</link>
+      <link>https://snugnss.github.io/publication/dc_199910/</link>
       <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_199910/</guid>
+      <guid>https://snugnss.github.io/publication/dc_199910/</guid>
       <description></description>
     </item>
     

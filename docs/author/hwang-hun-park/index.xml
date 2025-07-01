@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hwang-Hun Park | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/hwang-hun-park/</link>
-      <atom:link href="http://localhost:1313/author/hwang-hun-park/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/hwang-hun-park/</link>
+      <atom:link href="https://snugnss.github.io/author/hwang-hun-park/index.xml" rel="self" type="application/rss+xml" />
     <description>Hwang-Hun Park</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Hwang-Hun Park</title>
-      <link>http://localhost:1313/author/hwang-hun-park/</link>
+      <link>https://snugnss.github.io/author/hwang-hun-park/</link>
     </image>
     
     <item>
       <title>“A New User Integrity Monitoring for Multiple Ramp Failures</title>
-      <link>http://localhost:1313/publication/ic_201310/</link>
+      <link>https://snugnss.github.io/publication/ic_201310/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201310/</guid>
+      <guid>https://snugnss.github.io/publication/ic_201310/</guid>
       <description></description>
     </item>
     

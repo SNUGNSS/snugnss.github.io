@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chorong Ryu | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/author/chorong-ryu/</link>
-      <atom:link href="http://localhost:1313/author/chorong-ryu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/author/chorong-ryu/</link>
+      <atom:link href="https://snugnss.github.io/author/chorong-ryu/index.xml" rel="self" type="application/rss+xml" />
     <description>Chorong Ryu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo.svg</url>
+      <url>https://snugnss.github.io/media/logo.svg</url>
       <title>Chorong Ryu</title>
-      <link>http://localhost:1313/author/chorong-ryu/</link>
+      <link>https://snugnss.github.io/author/chorong-ryu/</link>
     </image>
     
     <item>
       <title>DGPS/IMU/Magnetometer 결합을 이용한 차량의 위성 항법 측위 성능 향상</title>
-      <link>http://localhost:1313/publication/dc_201611/</link>
+      <link>https://snugnss.github.io/publication/dc_201611/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201611/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201611/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-GNSS 조합별 성능 예측 및 최적 조합 선택</title>
-      <link>http://localhost:1313/publication/dc_201602/</link>
+      <link>https://snugnss.github.io/publication/dc_201602/</link>
       <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dc_201602/</guid>
+      <guid>https://snugnss.github.io/publication/dc_201602/</guid>
       <description></description>
     </item>
     
