@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>P. Enge | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/p.-enge/</link>
-      <atom:link href="https://snugnss.github.io/author/p.-enge/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/p.-enge/</link>
+      <atom:link href="http://localhost:1313/author/p.-enge/index.xml" rel="self" type="application/rss+xml" />
     <description>P. Enge</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2006 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>P. Enge</title>
-      <link>https://snugnss.github.io/author/p.-enge/</link>
+      <link>http://localhost:1313/author/p.-enge/</link>
     </image>
     
     <item>
       <title>Detecting RFI Through Integrity Monitoring at a DGPS Reference Station</title>
-      <link>https://snugnss.github.io/publication/ij_200605/</link>
+      <link>http://localhost:1313/publication/ij_200605/</link>
       <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_200605/</guid>
+      <guid>http://localhost:1313/publication/ij_200605/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Detecting RFI Through Integrity Monitoring at a DGPS Reference Station</title>
-      <link>https://snugnss.github.io/publication/ic_200501/</link>
+      <link>http://localhost:1313/publication/ic_200501/</link>
       <pubDate>Wed, 01 Jun 2005 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200501/</guid>
+      <guid>http://localhost:1313/publication/ic_200501/</guid>
       <description></description>
     </item>
     

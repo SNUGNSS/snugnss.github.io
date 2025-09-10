@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yonghwan Bae Jae Woong Hwang | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/yonghwan-bae-jae-woong-hwang/</link>
+      <atom:link href="http://localhost:1313/author/yonghwan-bae-jae-woong-hwang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yonghwan Bae Jae Woong Hwang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Yonghwan Bae Jae Woong Hwang</title>
+      <link>http://localhost:1313/author/yonghwan-bae-jae-woong-hwang/</link>
+    </image>
+    
+    <item>
+      <title>SNUGLITE-III 큐브위성의 자율 랑데부-도킹 임무수행을 위한 GPS 정밀 상대항법 시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_202401/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202401/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

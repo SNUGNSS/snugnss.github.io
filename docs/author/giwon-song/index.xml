@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Giwon Song | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/giwon-song/</link>
-      <atom:link href="https://snugnss.github.io/author/giwon-song/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/giwon-song/</link>
+      <atom:link href="http://localhost:1313/author/giwon-song/index.xml" rel="self" type="application/rss+xml" />
     <description>Giwon Song</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Giwon Song</title>
-      <link>https://snugnss.github.io/author/giwon-song/</link>
+      <link>http://localhost:1313/author/giwon-song/</link>
     </image>
     
     <item>
       <title>이중차분 반송파 측정치를 활용한 전리층 모델링 정확도 향상에 관한 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201814/</link>
+      <link>http://localhost:1313/publication/dc_201814/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201814/</guid>
+      <guid>http://localhost:1313/publication/dc_201814/</guid>
       <description></description>
     </item>
     

@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dongkeon Kim | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/dongkeon-kim/</link>
-      <atom:link href="https://snugnss.github.io/author/dongkeon-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/dongkeon-kim/</link>
+      <atom:link href="http://localhost:1313/author/dongkeon-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Dongkeon Kim</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/dongkeon-kim/avatar_hu3203467846349905903.jpg</url>
+      <url>http://localhost:1313/author/dongkeon-kim/avatar_hu_56c103e93a43027a.jpg</url>
       <title>Dongkeon Kim</title>
-      <link>https://snugnss.github.io/author/dongkeon-kim/</link>
+      <link>http://localhost:1313/author/dongkeon-kim/</link>
     </image>
     
     <item>
       <title>“Fully Automatic Taxiing, Takeoff and Landing of a UAV only with a Single-Antenna GPS Receiver</title>
-      <link>https://snugnss.github.io/publication/ic_200802/</link>
+      <link>http://localhost:1313/publication/ic_200802/</link>
       <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200802/</guid>
+      <guid>http://localhost:1313/publication/ic_200802/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fully automatic taxiing, takeoff and landing of a UAV based on a single-antenna GNSS receiver</title>
-      <link>https://snugnss.github.io/publication/ic_200801/</link>
+      <link>http://localhost:1313/publication/ic_200801/</link>
       <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200801/</guid>
+      <guid>http://localhost:1313/publication/ic_200801/</guid>
       <description></description>
     </item>
     
     <item>
       <title>단일안테나 GPS 수신기를 이용한 무인항공기의 자동이착륙 및 지상활주</title>
-      <link>https://snugnss.github.io/publication/dc_200702/</link>
+      <link>http://localhost:1313/publication/dc_200702/</link>
       <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_200702/</guid>
+      <guid>http://localhost:1313/publication/dc_200702/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fully Automatic Taxiing, Takeoff and Landing of a UAV using a Single-Antenna GPS Receiver only</title>
-      <link>https://snugnss.github.io/publication/ic_200706/</link>
+      <link>http://localhost:1313/publication/ic_200706/</link>
       <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200706/</guid>
+      <guid>http://localhost:1313/publication/ic_200706/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fully Automatic Taxiing, Takeoff and Landing of a UAV only with a Single-Antenna GPS Receiver</title>
-      <link>https://snugnss.github.io/publication/ic_200703/</link>
+      <link>http://localhost:1313/publication/ic_200703/</link>
       <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200703/</guid>
+      <guid>http://localhost:1313/publication/ic_200703/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wind Estimation and Airspeed Calibration Using the UAV with a Single-Antenna GNSS Receiver and Airspeed Sensor</title>
-      <link>https://snugnss.github.io/publication/ic_200607/</link>
+      <link>http://localhost:1313/publication/ic_200607/</link>
       <pubDate>Fri, 01 Sep 2006 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200607/</guid>
+      <guid>http://localhost:1313/publication/ic_200607/</guid>
       <description></description>
     </item>
     

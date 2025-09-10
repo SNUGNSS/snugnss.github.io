@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jong-Heon Kim | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/jong-heon-kim/</link>
-      <atom:link href="https://snugnss.github.io/author/jong-heon-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jong-heon-kim/</link>
+      <atom:link href="http://localhost:1313/author/jong-heon-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Jong-Heon Kim</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/jong-heon-kim/avatar_hu6503580071980017540.jpg</url>
+      <url>http://localhost:1313/author/jong-heon-kim/avatar_hu_847e1b5c3c19b26d.jpg</url>
       <title>Jong-Heon Kim</title>
-      <link>https://snugnss.github.io/author/jong-heon-kim/</link>
+      <link>http://localhost:1313/author/jong-heon-kim/</link>
     </image>
     
     <item>
       <title>스마트폰 정밀 측위를 위한 스마트폰 GNSS 안테나 캘리브레이션 기법 연구</title>
-      <link>https://snugnss.github.io/publication/dc_202206/</link>
+      <link>http://localhost:1313/publication/dc_202206/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202206/</guid>
+      <guid>http://localhost:1313/publication/dc_202206/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variogram Estimation of Tropospherice Delay by Using Meteorological Data</title>
-      <link>https://snugnss.github.io/publication/dj_202101/</link>
+      <link>http://localhost:1313/publication/dj_202101/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dj_202101/</guid>
+      <guid>http://localhost:1313/publication/dj_202101/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessment of the Quality of Raw Measurement From SAMSUNG SOC GNSS Chip and Analysis of Positioning Accuracy Using PPP</title>
-      <link>https://snugnss.github.io/publication/ic_202101/</link>
+      <link>http://localhost:1313/publication/ic_202101/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_202101/</guid>
+      <guid>http://localhost:1313/publication/ic_202101/</guid>
       <description></description>
     </item>
     

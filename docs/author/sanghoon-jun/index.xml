@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sanghoon Jun | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/sanghoon-jun/</link>
-      <atom:link href="https://snugnss.github.io/author/sanghoon-jun/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/sanghoon-jun/</link>
+      <atom:link href="http://localhost:1313/author/sanghoon-jun/index.xml" rel="self" type="application/rss+xml" />
     <description>Sanghoon Jun</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2004 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Sanghoon Jun</title>
-      <link>https://snugnss.github.io/author/sanghoon-jun/</link>
+      <link>http://localhost:1313/author/sanghoon-jun/</link>
     </image>
     
     <item>
       <title>The Need for Range Rate Correctionsin DGPS Correction Messages</title>
-      <link>https://snugnss.github.io/publication/ic_200406/</link>
+      <link>http://localhost:1313/publication/ic_200406/</link>
       <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_200406/</guid>
+      <guid>http://localhost:1313/publication/ic_200406/</guid>
       <description></description>
     </item>
     

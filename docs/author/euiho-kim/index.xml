@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Euiho Kim | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/euiho-kim/</link>
-      <atom:link href="https://snugnss.github.io/author/euiho-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/euiho-kim/</link>
+      <atom:link href="http://localhost:1313/author/euiho-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Euiho Kim</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Euiho Kim</title>
-      <link>https://snugnss.github.io/author/euiho-kim/</link>
+      <link>http://localhost:1313/author/euiho-kim/</link>
     </image>
     
     <item>
       <title>Performance Analysis on Multi-Constellation SBAS of the Modified L1-only SBAS Message</title>
-      <link>https://snugnss.github.io/publication/ic_201708/</link>
+      <link>http://localhost:1313/publication/ic_201708/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201708/</guid>
+      <guid>http://localhost:1313/publication/ic_201708/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-frequency Divergence-free Hatch Filter for the Android N GNSS Raw Measurements</title>
-      <link>https://snugnss.github.io/publication/ic_201706/</link>
+      <link>http://localhost:1313/publication/ic_201706/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201706/</guid>
+      <guid>http://localhost:1313/publication/ic_201706/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal Divergence-Free Hatch Filter for GNSS Single-Frequency Measurement</title>
-      <link>https://snugnss.github.io/publication/ij_201701/</link>
+      <link>http://localhost:1313/publication/ij_201701/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_201701/</guid>
+      <guid>http://localhost:1313/publication/ij_201701/</guid>
       <description></description>
     </item>
     

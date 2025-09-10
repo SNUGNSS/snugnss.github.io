@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Hong | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/daniel-hong/</link>
-      <atom:link href="https://snugnss.github.io/author/daniel-hong/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/daniel-hong/</link>
+      <atom:link href="http://localhost:1313/author/daniel-hong/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Hong</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/daniel-hong/avatar_hu4850453822118204559.jpg</url>
+      <url>http://localhost:1313/author/daniel-hong/avatar_hu_5d103955096d1901.jpg</url>
       <title>Daniel Hong</title>
-      <link>https://snugnss.github.io/author/daniel-hong/</link>
+      <link>http://localhost:1313/author/daniel-hong/</link>
     </image>
     
     <item>
       <title>Centimeter-level Precision Smartphone Navigation Using RTK</title>
-      <link>https://snugnss.github.io/publication/dc_202008/</link>
+      <link>http://localhost:1313/publication/dc_202008/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_202008/</guid>
+      <guid>http://localhost:1313/publication/dc_202008/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Experimental Study of Single-Transmitter-Based Precise Indoor Positioning System</title>
-      <link>https://snugnss.github.io/publication/ij_202002/</link>
+      <link>http://localhost:1313/publication/ij_202002/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ij_202002/</guid>
+      <guid>http://localhost:1313/publication/ij_202002/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust Wheeled Mobile Robot Navigation Through Smartphone IMU Based Cycle Slip Detection and Compensation</title>
-      <link>https://snugnss.github.io/publication/ic_201910/</link>
+      <link>http://localhost:1313/publication/ic_201910/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201910/</guid>
+      <guid>http://localhost:1313/publication/ic_201910/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPS/GLONASS Compact Network RTK 데모 시스템 개발</title>
-      <link>https://snugnss.github.io/publication/dc_201810/</link>
+      <link>http://localhost:1313/publication/dc_201810/</link>
       <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201810/</guid>
+      <guid>http://localhost:1313/publication/dc_201810/</guid>
       <description></description>
     </item>
     

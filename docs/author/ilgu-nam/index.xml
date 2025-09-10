@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ilgu Nam | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/ilgu-nam/</link>
-      <atom:link href="https://snugnss.github.io/author/ilgu-nam/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/ilgu-nam/</link>
+      <atom:link href="http://localhost:1313/author/ilgu-nam/index.xml" rel="self" type="application/rss+xml" />
     <description>Ilgu Nam</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Nov 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Ilgu Nam</title>
-      <link>https://snugnss.github.io/author/ilgu-nam/</link>
+      <link>http://localhost:1313/author/ilgu-nam/</link>
     </image>
     
     <item>
       <title>저궤도 위성에 탑재 가능한 GPS/Galileo 복합 수신기 기술 개발</title>
-      <link>https://snugnss.github.io/publication/dc_201113/</link>
+      <link>http://localhost:1313/publication/dc_201113/</link>
       <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201113/</guid>
+      <guid>http://localhost:1313/publication/dc_201113/</guid>
       <description></description>
     </item>
     

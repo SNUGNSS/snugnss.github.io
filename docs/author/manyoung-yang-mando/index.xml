@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manyoung Yang (Mando) | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/manyoung-yang-mando/</link>
-      <atom:link href="https://snugnss.github.io/author/manyoung-yang-mando/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/manyoung-yang-mando/</link>
+      <atom:link href="http://localhost:1313/author/manyoung-yang-mando/index.xml" rel="self" type="application/rss+xml" />
     <description>Manyoung Yang (Mando)</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
+      <url>http://localhost:1313/media/logo.svg</url>
       <title>Manyoung Yang (Mando)</title>
-      <link>https://snugnss.github.io/author/manyoung-yang-mando/</link>
+      <link>http://localhost:1313/author/manyoung-yang-mando/</link>
     </image>
     
     <item>
       <title>“Improvement of DGPS Positioning Accuracy for Low Cost Receiver using FKP Correction Message</title>
-      <link>https://snugnss.github.io/publication/ic_201404/</link>
+      <link>http://localhost:1313/publication/ic_201404/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201404/</guid>
+      <guid>http://localhost:1313/publication/ic_201404/</guid>
       <description></description>
     </item>
     

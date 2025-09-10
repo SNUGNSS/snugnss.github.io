@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Youngdoo Kim | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/author/youngdoo-kim/</link>
-      <atom:link href="https://snugnss.github.io/author/youngdoo-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/youngdoo-kim/</link>
+      <atom:link href="http://localhost:1313/author/youngdoo-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Youngdoo Kim</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/author/youngdoo-kim/avatar_hu9124987765856251458.jpg</url>
+      <url>http://localhost:1313/author/youngdoo-kim/avatar_hu_5cd3874bf6075aa.jpg</url>
       <title>Youngdoo Kim</title>
-      <link>https://snugnss.github.io/author/youngdoo-kim/</link>
+      <link>http://localhost:1313/author/youngdoo-kim/</link>
     </image>
     
     <item>
       <title>Development and Verification of LQG based Attitude Determination and Control Algorithm of Cube-satellite “SNUGLITE using GPS and Multiple Sensors</title>
-      <link>https://snugnss.github.io/publication/ic_201604/</link>
+      <link>http://localhost:1313/publication/ic_201604/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/ic_201604/</guid>
+      <guid>http://localhost:1313/publication/ic_201604/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mission and Preliminary Design of Cubesat SNUGLITE Observing Space Environment and Earthquake Using GPS Signals</title>
-      <link>https://snugnss.github.io/publication/dc_201504/</link>
+      <link>http://localhost:1313/publication/dc_201504/</link>
       <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201504/</guid>
+      <guid>http://localhost:1313/publication/dc_201504/</guid>
       <description></description>
     </item>
     
     <item>
       <title>자기 제어를 이용한 큐브위성의 자세 결정 및 제어에 관한 연구</title>
-      <link>https://snugnss.github.io/publication/dc_201501/</link>
+      <link>http://localhost:1313/publication/dc_201501/</link>
       <pubDate>Thu, 23 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201501/</guid>
+      <guid>http://localhost:1313/publication/dc_201501/</guid>
       <description></description>
     </item>
     
     <item>
       <title>실시간 GNSS 수신기 전리층 지연 보정 모델의 한반도 특성 분석</title>
-      <link>https://snugnss.github.io/publication/dc_201411/</link>
+      <link>http://localhost:1313/publication/dc_201411/</link>
       <pubDate>Wed, 19 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201411/</guid>
+      <guid>http://localhost:1313/publication/dc_201411/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MATLAB GUI 기반 GPS 수신기 측정치 생성 소프트웨어의 개발</title>
-      <link>https://snugnss.github.io/publication/dc_201407/</link>
+      <link>http://localhost:1313/publication/dc_201407/</link>
       <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201407/</guid>
+      <guid>http://localhost:1313/publication/dc_201407/</guid>
       <description></description>
     </item>
     
     <item>
       <title>자기장토커와 LQR 제어기를 이용한 큐브위성의 자세 제어</title>
-      <link>https://snugnss.github.io/publication/dc_201405/</link>
+      <link>http://localhost:1313/publication/dc_201405/</link>
       <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/publication/dc_201405/</guid>
+      <guid>http://localhost:1313/publication/dc_201405/</guid>
       <description></description>
     </item>
     
