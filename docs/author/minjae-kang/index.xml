@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minjae Kang | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/minjae-kang/</link>
+      <atom:link href="https://snugnss.github.io/author/minjae-kang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Minjae Kang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/author/minjae-kang/avatar_hu_dee98a61cb11a3b3.jpg</url>
+      <title>Minjae Kang</title>
+      <link>https://snugnss.github.io/author/minjae-kang/</link>
+    </image>
+    
+    <item>
+      <title>지구 삼체중력과 달 섭동력 고려한 달 남극점 커버 항법위성 궤도 설계</title>
+      <link>https://snugnss.github.io/publication/dc_202413/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_202413/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>지구 삼체중력 및 달 섭동력 고려한 남극점 커버 달 항법위성 궤도 설계</title>
+      <link>https://snugnss.github.io/publication/dc_202408/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_202408/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>달 남극점을 커버하는 달 위성항법시스템 Frozen orbit 설계</title>
+      <link>https://snugnss.github.io/publication/dc_202405/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_202405/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Orbit Simulation Tool for Lunar Navigation Satellite System</title>
+      <link>https://snugnss.github.io/publication/dj_202306/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dj_202306/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>달 남극에서의 항법을 위한 궤도 설계</title>
+      <link>https://snugnss.github.io/publication/dc_202313/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_202313/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

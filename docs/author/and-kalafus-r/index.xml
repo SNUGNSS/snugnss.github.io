@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>And Kalafus R. | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/and-kalafus-r./</link>
+      <atom:link href="https://snugnss.github.io/author/and-kalafus-r./index.xml" rel="self" type="application/rss+xml" />
+    <description>And Kalafus R.</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>And Kalafus R.</title>
+      <link>https://snugnss.github.io/author/and-kalafus-r./</link>
+    </image>
+    
+    <item>
+      <title>The Need for Range Rate Correctionsin DGPS Correction Messages</title>
+      <link>https://snugnss.github.io/publication/ic_200406/</link>
+      <pubDate>Wed, 01 Sep 2004 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/ic_200406/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sanghyeok Han | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/sanghyeok-han/</link>
+      <atom:link href="https://snugnss.github.io/author/sanghyeok-han/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sanghyeok Han</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Sanghyeok Han</title>
+      <link>https://snugnss.github.io/author/sanghyeok-han/</link>
+    </image>
+    
+    <item>
+      <title>SNUGLITE-I 큐브위성 장기운용 결과 및 분석</title>
+      <link>https://snugnss.github.io/publication/dc_202002/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_202002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE 큐브 위성의 On-board GPS수신기 항법해 분석</title>
+      <link>https://snugnss.github.io/publication/dc_201901/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201901/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE 큐브위성의 궤도상 자세결정 및 제어시스템 검증</title>
+      <link>https://snugnss.github.io/publication/dc_201902/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201902/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE 큐브위성 지상국 구축 및 통신 시스템 검증</title>
+      <link>https://snugnss.github.io/publication/dc_201717/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201717/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seungyong Hyeong | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/seungyong-hyeong/</link>
+      <atom:link href="https://snugnss.github.io/author/seungyong-hyeong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seungyong Hyeong</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2000 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Seungyong Hyeong</title>
+      <link>https://snugnss.github.io/author/seungyong-hyeong/</link>
+    </image>
+    
+    <item>
+      <title>자율항법차량 시스템식별 및 추측항법을 이용한 궤적추종 제어</title>
+      <link>https://snugnss.github.io/publication/dc_200010/</link>
+      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

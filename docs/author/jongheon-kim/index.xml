@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jongheon Kim | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/jongheon-kim/</link>
+      <atom:link href="https://snugnss.github.io/author/jongheon-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jongheon Kim</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Jongheon Kim</title>
+      <link>https://snugnss.github.io/author/jongheon-kim/</link>
+    </image>
+    
+    <item>
+      <title>A study on Improving Smartphone Precise Positioning Performance through Antenna Calibration according to Smartphone Attitude</title>
+      <link>https://snugnss.github.io/publication/ic_202303/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/ic_202303/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of RTK Positioning Accuracy Using Antenna Calibrated Commercial Samsung Smartphone</title>
+      <link>https://snugnss.github.io/publication/ic_202304/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/ic_202304/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

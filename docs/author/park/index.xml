@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Park | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/park/</link>
+      <atom:link href="https://snugnss.github.io/author/park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Park</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Park</title>
+      <link>https://snugnss.github.io/author/park/</link>
+    </image>
+    
+    <item>
+      <title>Performance Verification of GBAS through ILS Inspection Procedure</title>
+      <link>https://snugnss.github.io/publication/ic_200308/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/ic_200308/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric Descent Algorithms for Attitude Determination Using the Global Positioning System</title>
+      <link>https://snugnss.github.io/publication/ij_200001/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/ij_200001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

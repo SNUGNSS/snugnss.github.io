@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hwanghun Park | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/hwanghun-park/</link>
+      <atom:link href="https://snugnss.github.io/author/hwanghun-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hwanghun Park</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Hwanghun Park</title>
+      <link>https://snugnss.github.io/author/hwanghun-park/</link>
+    </image>
+    
+    <item>
+      <title>의사위성 기반 광역보정시스템(WA-DGPS) 구축 기술개발 및 성과</title>
+      <link>https://snugnss.github.io/publication/dj_201302/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dj_201302/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

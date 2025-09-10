@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kim H | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/kim-h/</link>
+      <atom:link href="https://snugnss.github.io/author/kim-h/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kim H</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Kim H</title>
+      <link>https://snugnss.github.io/author/kim-h/</link>
+    </image>
+    
+    <item>
+      <title>Verification of Space GPS Receiver Navigation Performance Using a Cube satellite</title>
+      <link>https://snugnss.github.io/publication/ic_202002/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/ic_202002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

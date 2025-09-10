@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jae Hun Kim | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/jae-hun-kim/</link>
+      <atom:link href="https://snugnss.github.io/author/jae-hun-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jae Hun Kim</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Jae Hun Kim</title>
+      <link>https://snugnss.github.io/author/jae-hun-kim/</link>
+    </image>
+    
+    <item>
+      <title>Hybrid Model based Motion Recogniton for Smartphone User</title>
+      <link>https://snugnss.github.io/publication/ij_201404/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/ij_201404/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seung-il Jeon | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/seung-il-jeon/</link>
+      <atom:link href="https://snugnss.github.io/author/seung-il-jeon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seung-il Jeon</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/author/seung-il-jeon/avatar_hu_56c103e93a43027a.jpg</url>
+      <title>Seung-il Jeon</title>
+      <link>https://snugnss.github.io/author/seung-il-jeon/</link>
+    </image>
+    
+    <item>
+      <title>저가 IMU와 Magnetometer를 이용한 보행자용 실내항법 알고리즘</title>
+      <link>https://snugnss.github.io/publication/dc_201002/</link>
+      <pubDate>Thu, 15 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS(L1)/Galileo(E1/E5a) 다중 신호 통합 수신 소프트웨어 플랫폼 개발</title>
+      <link>https://snugnss.github.io/publication/dc_200906/</link>
+      <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200906/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AltBOC 변조 특성을 활용한 Galileo E5 신호 수신 소프트웨어 개발</title>
+      <link>https://snugnss.github.io/publication/dj_200902/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dj_200902/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS(L1)/Galileo(E1/E5a) 다중 신호 통합 수신 소프트웨어 플랫폼 개발</title>
+      <link>https://snugnss.github.io/publication/dj_200901/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dj_200901/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

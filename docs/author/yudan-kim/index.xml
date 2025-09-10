@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yudan Kim | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/yudan-kim/</link>
+      <atom:link href="https://snugnss.github.io/author/yudan-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yudan Kim</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2000 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Yudan Kim</title>
+      <link>https://snugnss.github.io/author/yudan-kim/</link>
+    </image>
+    
+    <item>
+      <title>자율항법차량 시스템식별 및 추측항법을 이용한 궤적추종 제어</title>
+      <link>https://snugnss.github.io/publication/dc_200010/</link>
+      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>전리층 지연 및 대류층 지연 모델을 이용한 실시간 보정위성항법시스템(SNUDGPS) 개발</title>
+      <link>https://snugnss.github.io/publication/dj_200001/</link>
+      <pubDate>Tue, 01 Feb 2000 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dj_200001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

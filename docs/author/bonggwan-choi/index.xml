@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bonggwan Choi | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/bonggwan-choi/</link>
+      <atom:link href="https://snugnss.github.io/author/bonggwan-choi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bonggwan Choi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/author/bonggwan-choi/avatar_hu_a8f202de38d99ccb.jpg</url>
+      <title>Bonggwan Choi</title>
+      <link>https://snugnss.github.io/author/bonggwan-choi/</link>
+    </image>
+    
+    <item>
+      <title>A Study on Accuracy Improvement of SBAS Ionospheric Correction Using Electron Density Distribution Model</title>
+      <link>https://snugnss.github.io/publication/dj_201901/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dj_201901/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>위성항법 신호를 이용한 우주환경 및 지진관측을 위한 SNUGLITE 큐브위성 개발 및 발사 준비</title>
+      <link>https://snugnss.github.io/publication/dc_201816/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201816/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPS 사용자 전리층 지연 추정에 대한 thin shell 모델 개선 방법 제안</title>
+      <link>https://snugnss.github.io/publication/dc_201815/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201815/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>한반도 지역 RAIM/ARAIM 사용자의 가용성 분석</title>
+      <link>https://snugnss.github.io/publication/dc_201813/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201813/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>항공기 자세를 고려한 SBAS 가용성 성능 예측 시뮬레이션 소프트웨어 개발</title>
+      <link>https://snugnss.github.io/publication/dc_201805/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201805/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KASS 가용성 성능 평가를 위한 MATLAB GUI 기반 소프트웨어 설계</title>
+      <link>https://snugnss.github.io/publication/dj_201804/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dj_201804/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SBAS 가용성 성능 예측을 위한 시뮬레이션 소프트웨어 설계</title>
+      <link>https://snugnss.github.io/publication/dc_201802/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201802/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>위성항법 신호를 이용한 우주환경 및 지진관측을 위한 SNUGLITE 큐브위성 개발 및 발사 준비</title>
+      <link>https://snugnss.github.io/publication/dc_201706/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201706/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE 큐브위성의 임무 및 탑재체 개발 현황</title>
+      <link>https://snugnss.github.io/publication/dc_201612/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201612/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>위성항법 신호를 이용한 우주환경 및 지진관측 큐브위성 SNUGLITE 예비설계</title>
+      <link>https://snugnss.github.io/publication/dc_201601/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201601/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

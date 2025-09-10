@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inmo Jang | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/inmo-jang/</link>
+      <atom:link href="https://snugnss.github.io/author/inmo-jang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inmo Jang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/author/inmo-jang/avatar_hu_f67c3fe1e65f7084.jpg</url>
+      <title>Inmo Jang</title>
+      <link>https://snugnss.github.io/author/inmo-jang/</link>
+    </image>
+    
+    <item>
+      <title>“A New Method to Design Broadcasting Schedules for Compact-RTK Corrections: Reducing GNSS Temporal Decorrelation</title>
+      <link>https://snugnss.github.io/publication/ic_201003/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/ic_201003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NDGNSS 인프라 개선을 위한 한국형 지역보강시스템</title>
+      <link>https://snugnss.github.io/publication/dc_200909/</link>
+      <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200909/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>고고도 사용자를 위한 DGNSS 보정치 생성 앙고리즘</title>
+      <link>https://snugnss.github.io/publication/dc_200908/</link>
+      <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200908/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

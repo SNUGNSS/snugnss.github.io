@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gibeom Kwon | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/gibeom-kwon/</link>
+      <atom:link href="https://snugnss.github.io/author/gibeom-kwon/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gibeom Kwon</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Gibeom Kwon</title>
+      <link>https://snugnss.github.io/author/gibeom-kwon/</link>
+    </image>
+    
+    <item>
+      <title>GPS 반송파 측정치를 이용한 대류층 3차원 관측 및 정밀 자세결정 큐브위성 SNUGLITE-II 운용 결과</title>
+      <link>https://snugnss.github.io/publication/dj_202304/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dj_202304/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

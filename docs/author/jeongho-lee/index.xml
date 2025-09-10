@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeongho Lee | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/jeongho-lee/</link>
+      <atom:link href="https://snugnss.github.io/author/jeongho-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeongho Lee</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Jeongho Lee</title>
+      <link>https://snugnss.github.io/author/jeongho-lee/</link>
+    </image>
+    
+    <item>
+      <title>모바일폰을 활용한 터널에서의 이동체 위치추적</title>
+      <link>https://snugnss.github.io/publication/dc_201808/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201808/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>맵매칭을 이용한 스마트폰 기반 실내 항법 기술</title>
+      <link>https://snugnss.github.io/publication/dc_201506/</link>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201506/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

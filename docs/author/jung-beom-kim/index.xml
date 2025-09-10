@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jung-Beom KIM | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/jung-beom-kim/</link>
+      <atom:link href="https://snugnss.github.io/author/jung-beom-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jung-Beom KIM</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Jung-Beom KIM</title>
+      <link>https://snugnss.github.io/author/jung-beom-kim/</link>
+    </image>
+    
+    <item>
+      <title>“Implementation of Real-Time FKP-DGPS Algorithm For L1 Single-Frequency GPS Receiver in Korea</title>
+      <link>https://snugnss.github.io/publication/ic_201409/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/ic_201409/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

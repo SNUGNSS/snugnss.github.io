@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinhui Han | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/jinhui-han/</link>
+      <atom:link href="https://snugnss.github.io/author/jinhui-han/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jinhui Han</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Jinhui Han</title>
+      <link>https://snugnss.github.io/author/jinhui-han/</link>
+    </image>
+    
+    <item>
+      <title>두 쌍의 스마트 GNSS 리피터를 활용한 실내 항법 시스템의 성능 분석</title>
+      <link>https://snugnss.github.io/publication/dc_202102/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_202102/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theoretical Position and Pseudorange Analysis of One-Way Indoor Positioning System Based on Overlapping Autocorrelation Functions</title>
+      <link>https://snugnss.github.io/publication/dc_202005/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_202005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE-I 큐브위성 장기운용 결과 및 분석</title>
+      <link>https://snugnss.github.io/publication/dc_202002/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_202002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

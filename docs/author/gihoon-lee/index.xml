@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gihoon Lee | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/gihoon-lee/</link>
+      <atom:link href="https://snugnss.github.io/author/gihoon-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gihoon Lee</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Gihoon Lee</title>
+      <link>https://snugnss.github.io/author/gihoon-lee/</link>
+    </image>
+    
+    <item>
+      <title>의사 위성과 무인 항공기를 이용한 한국형 대체 항법 시스템</title>
+      <link>https://snugnss.github.io/publication/dc_200804/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200804/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>군의 효율적인 작전 수행을 위한 대체 항법 구성과 의사위성의 최적 배치에 대한 연구</title>
+      <link>https://snugnss.github.io/publication/dc_200504/</link>
+      <pubDate>Thu, 01 Dec 2005 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200504/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>의사위성과 무인항공기를 이용한 한국형 대체 항법 시스템 구성에 관한 연구</title>
+      <link>https://snugnss.github.io/publication/dc_200503/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200503/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>한국형 지역 위성 통신항법시스템의 위성 궤도 설계에 관한 연구</title>
+      <link>https://snugnss.github.io/publication/dc_200502/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_200502/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

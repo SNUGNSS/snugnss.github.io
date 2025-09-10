@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kwangsik Choi | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/kwangsik-choi/</link>
+      <atom:link href="https://snugnss.github.io/author/kwangsik-choi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kwangsik Choi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Kwangsik Choi</title>
+      <link>https://snugnss.github.io/author/kwangsik-choi/</link>
+    </image>
+    
+    <item>
+      <title>A Study of SBAS Position Domain Analysis Method: WAAS  EGNOS Performance Evaluation</title>
+      <link>https://snugnss.github.io/publication/ij_201605/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/ij_201605/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

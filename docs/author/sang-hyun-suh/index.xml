@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sang-Hyun Suh | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/sang-hyun-suh/</link>
+      <atom:link href="https://snugnss.github.io/author/sang-hyun-suh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sang-Hyun Suh</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Sang-Hyun Suh</title>
+      <link>https://snugnss.github.io/author/sang-hyun-suh/</link>
+    </image>
+    
+    <item>
+      <title>Laboratory and Field Test of Indoor Navigation System using Asynchronous Pseudolites</title>
+      <link>https://snugnss.github.io/publication/ic_200102/</link>
+      <pubDate>Sun, 01 Jul 2001 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/ic_200102/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

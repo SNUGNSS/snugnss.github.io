@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sangu Lee | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/author/sangu-lee/</link>
+      <atom:link href="https://snugnss.github.io/author/sangu-lee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sangu Lee</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo.svg</url>
+      <title>Sangu Lee</title>
+      <link>https://snugnss.github.io/author/sangu-lee/</link>
+    </image>
+    
+    <item>
+      <title>전국 단위 다중 클러스터 확장에 적합한 미지정수 수준 조정 알고리즘 연구</title>
+      <link>https://snugnss.github.io/publication/dc_201713/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201713/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE 큐브위성 관제를 위한 지상국 구축 상황</title>
+      <link>https://snugnss.github.io/publication/dc_201702/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201702/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE 큐브위성 자세제어 PIL(Processor In the Loop) 시뮬레이션</title>
+      <link>https://snugnss.github.io/publication/dc_201701/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/publication/dc_201701/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
