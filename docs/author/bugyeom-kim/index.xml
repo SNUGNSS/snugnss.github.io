@@ -22,36 +22,3 @@
     
   </channel>
 </rss>
-itle>A Real-Time High-Accuracy Tropospheric Correction Generation Method for Compact Wide-Area RTK (WARTK)</title>
-      <link>http://localhost:1313/publication/ic_201908/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201908/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A New Method to Improve the Detection of Co-Seismic Ionospheric Disturbances using Sequential Measurement Combination</title>
-      <link>http://localhost:1313/publication/ij_201904/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ij_201904/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improving Detection Performance of Ionospheric Disturbances due to Earthquake by Optimization of Sequential Measurement Combination</title>
-      <link>http://localhost:1313/publication/ic_201808/</link>
-      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201808/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Real-Time Detection of Ionospheric Disturbances Induced by Earthquake with Detection Window Considering Ionospheric Activity</title>
-      <link>http://localhost:1313/publication/ic_201804/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ic_201804/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
