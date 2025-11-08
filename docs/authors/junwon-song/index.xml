@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Junwon Song | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/authors/junwon-song/</link>
-      <atom:link href="http://localhost:1313/authors/junwon-song/index.xml" rel="self" type="application/rss+xml" />
-    <description>Junwon Song</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
-    <image>
-      <url>http://localhost:1313/authors/junwon-song/avatar_hu_c04db01a8384f233.jpg</url>
-      <title>Junwon Song</title>
-      <link>http://localhost:1313/authors/junwon-song/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Junwon Song | SNU GNSS Laboratory</title><link>https://snugnss.github.io/authors/junwon-song/</link><atom:link href="https://snugnss.github.io/authors/junwon-song/index.xml" rel="self" type="application/rss+xml"/><description>Junwon Song</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://snugnss.github.io/authors/junwon-song/avatar_hu_c04db01a8384f233.jpg</url><title>Junwon Song</title><link>https://snugnss.github.io/authors/junwon-song/</link></image></channel></rss>
