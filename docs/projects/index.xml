@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/projects/</link>
+      <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_5ee23dfed6cde00.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+    </image>
+    
+    <item>
+      <title>SNUGLITE-III (2022-)</title>
+      <link>http://localhost:1313/projects/snuglite-iii/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/snuglite-iii/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;seoul-national-university-gnss-laboratory-satellite-snuglite-iii-project&#34;&gt;Seoul National University GNSS Laboratory Satellite (SNUGLITE)-III Project&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3U+3U CubeSat mission (Launch: Nov 2025)&lt;/li&gt;
+&lt;li&gt;Funded by &lt;em&gt;Korea Aerospace Research Institute (KARI)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Finalist in the &lt;em&gt;2022 Korea CubeSat Competition&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;snuglite3-fig1&#34; 
+               srcset=&#34;http://localhost:1313/projects/snuglite-iii/fig1_hu_ee5b5c11640c39b0.webp 320w, http://localhost:1313/projects/snuglite-iii/fig1_hu_7a30dfe0add35084.webp 480w, http://localhost:1313/projects/snuglite-iii/fig1_hu_afb8df3db4f1a530.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/snuglite-iii/fig1_hu_ee5b5c11640c39b0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;569&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;SNUGLITE-III 임무 개념도&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;h3 id=&#34;system&#34;&gt;System&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3U+3U Twin CubeSat&lt;/li&gt;
+&lt;li&gt;Main payloads:
+&lt;ul&gt;
+&lt;li&gt;L1/L2C GPS receiver x3&lt;/li&gt;
+&lt;li&gt;Inter-satellite link module&lt;/li&gt;
+&lt;li&gt;Electomagnetic docking device&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mass: 3.2 kg&lt;/li&gt;
+&lt;li&gt;Orbit: SSO 600km (LTAN 12h30m)​&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;frequency&#34;&gt;Frequency:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;UHF (MHz)
+&lt;ul&gt;
+&lt;li&gt;downlink : beacon, command-return&lt;/li&gt;
+&lt;li&gt;uplink : tele-command&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;S-band (2405MHz)
+&lt;ul&gt;
+&lt;li&gt;downlink : housekeeping data, mission data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE-II (2019-2022)</title>
+      <link>http://localhost:1313/projects/snuglite-ii/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/snuglite-ii/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h1 id=&#34;seoul-national-university-gnss-laboratory-satellite-snuglite-ii-project&#34;&gt;Seoul National University GNSS Laboratory Satellite (SNUGLITE)-II Project&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;3U CubeSat mission (Launch: Jun 2022)&lt;/li&gt;
+&lt;li&gt;Funded by &lt;em&gt;Korea Aerospace Research Institute (KARI)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Finalist in the &lt;em&gt;2019 Korea CubeSat Competition&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;snuglite2-fig1&#34; 
+               srcset=&#34;http://localhost:1313/projects/snuglite-ii/fig1_hu_b8732f50648bb178.webp 320w, http://localhost:1313/projects/snuglite-ii/fig1_hu_6420fedb5da0eed7.webp 480w, http://localhost:1313/projects/snuglite-ii/fig1_hu_6bfd986d5455bd7c.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/snuglite-ii/fig1_hu_b8732f50648bb178.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;242&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;SNUGLITE-II 임무 개념도&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;h3 id=&#34;system&#34;&gt;System&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;3U CubeSat&lt;/li&gt;
+&lt;li&gt;Main payloads: L1/L2C GPS receiver x3&lt;/li&gt;
+&lt;li&gt;Mass: 3.15 kg&lt;/li&gt;
+&lt;li&gt;Orbit: SSO 700km&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;frequency&#34;&gt;Frequency:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;UHF (436.4MHz)
+&lt;ul&gt;
+&lt;li&gt;downlink : beacon, command-return&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;VHF (145.9MHz)
+&lt;ul&gt;
+&lt;li&gt;uplink : tele-command&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;S-band (2405MHz)
+&lt;ul&gt;
+&lt;li&gt;downlink : housekeeping data, mission data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ground Station</title>
+      <link>http://localhost:1313/projects/groundstation/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/groundstation/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h1 id=&#34;snu-ground-station&#34;&gt;SNU Ground Station&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Antennas of ground station for SNUGLITE project is located on rooftop of bldg#302 at Seoul National University.
+&lt;ul&gt;
+&lt;li&gt;Lat: 37°26&#39;54.0471&amp;quot; N &lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;Lon: 126°57&#39;08.9927&amp;quot; E &lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;Hgt: 279 meters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;gnd-fig1&#34; 
+               srcset=&#34;http://localhost:1313/projects/groundstation/fig1_hu_149063e8df27a0d7.webp 320w, http://localhost:1313/projects/groundstation/fig1_hu_e9c5ec2d2181093a.webp 326w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/groundstation/fig1_hu_149063e8df27a0d7.webp&#34;
+               width=&#34;326&#34;
+               height=&#34;700&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;지상국 정보&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;h3 id=&#34;antenna&#34;&gt;Antenna&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;UHF antenna: 436CP42UG w/ polarity SW (M2 Inc.)&lt;/li&gt;
+&lt;li&gt;VHF antenna: 2MCP22 w/ polarity SW (M2 Inc.)&lt;/li&gt;
+&lt;li&gt;L/S-band antenna: MANTL24 w/ order made L/S feeder (SatService GmbH) and order made band-pass filter (CONTEC)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;rotator&#34;&gt;Rotator&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;G-5500 (Yaesu)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;preamplifier&#34;&gt;Preamplifier&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;SP-2000 (SSB electronics GmbH)&lt;/li&gt;
+&lt;li&gt;SP-7000 (SSB electronics GmbH)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;transceiver&#34;&gt;Transceiver&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;IC9100 (Icom Inc.)&lt;/li&gt;
+&lt;li&gt;HISPICO S-band receiver (IQ wireless GmbH)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tnc&#34;&gt;TNC&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;KAM-XL (Kantronics)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/br&gt;
+&lt;h1 id=&#34;our-supporters&#34;&gt;Our Supporters&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Beacon listeners &lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;Telemetry Uploaders to
+&lt;a href=&#34;https://db.satnogs.org/satellite/99927/&#34; target=&#34;_blank&#34;&gt;SatNOGS &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&#34;center&#34;&gt;
+  YC3BVG, SV3CIX, JE9PEL, AD7NP, VK2FAK, EU1XX, &lt;br&gt;
+  &lt;a href=&#34;https://www.satblog.info/category/snuglite/&#34; target=&#34;_blank&#34;&gt;DK3WN&lt;/a&gt;, UX5UL, JA1GDE, W2RTV, VK3HBF, CX8AF
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE-I (2017-2019)</title>
+      <link>http://localhost:1313/projects/snuglite-i/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/snuglite-i/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;seoul-national-university-gnss-laboratory-satellite-snuglite-i-project&#34;&gt;Seoul National University GNSS Laboratory Satellite (SNUGLITE)-I Project&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2U CubeSat mission (Launch: Dec 2018)&lt;/li&gt;
+&lt;li&gt;Funded by &lt;em&gt;Korea Aerospace Research Institute (KARI)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Finalist in the &lt;em&gt;2015 Korea CubeSat Competition&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;snuglite1-fig1&#34; 
+               srcset=&#34;http://localhost:1313/projects/snuglite-i/fig1_hu_d38eabfeb39973a0.webp 320w, http://localhost:1313/projects/snuglite-i/fig1_hu_dc98c586c6b04405.webp 480w, http://localhost:1313/projects/snuglite-i/fig1_hu_b68dc691eed56551.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/snuglite-i/fig1_hu_d38eabfeb39973a0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;SNUGLITE-I Mission Concept&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;h3 id=&#34;system&#34;&gt;System&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2U CubeSat&lt;/li&gt;
+&lt;li&gt;Main payloads: L1/L2C GPS receiver x2&lt;/li&gt;
+&lt;li&gt;Sub payloads:
+3-axis fluxgate magnetometer w/ deployable boom&lt;/li&gt;
+&lt;li&gt;Mass: 1.9 kg&lt;/li&gt;
+&lt;li&gt;Orbit: SSO 575km (LTDN 10h30m)​&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;frequency&#34;&gt;Frequency:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;UHF (437.275MHz)
+&lt;ul&gt;
+&lt;li&gt;downlink : beacon, command-return&lt;/li&gt;
+&lt;li&gt;uplink : tele-command&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;S-band (2405MHz)
+&lt;ul&gt;
+&lt;li&gt;downlink : housekeeping data, mission data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;beacon-structure&#34;&gt;Beacon Structure&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;downlink frequency: 437.275MHz&lt;/li&gt;
+&lt;li&gt;modulation: GMSK&lt;/li&gt;
+&lt;li&gt;baudrate: 9600bps&lt;/li&gt;
+&lt;li&gt;protocol : AX.25 and CSP (cubesat space protocol)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;snuglite1-fig2&#34; 
+               srcset=&#34;http://localhost:1313/projects/snuglite-i/fig2_hu_be472be21232c0be.webp 320w, http://localhost:1313/projects/snuglite-i/fig2_hu_6ec2692eeedef4ab.webp 480w, http://localhost:1313/projects/snuglite-i/fig2_hu_4ea77af614e99d25.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/snuglite-i/fig2_hu_be472be21232c0be.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;76&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;message structure&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Payload data is covered by 4-byte header of  CSP (
+.&lt;/li&gt;
+&lt;li&gt;32 byte Reed-Solomon (223, 255) block code is applied from CSP header to the end of payload data and added to the end of payload data.&lt;/li&gt;
+&lt;li&gt;AX.25 protocol is also used with the header and beginning and ending of &amp;ldquo;0xC0&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;There are two types of payload data: simple beacon (length: 45 byte) and full beacon (162 byte).&lt;/li&gt;
+&lt;li&gt;In stand-by operation mode, the period of simple beacon and full beacon is 10 sec and 30 sec, respectively. And full beacon is prior than simple beacon.&lt;/li&gt;
+&lt;li&gt;One of interesting is that all beacons include the position and velocity of satellite using own developed GPS receivers!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;snuglite1-fig2&#34; 
+               srcset=&#34;http://localhost:1313/projects/snuglite-i/fig3_hu_b5a284bdaba0de38.webp 320w, http://localhost:1313/projects/snuglite-i/fig3_hu_955002800f3db17f.webp 480w, http://localhost:1313/projects/snuglite-i/fig3_hu_8b83eafa65db532d.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/snuglite-i/fig3_hu_b5a284bdaba0de38.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;208&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Structure of simple beacon (45 bytes)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;snuglite1-fig2&#34; 
+               srcset=&#34;http://localhost:1313/projects/snuglite-i/fig4_hu_e1e788a93ff619b3.webp 320w, http://localhost:1313/projects/snuglite-i/fig4_hu_ccaa2d7155e976ed.webp 480w, http://localhost:1313/projects/snuglite-i/fig4_hu_65b0a0466b4976de.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/snuglite-i/fig4_hu_e1e788a93ff619b3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;524&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Structure of full beacon (162 bytes)&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;If you receive any signals from SNUGLITE cubesat, please let us know!&lt;/li&gt;
+&lt;li&gt;All the data which you send us will be helpful to our research. (Earth quake detection, Space environment observation, Satellite monitoring and so on)&lt;/li&gt;
+&lt;li&gt;We would appreciate it if you send us as much data as possible. Also, if any paper utilizes your data, we will provide a certificate that your data has helped with the paper. (e-mail: 
+)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/br&gt;
+&lt;p&gt;2018/12/12 &lt;/br&gt;
+Object AC is the closest to SNUGLITE.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

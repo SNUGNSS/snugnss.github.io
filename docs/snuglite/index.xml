@@ -1,42 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SNUGLITE News | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/snuglite/</link>
-      <atom:link href="https://snugnss.github.io/snuglite/index.xml" rel="self" type="application/rss+xml" />
-    <description>SNUGLITE News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <title>News | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/snuglite/</link>
+      <atom:link href="http://localhost:1313/snuglite/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo.svg</url>
-      <title>SNUGLITE News</title>
-      <link>https://snugnss.github.io/snuglite/</link>
+      <url>http://localhost:1313/media/logo_hu_5ee23dfed6cde00.png</url>
+      <title>News</title>
+      <link>http://localhost:1313/snuglite/</link>
     </image>
     
     <item>
+      <title>[2025.11.07] SNUGLITE-III 소개 영상 (KARITV)</title>
+      <link>http://localhost:1313/snuglite/251107/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snuglite/251107/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/PKoc8ouXL_Q?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+ &lt;/br&gt;
+&lt;em&gt;[누리호4차] 궤도에서 분리 합체?
+세계 최초 초정밀 GPS 활용 무추력 자율궤도제어시험 위성 | SNUGLITE-III&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[2025.10.31] SNUGLITE-III 소개 (KARI Blog)</title>
+      <link>http://localhost:1313/snuglite/251031/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snuglite/251031/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>[2024.11.20] SNUGLITE-III A, B 이름 공모전 결과 발표</title>
-      <link>https://snugnss.github.io/snuglite/241120/</link>
+      <link>http://localhost:1313/snuglite/241120/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/241120/</guid>
+      <guid>http://localhost:1313/snuglite/241120/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
  &lt;!-- ![241120-fig1](featured.png) --&gt;</description>
     </item>
     
     <item>
       <title>[2024.10.11] SNUGLITE-III A, B 이름 공모전</title>
-      <link>https://snugnss.github.io/snuglite/241011/</link>
+      <link>http://localhost:1313/snuglite/241011/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/241011/</guid>
+      <guid>http://localhost:1313/snuglite/241011/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;p&gt;Please refer to QR code in the poster or the link to participate in the contest.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://forms.gle/TcHth4r1rgcdwMne9&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://forms.gle/TcHth4r1rgcdwMne9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
  &lt;!-- ![241120-fig1](featured.png) --&gt;</description>
     </item>
     
     <item>
       <title>[2022.07.22] SNUGLITE-II 보도자료</title>
-      <link>https://snugnss.github.io/snuglite/220722/</link>
+      <link>http://localhost:1313/snuglite/220722/</link>
       <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/220722/</guid>
+      <guid>http://localhost:1313/snuglite/220722/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -67,12 +96,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;220722-fig1&#34; srcset=&#34;
-               /snuglite/220722/fig1_hu_171d34a0337007dc.webp 400w,
-               /snuglite/220722/fig1_hu_ebfe8c71360fb479.webp 760w,
-               /snuglite/220722/fig1_hu_5b73785d0eab6fbd.webp 1200w&#34;
-               src=&#34;https://snugnss.github.io/snuglite/220722/fig1_hu_171d34a0337007dc.webp&#34;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;220722-fig1&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/220722/fig1_hu_9d427c3433b8a359.webp 320w, http://localhost:1313/snuglite/220722/fig1_hu_78a3853ce7944446.webp 480w, http://localhost:1313/snuglite/220722/fig1_hu_c09bc605c242224c.webp 672w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/220722/fig1_hu_9d427c3433b8a359.webp&#34;
                width=&#34;672&#34;
                height=&#34;504&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -96,12 +125,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;220722-fig2&#34; srcset=&#34;
-               /snuglite/220722/fig2_hu_e2568eb733894f29.webp 400w,
-               /snuglite/220722/fig2_hu_bac2bcef087cc82e.webp 760w,
-               /snuglite/220722/fig2_hu_8f3d8b19ad01c649.webp 1200w&#34;
-               src=&#34;https://snugnss.github.io/snuglite/220722/fig2_hu_e2568eb733894f29.webp&#34;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;220722-fig2&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/220722/fig2_hu_882f4cbd0a5bbed0.webp 320w, http://localhost:1313/snuglite/220722/fig2_hu_92eea1b52fc0dc34.webp 480w, http://localhost:1313/snuglite/220722/fig2_hu_13c798db46a8cecd.webp 704w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/220722/fig2_hu_882f4cbd0a5bbed0.webp&#34;
                width=&#34;704&#34;
                height=&#34;409&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -125,12 +154,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;220722-fig3&#34; srcset=&#34;
-               /snuglite/220722/fig3_hu_f0cdb9375de878f6.webp 400w,
-               /snuglite/220722/fig3_hu_cbc9c475602e77f7.webp 760w,
-               /snuglite/220722/fig3_hu_f61eb85a38e120aa.webp 1200w&#34;
-               src=&#34;https://snugnss.github.io/snuglite/220722/fig3_hu_f0cdb9375de878f6.webp&#34;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;220722-fig3&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/220722/fig3_hu_621af9734070c6dd.webp 320w, http://localhost:1313/snuglite/220722/fig3_hu_8b10008d35f6c84e.webp 480w, http://localhost:1313/snuglite/220722/fig3_hu_6fef1c155f81dc52.webp 704w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/220722/fig3_hu_621af9734070c6dd.webp&#34;
                width=&#34;704&#34;
                height=&#34;376&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -147,9 +176,9 @@
     
     <item>
       <title>[2022.07.04] SNUGLITE-II 보도자료</title>
-      <link>https://snugnss.github.io/snuglite/220705/</link>
+      <link>http://localhost:1313/snuglite/220705/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/220705/</guid>
+      <guid>http://localhost:1313/snuglite/220705/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;p&gt;서울대학교 SNUGLITE팀(항공우주공학과 기창돈 교수 연구팀)은 지난 7월 4일 오전 3시 27분경 서울대학교 신공학관(302동)에 위치한 지상국과의 첫 양방향 교신에 성공한데 이어, 오늘 16시 4분 교신에서 위성 전원이 켜진 순간부터 현재까지 상황 기록(300개)을 모두 수신하였다.&lt;/p&gt;
 &lt;p&gt;오늘 수신한 위성 상태 기록을 점검한 결과, 위성 전기부의 이상으로 초기 안테나 전개의 문제가 있음을 확인하였으며, 위성 초기화 명령을 통해 위성이 정상 작동하는 것을 확인하였다.&lt;/p&gt;
@@ -161,24 +190,25 @@
     
     <item>
       <title>[2022.07.04] SNUGLITE-II 보도자료 및 전체 홍보자료</title>
-      <link>https://snugnss.github.io/snuglite/220704/</link>
+      <link>http://localhost:1313/snuglite/220704/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/220704/</guid>
+      <guid>http://localhost:1313/snuglite/220704/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;p&gt;서울대학교 SNUGLITE팀(항공우주공학과 기창돈 교수 연구팀)은 지난 6월 21일 누리호가 목표 궤도에서 성능검증위성을 분리한데 이어, 성능검증위성에서 사출된 SNUGLITE-II 큐브위성이 7월 4일 오전 3시 27분경 서울 대학교 신공학관(302동)에 위치한 지상국과의 첫 양방향 교신에 성공하였다고 밝혔다.&lt;/p&gt;
 &lt;p&gt;7월 3일 16시 23분경에 성능검증위성으로부터 정상적으로 사출된데 이어, 오늘 새벽에 SNUGLITE-II 큐브위성의 교신이 이루어짐에 따라 성능검증위성의 사출 및 서울대학교에서 개발한 SNUGLITE-II 큐브위성의 정상 동작 여부가 완전히 확인되었다.&lt;/p&gt;
 &lt;p&gt;오늘 새벽 교신에서는 원격명령을 통해 위성의 안테나를 전개하도록 했고, SNUGLITE-II 큐브위성의 상태정보를 수신하여 위성 상태가 양호하며 모든 기능이 정상적으로 작동하고 있음을 확인하였다.&lt;/p&gt;
 &lt;p&gt;향후 SNUGLITE-II 큐브위성은 2달간 초기 운영 기간을 통해 임무를 수행하기 위한 준비에 들어가며, 모든 기능 및 상태가 안정화된 이후에는 본격적으로 GPS 신호를 활용한 지구대기관측 임무를 수행할 예정이다.&lt;/p&gt;
 &lt;p&gt;자세한 내용은 아래의 자료를 참고해주시기 바랍니다.&lt;/p&gt;
-&lt;p&gt;📎&lt;a href=&#34;press.pdf&#34;&gt;SNUGLITE-II 큐브위성 보도자료 (220704)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;📎
+&lt;/p&gt;
  &lt;!-- ![241120-fig1](featured.png) --&gt;</description>
     </item>
     
     <item>
       <title>[2022.07.03] SNUGLITE-II 큐브위성 사출 (성능검증위성)</title>
-      <link>https://snugnss.github.io/snuglite/220703/</link>
+      <link>http://localhost:1313/snuglite/220703/</link>
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/220703/</guid>
+      <guid>http://localhost:1313/snuglite/220703/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
 &lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -192,9 +222,9 @@
     
     <item>
       <title>[2022.06.21] SNUGLITE-II 발사 (누리호 2차발사)</title>
-      <link>https://snugnss.github.io/snuglite/220621/</link>
+      <link>http://localhost:1313/snuglite/220621/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/220621/</guid>
+      <guid>http://localhost:1313/snuglite/220621/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
 &lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -213,23 +243,24 @@
     
     <item>
       <title>[2020.05.15] SNUGLITE-I 운용 결과 저널 출판</title>
-      <link>https://snugnss.github.io/snuglite/200515/</link>
+      <link>http://localhost:1313/snuglite/200515/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/200515/</guid>
+      <guid>http://localhost:1313/snuglite/200515/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;ul&gt;
 &lt;li&gt;In orbit results and analyses of SNUGLITE cube-satellite were published in an article at Applied Sciences. The authors would like to thank the amateur operators’ efforts to receive the data from the SNUGLITE CubeSat and upload for sharing.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.mdpi.com/2076-3417/10/7/2507&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mdpi.com/2076-3417/10/7/2507&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Kim, O.-J.; Shim, H.; Yu, S.; Bae, Y.; Kee, C.; Kim, H.; Lee, J.; Han, J.; Han, S.; Choi, Y. In-Orbit Results and Attitude Analysis of the SNUGLITE Cube-Satellite.Appl. Sci.2020,10, 2507.&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>[2019.04.22] SNUGLITE-I 비콘 수신 경과 (April 22, 2019)</title>
-      <link>https://snugnss.github.io/snuglite/190422/</link>
+      <link>http://localhost:1313/snuglite/190422/</link>
       <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/190422/</guid>
+      <guid>http://localhost:1313/snuglite/190422/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -257,12 +288,12 @@
 
 
 &lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;190422-fig1&#34; srcset=&#34;
-               /snuglite/190422/fig1_hu_7338d650a8b95100.webp 400w,
-               /snuglite/190422/fig1_hu_69253da430fd5ec5.webp 760w,
-               /snuglite/190422/fig1_hu_db398391fe899fb1.webp 1200w&#34;
-               src=&#34;https://snugnss.github.io/snuglite/190422/fig1_hu_7338d650a8b95100.webp&#34;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;190422-fig1&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/190422/fig1_hu_a1b382f4509213f3.webp 320w, http://localhost:1313/snuglite/190422/fig1_hu_aa53ecd68cafe8a5.webp 480w, http://localhost:1313/snuglite/190422/fig1_hu_859c8f038e27f3cd.webp 720w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/190422/fig1_hu_a1b382f4509213f3.webp&#34;
                width=&#34;720&#34;
                height=&#34;425&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -274,9 +305,9 @@
     
     <item>
       <title>[2018.12.12] SNUGLITE-I 아마추어 서포터 (SatNOGS)</title>
-      <link>https://snugnss.github.io/snuglite/181212/</link>
+      <link>http://localhost:1313/snuglite/181212/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/181212/</guid>
+      <guid>http://localhost:1313/snuglite/181212/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -287,7 +318,8 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Telemetry Uploaders to SatNOGS(&lt;a href=&#34;https://db.satnogs.org/satellite/99927/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://db.satnogs.org/satellite/99927/)&lt;/a&gt;: DK3WN, EU1XX, UX5UL&lt;/p&gt;
+&lt;p&gt;Telemetry Uploaders to SatNOGS(
+: DK3WN, EU1XX, UX5UL&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -295,9 +327,9 @@
     
     <item>
       <title>[2018.12.04] SNUGLITE-I 발사 (SpaceX Falcon-9)</title>
-      <link>https://snugnss.github.io/snuglite/181204/</link>
+      <link>http://localhost:1313/snuglite/181204/</link>
       <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/181204/</guid>
+      <guid>http://localhost:1313/snuglite/181204/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;ul&gt;
 &lt;li&gt;Launch Date: December 3, 2018&lt;/li&gt;
@@ -316,9 +348,9 @@
     
     <item>
       <title>[2018.12.01] SNUGLITE-I 큐브위성 붐 전개 개발</title>
-      <link>https://snugnss.github.io/snuglite/181201/</link>
+      <link>http://localhost:1313/snuglite/181201/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/181201/</guid>
+      <guid>http://localhost:1313/snuglite/181201/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
 &lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;

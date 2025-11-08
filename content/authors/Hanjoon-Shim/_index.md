@@ -15,7 +15,7 @@ role: Ph.D
 
 # Organizations/Affiliations
 organizations:
-  - name: 'Seoul National University'
+  - name: 'University of Liverpool'
     url: 
 
 # Highlight the author in author lists? (true/false)
@@ -25,8 +25,7 @@ highlight_name: false
 # Postdoc, Ph.D Student, M.S Student, Alumini
 user_groups: 
   - Ph.D
-  - Postdoc
-
+  
 ---
 
 <!----- 이름" **별표2개 사이에 적을것** ----->
@@ -35,8 +34,8 @@ user_groups:
 
 <!----- 현재 직위/직장: *별표 사이에 적을것*----->
 
-*Seoul National University*</br>
-*서울대학교*</br>
+*University of Liverpool*</br>
+*영국 리버풀대학교*</br>
 
 <!----- 학위논문 및 졸업연도(박사): 없으면 삭제----->
 
