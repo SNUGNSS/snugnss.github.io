@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shah Sayed Chhattan on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/shah-sayed-chhattan/</link>
+    <description>Recent content in Shah Sayed Chhattan on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/shah-sayed-chhattan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design  Validation of Korean WADGNSS Reference Station Software</title>
+      <link>http://localhost:1313/publication/ij_201405/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201405/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>“Data Processing Design of Korean WA-DGNSS Reference Station</title>
+      <link>http://localhost:1313/publication/ic_201212/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201212/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yongan Im on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/yongan-im/</link>
+    <description>Recent content in Yongan Im on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Nov 2009 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/yongan-im/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>한빛호 차세대 항법 시스템 측정 능력 고도화 방안</title>
+      <link>http://localhost:1313/publication/dc_200907/</link>
+      <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200907/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

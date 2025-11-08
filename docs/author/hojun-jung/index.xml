@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hojun Jung on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/hojun-jung/</link>
+    <description>Recent content in Hojun Jung on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/hojun-jung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>편대비행 기반 GPS RO 큐브위성 SNUGLITE-III 예비설계</title>
+      <link>http://localhost:1313/publication/dc_202301/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202301/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-II 큐브위성 지상국 구성 및 지상 운용 시험</title>
+      <link>http://localhost:1313/publication/dc_202209/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202209/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

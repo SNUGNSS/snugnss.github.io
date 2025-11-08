@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taeyung Oh on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/taeyung-oh/</link>
+    <description>Recent content in Taeyung Oh on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Dec 1999 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/taeyung-oh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real-time DGPS를 이용한 항공기 착륙시스템 개발 및 비행실험</title>
+      <link>http://localhost:1313/publication/dc_199910/</link>
+      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199910/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

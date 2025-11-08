@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chia-Hung Chen on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/chia-hung-chen/</link>
+    <description>Recent content in Chia-Hung Chen on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/chia-hung-chen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Statistical Threshold for Tsunamigenic Ionospheric Disturbance Detection in GPS Radio Occultation Measurements</title>
+      <link>http://localhost:1313/publication/ij_202501/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_202501/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

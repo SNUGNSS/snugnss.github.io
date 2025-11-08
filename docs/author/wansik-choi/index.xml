@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wansik Choi on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/wansik-choi/</link>
+    <description>Recent content in Wansik Choi on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Feb 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/wansik-choi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DO-278의 Validation &amp; Verification에 적합한 WA-DGNSS 기준국 소프트웨어의 모듈별 통합 검증 방법론 제시</title>
+      <link>http://localhost:1313/publication/dj_201501/</link>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201501/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>“Latency compensation performance of compact RTK in 30s time delay environment</title>
+      <link>http://localhost:1313/publication/ic_201412/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201412/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>“Data Processing Design of Korean WA-DGNSS Reference Station</title>
+      <link>http://localhost:1313/publication/ic_201212/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201212/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Processing of WA-DGNSS Correction Messages: A Functional Perspective</title>
+      <link>http://localhost:1313/publication/dc_201115/</link>
+      <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201115/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS(L1)/Galileo(E1/E5a) 다중 신호 통합 수신 소프트웨어 플랫폼 개발</title>
+      <link>http://localhost:1313/publication/dc_200906/</link>
+      <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200906/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS(L1)/Galileo(E1/E5a) 다중 신호 통합 수신 소프트웨어 플랫폼 개발</title>
+      <link>http://localhost:1313/publication/dj_200901/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_200901/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Galileo E1B 신호 소프트웨어 수신프로그램 개발</title>
+      <link>http://localhost:1313/publication/dj_200801/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_200801/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matlab을 이용한 후처리 GPS(L1)/Galileo(E1) 통합 신호 수신 소프트웨어 플랫폼 개발</title>
+      <link>http://localhost:1313/publication/dc_200802/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200802/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simulink 를 이용한 GNSS 소프트웨어 수신 플랫폼 모듈화 방안 연구</title>
+      <link>http://localhost:1313/publication/dc_200801/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200801/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

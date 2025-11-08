@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/project/</link>
+    <description>Recent content in Projects on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SNUGLITE-III (2022-)</title>
+      <link>http://localhost:1313/project/snuglite-iii/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/snuglite-iii/</guid>
+      <description>&lt;h3 id=&#34;seoul-national-university-gnss-laboratory-satellite-snuglite-iii-project&#34;&gt;Seoul National University GNSS Laboratory Satellite (SNUGLITE)-III Project&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3U+3U CubeSat mission (Launch: Nov 2025)&lt;/li&gt;&#xA;&lt;li&gt;Funded by &lt;em&gt;Korea Aerospace Research Institute (KARI)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Finalist in the &lt;em&gt;2022 Korea CubeSat Competition&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/project/snuglite-iii/fig1.png&#34; alt=&#34;snuglite3-fig1&#34;&gt;&#xA;&lt;em&gt;SNUGLITE-III 임무 개념도&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SNUGLITE-II (2019-2022)</title>
+      <link>http://localhost:1313/project/snuglite-ii/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/snuglite-ii/</guid>
+      <description>&lt;h1 id=&#34;seoul-national-university-gnss-laboratory-satellite-snuglite-ii-project&#34;&gt;Seoul National University GNSS Laboratory Satellite (SNUGLITE)-II Project&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3U CubeSat mission (Launch: Jun 2022)&lt;/li&gt;&#xA;&lt;li&gt;Funded by &lt;em&gt;Korea Aerospace Research Institute (KARI)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Finalist in the &lt;em&gt;2019 Korea CubeSat Competition&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig1.png&#34; alt=&#34;snuglite2-fig1&#34;&gt;&#xA;&lt;em&gt;SNUGLITE-II 임무 개념도&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ground Station</title>
+      <link>http://localhost:1313/project/groundstation/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/groundstation/</guid>
+      <description>&lt;h1 id=&#34;snu-ground-station&#34;&gt;SNU Ground Station&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Antennas of ground station for SNUGLITE project is located on rooftop of bldg#302 at Seoul National University.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lat: 37°26&#39;54.0471&amp;quot; N &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;Lon: 126°57&#39;08.9927&amp;quot; E &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;Hgt: 279 meters&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/project/groundstation/fig1.png&#34; alt=&#34;gnd-fig1&#34;&gt;&#xA;&lt;em&gt;지상국 정보&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SNUGLITE-I (2017-2019)</title>
+      <link>http://localhost:1313/project/snuglite-i/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/snuglite-i/</guid>
+      <description>&lt;h3 id=&#34;seoul-national-university-gnss-laboratory-satellite-snuglite-i-project&#34;&gt;Seoul National University GNSS Laboratory Satellite (SNUGLITE)-I Project&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2U CubeSat mission (Launch: Dec 2018)&lt;/li&gt;&#xA;&lt;li&gt;Funded by &lt;em&gt;Korea Aerospace Research Institute (KARI)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Finalist in the &lt;em&gt;2015 Korea CubeSat Competition&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/project/snuglite-i/fig1.png&#34; alt=&#34;snuglite1-fig1&#34;&gt;&#xA;&lt;em&gt;SNUGLITE-I Mission Concept&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

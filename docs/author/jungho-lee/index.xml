@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jungho Lee on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/jungho-lee/</link>
+    <description>Recent content in Jungho Lee on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/jungho-lee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Precise Localization Technology of Mobile Phone on a Vehicle in Tunnel using LTE Signal Based Surface Correlation</title>
+      <link>http://localhost:1313/publication/ic_201805/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201805/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

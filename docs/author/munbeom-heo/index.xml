@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Munbeom Heo on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/munbeom-heo/</link>
+    <description>Recent content in Munbeom Heo on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/munbeom-heo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPS 궤도의 태양풍 모델 비교</title>
+      <link>http://localhost:1313/publication/dj_201807/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201807/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>전국 단위 다중 클러스터 확장에 적합한 미지정수 수준 조정 알고리즘 연구</title>
+      <link>http://localhost:1313/publication/dc_201713/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201713/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE 큐브위성 관제를 위한 지상국 구축 상황</title>
+      <link>http://localhost:1313/publication/dc_201702/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201702/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE 큐브위성 자세제어 PIL(Processor In the Loop) 시뮬레이션</title>
+      <link>http://localhost:1313/publication/dc_201701/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201701/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

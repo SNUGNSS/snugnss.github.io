@@ -1,16 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/tags/</link>
-      <atom:link href="https://snugnss.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tags</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://snugnss.github.io/media/logo_hu_5ee23dfed6cde00.png</url>
-      <title>Tags</title>
-      <link>https://snugnss.github.io/tags/</link>
-    </image>
-    
+    <title>Tags on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Sep 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/tag/news/</link>
+      <pubDate>Mon, 01 Sep 2025 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tag/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-I</title>
+      <link>http://localhost:1313/tag/snuglite-i/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tag/snuglite-i/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-III</title>
+      <link>http://localhost:1313/tag/snuglite-iii/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tag/snuglite-iii/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-II</title>
+      <link>http://localhost:1313/tag/snuglite-ii/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tag/snuglite-ii/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

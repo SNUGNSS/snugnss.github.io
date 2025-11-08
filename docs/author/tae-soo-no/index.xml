@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tae Soo No on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/tae-soo-no/</link>
+    <description>Recent content in Tae Soo No on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/tae-soo-no/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPS Satellite State Vector Determination in ECI Coordinate System using the Civil Navigation Message</title>
+      <link>http://localhost:1313/publication/ij_201401/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201401/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Improved Onboard Orbit Propagator Test Result Using KOMPSAT-2 GPS Data</title>
+      <link>http://localhost:1313/publication/ic_201102/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201102/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

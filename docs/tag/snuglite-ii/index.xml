@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SNUGLITE-II on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/tag/snuglite-ii/</link>
+    <description>Recent content in SNUGLITE-II on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tag/snuglite-ii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[2022.07.22] SNUGLITE-II 보도자료</title>
+      <link>http://localhost:1313/snuglite/220722/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snuglite/220722/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;SNUGLITE-II Press Release&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>[2022.07.04] SNUGLITE-II 보도자료</title>
+      <link>http://localhost:1313/snuglite/220705/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snuglite/220705/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;SNUGLITE-II Press Release&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>[2022.07.04] SNUGLITE-II 보도자료 및 전체 홍보자료</title>
+      <link>http://localhost:1313/snuglite/220704/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snuglite/220704/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;SNUGLITE-II Press Release and Promotional Materials&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>[2022.07.03] SNUGLITE-II 큐브위성 사출 (성능검증위성)</title>
+      <link>http://localhost:1313/snuglite/220703/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snuglite/220703/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;SNUGLITE-II CubeSat Ejection (PVSAT)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>[2022.06.21] SNUGLITE-II 발사 (누리호 2차발사)</title>
+      <link>http://localhost:1313/snuglite/220621/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snuglite/220621/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;SNUGLITE-II Launch Video&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>SNUGLITE-II (2019-2022)</title>
+      <link>http://localhost:1313/project/snuglite-ii/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/snuglite-ii/</guid>
+      <description>&lt;h1 id=&#34;seoul-national-university-gnss-laboratory-satellite-snuglite-ii-project&#34;&gt;Seoul National University GNSS Laboratory Satellite (SNUGLITE)-II Project&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3U CubeSat mission (Launch: Jun 2022)&lt;/li&gt;&#xA;&lt;li&gt;Funded by &lt;em&gt;Korea Aerospace Research Institute (KARI)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Finalist in the &lt;em&gt;2019 Korea CubeSat Competition&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/project/snuglite-ii/fig1.png&#34; alt=&#34;snuglite2-fig1&#34;&gt;&#xA;&lt;em&gt;SNUGLITE-II 임무 개념도&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ground Station</title>
+      <link>http://localhost:1313/project/groundstation/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/groundstation/</guid>
+      <description>&lt;h1 id=&#34;snu-ground-station&#34;&gt;SNU Ground Station&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Antennas of ground station for SNUGLITE project is located on rooftop of bldg#302 at Seoul National University.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lat: 37°26&#39;54.0471&amp;quot; N &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;Lon: 126°57&#39;08.9927&amp;quot; E &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;Hgt: 279 meters&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/project/groundstation/fig1.png&#34; alt=&#34;gnd-fig1&#34;&gt;&#xA;&lt;em&gt;지상국 정보&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seoyeon Yang on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/seoyeon-yang/</link>
+    <description>Recent content in Seoyeon Yang on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/seoyeon-yang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SNUGLITE 큐브위성 관제를 위한 지상국 구축 상황</title>
+      <link>http://localhost:1313/publication/dc_201702/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201702/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE 큐브위성의 임무 및 탑재체 개발 현황</title>
+      <link>http://localhost:1313/publication/dc_201612/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201612/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hakdu Kim on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/hakdu-kim/</link>
+    <description>Recent content in Hakdu Kim on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/hakdu-kim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>광역 보호를 위한 GNSS 신호 생성기의 최소 스윕 범위 별정 방법</title>
+      <link>http://localhost:1313/publication/dc_202106/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202106/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>두 쌍의 스마트 GNSS 리피터를 활용한 실내 항법 시스템의 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_202102/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202102/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-I 큐브위성 장기운용 결과 및 분석</title>
+      <link>http://localhost:1313/publication/dc_202002/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202002/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>In-Orbit Results  Attitude Analysis of the SNUGLITE Cube-Satellite</title>
+      <link>http://localhost:1313/publication/ij_202001/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_202001/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

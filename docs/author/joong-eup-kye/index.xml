@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joong Eup Kye on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/joong-eup-kye/</link>
+    <description>Recent content in Joong Eup Kye on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Apr 2012 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/joong-eup-kye/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“Data Processing Design of Korean WA-DGNSS Reference Station</title>
+      <link>http://localhost:1313/publication/ic_201212/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201212/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

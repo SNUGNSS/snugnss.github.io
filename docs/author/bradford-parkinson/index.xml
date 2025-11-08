@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bradford Parkinson on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/bradford-parkinson/</link>
+    <description>Recent content in Bradford Parkinson on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Feb 2004 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/bradford-parkinson/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Effect of the Error in Line of Sight Unit Vector on the Accuracy of GPS  Psuedolite Navigation System</title>
+      <link>http://localhost:1313/publication/ij_200403/</link>
+      <pubDate>Sun, 01 Feb 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_200403/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quality Control Algorithms on WAAS Wide-Area Reference Stations</title>
+      <link>http://localhost:1313/publication/ij_199703/</link>
+      <pubDate>Sat, 01 Mar 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_199703/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Comparison of Master Station  User Algorithms for Wide-Area Augmentation System</title>
+      <link>http://localhost:1313/publication/ij_199701/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_199701/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wide Area Differential GPS</title>
+      <link>http://localhost:1313/publication/ij_199101/</link>
+      <pubDate>Sat, 01 Jun 1991 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_199101/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

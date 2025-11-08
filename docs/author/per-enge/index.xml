@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Per Enge on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/per-enge/</link>
+    <description>Recent content in Per Enge on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Apr 2004 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/per-enge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Line-of-Sight 단위벡터 오차가 의사위성 항법시스템에 미치는 영향 분석</title>
+      <link>http://localhost:1313/publication/dc_200405/</link>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200405/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Effect of the Error in the Line-of-Sight Unit Vector on Pseudolite-based Positioning Systems</title>
+      <link>http://localhost:1313/publication/ic_200401/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200401/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quality Control Algorithms on WAAS Wide-Area Reference Stations</title>
+      <link>http://localhost:1313/publication/ij_199703/</link>
+      <pubDate>Sat, 01 Mar 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_199703/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>An Algorithm for Inter-frequency Bias Calibration and Application to WAAS Ionosphere Modeling</title>
+      <link>http://localhost:1313/publication/ic_199506/</link>
+      <pubDate>Fri, 01 Sep 1995 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_199506/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

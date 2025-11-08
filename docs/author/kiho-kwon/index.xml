@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kiho Kwon on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/kiho-kwon/</link>
+    <description>Recent content in Kiho Kwon on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/kiho-kwon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPS Satellite State Vector Determination in ECI Coordinate System using the Civil Navigation Message</title>
+      <link>http://localhost:1313/publication/ij_201401/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201401/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Analysis of GNSS Signal Acquisition Methods for the Bit-Transition Problem for a Single Code Period</title>
+      <link>http://localhost:1313/publication/ij_201302/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_201302/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>“Development of GPS/Galileo Receiver and Onboard Navigator for LEO Satellites</title>
+      <link>http://localhost:1313/publication/ic_201211/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201211/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Study on the Availability of Vector Tracking Loop in Outdoor Field for GPS and Pseudolite System</title>
+      <link>http://localhost:1313/publication/ic_201108/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201108/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bit Transition Cancellation Signal Acquisition Method for Modernized GPS and Galileo Signal</title>
+      <link>http://localhost:1313/publication/ic_201107/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201107/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

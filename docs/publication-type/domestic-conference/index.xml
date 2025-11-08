@@ -1,0 +1,2042 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domestic-Conference on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/publication-type/domestic-conference/</link>
+    <description>Recent content in Domestic-Conference on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/publication-type/domestic-conference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>달 탐사 로버를 위한 위상 기반 단일 스테이션 측위 시스템 설계</title>
+      <link>http://localhost:1313/publication/dc_202504/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202504/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-III 큐브위성 EM의 GPS 기반 자세결정의 지상 성능 검증</title>
+      <link>http://localhost:1313/publication/dc_202502/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202502/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-III 큐브위성의 전자석 기반 도킹 장치 설계 및 지상 시험</title>
+      <link>http://localhost:1313/publication/dc_202503/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202503/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>자율 랑데부-도킹 임무수행을 위한 SNUGLITE-III 큐브위성의 초정밀 GPS 상대항법 구현 및 검증</title>
+      <link>http://localhost:1313/publication/dc_202501/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202501/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-III 큐브위성의 EM 개발 및 시험 결과</title>
+      <link>http://localhost:1313/publication/dc_202414/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202414/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>지구 삼체중력과 달 섭동력 고려한 달 남극점 커버 항법위성 궤도 설계</title>
+      <link>http://localhost:1313/publication/dc_202413/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202413/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS LNAV 사용자 알고리즘 호환 GEO 방송궤도력 파라미터 피팅 연구</title>
+      <link>http://localhost:1313/publication/dc_202411/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202411/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modified Single-layer Model 사용 전리층 지연 보정정보 정확도 향상 연구</title>
+      <link>http://localhost:1313/publication/dc_202412/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202412/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RTK 기반 정밀 상대항법을 활용한 SNUGLITE-III 큐브위성의 자율 랑데부 궤도제어 시스템 설계</title>
+      <link>http://localhost:1313/publication/dc_202406/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202406/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-III 큐브위성 랑데부 임무수행을 위한 RTK 기반 상대항법의 효과적 미지정수 결정 기법</title>
+      <link>http://localhost:1313/publication/dc_202407/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202407/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UAM을 위한 반송파 위상 시간 차분 RAIM 알고리즘의 위치 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_202410/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202410/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>안테나 캘리브레이션을 활용한 스마트폰 cm급 정밀 항법에 관한 연구</title>
+      <link>http://localhost:1313/publication/dc_202409/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202409/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>지구 삼체중력 및 달 섭동력 고려한 남극점 커버 달 항법위성 궤도 설계</title>
+      <link>http://localhost:1313/publication/dc_202408/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202408/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-III 큐브위성의 추력기 없는 랑데부 임무를 위한 대기 항력 기반 궤도제어 시스템 분석</title>
+      <link>http://localhost:1313/publication/dc_202404/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202404/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>달 남극점을 커버하는 달 위성항법시스템 Frozen orbit 설계</title>
+      <link>http://localhost:1313/publication/dc_202405/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202405/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-III 큐브위성의 자율 랑데부-도킹 임무수행을 위한 GPS 정밀 상대항법 시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_202401/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202401/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-III 큐브위성의 자율 편대비행 임무를 위한 대기 항력 궤도제어 시스템 설계</title>
+      <link>http://localhost:1313/publication/dc_202403/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202403/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>편대비행 임무를 위한 SNUGLITE-III 큐브위성 상세설계</title>
+      <link>http://localhost:1313/publication/dc_202402/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202402/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-III 큐브위성의 GPS 자세결정 지상 실험 및 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_202314/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202314/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-III 편대비행 임무를 위한 위성 간 분리 이후 상대운동 분석</title>
+      <link>http://localhost:1313/publication/dc_202315/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202315/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IGSO 및 GEO 항법위성의 태양복사압 모델 비교 연구</title>
+      <link>http://localhost:1313/publication/dc_202312/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202312/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UAM을 위한 반송파 위상 시간차분 측정치 기반 RAIM 알고리즘</title>
+      <link>http://localhost:1313/publication/dc_202310/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202310/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>국토지리정보원 기준국 사용 Network RTK 테스트베드 구축 및 실시간 데이터평가</title>
+      <link>http://localhost:1313/publication/dc_202309/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202309/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>달 남극에서의 항법을 위한 궤도 설계</title>
+      <link>http://localhost:1313/publication/dc_202313/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202313/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>자율 편대비행 임무를 수행하는 SNUGLITE-III 큐브위성의 단일주파수 RTK 상대항법 시스템 검증</title>
+      <link>http://localhost:1313/publication/dc_202308/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202308/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>픽스호크 오픈소스기반 무인기의 GNSS/INS 약결합 비행 측위 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_202311/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202311/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RRT*를 활용한 도심 환경에서의 낙하산 비행경로 설계 연구</title>
+      <link>http://localhost:1313/publication/dc_202307/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202307/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>단일 스테이션 기반 실내 데모 시스템의 Azure Kinect 위치결정 성능 개선</title>
+      <link>http://localhost:1313/publication/dc_202306/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202306/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-I 큐브위성의 4년간 위성 상태 분석 결과</title>
+      <link>http://localhost:1313/publication/dc_202303/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202303/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-III 큐브위성 전력계 상세설계</title>
+      <link>http://localhost:1313/publication/dc_202304/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202304/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>궤도 동역학을 이용한 달 위성 항법 시스템의 Frozen Orbit 설계</title>
+      <link>http://localhost:1313/publication/dc_202305/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202305/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-III 큐브위성 전력계 예비설계</title>
+      <link>http://localhost:1313/publication/dc_202302/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202302/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>편대비행 기반 GPS RO 큐브위성 SNUGLITE-III 예비설계</title>
+      <link>http://localhost:1313/publication/dc_202301/</link>
+      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202301/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rendezvous Technology of SNU CubeSat (SNUGLITE-III) Using Only GPS Receivers</title>
+      <link>http://localhost:1313/publication/dc_202210/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202210/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-II 큐브위성 지상국 구성 및 지상 운용 시험</title>
+      <link>http://localhost:1313/publication/dc_202209/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202209/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-II 큐브위성의 초기운용 결과</title>
+      <link>http://localhost:1313/publication/dc_202208/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202208/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hatch Filter를 활용한 픽스호크 오픈소스 항법 분석</title>
+      <link>http://localhost:1313/publication/dc_202204/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202204/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>가중 최소자승법 기반 지역 위성항법시스템 궤도 결정 정확도 분석</title>
+      <link>http://localhost:1313/publication/dc_202203/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202203/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>달 항법 시스템 구축을 위한 궤도 예비 설계</title>
+      <link>http://localhost:1313/publication/dc_202205/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202205/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>대류층 수직 지연오차 사용 대류층 지연오차 기울기 성분 추정 연구</title>
+      <link>http://localhost:1313/publication/dc_202207/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202207/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>스마트폰 정밀 측위를 위한 스마트폰 GNSS 안테나 캘리브레이션 기법 연구</title>
+      <link>http://localhost:1313/publication/dc_202206/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202206/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Network RTK 보정 정보 분리를 위한 실시간 정밀궤도 데어터 정확도 비교</title>
+      <link>http://localhost:1313/publication/dc_202201/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202201/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>쿼드콥터 형상에 따른 안정성 분석</title>
+      <link>http://localhost:1313/publication/dc_202202/</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202202/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>단일 스테이션 기반 위치결정시스템의 실재 데모 시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_202109/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202109/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>반작용휠과 자기토커를 탑재한 SNUGLITE-II 큐브위성 자세제어 시스템의 HILS 검증</title>
+      <link>http://localhost:1313/publication/dc_202110/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202110/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS/eLoran/INS 통합 항법 구현 및 GPS 불능상황에서 테스트 결과</title>
+      <link>http://localhost:1313/publication/dc_202105/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202105/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IGSO/GEO 항법위성 궤도 전파 정확도에 대한 섭동력 영향 분석</title>
+      <link>http://localhost:1313/publication/dc_202108/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202108/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>광역 보호를 위한 GNSS 신호 생성기의 최소 스윕 범위 별정 방법</title>
+      <link>http://localhost:1313/publication/dc_202106/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202106/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>스마트폰 수집 GNSS 측정치의 전방향 특성에 대한 연구</title>
+      <link>http://localhost:1313/publication/dc_202104/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202104/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>우천 시 Network RTK 사용자를 위한 비선형 가중치 모델</title>
+      <link>http://localhost:1313/publication/dc_202107/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202107/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNGLITE-II 큐브위성의 전력계 분석</title>
+      <link>http://localhost:1313/publication/dc_202103/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202103/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>두 쌍의 스마트 GNSS 리피터를 활용한 실내 항법 시스템의 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_202102/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202102/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>한국 달 탐사선의 항법을 위한 궤도 설계</title>
+      <link>http://localhost:1313/publication/dc_202101/</link>
+      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202101/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-II 큐브위성 자세제어 시스템의 쿼터니언 기반 최적 제어기 설계</title>
+      <link>http://localhost:1313/publication/dc_202010/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202010/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-II 큐브위성의 GNSS 자세결정을 위한 미지정수 결정 방법</title>
+      <link>http://localhost:1313/publication/dc_202009/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202009/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Centimeter-level Precision Smartphone Navigation Using RTK</title>
+      <link>http://localhost:1313/publication/dc_202008/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202008/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS/GALILEO 측정치 기반 큐브위성 자세결정의 성능 분석 (Performance Analysis of GPS/GALLILEO-based Attitude Determination for Cubesatellite)</title>
+      <link>http://localhost:1313/publication/dc_202006/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202006/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Integrity Monitoring Simulation in Urban Scenario by Using Single Frequency RRAIM</title>
+      <link>http://localhost:1313/publication/dc_202004/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202004/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Real-time Differential GPS Relative Navigation System Implementation and Verification of KARDSAT Cube-Satllites for Autonomous Rendezvous and Docking Missions</title>
+      <link>http://localhost:1313/publication/dc_202007/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202007/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theoretical Position and Pseudorange Analysis of One-Way Indoor Positioning System Based on Overlapping Autocorrelation Functions</title>
+      <link>http://localhost:1313/publication/dc_202005/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202005/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>이중 차분 반송파 위상 측정치 활용 대류층 지연 오차의 수평 기울기 추정 (Estimation of Tropospheric Horizontal Gradient by Using Double-Differenced Carrier Phase Measurement)</title>
+      <link>http://localhost:1313/publication/dc_202003/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202003/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-I 큐브위성 장기운용 결과 및 분석</title>
+      <link>http://localhost:1313/publication/dc_202002/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202002/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>위성항법신호를 이용한 3D 지구대기관측 큐브위성 SNUGLITE-II 예비설계</title>
+      <link>http://localhost:1313/publication/dc_202001/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202001/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE 큐브 위성의 항법해를 활용한 궤도 결정 및 예측 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_201909/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201909/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE 큐브위성의 자세결정 및 제어시스템 검증을 위한 헬름홀츠 케이지 설계</title>
+      <link>http://localhost:1313/publication/dc_201908/</link>
+      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201908/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chapman 전자 밀도 분포를 이용한 Radio Occultation 시뮬레이션 기반 지진에 의한 전리층 교란 분석</title>
+      <link>http://localhost:1313/publication/dc_201906/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201906/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compact Wide-Area RTK (WARTK): 반송파 위상 측정치를 활용한 위성 기반 초정밀 광역 보강항법 시스템</title>
+      <link>http://localhost:1313/publication/dc_201907/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201907/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS/INS 통합 항법 알고리즘을 위한 반송파 위상 시간차분 측정치 소음 상관 관계 고려 방법</title>
+      <link>http://localhost:1313/publication/dc_201903/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201903/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>다수의 GPS 안테나를 활용한 큐브위성 자세결정</title>
+      <link>http://localhost:1313/publication/dc_201904/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201904/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>초소형위성의 자율 랑데부 및 도킹을 위한 DGPS 기반 상대항법</title>
+      <link>http://localhost:1313/publication/dc_201905/</link>
+      <pubDate>Tue, 29 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201905/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE 큐브 위성의 On-board GPS수신기 항법해 분석</title>
+      <link>http://localhost:1313/publication/dc_201901/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201901/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE 큐브위성의 궤도상 자세결정 및 제어시스템 검증</title>
+      <link>http://localhost:1313/publication/dc_201902/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201902/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE 큐브위성 지상국 통신 및 관제 시스템 운용시험</title>
+      <link>http://localhost:1313/publication/dc_201817/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201817/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>위성항법 신호를 이용한 우주환경 및 지진관측을 위한 SNUGLITE 큐브위성 개발 및 발사 준비</title>
+      <link>http://localhost:1313/publication/dc_201816/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201816/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS 사용자 전리층 지연 추정에 대한 thin shell 모델 개선 방법 제안</title>
+      <link>http://localhost:1313/publication/dc_201815/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201815/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS/GLONASS Compact Network RTK 데모 시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_201810/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201810/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>네트워크 RTK 기준국 미지정수 결정에 적합한 GPS 삼중주파수 활용 방안 연구</title>
+      <link>http://localhost:1313/publication/dc_201812/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201812/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>단일 스테이션 기반 위치결정시스템의 미지정수 결정능력 향상을 위한 안테나 배치 연구</title>
+      <link>http://localhost:1313/publication/dc_201809/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201809/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>머신러닝을 활용한 수신기에서의 기만 결과 분석</title>
+      <link>http://localhost:1313/publication/dc_201811/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201811/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>모바일폰을 활용한 터널에서의 이동체 위치추적</title>
+      <link>http://localhost:1313/publication/dc_201808/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201808/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>미약 신호 추적을 위한 도플러 추적 오차에 따른 최대 적분 시간 결정</title>
+      <link>http://localhost:1313/publication/dc_201807/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201807/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>이중차분 반송파 측정치를 활용한 전리층 모델링 정확도 향상에 관한 연구</title>
+      <link>http://localhost:1313/publication/dc_201814/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201814/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>한반도 지역 RAIM/ARAIM 사용자의 가용성 분석</title>
+      <link>http://localhost:1313/publication/dc_201813/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201813/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GNSS 신호를 이용한 지진에 의한 전리층 교란 검출 및 교란의 전파 속도 분석</title>
+      <link>http://localhost:1313/publication/dc_201803/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201803/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KASS 운용 시험 및 성능 평가를 위한 위치 영역 분석 알고리즘</title>
+      <link>http://localhost:1313/publication/dc_201806/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201806/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>운용 시나리오를 고려한 SNUGLITE 큐브위성의 자세결정 및 제어 시스템 지상환경 HILS</title>
+      <link>http://localhost:1313/publication/dc_201804/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201804/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>항공기 자세를 고려한 SBAS 가용성 성능 예측 시뮬레이션 소프트웨어 개발</title>
+      <link>http://localhost:1313/publication/dc_201805/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201805/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>기압 고도계 및 가속도계 결합을 통한 고도 추정</title>
+      <link>http://localhost:1313/publication/dc_201801/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201801/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SBAS 가용성 성능 예측을 위한 시뮬레이션 소프트웨어 설계</title>
+      <link>http://localhost:1313/publication/dc_201802/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201802/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>3차원 지자기 벡터 결합을 통한 UAV GPS/INS 항법 시스템의 성능 향상 및 GPS고장 대응</title>
+      <link>http://localhost:1313/publication/dc_201716/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201716/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS/GLONASS Compact Network RTK 성능 검증 및 시간지연 오차 보상 연구</title>
+      <link>http://localhost:1313/publication/dc_201710/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201710/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE 큐브위성 지상국 구축 및 통신 시스템 검증</title>
+      <link>http://localhost:1313/publication/dc_201717/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201717/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WiFi 신호 미약 환경에서의 실내 항법 시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_201711/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201711/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>소프트웨어 기반 기만 시뮬레이터 개발 및 기만 시나리오 생성</title>
+      <link>http://localhost:1313/publication/dc_201712/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201712/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>위도별/계절별/태양 활동기별 전리층 경향분석 및 지진에 의한 전리층 교란 검출 기법 연구</title>
+      <link>http://localhost:1313/publication/dc_201715/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201715/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>자기토커를 탑재한 SNUGLITE 큐브위성의 지상환경을 고려한 단일축 자세결정 및 제어 HILS</title>
+      <link>http://localhost:1313/publication/dc_201718/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201718/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>전국 단위 다중 클러스터 확장에 적합한 미지정수 수준 조정 알고리즘 연구</title>
+      <link>http://localhost:1313/publication/dc_201713/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201713/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>한반도 기준국을 활용한 방송 궤도력 오차 추정</title>
+      <link>http://localhost:1313/publication/dc_201714/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201714/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KASS CNMP 알고리즘 설계</title>
+      <link>http://localhost:1313/publication/dc_201707/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201707/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KASS 운용시험 및 성능감시를 위한 Range Domain 분석 알고리즘 설계</title>
+      <link>http://localhost:1313/publication/dc_201709/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201709/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MATLAB GUI 기반 KASS 운용시험 연구용 분석도구 개발</title>
+      <link>http://localhost:1313/publication/dc_201704/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201704/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Online-PPP 결과를 활용한 한반도 지역 대류층 지연 환경 분석</title>
+      <link>http://localhost:1313/publication/dc_201705/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201705/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SSR 메시지 스케쥴링과 GNSS 오차 잔차간 상관관계 분석</title>
+      <link>http://localhost:1313/publication/dc_201708/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201708/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>위성항법 신호를 이용한 우주환경 및 지진관측을 위한 SNUGLITE 큐브위성 개발 및 발사 준비</title>
+      <link>http://localhost:1313/publication/dc_201706/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201706/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>전리층 보정정보의 구면 조화 함수 생성을 위한 반송파 이중차분 측정치 기반 전리층 지연 보정정보 추정 연구</title>
+      <link>http://localhost:1313/publication/dc_201703/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201703/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE 큐브위성 관제를 위한 지상국 구축 상황</title>
+      <link>http://localhost:1313/publication/dc_201702/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201702/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE 큐브위성 자세제어 PIL(Processor In the Loop) 시뮬레이션</title>
+      <link>http://localhost:1313/publication/dc_201701/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201701/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS 저가시성 환경에서 지구정지궤도 위성의 초기 궤도 결정</title>
+      <link>http://localhost:1313/publication/dc_201614/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201614/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE 큐브위성의 우주환경을 고려한 자세제어 SIL(Software In the Loop) 시뮬레이션</title>
+      <link>http://localhost:1313/publication/dc_201613/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201613/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE 큐브위성의 임무 및 탑재체 개발 현황</title>
+      <link>http://localhost:1313/publication/dc_201612/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201612/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CNAV Live Data를 활용한 GPS위성의 위치 및 좌표변환 정확도 분석</title>
+      <link>http://localhost:1313/publication/dc_201609/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201609/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DGPS/IMU/Magnetometer 결합을 이용한 차량의 위성 항법 측위 성능 향상</title>
+      <link>http://localhost:1313/publication/dc_201611/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201611/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS 기만 시나리오 생성 소프트웨어 구현 및 시뮬레이션 결과 분석</title>
+      <link>http://localhost:1313/publication/dc_201610/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201610/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WiFiSLAM을 이용한 Radio Map 생성 및 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_201608/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201608/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>정밀 궤도력을 이용한 SBAS 위성 보정 정보 성능 평가</title>
+      <link>http://localhost:1313/publication/dc_201607/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201607/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WAAS와 EGNOS의 위치 영역 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_201605/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201605/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>시뮬레이션을 통한 LQG 기반 신호 추적 루프의 측정치 추정 오차 분석</title>
+      <link>http://localhost:1313/publication/dc_201606/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201606/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>한반도 지각변동에 의한 GPS 기준국 좌표 이동 보상 방법</title>
+      <link>http://localhost:1313/publication/dc_201604/</link>
+      <pubDate>Fri, 21 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201604/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KASS 성능평가를 위한 운용시험 요소기술 분석</title>
+      <link>http://localhost:1313/publication/dc_201603/</link>
+      <pubDate>Wed, 18 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201603/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multi-GNSS 조합별 성능 예측 및 최적 조합 선택</title>
+      <link>http://localhost:1313/publication/dc_201602/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201602/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>위성항법 신호를 이용한 우주환경 및 지진관측 큐브위성 SNUGLITE 예비설계</title>
+      <link>http://localhost:1313/publication/dc_201601/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201601/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS 위성 기하학적 위치의 일별 유사성을 이용한 기준국 의사거리 다중경로 오차 감소기법</title>
+      <link>http://localhost:1313/publication/dc_201509/</link>
+      <pubDate>Wed, 18 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201509/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS CNAV 데이터를 이용한 GPS 위성의 위치,속도,가속도의 정확도 예측</title>
+      <link>http://localhost:1313/publication/dc_201507/</link>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201507/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SBAS 사용자 분류에 따른 다중 위성항법 다중 주파 SBAS 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_201505/</link>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201505/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>단일 위성고장 가정, Solution Separation RAIM과 Residual Based RAIM의 성능 비교</title>
+      <link>http://localhost:1313/publication/dc_201508/</link>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201508/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>맵매칭을 이용한 스마트폰 기반 실내 항법 기술</title>
+      <link>http://localhost:1313/publication/dc_201506/</link>
+      <pubDate>Wed, 04 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201506/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mission and Preliminary Design of Cubesat SNUGLITE Observing Space Environment and Earthquake Using GPS Signals</title>
+      <link>http://localhost:1313/publication/dc_201504/</link>
+      <pubDate>Wed, 28 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201504/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>고고도 장기체공 무인기를 활용한 국지적 대체항법에 관한 연구</title>
+      <link>http://localhost:1313/publication/dc_201502/</link>
+      <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201502/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>단일 DME 스테이션 기반 위치 결정 시스템</title>
+      <link>http://localhost:1313/publication/dc_201503/</link>
+      <pubDate>Fri, 23 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201503/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>자기 제어를 이용한 큐브위성의 자세 결정 및 제어에 관한 연구</title>
+      <link>http://localhost:1313/publication/dc_201501/</link>
+      <pubDate>Thu, 23 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201501/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>대체에너지를 이용하는 고고도 장기체공 무인기의 민군 복합 운용 전망4</title>
+      <link>http://localhost:1313/publication/dc_201412/</link>
+      <pubDate>Wed, 19 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201412/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>실시간 GNSS 수신기 전리층 지연 보정 모델의 한반도 특성 분석</title>
+      <link>http://localhost:1313/publication/dc_201411/</link>
+      <pubDate>Wed, 19 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201411/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>APNT를 위한 단일 스테이션 기반 위치결정 시스템 MOSAIC/DME의 송신 안테나 수에 따른 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_201410/</link>
+      <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201410/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compact Network RTK 보정정보 생성을 위한 저 차수 곡면 모델 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_201409/</link>
+      <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201409/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MATLAB GUI 기반 GPS 수신기 측정치 생성 소프트웨어의 개발</title>
+      <link>http://localhost:1313/publication/dc_201407/</link>
+      <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201407/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>위성 항법 차폐지역 가시성 개선을 위한 의사위성 탑재 고고도 무인기 활용방안</title>
+      <link>http://localhost:1313/publication/dc_201406/</link>
+      <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201406/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>의사위성 기반 WADGNSS 데모 시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_201408/</link>
+      <pubDate>Tue, 21 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201408/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>다중 위성항법시스템을 이용한 단일 주파수 SBAS 사용자의 전리층 지연 추정 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_201404/</link>
+      <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201404/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>자기장토커와 LQR 제어기를 이용한 큐브위성의 자세 제어</title>
+      <link>http://localhost:1313/publication/dc_201405/</link>
+      <pubDate>Fri, 17 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201405/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multi-constellation WADGPS의 성능 예측</title>
+      <link>http://localhost:1313/publication/dc_201403/</link>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201403/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RF 신호 수집/방송 장치를 활용한 의사위성 기반 광역보정시스템의 후처리 성능 검증</title>
+      <link>http://localhost:1313/publication/dc_201402/</link>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201402/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>차량 환경에서 RTK 위치 결정을 위한 저가 관성센서 기반 GPS 반송파 불연속 측정치 검출</title>
+      <link>http://localhost:1313/publication/dc_201401/</link>
+      <pubDate>Thu, 17 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201401/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>FKP 보정정보를 이용한 DGPS 위치정확도 향상 연구</title>
+      <link>http://localhost:1313/publication/dc_201309/</link>
+      <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201309/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>의사위성 기반의 광역보정시스템 개발 및 성능 평가</title>
+      <link>http://localhost:1313/publication/dc_201308/</link>
+      <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201308/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>이중 주파수 광역보강시스템 한반도 지역 성능 예측</title>
+      <link>http://localhost:1313/publication/dc_201312/</link>
+      <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201312/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>저궤도 위성용 위성항법 수신기 항법필터 개발</title>
+      <link>http://localhost:1313/publication/dc_201304/</link>
+      <pubDate>Wed, 06 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201304/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LORAN-C의 위치계산 알고리즘과 기하학적 정밀도 결정요인의 영향 분석</title>
+      <link>http://localhost:1313/publication/dc_201306/</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201306/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>고속도로 환경에서 GPS 반송파 기반 Positioning을 위한 반송파 불연속 측정치 검출에 대한 연구</title>
+      <link>http://localhost:1313/publication/dc_201307/</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201307/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>시공간이격오차 모델화 및 성능 검증</title>
+      <link>http://localhost:1313/publication/dc_201311/</link>
+      <pubDate>Thu, 17 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201311/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>국내 위성항법 오차 요인별 공간 이격 경향성 분석</title>
+      <link>http://localhost:1313/publication/dc_201310/</link>
+      <pubDate>Fri, 11 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201310/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>기준국 네트워크 선정에 따른 GNSS 광역보정시스템 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_201305/</link>
+      <pubDate>Thu, 27 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201305/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>구면조화 함수 기반 전리층 모델링의 광역보정시스템 적용가능성 연구</title>
+      <link>http://localhost:1313/publication/dc_201301/</link>
+      <pubDate>Wed, 10 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201301/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>미약신호 수신을 위한 소프트웨어 GPS 수신기 구현</title>
+      <link>http://localhost:1313/publication/dc_201302/</link>
+      <pubDate>Wed, 10 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201302/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>육상교통 사용자를 위한 미지정수 수준이 고려된 Compact Network RTK 보정정보 생성방안 연구</title>
+      <link>http://localhost:1313/publication/dc_201303/</link>
+      <pubDate>Wed, 10 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201303/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>관성센서 바이어스를 고려한 퀘터니언 기반 AHRS</title>
+      <link>http://localhost:1313/publication/dc_201210/</link>
+      <pubDate>Thu, 15 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201210/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>단일안테나GPS/자이로스코프/지자기센서 통합 자세 추정</title>
+      <link>http://localhost:1313/publication/dc_201209/</link>
+      <pubDate>Tue, 13 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201209/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adaptive Arrays를 이용한 GNSS 교란 신호 DOA 추정 가능성 분석</title>
+      <link>http://localhost:1313/publication/dc_201208/</link>
+      <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201208/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GEO위성환경을 고려한 GPS L1신호 생성 시뮬레이터 개발</title>
+      <link>http://localhost:1313/publication/dc_201204/</link>
+      <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201204/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS 방송 EOP 데이터를 이용한 저궤도 위성의 항법해 좌표변환 정확도 예상</title>
+      <link>http://localhost:1313/publication/dc_201207/</link>
+      <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201207/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>저궤도 위성에 탑재 가능한 GPS/Galileo 복합 수신기 기술 개발</title>
+      <link>http://localhost:1313/publication/dc_201206/</link>
+      <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201206/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>저궤도 위성용 위성항법 수신기 항법필터 개발</title>
+      <link>http://localhost:1313/publication/dc_201211/</link>
+      <pubDate>Thu, 08 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201211/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>광역보정시스템 (WA-DGNSS) 구축기술 개발 사업 경과</title>
+      <link>http://localhost:1313/publication/dc_201205/</link>
+      <pubDate>Thu, 25 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201205/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>이동형 항체를 위한 Network RTK 보정정보 불연속 해소 방안</title>
+      <link>http://localhost:1313/publication/dc_201203/</link>
+      <pubDate>Thu, 21 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201203/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>다중 RF신호 및 다중 안테나를 이용한 위치 결정 시스템</title>
+      <link>http://localhost:1313/publication/dc_201201/</link>
+      <pubDate>Sat, 02 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201201/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>소프트웨어 기반 GPS IF 신호 시뮬레이터 설계 및 구현</title>
+      <link>http://localhost:1313/publication/dc_201202/</link>
+      <pubDate>Sat, 02 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201202/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>저가 자이로스코프의 단순 통합을 통한 단일 안테나 GPS 기반 자세의 성능 향상</title>
+      <link>http://localhost:1313/publication/dc_201110/</link>
+      <pubDate>Fri, 11 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201110/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MAC 기반 Compact Network RTK를 활용한 공간 이격 오차 감소 방안 및 성능 검증</title>
+      <link>http://localhost:1313/publication/dc_201109/</link>
+      <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201109/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Processing of WA-DGNSS Correction Messages: A Functional Perspective</title>
+      <link>http://localhost:1313/publication/dc_201115/</link>
+      <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201115/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>저궤도 위성 환경에서의 GPS L1 신호 생성 소프트웨어 시뮬레이터 개발</title>
+      <link>http://localhost:1313/publication/dc_201112/</link>
+      <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201112/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>저궤도 위성에 탑재 가능한 GPS/Galileo 복합 수신기 기술 개발</title>
+      <link>http://localhost:1313/publication/dc_201113/</link>
+      <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201113/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>저궤도 위성용 GPS(L1/L2C)/Galileo(E1B) 통합 수신 MATLAB 소프트웨어 개발</title>
+      <link>http://localhost:1313/publication/dc_201114/</link>
+      <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201114/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>한국형 광역보정시스템 테스트베드 가용성 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_201107/</link>
+      <pubDate>Thu, 03 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201107/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Equinox 궤도 요소를 이용한 OOP의 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_201111/</link>
+      <pubDate>Fri, 21 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201111/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>L1/L5 이중주파수 광역보정시스템 한반도 사용자 성능 예측</title>
+      <link>http://localhost:1313/publication/dc_201106/</link>
+      <pubDate>Fri, 21 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201106/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MAC 기반 Compact Network RTK 준실시간 프로그램 구현 및 사용자 성능 예측</title>
+      <link>http://localhost:1313/publication/dc_201108/</link>
+      <pubDate>Fri, 21 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201108/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>광역보정시스템 (WA-DGNSS) 전리층지연 오차추정 알고리즘</title>
+      <link>http://localhost:1313/publication/dc_201104/</link>
+      <pubDate>Thu, 09 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201104/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>국제표준을 고려한 광역보정시스템 메시지 스케줄링 기법</title>
+      <link>http://localhost:1313/publication/dc_201105/</link>
+      <pubDate>Thu, 09 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201105/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Compact network RTK를 이용한 GPS 시·공간 비상관 오차의 효율적인 감소</title>
+      <link>http://localhost:1313/publication/dc_201103/</link>
+      <pubDate>Thu, 21 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201103/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>멀티 안테나와 반송파위상 측정치를 이용한 의사위성 위치 측정 방법</title>
+      <link>http://localhost:1313/publication/dc_201102/</link>
+      <pubDate>Fri, 15 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201102/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>저궤도 위성의 GPS 데이터를 이용한 OOP의 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_201101/</link>
+      <pubDate>Fri, 15 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201101/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RTK 보정정보 난수신환경에서의 측위연속성 향상을 위한 시간지연 보상 연구</title>
+      <link>http://localhost:1313/publication/dc_201005/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201005/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RTK 보정정보 난수신환경에서의 측위연속성 향상을 위한 시간지연 보상 연구</title>
+      <link>http://localhost:1313/publication/dc_201011/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201011/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stand-alone GPS 모듈의 NMEA 출력 측위정확도 향상에 효과적인 위치영역 DGPS의 새로운 보정정보 생성 알고리즘 제안</title>
+      <link>http://localhost:1313/publication/dc_201009/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201009/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>비행중 자이로 보정 방법을 이용한 저가의 단일안테나 GPS와 1축 자이로에 기반한 고정익 항공기의 롤각 추정</title>
+      <link>http://localhost:1313/publication/dc_201008/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201008/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>실내환경에서 마이크로폰 배열을 이용한 음원 추적 알고리즘</title>
+      <link>http://localhost:1313/publication/dc_201012/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201012/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>의사위성과 자이로스코프 및 지자기센서를 이용한 청소로봇의 위치 및 방위각 추정 기술 구현</title>
+      <link>http://localhost:1313/publication/dc_201006/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201006/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>이중주파수 GPS 수신기를 이용한 실시간 사이클슬립 검출 알고리즘 연구</title>
+      <link>http://localhost:1313/publication/dc_201007/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201007/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>저가 GPS 수신기와 MEMS IMU를 이용한 보행자 항법 시스템</title>
+      <link>http://localhost:1313/publication/dc_201010/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201010/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>KOMPSAT-2 GPS 데이터를 이용한 위성 궤도 전파기의 저궤도에 대한 적합성 분석</title>
+      <link>http://localhost:1313/publication/dc_201003/</link>
+      <pubDate>Thu, 28 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201003/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>머리에 장착한 센서를 이용한 보행자 항법 알고리즘 분석</title>
+      <link>http://localhost:1313/publication/dc_201004/</link>
+      <pubDate>Thu, 28 Oct 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201004/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>저가 IMU와 Magnetometer를 이용한 보행자용 실내항법 알고리즘</title>
+      <link>http://localhost:1313/publication/dc_201002/</link>
+      <pubDate>Thu, 15 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201002/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>USB RF 신호 수집장치를 활용한 실시간 소프트웨어 GPS 수신기의 개발</title>
+      <link>http://localhost:1313/publication/dc_201001/</link>
+      <pubDate>Wed, 20 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201001/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>4Hz GPS 수신기만을 이용한 소형체공형무인기 비행제어시스템 설계 및 비행시험</title>
+      <link>http://localhost:1313/publication/dc_200911/</link>
+      <pubDate>Thu, 12 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200911/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>소형 체공형 무인기 공력계수 추정 및 보정</title>
+      <link>http://localhost:1313/publication/dc_200910/</link>
+      <pubDate>Thu, 12 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200910/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS(L1)/Galileo(E1/E5a) 다중 신호 통합 수신 소프트웨어 플랫폼 개발</title>
+      <link>http://localhost:1313/publication/dc_200906/</link>
+      <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200906/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NDGNSS 인프라 개선을 위한 한국형 지역보강시스템</title>
+      <link>http://localhost:1313/publication/dc_200909/</link>
+      <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200909/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>고고도 사용자를 위한 DGNSS 보정치 생성 앙고리즘</title>
+      <link>http://localhost:1313/publication/dc_200908/</link>
+      <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200908/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>한빛호 차세대 항법 시스템 측정 능력 고도화 방안</title>
+      <link>http://localhost:1313/publication/dc_200907/</link>
+      <pubDate>Wed, 04 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200907/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>가우시안 합 필터를 이용한 반송파 위상 기반 수신기 자체 무결성 검사 기법</title>
+      <link>http://localhost:1313/publication/dc_200904/</link>
+      <pubDate>Fri, 16 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200904/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>저가의 마이크로폰을 이용한 효율적인 실시간 소리 위치 추적 시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_200905/</link>
+      <pubDate>Fri, 16 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200905/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>해양교통시설측정선 &#39;한빛호&#39; 측정시스템 고도화 방안에 대한 연구</title>
+      <link>http://localhost:1313/publication/dc_200903/</link>
+      <pubDate>Thu, 18 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200903/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SBAS의 시스템별 특성 및 국내 이용가능성 분석</title>
+      <link>http://localhost:1313/publication/dc_200902/</link>
+      <pubDate>Thu, 16 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200902/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UAV Gimbaled Camera 를 이용한 조난자 탐색 및 추적 알고리즘 연구</title>
+      <link>http://localhost:1313/publication/dc_200901/</link>
+      <pubDate>Thu, 16 Apr 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200901/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>소형체공형 무인기용 저속 단일안테나 GPS 기반 비행제어시스템 설계 연구</title>
+      <link>http://localhost:1313/publication/dc_200808/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200808/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matlab을 이용한 후처리 GPS(L1)/Galileo(E1) 통합 신호 수신 소프트웨어 플랫폼 개발</title>
+      <link>http://localhost:1313/publication/dc_200806/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200806/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matlab을 이용한 후처리 GPS(L1)/Galileo(E1) 통합 신호 수신 소프트웨어 플랫폼 개발</title>
+      <link>http://localhost:1313/publication/dc_200807/</link>
+      <pubDate>Wed, 01 Oct 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200807/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Matlab을 이용한 후처리 GPS(L1)/Galileo(E1) 통합 신호 수신 소프트웨어 플랫폼 개발</title>
+      <link>http://localhost:1313/publication/dc_200802/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200802/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SBAS의 시스템별 특성 및 국내 이용가능성 분석</title>
+      <link>http://localhost:1313/publication/dc_200803/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200803/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>양방향 측위기법을 이용한 스마트 의사위성 항법시스템</title>
+      <link>http://localhost:1313/publication/dc_200805/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200805/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>의사 위성과 무인 항공기를 이용한 한국형 대체 항법 시스템</title>
+      <link>http://localhost:1313/publication/dc_200804/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200804/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Simulink 를 이용한 GNSS 소프트웨어 수신 플랫폼 모듈화 방안 연구</title>
+      <link>http://localhost:1313/publication/dc_200801/</link>
+      <pubDate>Tue, 01 Apr 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200801/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>무인항공기의 공력계수 추정 및 보정</title>
+      <link>http://localhost:1313/publication/dc_200705/</link>
+      <pubDate>Thu, 15 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200705/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>비정규 오차분포를 고려한 가우시산 합 필터를 이용한 DGNSS 무결성 감시 알고리즘</title>
+      <link>http://localhost:1313/publication/dc_200706/</link>
+      <pubDate>Fri, 02 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200706/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>양방향 의사위성을 이용한 스마트 의사위성 배열 시스템</title>
+      <link>http://localhost:1313/publication/dc_200704/</link>
+      <pubDate>Fri, 02 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200704/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS-RTK와 single antenna axis를 이용한 모형차량의 자동제어</title>
+      <link>http://localhost:1313/publication/dc_200701/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200701/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>단일안테나 GPS 수신기를 이용한 무인항공기의 자동이착륙 및 지상활주</title>
+      <link>http://localhost:1313/publication/dc_200702/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200702/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>무인항공기의 안정계소 및 조정계수 추정 방법</title>
+      <link>http://localhost:1313/publication/dc_200703/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200703/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>단일안테나 GPS 수신기와 Airspeed 센서를 갖춘 무인항공기를 이용한 바람 추정</title>
+      <link>http://localhost:1313/publication/dc_200604/</link>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200604/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The effect of 2D &amp; 3D ionospheric model in interfrequency bias estimation</title>
+      <link>http://localhost:1313/publication/dc_200603/</link>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200603/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UAV 의사위성 항법 시스템의 항법 메시지 형식 제안</title>
+      <link>http://localhost:1313/publication/dc_200602/</link>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200602/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>의사위성을 이용한 비행실험</title>
+      <link>http://localhost:1313/publication/dc_200601/</link>
+      <pubDate>Fri, 14 Apr 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200601/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flight Test using Pseudolite Navigation System</title>
+      <link>http://localhost:1313/publication/dc_200507/</link>
+      <pubDate>Thu, 01 Dec 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200507/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>군의 효율적인 작전 수행을 위한 대체 항법 구성과 의사위성의 최적 배치에 대한 연구</title>
+      <link>http://localhost:1313/publication/dc_200504/</link>
+      <pubDate>Thu, 01 Dec 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200504/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>비동기 의사위성을 이용한 GPS 보강 시스템</title>
+      <link>http://localhost:1313/publication/dc_200506/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200506/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>의사위성과 무인항공기를 이용한 한국형 대체 항법 시스템 구성에 관한 연구</title>
+      <link>http://localhost:1313/publication/dc_200503/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200503/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>한국형 지역 위성 통신항법시스템의 위성 궤도 설계에 관한 연구</title>
+      <link>http://localhost:1313/publication/dc_200502/</link>
+      <pubDate>Sat, 01 Oct 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200502/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Performance Enhancement of Attitude Determination System by Combining Single and Multiple Antennas</title>
+      <link>http://localhost:1313/publication/dc_200505/</link>
+      <pubDate>Thu, 07 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200505/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DGPS 보정치 변화율에 대한 새로운 제안</title>
+      <link>http://localhost:1313/publication/dc_200501/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200501/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NDGPS 기준국 데이터를 이용한 한국형 WADGPS 알고리즘의 성능 분석</title>
+      <link>http://localhost:1313/publication/dc_200402/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200402/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>무인항공기의 지상활주 모델링</title>
+      <link>http://localhost:1313/publication/dc_200403/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200403/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>비동기 의사위성을 이용한 GPS 보강 시스템</title>
+      <link>http://localhost:1313/publication/dc_200404/</link>
+      <pubDate>Mon, 01 Nov 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200404/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Line-of-Sight 단위벡터 오차가 의사위성 항법시스템에 미치는 영향 분석</title>
+      <link>http://localhost:1313/publication/dc_200405/</link>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200405/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>분리된 가우시안 판단변수를 이용한 미지정수 검색기법</title>
+      <link>http://localhost:1313/publication/dc_200401/</link>
+      <pubDate>Thu, 01 Apr 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200401/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>기하학적 접근법을 이용한 단일 epoch 자세 결정법</title>
+      <link>http://localhost:1313/publication/dc_200304/</link>
+      <pubDate>Fri, 21 Nov 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200304/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>아시아의 WADGPS 상호 운용성을 위한 해법 : 분산형 WADGPS</title>
+      <link>http://localhost:1313/publication/dc_200302/</link>
+      <pubDate>Fri, 21 Nov 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200302/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>단일 안테나 GPS 수신기를 이용한 무인항공기의 자동 제어</title>
+      <link>http://localhost:1313/publication/dc_200301/</link>
+      <pubDate>Sat, 01 Nov 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200301/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>의사거리 보정치 생성과 시간지연 시 DGPS 성능 변화에 대한 연구</title>
+      <link>http://localhost:1313/publication/dc_200303/</link>
+      <pubDate>Tue, 01 Apr 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200303/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GBAS와 기존 항공기 정밀 접근 유도시스템의 성능 비교</title>
+      <link>http://localhost:1313/publication/dc_200207/</link>
+      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200207/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>기하학적 접근을 통한 효율적 자세결정법</title>
+      <link>http://localhost:1313/publication/dc_200205/</link>
+      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200205/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>단일 안테나 GPS 수신기를 이용한 무인항공기의 자세추정</title>
+      <link>http://localhost:1313/publication/dc_200204/</link>
+      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200204/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>저속 데이터 통신 환경에 적합한 효율적인 RTK-GPS 고정밀 보정정보 생성 알고리즘</title>
+      <link>http://localhost:1313/publication/dc_200202/</link>
+      <pubDate>Fri, 01 Nov 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200202/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GBAS(Ground Based Augmentation System) 시스템 개발 및 시험 평가</title>
+      <link>http://localhost:1313/publication/dc_200206/</link>
+      <pubDate>Wed, 01 May 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200206/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DGPS 측정치 무결성 감시 시스템 구현</title>
+      <link>http://localhost:1313/publication/dc_200203/</link>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200203/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>실시간 정밀위치측정을 위한 새로운 RTK-GPS 보정데이터 형식 개발</title>
+      <link>http://localhost:1313/publication/dc_200201/</link>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200201/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CDGPS를 이용한 무인항공기 정밀 위치측정</title>
+      <link>http://localhost:1313/publication/dc_200107/</link>
+      <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200107/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS를 이용한 무인항공기의 비행실험</title>
+      <link>http://localhost:1313/publication/dc_200106/</link>
+      <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200106/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RTCM SC-104와 SARPs 프로토콜 비교 연구</title>
+      <link>http://localhost:1313/publication/dc_200108/</link>
+      <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200108/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>근거리 오차 보정 시스템의 성능 평가</title>
+      <link>http://localhost:1313/publication/dc_200105/</link>
+      <pubDate>Thu, 01 Nov 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200105/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>실시간 보정위성항법을 이용한 무인항공기 항법시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_200104/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200104/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CDGPS를 이용한 무인비행체 정밀 위치 측정</title>
+      <link>http://localhost:1313/publication/dc_200103/</link>
+      <pubDate>Wed, 01 Aug 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200103/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LSAST를 이용한 실시간 자세결정법 연구</title>
+      <link>http://localhost:1313/publication/dc_200101/</link>
+      <pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200101/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>무선 인터넷에 기반한 실시간 DGPS 성능평가</title>
+      <link>http://localhost:1313/publication/dc_200102/</link>
+      <pubDate>Sun, 01 Apr 2001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200102/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LSAST를 이용한 실시간 자세결정법 연구</title>
+      <link>http://localhost:1313/publication/dc_200008/</link>
+      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200008/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>무선 인터넷에 기반한 실시간 DGPS 성능평가</title>
+      <link>http://localhost:1313/publication/dc_200009/</link>
+      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200009/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>실내항법시스템을 이용한 모형차량 자동 제어 시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_200007/</link>
+      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200007/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>자율항법차량 시스템식별 및 추측항법을 이용한 궤적추종 제어</title>
+      <link>http://localhost:1313/publication/dc_200010/</link>
+      <pubDate>Fri, 01 Dec 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200010/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DGPS를 이용한 스키어(skier) 교육용 소프트웨어 개발</title>
+      <link>http://localhost:1313/publication/dc_200004/</link>
+      <pubDate>Sun, 01 Oct 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200004/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>실시간 DGPS를 이용한 스키어 교육용 소프트웨어 개발</title>
+      <link>http://localhost:1313/publication/dc_200005/</link>
+      <pubDate>Sun, 01 Oct 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200005/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>보정위성항법을 이용한 항공기 착륙시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_200003/</link>
+      <pubDate>Sat, 01 Apr 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200003/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>비동기 의사위성 반송파 위상을 이용한 실시간 실내 항법 시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_200006/</link>
+      <pubDate>Sat, 01 Apr 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200006/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>의사위성을 이용한 실시간 실내 이동체 외치 파악 시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_200002/</link>
+      <pubDate>Sat, 01 Apr 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200002/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>의사위성을 이용한 정밀 실내 항법 시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_200001/</link>
+      <pubDate>Sat, 01 Apr 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200001/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Real-time DGPS를 이용한 항공기 착륙시스템 개발 및 비행실험</title>
+      <link>http://localhost:1313/publication/dc_199910/</link>
+      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199910/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>실내항법시스템을 위한 의사위성 정밀 위치 측정 기법에 관한 연구</title>
+      <link>http://localhost:1313/publication/dc_199908/</link>
+      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199908/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>의사위성을 이용한 정밀 실내 항법 시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_199909/</link>
+      <pubDate>Wed, 01 Dec 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199909/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>분산형 광역보정위성항법 설계 및 구현</title>
+      <link>http://localhost:1313/publication/dc_199907/</link>
+      <pubDate>Mon, 01 Nov 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199907/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>전리층 지연 및 대류층 지연모델을 이용한 실시간 보정위성항법시스템(SNUDGPS) 개발</title>
+      <link>http://localhost:1313/publication/dc_199906/</link>
+      <pubDate>Mon, 01 Nov 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199906/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Solution of a Natural way to Implement WADGPS in East Asia : Decentralized WADGPS</title>
+      <link>http://localhost:1313/publication/dc_199904/</link>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199904/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS를 이용한 스키어(skier) 교육용 소프트웨어 개발</title>
+      <link>http://localhost:1313/publication/dc_199903/</link>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199903/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>실시간 DGPS를 이용한 헬리콥터 착륙 시스템 개발</title>
+      <link>http://localhost:1313/publication/dc_199905/</link>
+      <pubDate>Fri, 01 Oct 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199905/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS를 이용한 도깨비 도로의 정밀 측위</title>
+      <link>http://localhost:1313/publication/dc_199902/</link>
+      <pubDate>Thu, 01 Apr 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199902/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>헬리콥터의 비행실험을 통한 실시간 DGPS 성능 평가</title>
+      <link>http://localhost:1313/publication/dc_199901/</link>
+      <pubDate>Thu, 01 Apr 1999 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199901/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS 반송파 위상을 이용한 동적 정밀 측위</title>
+      <link>http://localhost:1313/publication/dc_199808/</link>
+      <pubDate>Sun, 01 Nov 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199808/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>가중치행렬을 이용한 GPS무결성 검증기법 연구</title>
+      <link>http://localhost:1313/publication/dc_199804/</link>
+      <pubDate>Sun, 01 Nov 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199804/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>가중치행렬을 이용한 GPS무결성 검증기법 연구</title>
+      <link>http://localhost:1313/publication/dc_199806/</link>
+      <pubDate>Sun, 01 Nov 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199806/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>다목적 실용위성의 원격측정 성능향상을 위한 보정위성항법 기술에 관한 연구</title>
+      <link>http://localhost:1313/publication/dc_199807/</link>
+      <pubDate>Sun, 01 Nov 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199807/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>헬리콥터를 이용한 실시간 DGPS 비행실험</title>
+      <link>http://localhost:1313/publication/dc_199803/</link>
+      <pubDate>Sun, 01 Nov 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199803/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>헬리콥터를 이용한 실시간 DGPS 비행실험</title>
+      <link>http://localhost:1313/publication/dc_199805/</link>
+      <pubDate>Sun, 01 Nov 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199805/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS 반송파 위상을 이용한 동적 정밀 측위</title>
+      <link>http://localhost:1313/publication/dc_199809/</link>
+      <pubDate>Thu, 01 Oct 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199809/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>다목적 실용위성의 원격측정 성능향상을 위한 보정위성항법 기술에 관한 연구</title>
+      <link>http://localhost:1313/publication/dc_199802/</link>
+      <pubDate>Wed, 01 Apr 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199802/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>헬리콥터 비행시험을 통한 DGPS 성능평가</title>
+      <link>http://localhost:1313/publication/dc_199801/</link>
+      <pubDate>Wed, 01 Apr 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199801/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>위성항법(GPS)을 이용한 항공기 자동착륙 시뮬레이션</title>
+      <link>http://localhost:1313/publication/dc_199706/</link>
+      <pubDate>Sat, 01 Nov 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199706/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>한국에서의 광역보정위성항법 적용에 관한 연구</title>
+      <link>http://localhost:1313/publication/dc_199705/</link>
+      <pubDate>Sat, 01 Nov 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199705/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>한국에서의 광역보정위성항법 적용에 관한 연구</title>
+      <link>http://localhost:1313/publication/dc_199708/</link>
+      <pubDate>Sat, 01 Nov 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199708/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>헬리콥터 공중 비행 궤적 생성을 통한 DGPS 성능 평가</title>
+      <link>http://localhost:1313/publication/dc_199707/</link>
+      <pubDate>Sat, 01 Nov 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199707/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>위성항법(GPS)을 이용한 항공기 자동착륙 시뮬레이션</title>
+      <link>http://localhost:1313/publication/dc_199704/</link>
+      <pubDate>Wed, 01 Oct 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199704/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>단일주파수 및 보정위성항법 사용자들을 위한 한국형 전리층 지연모델 개발</title>
+      <link>http://localhost:1313/publication/dc_199702/</link>
+      <pubDate>Mon, 01 Sep 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199702/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>동아시아를 포괄하는 광역보정위성항법 알고리즘 개발에 관한 연구</title>
+      <link>http://localhost:1313/publication/dc_199703/</link>
+      <pubDate>Mon, 01 Sep 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199703/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS 수신기를 이용한 전리층 시간지연측정 및 L1/L2 오차의 추정</title>
+      <link>http://localhost:1313/publication/dc_199701/</link>
+      <pubDate>Tue, 01 Apr 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199701/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>미래의 항법장치: 광역위성 항법장치(WAAS)</title>
+      <link>http://localhost:1313/publication/dc_199601/</link>
+      <pubDate>Fri, 01 Nov 1996 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_199601/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

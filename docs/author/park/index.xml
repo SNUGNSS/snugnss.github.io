@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Park on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/park/</link>
+    <description>Recent content in Park on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Sep 2003 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/park/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Performance Verification of GBAS through ILS Inspection Procedure</title>
+      <link>http://localhost:1313/publication/ic_200308/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200308/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Geometric Descent Algorithms for Attitude Determination Using the Global Positioning System</title>
+      <link>http://localhost:1313/publication/ij_200001/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_200001/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

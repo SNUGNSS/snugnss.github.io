@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dongho Shin. on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/dongho-shin./</link>
+    <description>Recent content in Dongho Shin. on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 1998 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/dongho-shin./index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Performance Analysis of Wide Area Differential GPS (WADGPS) in East-Asia</title>
+      <link>http://localhost:1313/publication/ic_199801/</link>
+      <pubDate>Sat, 01 Aug 1998 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_199801/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wide Area Differential GPS (WADGPS) in East Asia</title>
+      <link>http://localhost:1313/publication/ic_199703/</link>
+      <pubDate>Wed, 01 Oct 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_199703/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

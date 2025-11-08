@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SNUGLITE-I on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/tag/snuglite-i/</link>
+    <description>Recent content in SNUGLITE-I on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tag/snuglite-i/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[2025.12.01] SNUGLITE-I 큐브위성 붐 전개 개발</title>
+      <link>http://localhost:1313/snuglite/251107/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snuglite/251107/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;SNUGLITE CubeSat Boom Deployment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>[2020.05.15] SNUGLITE-I 운용 결과 저널 출판</title>
+      <link>http://localhost:1313/snuglite/200515/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snuglite/200515/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Published Article about SNUGLITE-I Operational Results&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>[2019.04.22] SNUGLITE-I 비콘 수신 경과 (April 22, 2019)</title>
+      <link>http://localhost:1313/snuglite/190422/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snuglite/190422/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;The Number of Received Beacon from SNUGLITE-I (April 22, 2019)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>[2018.12.12] SNUGLITE-I 아마추어 서포터 (SatNOGS)</title>
+      <link>http://localhost:1313/snuglite/181212/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snuglite/181212/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;SNUGLITE-I Amateur Supporters (SatNOGS)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>[2018.12.04] SNUGLITE-I 발사 (SpaceX Falcon-9)</title>
+      <link>http://localhost:1313/snuglite/181204/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snuglite/181204/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;SNUGLITE CubeSat Launch (SpaceX Falcon-9)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>[2018.12.01] SNUGLITE-I 큐브위성 붐 전개 개발</title>
+      <link>http://localhost:1313/snuglite/181201/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snuglite/181201/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;SNUGLITE CubeSat Boom Deployment&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+    </item>
+    <item>
+      <title>Ground Station</title>
+      <link>http://localhost:1313/project/groundstation/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/groundstation/</guid>
+      <description>&lt;h1 id=&#34;snu-ground-station&#34;&gt;SNU Ground Station&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Antennas of ground station for SNUGLITE project is located on rooftop of bldg#302 at Seoul National University.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lat: 37°26&#39;54.0471&amp;quot; N &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;Lon: 126°57&#39;08.9927&amp;quot; E &lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;Hgt: 279 meters&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/project/groundstation/fig1.png&#34; alt=&#34;gnd-fig1&#34;&gt;&#xA;&lt;em&gt;지상국 정보&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SNUGLITE-I (2017-2019)</title>
+      <link>http://localhost:1313/project/snuglite-i/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/snuglite-i/</guid>
+      <description>&lt;h3 id=&#34;seoul-national-university-gnss-laboratory-satellite-snuglite-i-project&#34;&gt;Seoul National University GNSS Laboratory Satellite (SNUGLITE)-I Project&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2U CubeSat mission (Launch: Dec 2018)&lt;/li&gt;&#xA;&lt;li&gt;Funded by &lt;em&gt;Korea Aerospace Research Institute (KARI)&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;Finalist in the &lt;em&gt;2015 Korea CubeSat Competition&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/project/snuglite-i/fig1.png&#34; alt=&#34;snuglite1-fig1&#34;&gt;&#xA;&lt;em&gt;SNUGLITE-I Mission Concept&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

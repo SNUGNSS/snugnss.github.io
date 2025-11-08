@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junwon Song on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/junwon-song/</link>
+    <description>Recent content in Junwon Song on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/junwon-song/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>달 남극점을 커버하는 달 위성항법시스템 Frozen orbit 설계</title>
+      <link>http://localhost:1313/publication/dc_202405/</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202405/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design of Orbit Simulation Tool for Lunar Navigation Satellite System</title>
+      <link>http://localhost:1313/publication/dj_202306/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_202306/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>달 남극에서의 항법을 위한 궤도 설계</title>
+      <link>http://localhost:1313/publication/dc_202313/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202313/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>궤도 동역학을 이용한 달 위성 항법 시스템의 Frozen Orbit 설계</title>
+      <link>http://localhost:1313/publication/dc_202305/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202305/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE-II 큐브위성 지상국 구성 및 지상 운용 시험</title>
+      <link>http://localhost:1313/publication/dc_202209/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202209/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>달 항법 시스템 구축을 위한 궤도 예비 설계</title>
+      <link>http://localhost:1313/publication/dc_202205/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_202205/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bosung Kim on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/bosung-kim/</link>
+    <description>Recent content in Bosung Kim on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jul 2008 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/bosung-kim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fully automatic taxiing, takeoff and landing of a UAV based on a single-antenna GNSS receiver</title>
+      <link>http://localhost:1313/publication/ic_200801/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200801/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GPS-RTK와 single antenna axis를 이용한 모형차량의 자동제어</title>
+      <link>http://localhost:1313/publication/dc_200701/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200701/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>단일안테나 GPS 수신기를 이용한 무인항공기의 자동이착륙 및 지상활주</title>
+      <link>http://localhost:1313/publication/dc_200702/</link>
+      <pubDate>Thu, 01 Nov 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_200702/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fully Automatic Taxiing, Takeoff and Landing of a UAV using a Single-Antenna GPS Receiver only</title>
+      <link>http://localhost:1313/publication/ic_200706/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200706/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fully Automatic Taxiing, Takeoff and Landing of a UAV only with a Single-Antenna GPS Receiver</title>
+      <link>http://localhost:1313/publication/ic_200703/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_200703/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

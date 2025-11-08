@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minkyu Choi on SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/author/minkyu-choi/</link>
+    <description>Recent content in Minkyu Choi on SNU GNSS Laboratory</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/author/minkyu-choi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development of Hardware-In-the-Loop Simulation for CubeSat Platform: Focusing on Magnetometer  Magnetorquer</title>
+      <link>http://localhost:1313/publication/ij_202303/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_202303/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Probabilistic Determination Algorithm for Detumbling  Angular Rate Convergence using a Three-Axis Magnetometer</title>
+      <link>http://localhost:1313/publication/ij_202201/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ij_202201/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development and Verification of Attitude Determination and Control Algorithm for SNUGLITE Cube Satellite</title>
+      <link>http://localhost:1313/publication/ic_201802/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201802/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Single-axis Hardware in the Loop Experiment Verification of ADCS for Low Earth Orbit Cube-Satellite</title>
+      <link>http://localhost:1313/publication/dj_201702/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dj_201702/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>자기토커를 탑재한 SNUGLITE 큐브위성의 지상환경을 고려한 단일축 자세결정 및 제어 HILS</title>
+      <link>http://localhost:1313/publication/dc_201718/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201718/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>위성항법 신호를 이용한 우주환경 및 지진관측을 위한 SNUGLITE 큐브위성 개발 및 발사 준비</title>
+      <link>http://localhost:1313/publication/dc_201706/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201706/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE 큐브위성 자세제어 PIL(Processor In the Loop) 시뮬레이션</title>
+      <link>http://localhost:1313/publication/dc_201701/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201701/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE 큐브위성의 우주환경을 고려한 자세제어 SIL(Software In the Loop) 시뮬레이션</title>
+      <link>http://localhost:1313/publication/dc_201613/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201613/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SNUGLITE 큐브위성의 임무 및 탑재체 개발 현황</title>
+      <link>http://localhost:1313/publication/dc_201612/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201612/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development and Verification of LQG based Attitude Determination and Control Algorithm of Cube-satellite “SNUGLITE using GPS and Multiple Sensors</title>
+      <link>http://localhost:1313/publication/ic_201604/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ic_201604/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>위성항법 신호를 이용한 우주환경 및 지진관측 큐브위성 SNUGLITE 예비설계</title>
+      <link>http://localhost:1313/publication/dc_201601/</link>
+      <pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dc_201601/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
