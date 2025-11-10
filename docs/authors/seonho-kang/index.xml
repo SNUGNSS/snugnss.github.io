@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Seonho Kang | SNU GNSS Laboratory</title><link>https://snugnss.github.io/authors/seonho-kang/</link><atom:link href="https://snugnss.github.io/authors/seonho-kang/index.xml" rel="self" type="application/rss+xml"/><description>Seonho Kang</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://snugnss.github.io/authors/seonho-kang/avatar_hu_c820789623f104d4.jpg</url><title>Seonho Kang</title><link>https://snugnss.github.io/authors/seonho-kang/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seonho Kang | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/authors/seonho-kang/</link>
+      <atom:link href="http://localhost:1313/authors/seonho-kang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seonho Kang</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/authors/seonho-kang/avatar_hu_c820789623f104d4.jpg</url>
+      <title>Seonho Kang</title>
+      <link>http://localhost:1313/authors/seonho-kang/</link>
+    </image>
+    
+  </channel>
+</rss>

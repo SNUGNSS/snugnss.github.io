@@ -1,12 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Computer Vision | SNU GNSS Laboratory</title><link>https://snugnss.github.io/tags/computer-vision/</link><atom:link href="https://snugnss.github.io/tags/computer-vision/index.xml" rel="self" type="application/rss+xml"/><description>Computer Vision</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>https://snugnss.github.io/media/logo_hu_5ee23dfed6cde00.png</url><title>Computer Vision</title><link>https://snugnss.github.io/tags/computer-vision/</link></image><item><title>Machine Learning</title><link>https://snugnss.github.io/research/machine-learning/</link><pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate><guid>https://snugnss.github.io/research/machine-learning/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/tags/computer-vision/</link>
+      <atom:link href="http://localhost:1313/tags/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Vision</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_88ff3fe3538e33af.png</url>
+      <title>Computer Vision</title>
+      <link>http://localhost:1313/tags/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/research/machine-learning/</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/machine-learning/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;We build robust and interpretable ML models to accelerate scientific discovery across domains, with emphasis on generalization, uncertainty, and physical constraints.&lt;/p&gt;
-&lt;h2 id="focus-areas"&gt;Focus Areas&lt;/h2&gt;
+&lt;h2 id=&#34;focus-areas&#34;&gt;Focus Areas&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Physics-informed neural networks (PINNs)&lt;/li&gt;
 &lt;li&gt;Graph neural networks for structured scientific data&lt;/li&gt;
 &lt;li&gt;Interpretable models and reliability assessment&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="selected-publications"&gt;Selected Publications&lt;/h2&gt;
+&lt;h2 id=&#34;selected-publications&#34;&gt;Selected Publications&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;See our recent work in Nature Machine Intelligence and NeurIPS.&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hyoungmin So | SNU GNSS Laboratory</title><link>https://snugnss.github.io/authors/hyoungmin-so/</link><atom:link href="https://snugnss.github.io/authors/hyoungmin-so/index.xml" rel="self" type="application/rss+xml"/><description>Hyoungmin So</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://snugnss.github.io/authors/hyoungmin-so/avatar_hu_726a13b58706a7be.jpg</url><title>Hyoungmin So</title><link>https://snugnss.github.io/authors/hyoungmin-so/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyoungmin So | SNU GNSS Laboratory</title>
+    <link>http://localhost:1313/authors/hyoungmin-so/</link>
+      <atom:link href="http://localhost:1313/authors/hyoungmin-so/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hyoungmin So</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/authors/hyoungmin-so/avatar_hu_726a13b58706a7be.jpg</url>
+      <title>Hyoungmin So</title>
+      <link>http://localhost:1313/authors/hyoungmin-so/</link>
+    </image>
+    
+  </channel>
+</rss>
