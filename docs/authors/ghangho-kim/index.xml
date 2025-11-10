@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ghangho Kim | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/authors/ghangho-kim/</link>
-      <atom:link href="http://localhost:1313/authors/ghangho-kim/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ghangho Kim</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
-    <image>
-      <url>http://localhost:1313/authors/ghangho-kim/avatar_hu_67b84679ec247dff.jpg</url>
-      <title>Ghangho Kim</title>
-      <link>http://localhost:1313/authors/ghangho-kim/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ghangho Kim | SNU GNSS Laboratory</title><link>https://snugnss.github.io/authors/ghangho-kim/</link><atom:link href="https://snugnss.github.io/authors/ghangho-kim/index.xml" rel="self" type="application/rss+xml"/><description>Ghangho Kim</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://snugnss.github.io/authors/ghangho-kim/avatar_hu_67b84679ec247dff.jpg</url><title>Ghangho Kim</title><link>https://snugnss.github.io/authors/ghangho-kim/</link></image></channel></rss>
