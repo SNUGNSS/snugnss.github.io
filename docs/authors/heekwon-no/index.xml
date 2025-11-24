@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heekwon No | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/authors/heekwon-no/</link>
+      <atom:link href="https://snugnss.github.io/authors/heekwon-no/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heekwon No</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://snugnss.github.io/authors/heekwon-no/avatar_hu_eb0510e877230bec.jpg</url>
+      <title>Heekwon No</title>
+      <link>https://snugnss.github.io/authors/heekwon-no/</link>
+    </image>
+    
+  </channel>
+</rss>

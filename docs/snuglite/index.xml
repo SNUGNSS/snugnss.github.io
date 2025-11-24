@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/snuglite/</link>
+      <atom:link href="https://snugnss.github.io/snuglite/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo_hu_88ff3fe3538e33af.png</url>
+      <title>News</title>
+      <link>https://snugnss.github.io/snuglite/</link>
+    </image>
+    
+    <item>
+      <title>[2024.11.08] SNUGLITE-III 하나, 두리 최종 탑재완료</title>
+      <link>https://snugnss.github.io/snuglite/251108/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/251108/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h1 id=&#34;snuglite-iii-하나-두리-최종-탑재-완료&#34;&gt;SNUGLITE-III 하나, 두리 최종 탑재 완료&lt;/h1&gt;
+&lt;p&gt;SNUGLITE-III 하나와 두리는 2025년 11월 7일 나로우주센터에서 최종적으로 탑재를 완료했다. 누리호(4차 발사)는 11월 27일(목) 새벽 00시 54분부터 01시 14분 사이에 고도 600 km의 태양동기궤도(LTAN 12:30)로 향할 예정이다.&lt;/p&gt;
+&lt;h1 id=&#34;final-integration-of-snuglite-iii-hana-and-duri&#34;&gt;Final Integration of SNUGLITE-III Hana and Duri&lt;/h1&gt;
+&lt;p&gt;SNUGLITE-III Hana and Duri successfully completed their final integration at the Naro Space Center on 7 November 2025. The fourth launch of the Nuri vehicle is scheduled for the early hours of Thursday, 27 November, between 00:54 and 01:14, targeting a 600-km Sun-synchronous orbit with an LTAN of 12:30.&lt;/p&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/5YhQ8I4g83w?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+ &lt;/br&gt;
+&lt;em&gt;[누리호4차] 대한민국 위성 13개 진짜 로켓 배송 시작! 누리호 위성 탑재 완료&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251108-featured&#34; 
+               srcset=&#34;https://snugnss.github.io/snuglite/251108/featured_hu_5fac123d3751c49c.webp 320w, https://snugnss.github.io/snuglite/251108/featured_hu_603da663e8b8a53a.webp 480w, https://snugnss.github.io/snuglite/251108/featured_hu_ce9f90a49bd84b8b.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/snuglite/251108/featured_hu_5fac123d3751c49c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;506&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+(사진제공-한국항공우주연구원)&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251108-fig1&#34; 
+               srcset=&#34;https://snugnss.github.io/snuglite/251108/fig1_hu_ead42869cbca6dca.webp 320w, https://snugnss.github.io/snuglite/251108/fig1_hu_7fa37e8db74c7973.webp 480w, https://snugnss.github.io/snuglite/251108/fig1_hu_3918b7b6bf60f7ad.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/snuglite/251108/fig1_hu_ead42869cbca6dca.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+(사진제공-한국항공우주연구원)&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251108-fig2&#34; 
+               srcset=&#34;https://snugnss.github.io/snuglite/251108/fig2_hu_3cb5bdea39021bda.webp 320w, https://snugnss.github.io/snuglite/251108/fig2_hu_2794429d841575e.webp 480w, https://snugnss.github.io/snuglite/251108/fig2_hu_3b3d820db01be3d7.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/snuglite/251108/fig2_hu_3cb5bdea39021bda.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+(사진제공-한국항공우주연구원)&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251108-fig3&#34; 
+               srcset=&#34;https://snugnss.github.io/snuglite/251108/fig3_hu_22b49921386c156e.webp 320w, https://snugnss.github.io/snuglite/251108/fig3_hu_40bb6299d7809661.webp 480w, https://snugnss.github.io/snuglite/251108/fig3_hu_7f58076a68c60622.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/snuglite/251108/fig3_hu_22b49921386c156e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+(사진제공-한국항공우주연구원)&lt;/p&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>[2025.11.07] SNUGLITE-III 소개 영상 (KARITV)</title>
+      <link>https://snugnss.github.io/snuglite/251107/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/251107/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/PKoc8ouXL_Q?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+ &lt;/br&gt;
+&lt;em&gt;[누리호4차] 궤도에서 분리 합체?
+세계 최초 초정밀 GPS 활용 무추력 자율궤도제어시험 위성 | SNUGLITE-III&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[2025.10.31] SNUGLITE-III 소개 (KARI Blog)</title>
+      <link>https://snugnss.github.io/snuglite/251031/</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/251031/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h2 id=&#34;heading&#34;&gt;
+&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[2024.11.20] SNUGLITE-III A, B 이름 공모전 결과 발표</title>
+      <link>https://snugnss.github.io/snuglite/241120/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/241120/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+ &lt;!-- ![241120-fig1](featured.png) --&gt;</description>
+    </item>
+    
+    <item>
+      <title>[2024.10.11] SNUGLITE-III A, B 이름 공모전</title>
+      <link>https://snugnss.github.io/snuglite/241011/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/241011/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;p&gt;Please refer to QR code in the poster or the link to participate in the contest.&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+ &lt;!-- ![241120-fig1](featured.png) --&gt;</description>
+    </item>
+    
+    <item>
+      <title>[2022.07.22] SNUGLITE-II 보도자료</title>
+      <link>https://snugnss.github.io/snuglite/220722/</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/220722/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;서울대학교 SNUGLITE팀(항공우주공학과 기창돈 교수 연구팀)은 지난 7월 4일 오전 3시 27분경 서울대학교 신공학관(302동)에 위치한 지상국과의 첫 양방향 교신에 성공한데 이어, 위성에 명령을 송신하여 7월 11일 오후 16시 교신까지 위성 전원이 켜진 순간부터 현재까지 상황 기록(2100개), 그리고 3시간 동안의 위성 상태정보 임무데이터를 모두 수신하였다. 상태정보 임무데이터를 분석하여 자체 개발한 국내개발 큐브위성용 GPS 수신기가 정상적으로 위치를 제공하는 것을 확인하였다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;수신한 2100개의 위성 상태 기록을 점검한 결과 초기 사출부터 지속적으로 위성 전기부의 이상으로 안테나 및 통신모듈 데이터 송수신 문제가 있는 것을 확인하였으며, 7월 12일 이후 큐브위성의 통신(다운링크)의 지속적인 문제가 발생하여 현재 텔레메트리(위성상태정보) 수신이 어려운 상황이다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;서울대학교 SNUGLITE팀은 위성 상태 정보를 확인할 수 없는 상황에서 다양한 현상들을 분석중에 있으며 현재 대체 통신 모듈(S-Band 고속통신)을 활용하여 위성의 상태정보 수신을 시도 중에 있다. 현재 SNUGLITE 팀은 7월 22일 16시 25분경 교신부터 대체 통신 모듈을 활용한 위성 데이터 수신을 시도 중이다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;220722-fig1&#34; 
+               srcset=&#34;https://snugnss.github.io/snuglite/220722/fig1_hu_9d427c3433b8a359.webp 320w, https://snugnss.github.io/snuglite/220722/fig1_hu_78a3853ce7944446.webp 480w, https://snugnss.github.io/snuglite/220722/fig1_hu_c09bc605c242224c.webp 672w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/snuglite/220722/fig1_hu_9d427c3433b8a359.webp&#34;
+               width=&#34;672&#34;
+               height=&#34;504&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;SNUGLITE-II 임무데이터: 자체개발 GPS 수신기에서 제공하는 위성의 위치&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;220722-fig2&#34; 
+               srcset=&#34;https://snugnss.github.io/snuglite/220722/fig2_hu_882f4cbd0a5bbed0.webp 320w, https://snugnss.github.io/snuglite/220722/fig2_hu_92eea1b52fc0dc34.webp 480w, https://snugnss.github.io/snuglite/220722/fig2_hu_13c798db46a8cecd.webp 704w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/snuglite/220722/fig2_hu_882f4cbd0a5bbed0.webp&#34;
+               width=&#34;704&#34;
+               height=&#34;409&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;SNUGLITE-II 임무데이터: 탑재컴퓨터 온도(정상)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;220722-fig3&#34; 
+               srcset=&#34;https://snugnss.github.io/snuglite/220722/fig3_hu_621af9734070c6dd.webp 320w, https://snugnss.github.io/snuglite/220722/fig3_hu_8b10008d35f6c84e.webp 480w, https://snugnss.github.io/snuglite/220722/fig3_hu_6fef1c155f81dc52.webp 704w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/snuglite/220722/fig3_hu_621af9734070c6dd.webp&#34;
+               width=&#34;704&#34;
+               height=&#34;376&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;SNUGLITE-II 임무데이터: 배터리 충전 상태(정상)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/xAEkKgDUUiI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+ &lt;/br&gt;
+&lt;em&gt;SNUGLITE-II 임무데이터 수신 당시 지상국 상태정보 상황판&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>[2022.07.04] SNUGLITE-II 보도자료</title>
+      <link>https://snugnss.github.io/snuglite/220705/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/220705/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;p&gt;서울대학교 SNUGLITE팀(항공우주공학과 기창돈 교수 연구팀)은 지난 7월 4일 오전 3시 27분경 서울대학교 신공학관(302동)에 위치한 지상국과의 첫 양방향 교신에 성공한데 이어, 오늘 16시 4분 교신에서 위성 전원이 켜진 순간부터 현재까지 상황 기록(300개)을 모두 수신하였다.&lt;/p&gt;
+&lt;p&gt;오늘 수신한 위성 상태 기록을 점검한 결과, 위성 전기부의 이상으로 초기 안테나 전개의 문제가 있음을 확인하였으며, 위성 초기화 명령을 통해 위성이 정상 작동하는 것을 확인하였다.&lt;/p&gt;
+&lt;p&gt;오늘 16시 4분 교신(한국상공 45도 각도로 통과)에서는 위성의 상태정보를 43회 수신하였으며, 위성에 명령을 4회 송신하여 양방향 교신이 이뤄짐을 재확인했다.&lt;/p&gt;
+&lt;p&gt;오늘 17시 54분 교신(한국상공 15도 각도로 통과)에서는 위성의 상태정보를 20회 수신하였다.&lt;/p&gt;
+&lt;p&gt;양방향 교신의 기능적 점검을 확인한 서울대 SNUGLITE팀은 향후 약 2달간 위성의 부품들의 기능들을 점검하기 위한 명령들과 데이터를 주고받는 작업을 시작한다.&lt;/p&gt;
+ &lt;!-- ![241120-fig1](featured.png) --&gt;</description>
+    </item>
+    
+    <item>
+      <title>[2022.07.04] SNUGLITE-II 보도자료 및 전체 홍보자료</title>
+      <link>https://snugnss.github.io/snuglite/220704/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/220704/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;p&gt;서울대학교 SNUGLITE팀(항공우주공학과 기창돈 교수 연구팀)은 지난 6월 21일 누리호가 목표 궤도에서 성능검증위성을 분리한데 이어, 성능검증위성에서 사출된 SNUGLITE-II 큐브위성이 7월 4일 오전 3시 27분경 서울 대학교 신공학관(302동)에 위치한 지상국과의 첫 양방향 교신에 성공하였다고 밝혔다.&lt;/p&gt;
+&lt;p&gt;7월 3일 16시 23분경에 성능검증위성으로부터 정상적으로 사출된데 이어, 오늘 새벽에 SNUGLITE-II 큐브위성의 교신이 이루어짐에 따라 성능검증위성의 사출 및 서울대학교에서 개발한 SNUGLITE-II 큐브위성의 정상 동작 여부가 완전히 확인되었다.&lt;/p&gt;
+&lt;p&gt;오늘 새벽 교신에서는 원격명령을 통해 위성의 안테나를 전개하도록 했고, SNUGLITE-II 큐브위성의 상태정보를 수신하여 위성 상태가 양호하며 모든 기능이 정상적으로 작동하고 있음을 확인하였다.&lt;/p&gt;
+&lt;p&gt;향후 SNUGLITE-II 큐브위성은 2달간 초기 운영 기간을 통해 임무를 수행하기 위한 준비에 들어가며, 모든 기능 및 상태가 안정화된 이후에는 본격적으로 GPS 신호를 활용한 지구대기관측 임무를 수행할 예정이다.&lt;/p&gt;
+&lt;p&gt;자세한 내용은 아래의 자료를 참고해주시기 바랍니다.&lt;/p&gt;
+&lt;p&gt;📎
+&lt;/p&gt;
+ &lt;!-- ![241120-fig1](featured.png) --&gt;</description>
+    </item>
+    
+    <item>
+      <title>[2022.07.03] SNUGLITE-II 큐브위성 사출 (성능검증위성)</title>
+      <link>https://snugnss.github.io/snuglite/220703/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/220703/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/dA4ncYvF6eM?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+ &lt;/br&gt;
+&lt;em&gt;누리호 성능검증위성, 세 번째 큐브위성 사출 성공(서울대 SNUGLITE-Ⅱ)&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[2022.06.21] SNUGLITE-II 발사 (누리호 2차발사)</title>
+      <link>https://snugnss.github.io/snuglite/220621/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/220621/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/gO3ZHzc2dg8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+ &lt;/br&gt;
+&lt;em&gt;누리호, 우주로! 누리호 2차 발사장면&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/aQdeC8jOxvo?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+ &lt;/br&gt;
+&lt;em&gt;누리호 발사 성공! 대한민국 우주발사체 누리호가 촬영한 지구&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[2020.05.15] SNUGLITE-I 운용 결과 저널 출판</title>
+      <link>https://snugnss.github.io/snuglite/200515/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/200515/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;ul&gt;
+&lt;li&gt;In orbit results and analyses of SNUGLITE cube-satellite were published in an article at Applied Sciences. The authors would like to thank the amateur operators’ efforts to receive the data from the SNUGLITE CubeSat and upload for sharing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Kim, O.-J.; Shim, H.; Yu, S.; Bae, Y.; Kee, C.; Kim, H.; Lee, J.; Han, J.; Han, S.; Choi, Y. In-Orbit Results and Attitude Analysis of the SNUGLITE Cube-Satellite.Appl. Sci.2020,10, 2507.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[2019.04.22] SNUGLITE-I 비콘 수신 경과 (April 22, 2019)</title>
+      <link>https://snugnss.github.io/snuglite/190422/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/190422/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;SNUGLITE boroadcasts its health and several data at every 10 seconds. Any one could receive the data using UHF antenna and receiver. Following picture is the number of received beacon data form SNUGLITE cubesatellite. Data were collected with SNU(Seoul National University) ground station and Satnogs amatuers. Satnogs is an open source ground station. We really appreciate to Satnogs efforts.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In SNUGLITE beacon data, you could find the GPS navigation solutions. We display the satellite position using the beacon data. The ground track will allow you to find out who received the beacon.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;190422-fig1&#34; 
+               srcset=&#34;https://snugnss.github.io/snuglite/190422/fig1_hu_a1b382f4509213f3.webp 320w, https://snugnss.github.io/snuglite/190422/fig1_hu_aa53ecd68cafe8a5.webp 480w, https://snugnss.github.io/snuglite/190422/fig1_hu_859c8f038e27f3cd.webp 720w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/snuglite/190422/fig1_hu_a1b382f4509213f3.webp&#34;
+               width=&#34;720&#34;
+               height=&#34;425&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Locations of Amateurs who Received the SNUGLITE-I Beacon Data&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>[2018.12.12] SNUGLITE-I 아마추어 서포터 (SatNOGS)</title>
+      <link>https://snugnss.github.io/snuglite/181212/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/181212/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;DK3WN&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SnugLite telemetry decoder v.0.1&lt;/li&gt;
+&lt;li&gt;Online Telemetry Forwarder v.1.0.19&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Telemetry Uploaders to SatNOGS(
+: DK3WN, EU1XX, UX5UL&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[2018.12.04] SNUGLITE-I 발사 (SpaceX Falcon-9)</title>
+      <link>https://snugnss.github.io/snuglite/181204/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/181204/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;ul&gt;
+&lt;li&gt;Launch Date: December 3, 2018&lt;/li&gt;
+&lt;li&gt;Launch Vehicle: Falcon-9 (Spaceflight SSO-A)&lt;/li&gt;
+&lt;li&gt;Launch Site: Vandenberg Air Force Base&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Wq8kS6UoOrQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+ &lt;/br&gt;
+&lt;em&gt;Spaceflight SSO-A: SmallSat Express&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[2018.12.01] SNUGLITE-I 큐브위성 붐 전개 개발</title>
+      <link>https://snugnss.github.io/snuglite/181201/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/181201/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/_cfJ4bblUMw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+ &lt;/br&gt;
+&lt;em&gt;SNUGLITE-I 큐브위성 붐 전개영상&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

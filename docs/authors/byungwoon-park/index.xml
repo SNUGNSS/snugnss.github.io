@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Byungwoon Park | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/authors/byungwoon-park/</link>
+      <atom:link href="https://snugnss.github.io/authors/byungwoon-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Byungwoon Park</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://snugnss.github.io/authors/byungwoon-park/avatar_hu_83e2a34ba02f9e7d.jpg</url>
+      <title>Byungwoon Park</title>
+      <link>https://snugnss.github.io/authors/byungwoon-park/</link>
+    </image>
+    
+  </channel>
+</rss>

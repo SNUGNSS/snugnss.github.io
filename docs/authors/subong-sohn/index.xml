@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subong Sohn | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/authors/subong-sohn/</link>
+      <atom:link href="https://snugnss.github.io/authors/subong-sohn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Subong Sohn</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://snugnss.github.io/authors/subong-sohn/avatar_hu_8d959cb9d9a52172.jpg</url>
+      <title>Subong Sohn</title>
+      <link>https://snugnss.github.io/authors/subong-sohn/</link>
+    </image>
+    
+  </channel>
+</rss>

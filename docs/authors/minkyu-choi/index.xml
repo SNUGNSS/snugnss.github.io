@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minkyu Choi | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/authors/minkyu-choi/</link>
+      <atom:link href="https://snugnss.github.io/authors/minkyu-choi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Minkyu Choi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://snugnss.github.io/authors/minkyu-choi/avatar_hu_a85d7b21ad56a7a2.jpg</url>
+      <title>Minkyu Choi</title>
+      <link>https://snugnss.github.io/authors/minkyu-choi/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SNUGLITE-I | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/tags/snuglite-i/</link>
+      <atom:link href="https://snugnss.github.io/tags/snuglite-i/index.xml" rel="self" type="application/rss+xml" />
+    <description>SNUGLITE-I</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo_hu_88ff3fe3538e33af.png</url>
+      <title>SNUGLITE-I</title>
+      <link>https://snugnss.github.io/tags/snuglite-i/</link>
+    </image>
+    
+    <item>
+      <title>[2020.05.15] SNUGLITE-I 운용 결과 저널 출판</title>
+      <link>https://snugnss.github.io/snuglite/200515/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/200515/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;ul&gt;
+&lt;li&gt;In orbit results and analyses of SNUGLITE cube-satellite were published in an article at Applied Sciences. The authors would like to thank the amateur operators’ efforts to receive the data from the SNUGLITE CubeSat and upload for sharing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Kim, O.-J.; Shim, H.; Yu, S.; Bae, Y.; Kee, C.; Kim, H.; Lee, J.; Han, J.; Han, S.; Choi, Y. In-Orbit Results and Attitude Analysis of the SNUGLITE Cube-Satellite.Appl. Sci.2020,10, 2507.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[2019.04.22] SNUGLITE-I 비콘 수신 경과 (April 22, 2019)</title>
+      <link>https://snugnss.github.io/snuglite/190422/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/190422/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;SNUGLITE boroadcasts its health and several data at every 10 seconds. Any one could receive the data using UHF antenna and receiver. Following picture is the number of received beacon data form SNUGLITE cubesatellite. Data were collected with SNU(Seoul National University) ground station and Satnogs amatuers. Satnogs is an open source ground station. We really appreciate to Satnogs efforts.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In SNUGLITE beacon data, you could find the GPS navigation solutions. We display the satellite position using the beacon data. The ground track will allow you to find out who received the beacon.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;190422-fig1&#34; 
+               srcset=&#34;https://snugnss.github.io/snuglite/190422/fig1_hu_a1b382f4509213f3.webp 320w, https://snugnss.github.io/snuglite/190422/fig1_hu_aa53ecd68cafe8a5.webp 480w, https://snugnss.github.io/snuglite/190422/fig1_hu_859c8f038e27f3cd.webp 720w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/snuglite/190422/fig1_hu_a1b382f4509213f3.webp&#34;
+               width=&#34;720&#34;
+               height=&#34;425&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Locations of Amateurs who Received the SNUGLITE-I Beacon Data&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>[2018.12.12] SNUGLITE-I 아마추어 서포터 (SatNOGS)</title>
+      <link>https://snugnss.github.io/snuglite/181212/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/181212/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;DK3WN&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SnugLite telemetry decoder v.0.1&lt;/li&gt;
+&lt;li&gt;Online Telemetry Forwarder v.1.0.19&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Telemetry Uploaders to SatNOGS(
+: DK3WN, EU1XX, UX5UL&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[2018.12.04] SNUGLITE-I 발사 (SpaceX Falcon-9)</title>
+      <link>https://snugnss.github.io/snuglite/181204/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/181204/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;ul&gt;
+&lt;li&gt;Launch Date: December 3, 2018&lt;/li&gt;
+&lt;li&gt;Launch Vehicle: Falcon-9 (Spaceflight SSO-A)&lt;/li&gt;
+&lt;li&gt;Launch Site: Vandenberg Air Force Base&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Wq8kS6UoOrQ?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+ &lt;/br&gt;
+&lt;em&gt;Spaceflight SSO-A: SmallSat Express&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[2018.12.01] SNUGLITE-I 큐브위성 붐 전개 개발</title>
+      <link>https://snugnss.github.io/snuglite/181201/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/181201/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/_cfJ4bblUMw?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+ &lt;/br&gt;
+&lt;em&gt;SNUGLITE-I 큐브위성 붐 전개영상&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ground Station</title>
+      <link>https://snugnss.github.io/projects/groundstation/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/projects/groundstation/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h1 id=&#34;snu-ground-station&#34;&gt;SNU Ground Station&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Antennas of ground station for SNUGLITE project is located on rooftop of bldg#302 at Seoul National University.
+&lt;ul&gt;
+&lt;li&gt;Lat: 37°26&#39;54.0471&amp;quot; N &lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;Lon: 126°57&#39;08.9927&amp;quot; E &lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;Hgt: 279 meters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;gnd-fig1&#34; 
+               srcset=&#34;https://snugnss.github.io/projects/groundstation/fig1_hu_149063e8df27a0d7.webp 320w, https://snugnss.github.io/projects/groundstation/fig1_hu_e9c5ec2d2181093a.webp 326w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/projects/groundstation/fig1_hu_149063e8df27a0d7.webp&#34;
+               width=&#34;326&#34;
+               height=&#34;700&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;지상국 정보&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;h3 id=&#34;antenna&#34;&gt;Antenna&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;UHF antenna: 436CP42UG w/ polarity SW (M2 Inc.)&lt;/li&gt;
+&lt;li&gt;VHF antenna: 2MCP22 w/ polarity SW (M2 Inc.)&lt;/li&gt;
+&lt;li&gt;L/S-band antenna: MANTL24 w/ order made L/S feeder (SatService GmbH) and order made band-pass filter (CONTEC)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;rotator&#34;&gt;Rotator&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;G-5500 (Yaesu)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;preamplifier&#34;&gt;Preamplifier&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;SP-2000 (SSB electronics GmbH)&lt;/li&gt;
+&lt;li&gt;SP-7000 (SSB electronics GmbH)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;transceiver&#34;&gt;Transceiver&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;IC9100 (Icom Inc.)&lt;/li&gt;
+&lt;li&gt;HISPICO S-band receiver (IQ wireless GmbH)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;tnc&#34;&gt;TNC&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;KAM-XL (Kantronics)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/br&gt;
+&lt;h1 id=&#34;our-supporters&#34;&gt;Our Supporters&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Beacon listeners &lt;/br&gt;&lt;/li&gt;
+&lt;li&gt;Telemetry Uploaders to
+&lt;a href=&#34;https://db.satnogs.org/satellite/99927/&#34; target=&#34;_blank&#34;&gt;SatNOGS &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p align=&#34;center&#34;&gt;
+  YC3BVG, SV3CIX, JE9PEL, AD7NP, VK2FAK, EU1XX, &lt;br&gt;
+  &lt;a href=&#34;https://www.satblog.info/category/snuglite/&#34; target=&#34;_blank&#34;&gt;DK3WN&lt;/a&gt;, UX5UL, JA1GDE, W2RTV, VK3HBF, CX8AF
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SNUGLITE-I (2017-2019)</title>
+      <link>https://snugnss.github.io/projects/snuglite-i/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/projects/snuglite-i/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;h3 id=&#34;seoul-national-university-gnss-laboratory-satellite-snuglite-i-project&#34;&gt;Seoul National University GNSS Laboratory Satellite (SNUGLITE)-I Project&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2U CubeSat mission (Launch: Dec 2018)&lt;/li&gt;
+&lt;li&gt;Funded by &lt;em&gt;Korea Aerospace Research Institute (KARI)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Finalist in the &lt;em&gt;2015 Korea CubeSat Competition&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;snuglite1-fig1&#34; 
+               srcset=&#34;https://snugnss.github.io/projects/snuglite-i/fig1_hu_d38eabfeb39973a0.webp 320w, https://snugnss.github.io/projects/snuglite-i/fig1_hu_dc98c586c6b04405.webp 480w, https://snugnss.github.io/projects/snuglite-i/fig1_hu_b68dc691eed56551.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/projects/snuglite-i/fig1_hu_d38eabfeb39973a0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;SNUGLITE-I Mission Concept&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;h3 id=&#34;system&#34;&gt;System&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2U CubeSat&lt;/li&gt;
+&lt;li&gt;Main payloads: L1/L2C GPS receiver x2&lt;/li&gt;
+&lt;li&gt;Sub payloads:
+3-axis fluxgate magnetometer w/ deployable boom&lt;/li&gt;
+&lt;li&gt;Mass: 1.9 kg&lt;/li&gt;
+&lt;li&gt;Orbit: SSO 575km (LTDN 10h30m)​&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;frequency&#34;&gt;Frequency:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;UHF (437.275MHz)
+&lt;ul&gt;
+&lt;li&gt;downlink : beacon, command-return&lt;/li&gt;
+&lt;li&gt;uplink : tele-command&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;S-band (2405MHz)
+&lt;ul&gt;
+&lt;li&gt;downlink : housekeeping data, mission data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;beacon-structure&#34;&gt;Beacon Structure&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;downlink frequency: 437.275MHz&lt;/li&gt;
+&lt;li&gt;modulation: GMSK&lt;/li&gt;
+&lt;li&gt;baudrate: 9600bps&lt;/li&gt;
+&lt;li&gt;protocol : AX.25 and CSP (cubesat space protocol)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;snuglite1-fig2&#34; 
+               srcset=&#34;https://snugnss.github.io/projects/snuglite-i/fig2_hu_be472be21232c0be.webp 320w, https://snugnss.github.io/projects/snuglite-i/fig2_hu_6ec2692eeedef4ab.webp 480w, https://snugnss.github.io/projects/snuglite-i/fig2_hu_4ea77af614e99d25.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/projects/snuglite-i/fig2_hu_be472be21232c0be.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;76&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;message structure&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Payload data is covered by 4-byte header of  CSP (
+.&lt;/li&gt;
+&lt;li&gt;32 byte Reed-Solomon (223, 255) block code is applied from CSP header to the end of payload data and added to the end of payload data.&lt;/li&gt;
+&lt;li&gt;AX.25 protocol is also used with the header and beginning and ending of &amp;ldquo;0xC0&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;There are two types of payload data: simple beacon (length: 45 byte) and full beacon (162 byte).&lt;/li&gt;
+&lt;li&gt;In stand-by operation mode, the period of simple beacon and full beacon is 10 sec and 30 sec, respectively. And full beacon is prior than simple beacon.&lt;/li&gt;
+&lt;li&gt;One of interesting is that all beacons include the position and velocity of satellite using own developed GPS receivers!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;snuglite1-fig2&#34; 
+               srcset=&#34;https://snugnss.github.io/projects/snuglite-i/fig3_hu_b5a284bdaba0de38.webp 320w, https://snugnss.github.io/projects/snuglite-i/fig3_hu_955002800f3db17f.webp 480w, https://snugnss.github.io/projects/snuglite-i/fig3_hu_8b83eafa65db532d.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/projects/snuglite-i/fig3_hu_b5a284bdaba0de38.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;208&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Structure of simple beacon (45 bytes)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;snuglite1-fig2&#34; 
+               srcset=&#34;https://snugnss.github.io/projects/snuglite-i/fig4_hu_e1e788a93ff619b3.webp 320w, https://snugnss.github.io/projects/snuglite-i/fig4_hu_ccaa2d7155e976ed.webp 480w, https://snugnss.github.io/projects/snuglite-i/fig4_hu_65b0a0466b4976de.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/projects/snuglite-i/fig4_hu_e1e788a93ff619b3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;524&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Structure of full beacon (162 bytes)&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;If you receive any signals from SNUGLITE cubesat, please let us know!&lt;/li&gt;
+&lt;li&gt;All the data which you send us will be helpful to our research. (Earth quake detection, Space environment observation, Satellite monitoring and so on)&lt;/li&gt;
+&lt;li&gt;We would appreciate it if you send us as much data as possible. Also, if any paper utilizes your data, we will provide a certificate that your data has helped with the paper. (e-mail: 
+)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/br&gt;
+&lt;p&gt;2018/12/12 &lt;/br&gt;
+Object AC is the closest to SNUGLITE.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
