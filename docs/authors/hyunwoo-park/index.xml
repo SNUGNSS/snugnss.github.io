@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hyunwoo Park | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/authors/hyunwoo-park/</link>
-      <atom:link href="https://snugnss.github.io/authors/hyunwoo-park/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/hyunwoo-park/</link>
+      <atom:link href="http://localhost:1313/authors/hyunwoo-park/index.xml" rel="self" type="application/rss+xml" />
     <description>Hyunwoo Park</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://snugnss.github.io/authors/hyunwoo-park/avatar_hu_4fcf5455dcd83d11.jpg</url>
+      <url>http://localhost:1313/authors/hyunwoo-park/avatar_hu_4fcf5455dcd83d11.jpg</url>
       <title>Hyunwoo Park</title>
-      <link>https://snugnss.github.io/authors/hyunwoo-park/</link>
+      <link>http://localhost:1313/authors/hyunwoo-park/</link>
     </image>
     
   </channel>

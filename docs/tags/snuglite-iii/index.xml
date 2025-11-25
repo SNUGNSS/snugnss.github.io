@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SNUGLITE-III | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/tags/snuglite-iii/</link>
-      <atom:link href="https://snugnss.github.io/tags/snuglite-iii/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/snuglite-iii/</link>
+      <atom:link href="http://localhost:1313/tags/snuglite-iii/index.xml" rel="self" type="application/rss+xml" />
     <description>SNUGLITE-III</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo_hu_88ff3fe3538e33af.png</url>
+      <url>http://localhost:1313/media/logo_hu_88ff3fe3538e33af.png</url>
       <title>SNUGLITE-III</title>
-      <link>https://snugnss.github.io/tags/snuglite-iii/</link>
+      <link>http://localhost:1313/tags/snuglite-iii/</link>
     </image>
     
     <item>
       <title>[2025.11.08] SNUGLITE-III 하나, 두리 최종 탑재완료</title>
-      <link>https://snugnss.github.io/snuglite/251108/</link>
+      <link>http://localhost:1313/snuglite/251108/</link>
       <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/251108/</guid>
+      <guid>http://localhost:1313/snuglite/251108/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
-&lt;h1 id=&#34;snuglite-iii-하나-두리-최종-탑재-완료&#34;&gt;SNUGLITE-III 하나, 두리 최종 탑재 완료&lt;/h1&gt;
+&lt;h2 id=&#34;snuglite-iii-하나-두리-최종-탑재-완료&#34;&gt;SNUGLITE-III 하나, 두리 최종 탑재 완료&lt;/h2&gt;
 &lt;p&gt;SNUGLITE-III 하나와 두리는 2025년 11월 7일 나로우주센터에서 최종적으로 탑재를 완료했다. 누리호(4차 발사)는 11월 27일(목) 새벽 00시 54분부터 01시 14분 사이에 고도 600 km의 태양동기궤도(LTAN 12:30)로 향할 예정이다.&lt;/p&gt;
-&lt;h1 id=&#34;final-integration-of-snuglite-iii-hana-and-duri&#34;&gt;Final Integration of SNUGLITE-III Hana and Duri&lt;/h1&gt;
+&lt;h2 id=&#34;final-integration-of-snuglite-iii-hana-and-duri&#34;&gt;Final Integration of SNUGLITE-III Hana and Duri&lt;/h2&gt;
 &lt;p&gt;SNUGLITE-III Hana and Duri successfully completed their final integration at the Naro Space Center on 7 November 2025. The fourth launch of the Nuri vehicle is scheduled for the early hours of Thursday, 27 November, between 00:54 and 01:14, targeting a 600-km Sun-synchronous orbit with an LTAN of 12:30.&lt;/p&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
 &lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -28,35 +28,7 @@
     &lt;/div&gt;
  &lt;/br&gt;
 &lt;em&gt;[누리호4차] 대한민국 위성 13개 진짜 로켓 배송 시작! 누리호 위성 탑재 완료&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;
-          &lt;img alt=&#34;251108-featured&#34; 
-               srcset=&#34;https://snugnss.github.io/snuglite/251108/featured_hu_5fac123d3751c49c.webp 320w, https://snugnss.github.io/snuglite/251108/featured_hu_603da663e8b8a53a.webp 480w, https://snugnss.github.io/snuglite/251108/featured_hu_ce9f90a49bd84b8b.webp 760w&#34;
-               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/snuglite/251108/featured_hu_5fac123d3751c49c.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;506&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-(사진제공-한국항공우주연구원)&lt;/p&gt;
+&lt;h2 id=&#34;한국어&#34;&gt;한국어&lt;/h2&gt;
 &lt;p&gt;
 
 
@@ -77,16 +49,15 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;251108-fig1&#34; 
-               srcset=&#34;https://snugnss.github.io/snuglite/251108/fig1_hu_ead42869cbca6dca.webp 320w, https://snugnss.github.io/snuglite/251108/fig1_hu_7fa37e8db74c7973.webp 480w, https://snugnss.github.io/snuglite/251108/fig1_hu_3918b7b6bf60f7ad.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/snuglite/251108/fig1_hu_dc34d62a84ada200.webp 320w, http://localhost:1313/snuglite/251108/fig1_hu_fea5b6ce68b9b106.webp 480w, http://localhost:1313/snuglite/251108/fig1_hu_5848b5a6f4cbd589.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/snuglite/251108/fig1_hu_ead42869cbca6dca.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/251108/fig1_hu_dc34d62a84ada200.webp&#34;
                width=&#34;760&#34;
-               height=&#34;507&#34;
+               height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
-(사진제공-한국항공우주연구원)&lt;/p&gt;
-&lt;p&gt;
+
 
 
 
@@ -106,16 +77,15 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;251108-fig2&#34; 
-               srcset=&#34;https://snugnss.github.io/snuglite/251108/fig2_hu_3cb5bdea39021bda.webp 320w, https://snugnss.github.io/snuglite/251108/fig2_hu_2794429d841575e.webp 480w, https://snugnss.github.io/snuglite/251108/fig2_hu_3b3d820db01be3d7.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/snuglite/251108/fig2_hu_462f81660d7d371.webp 320w, http://localhost:1313/snuglite/251108/fig2_hu_1a098c0c9afb033a.webp 480w, http://localhost:1313/snuglite/251108/fig2_hu_e38e70ed1376fe3f.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/snuglite/251108/fig2_hu_3cb5bdea39021bda.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/251108/fig2_hu_462f81660d7d371.webp&#34;
                width=&#34;760&#34;
-               height=&#34;507&#34;
+               height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
-(사진제공-한국항공우주연구원)&lt;/p&gt;
-&lt;p&gt;
+
 
 
 
@@ -135,23 +105,163 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;251108-fig3&#34; 
-               srcset=&#34;https://snugnss.github.io/snuglite/251108/fig3_hu_22b49921386c156e.webp 320w, https://snugnss.github.io/snuglite/251108/fig3_hu_40bb6299d7809661.webp 480w, https://snugnss.github.io/snuglite/251108/fig3_hu_7f58076a68c60622.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/snuglite/251108/fig3_hu_ae34e7765083d9e9.webp 320w, http://localhost:1313/snuglite/251108/fig3_hu_8bb8c29f674b3c08.webp 480w, http://localhost:1313/snuglite/251108/fig3_hu_a46ecbb70158e526.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/snuglite/251108/fig3_hu_22b49921386c156e.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/251108/fig3_hu_ae34e7765083d9e9.webp&#34;
                width=&#34;760&#34;
-               height=&#34;507&#34;
+               height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
-(사진제공-한국항공우주연구원)&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251108-fig4&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251108/fig4_hu_601fd5cc2a20f364.webp 320w, http://localhost:1313/snuglite/251108/fig4_hu_c3b558b02055a5f6.webp 480w, http://localhost:1313/snuglite/251108/fig4_hu_58842fb5aed3eecc.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251108/fig4_hu_601fd5cc2a20f364.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;english-version&#34;&gt;English Version&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251108-fig5&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251108/fig5_hu_3bcd58e52f080da3.webp 320w, http://localhost:1313/snuglite/251108/fig5_hu_f0171aaad45f9342.webp 480w, http://localhost:1313/snuglite/251108/fig5_hu_ad2d0ba074ed6ba0.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251108/fig5_hu_3bcd58e52f080da3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251108-fig6&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251108/fig6_hu_d198639875a75754.webp 320w, http://localhost:1313/snuglite/251108/fig6_hu_832db44a03b688dc.webp 480w, http://localhost:1313/snuglite/251108/fig6_hu_b21932e45c7d24.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251108/fig6_hu_d198639875a75754.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251108-fig7&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251108/fig7_hu_9d957eb1cbdfa2bb.webp 320w, http://localhost:1313/snuglite/251108/fig7_hu_d7faa2adeaa41b45.webp 480w, http://localhost:1313/snuglite/251108/fig7_hu_cbd4fab2e04d9f74.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251108/fig7_hu_9d957eb1cbdfa2bb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251108-fig8&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251108/fig8_hu_96bc3e38abf56825.webp 320w, http://localhost:1313/snuglite/251108/fig8_hu_4112b045dd191d2b.webp 480w, http://localhost:1313/snuglite/251108/fig8_hu_3a9a868cf44b26f.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251108/fig8_hu_96bc3e38abf56825.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 &lt;/figure&gt;</description>
     </item>
     
     <item>
       <title>[2025.11.07] SNUGLITE-III 소개 영상 (KARITV)</title>
-      <link>https://snugnss.github.io/snuglite/251107/</link>
+      <link>http://localhost:1313/snuglite/251107/</link>
       <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/251107/</guid>
+      <guid>http://localhost:1313/snuglite/251107/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
 &lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -166,9 +276,9 @@
     
     <item>
       <title>[2025.10.31] SNUGLITE-III 소개 (KARI Blog)</title>
-      <link>https://snugnss.github.io/snuglite/251031/</link>
+      <link>http://localhost:1313/snuglite/251031/</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/251031/</guid>
+      <guid>http://localhost:1313/snuglite/251031/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;heading&#34;&gt;
 &lt;/h2&gt;
@@ -177,18 +287,18 @@
     
     <item>
       <title>[2024.11.20] SNUGLITE-III A, B 이름 공모전 결과 발표</title>
-      <link>https://snugnss.github.io/snuglite/241120/</link>
+      <link>http://localhost:1313/snuglite/241120/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/241120/</guid>
+      <guid>http://localhost:1313/snuglite/241120/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
  &lt;!-- ![241120-fig1](featured.png) --&gt;</description>
     </item>
     
     <item>
       <title>[2024.10.11] SNUGLITE-III A, B 이름 공모전</title>
-      <link>https://snugnss.github.io/snuglite/241011/</link>
+      <link>http://localhost:1313/snuglite/241011/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/241011/</guid>
+      <guid>http://localhost:1313/snuglite/241011/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;p&gt;Please refer to QR code in the poster or the link to participate in the contest.&lt;/p&gt;
 &lt;p&gt;
@@ -198,9 +308,9 @@
     
     <item>
       <title>SNUGLITE-III (2022-)</title>
-      <link>https://snugnss.github.io/projects/snuglite-iii/</link>
+      <link>http://localhost:1313/projects/snuglite-iii/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/projects/snuglite-iii/</guid>
+      <guid>http://localhost:1313/projects/snuglite-iii/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;seoul-national-university-gnss-laboratory-satellite-snuglite-iii-project&#34;&gt;Seoul National University GNSS Laboratory Satellite (SNUGLITE)-III Project&lt;/h3&gt;
 &lt;ul&gt;
@@ -229,9 +339,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;snuglite3-fig1&#34; 
-               srcset=&#34;https://snugnss.github.io/projects/snuglite-iii/fig1_hu_ee5b5c11640c39b0.webp 320w, https://snugnss.github.io/projects/snuglite-iii/fig1_hu_7a30dfe0add35084.webp 480w, https://snugnss.github.io/projects/snuglite-iii/fig1_hu_afb8df3db4f1a530.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/projects/snuglite-iii/fig1_hu_ee5b5c11640c39b0.webp 320w, http://localhost:1313/projects/snuglite-iii/fig1_hu_7a30dfe0add35084.webp 480w, http://localhost:1313/projects/snuglite-iii/fig1_hu_afb8df3db4f1a530.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/projects/snuglite-iii/fig1_hu_ee5b5c11640c39b0.webp&#34;
+               src=&#34;http://localhost:1313/projects/snuglite-iii/fig1_hu_ee5b5c11640c39b0.webp&#34;
                width=&#34;760&#34;
                height=&#34;569&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -271,9 +381,9 @@
     
     <item>
       <title>Ground Station</title>
-      <link>https://snugnss.github.io/projects/groundstation/</link>
+      <link>http://localhost:1313/projects/groundstation/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/projects/groundstation/</guid>
+      <guid>http://localhost:1313/projects/groundstation/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h1 id=&#34;snu-ground-station&#34;&gt;SNU Ground Station&lt;/h1&gt;
 &lt;ul&gt;
@@ -306,9 +416,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;gnd-fig1&#34; 
-               srcset=&#34;https://snugnss.github.io/projects/groundstation/fig1_hu_149063e8df27a0d7.webp 320w, https://snugnss.github.io/projects/groundstation/fig1_hu_e9c5ec2d2181093a.webp 326w&#34;
+               srcset=&#34;http://localhost:1313/projects/groundstation/fig1_hu_149063e8df27a0d7.webp 320w, http://localhost:1313/projects/groundstation/fig1_hu_e9c5ec2d2181093a.webp 326w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/projects/groundstation/fig1_hu_149063e8df27a0d7.webp&#34;
+               src=&#34;http://localhost:1313/projects/groundstation/fig1_hu_149063e8df27a0d7.webp&#34;
                width=&#34;326&#34;
                height=&#34;700&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

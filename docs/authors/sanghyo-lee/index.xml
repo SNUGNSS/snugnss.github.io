@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sanghyo Lee | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/authors/sanghyo-lee/</link>
-      <atom:link href="https://snugnss.github.io/authors/sanghyo-lee/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/sanghyo-lee/</link>
+      <atom:link href="http://localhost:1313/authors/sanghyo-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>Sanghyo Lee</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://snugnss.github.io/authors/sanghyo-lee/avatar_hu_ca7e5ff7705db187.jpg</url>
+      <url>http://localhost:1313/authors/sanghyo-lee/avatar_hu_ca7e5ff7705db187.jpg</url>
       <title>Sanghyo Lee</title>
-      <link>https://snugnss.github.io/authors/sanghyo-lee/</link>
+      <link>http://localhost:1313/authors/sanghyo-lee/</link>
     </image>
     
   </channel>
