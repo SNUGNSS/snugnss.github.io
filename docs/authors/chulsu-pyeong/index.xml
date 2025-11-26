@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chulsu Pyeong | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/authors/chulsu-pyeong/</link>
-      <atom:link href="http://localhost:1313/authors/chulsu-pyeong/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/authors/chulsu-pyeong/</link>
+      <atom:link href="https://snugnss.github.io/authors/chulsu-pyeong/index.xml" rel="self" type="application/rss+xml" />
     <description>Chulsu Pyeong</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/authors/chulsu-pyeong/avatar_hu_5cb559ac44e32f47.jpg</url>
+      <url>https://snugnss.github.io/authors/chulsu-pyeong/avatar_hu_5cb559ac44e32f47.jpg</url>
       <title>Chulsu Pyeong</title>
-      <link>http://localhost:1313/authors/chulsu-pyeong/</link>
+      <link>https://snugnss.github.io/authors/chulsu-pyeong/</link>
     </image>
     
   </channel>

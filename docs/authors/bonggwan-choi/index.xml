@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bonggwan Choi | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/authors/bonggwan-choi/</link>
-      <atom:link href="http://localhost:1313/authors/bonggwan-choi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/authors/bonggwan-choi/</link>
+      <atom:link href="https://snugnss.github.io/authors/bonggwan-choi/index.xml" rel="self" type="application/rss+xml" />
     <description>Bonggwan Choi</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/authors/bonggwan-choi/avatar_hu_649b6a27cda8fdb.jpg</url>
+      <url>https://snugnss.github.io/authors/bonggwan-choi/avatar_hu_649b6a27cda8fdb.jpg</url>
       <title>Bonggwan Choi</title>
-      <link>http://localhost:1313/authors/bonggwan-choi/</link>
+      <link>https://snugnss.github.io/authors/bonggwan-choi/</link>
     </image>
     
   </channel>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haeyoung Jun | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/authors/haeyoung-jun/</link>
-      <atom:link href="http://localhost:1313/authors/haeyoung-jun/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/authors/haeyoung-jun/</link>
+      <atom:link href="https://snugnss.github.io/authors/haeyoung-jun/index.xml" rel="self" type="application/rss+xml" />
     <description>Haeyoung Jun</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/authors/haeyoung-jun/avatar_hu_5a28be72319e2f96.jpg</url>
+      <url>https://snugnss.github.io/authors/haeyoung-jun/avatar_hu_5a28be72319e2f96.jpg</url>
       <title>Haeyoung Jun</title>
-      <link>http://localhost:1313/authors/haeyoung-jun/</link>
+      <link>https://snugnss.github.io/authors/haeyoung-jun/</link>
     </image>
     
   </channel>

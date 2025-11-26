@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seongjin Park | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/authors/seongjin-park/</link>
-      <atom:link href="http://localhost:1313/authors/seongjin-park/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/authors/seongjin-park/</link>
+      <atom:link href="https://snugnss.github.io/authors/seongjin-park/index.xml" rel="self" type="application/rss+xml" />
     <description>Seongjin Park</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/authors/seongjin-park/avatar_hu_c536c56db51f0064.jpg</url>
+      <url>https://snugnss.github.io/authors/seongjin-park/avatar_hu_c536c56db51f0064.jpg</url>
       <title>Seongjin Park</title>
-      <link>http://localhost:1313/authors/seongjin-park/</link>
+      <link>https://snugnss.github.io/authors/seongjin-park/</link>
     </image>
     
   </channel>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sunkyoung Yu | SNU GNSS Laboratory</title>
-    <link>http://localhost:1313/authors/sunkyoung-yu/</link>
-      <atom:link href="http://localhost:1313/authors/sunkyoung-yu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://snugnss.github.io/authors/sunkyoung-yu/</link>
+      <atom:link href="https://snugnss.github.io/authors/sunkyoung-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Sunkyoung Yu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/authors/sunkyoung-yu/avatar_hu_6e5ae39b41d83f70.jpg</url>
+      <url>https://snugnss.github.io/authors/sunkyoung-yu/avatar_hu_6e5ae39b41d83f70.jpg</url>
       <title>Sunkyoung Yu</title>
-      <link>http://localhost:1313/authors/sunkyoung-yu/</link>
+      <link>https://snugnss.github.io/authors/sunkyoung-yu/</link>
     </image>
     
   </channel>

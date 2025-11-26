@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SNUGLITE-III, Beacon | SNU GNSS Laboratory</title>
+    <link>https://snugnss.github.io/tags/snuglite-iii-beacon/</link>
+      <atom:link href="https://snugnss.github.io/tags/snuglite-iii-beacon/index.xml" rel="self" type="application/rss+xml" />
+    <description>SNUGLITE-III, Beacon</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://snugnss.github.io/media/logo_hu_88ff3fe3538e33af.png</url>
+      <title>SNUGLITE-III, Beacon</title>
+      <link>https://snugnss.github.io/tags/snuglite-iii-beacon/</link>
+    </image>
+    
+    <item>
+      <title>[2025.11.26] SNUGLITE-III Beacon Structure</title>
+      <link>https://snugnss.github.io/snuglite/251126/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://snugnss.github.io/snuglite/251126/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Downlink Frequencies - HANA (A): 436.460 MHz, DURI (B) : 436.788 MHz&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Modulation: GMSK&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Baud Rate: 9600 bps&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Protocols: AX.25 and CSP (CubeSat Space Protocol)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Beacons Types: Simple Beacon (106 bytes), Full Beacon (69 bytes)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;During standby mode, beacons are transmitted every 10 seconds, and the Full Beacon cycles sequentially from Page #1 to Page #2.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The data strcuture for each beacon type is defined as follows:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251126-fig1&#34; 
+               srcset=&#34;https://snugnss.github.io/snuglite/251126/fig1_hu_6b1b5d0c74350a73.webp 320w, https://snugnss.github.io/snuglite/251126/fig1_hu_25df354a357144d3.webp 480w, https://snugnss.github.io/snuglite/251126/fig1_hu_f883e44f1a2d7f0c.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/snuglite/251126/fig1_hu_6b1b5d0c74350a73.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;450&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Simple Beacon&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251126-fig2&#34; 
+               srcset=&#34;https://snugnss.github.io/snuglite/251126/fig2_hu_8393fd0ef0a28252.webp 320w, https://snugnss.github.io/snuglite/251126/fig2_hu_8ed17bc54024e495.webp 480w, https://snugnss.github.io/snuglite/251126/fig2_hu_bc504f7e177e2681.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/snuglite/251126/fig2_hu_8393fd0ef0a28252.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;233&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Full Beacon (Page #1)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251126-fig3&#34; 
+               srcset=&#34;https://snugnss.github.io/snuglite/251126/fig3_hu_252378c85a3a510.webp 320w, https://snugnss.github.io/snuglite/251126/fig3_hu_ab3eb46c72da4cda.webp 480w, https://snugnss.github.io/snuglite/251126/fig3_hu_d3f803677571c227.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;https://snugnss.github.io/snuglite/251126/fig3_hu_252378c85a3a510.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;250&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Full Beacon (Page #2)&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;If you receive any signals from SNUGLITE-III HANA or DURI, we kindly ask you to share your data with us.
+Your contributions are extremely valuable to our research.
+We will gladly provide eQSL for your reception report.
+Also, we would provide acknowledgment certificate if your data is used in our publications.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Email: 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
