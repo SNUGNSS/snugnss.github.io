@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sujin Choi | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/authors/sujin-choi/</link>
-      <atom:link href="https://snugnss.github.io/authors/sujin-choi/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/sujin-choi/</link>
+      <atom:link href="http://localhost:1313/authors/sujin-choi/index.xml" rel="self" type="application/rss+xml" />
     <description>Sujin Choi</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://snugnss.github.io/authors/sujin-choi/avatar_hu_e4c2df40192cbad5.jpg</url>
+      <url>http://localhost:1313/authors/sujin-choi/avatar_hu_e4c2df40192cbad5.jpg</url>
       <title>Sujin Choi</title>
-      <link>https://snugnss.github.io/authors/sujin-choi/</link>
+      <link>http://localhost:1313/authors/sujin-choi/</link>
     </image>
     
   </channel>

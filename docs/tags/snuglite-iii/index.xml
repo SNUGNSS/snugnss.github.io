@@ -2,21 +2,445 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SNUGLITE-III | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/tags/snuglite-iii/</link>
-      <atom:link href="https://snugnss.github.io/tags/snuglite-iii/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/snuglite-iii/</link>
+      <atom:link href="http://localhost:1313/tags/snuglite-iii/index.xml" rel="self" type="application/rss+xml" />
     <description>SNUGLITE-III</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo_hu_88ff3fe3538e33af.png</url>
+      <url>http://localhost:1313/media/logo_hu_88ff3fe3538e33af.png</url>
       <title>SNUGLITE-III</title>
-      <link>https://snugnss.github.io/tags/snuglite-iii/</link>
+      <link>http://localhost:1313/tags/snuglite-iii/</link>
     </image>
     
     <item>
+      <title>[2025.12.15] SNUGLITE-III Two-way Communication Success</title>
+      <link>http://localhost:1313/snuglite/251215/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snuglite/251215/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251215-fig1&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251215/fig1_hu_ac581864983672e8.webp 320w, http://localhost:1313/snuglite/251215/fig1_hu_475748527ac691e0.webp 480w, http://localhost:1313/snuglite/251215/fig1_hu_f1e5822d205bec6a.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251215/fig1_hu_ac581864983672e8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251215-fig2&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251215/fig2_hu_4d616e0be66dc4fb.webp 320w, http://localhost:1313/snuglite/251215/fig2_hu_699d8cdd84573eda.webp 480w, http://localhost:1313/snuglite/251215/fig2_hu_c82933eccaf13ca1.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251215/fig2_hu_4d616e0be66dc4fb.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251215-fig3&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251215/fig3_hu_e71a48bc0d8abaf3.webp 320w, http://localhost:1313/snuglite/251215/fig3_hu_408c1c3e7c7e6295.webp 480w, http://localhost:1313/snuglite/251215/fig3_hu_60c095c046819d04.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251215/fig3_hu_e71a48bc0d8abaf3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251215-fig4&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251215/fig4_hu_9cf153fcbe817e88.webp 320w, http://localhost:1313/snuglite/251215/fig4_hu_e1e634fa13796ab2.webp 480w, http://localhost:1313/snuglite/251215/fig4_hu_3f87581b790e775.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251215/fig4_hu_9cf153fcbe817e88.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251215-feat&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251215/featured_hu_731189cd67457498.webp 320w, http://localhost:1313/snuglite/251215/featured_hu_27f933bfe6d651ce.webp 480w, http://localhost:1313/snuglite/251215/featured_hu_b40194df0b4962a2.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251215/featured_hu_731189cd67457498.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251215-fig7&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251215/fig7_hu_665cde415bce7ffe.webp 320w, http://localhost:1313/snuglite/251215/fig7_hu_92614355c53ef4fd.webp 480w, http://localhost:1313/snuglite/251215/fig7_hu_b8863e1692fcdc9c.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251215/fig7_hu_665cde415bce7ffe.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251215-fig5&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251215/fig5_hu_31d826b6b57d496f.webp 320w, http://localhost:1313/snuglite/251215/fig5_hu_2661d24f2d14eb67.webp 480w, http://localhost:1313/snuglite/251215/fig5_hu_589494aa18695644.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251215/fig5_hu_31d826b6b57d496f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251215-fig6&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251215/fig6_hu_1027e01e1b6199f5.webp 320w, http://localhost:1313/snuglite/251215/fig6_hu_13a733c3fd0ea7b9.webp 480w, http://localhost:1313/snuglite/251215/fig6_hu_d869833da84add0a.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251215/fig6_hu_1027e01e1b6199f5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251215-fig7&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251215/fig7_hu_665cde415bce7ffe.webp 320w, http://localhost:1313/snuglite/251215/fig7_hu_92614355c53ef4fd.webp 480w, http://localhost:1313/snuglite/251215/fig7_hu_b8863e1692fcdc9c.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251215/fig7_hu_665cde415bce7ffe.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;Email: 
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[2025.11.27] SNUGLITE-III Launch </title>
+      <link>http://localhost:1313/snuglite/251127/</link>
+      <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snuglite/251127/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/kj-oIE3ABNk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+ &lt;/br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[KARI] 새벽 하늘을 가로지른 누리호 4차 발사 성공! | SNUGLITE-3 CubeSat Launch*&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/hlZXOOQF5RY?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+ &lt;/br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[KARI] 누리호 4차 발사 성공! 누리호가 촬영한 우주 공개 | SNUGLITE-3 CubeSat Launch Service*&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/figure&gt;</description>
+    </item>
+    
+    <item>
+      <title>[2025.11.26] SNUGLITE-III Beacon Structure</title>
+      <link>http://localhost:1313/snuglite/251126/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snuglite/251126/</guid>
+      <description>&lt;!--------------------------------------------------------------------------------------&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Downlink Frequencies - HANA (A): 436.460 MHz, DURI (B) : 436.788 MHz&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Modulation: GMSK&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Baud Rate: 9600 bps&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Protocols: AX.25 and CSP (CubeSat Space Protocol)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Beacons Types: Simple Beacon (106 bytes), Full Beacon (69 bytes)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;During standby mode, beacons are transmitted every 10 seconds, and the Full Beacon cycles sequentially from Page #1 to Page #2.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The data strcuture for each beacon type is defined as follows:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure style=&#34;text-align: center;&#34;&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251126-fig1&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251126/fig1_hu_6b1b5d0c74350a73.webp 320w, http://localhost:1313/snuglite/251126/fig1_hu_25df354a357144d3.webp 480w, http://localhost:1313/snuglite/251126/fig1_hu_f883e44f1a2d7f0c.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251126/fig1_hu_6b1b5d0c74350a73.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;450&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Simple Beacon&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251126-fig2&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251126/fig2_hu_8393fd0ef0a28252.webp 320w, http://localhost:1313/snuglite/251126/fig2_hu_8ed17bc54024e495.webp 480w, http://localhost:1313/snuglite/251126/fig2_hu_bc504f7e177e2681.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251126/fig2_hu_8393fd0ef0a28252.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;233&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Full Beacon (Page #1)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;251126-fig3&#34; 
+               srcset=&#34;http://localhost:1313/snuglite/251126/fig3_hu_252378c85a3a510.webp 320w, http://localhost:1313/snuglite/251126/fig3_hu_ab3eb46c72da4cda.webp 480w, http://localhost:1313/snuglite/251126/fig3_hu_d3f803677571c227.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/snuglite/251126/fig3_hu_252378c85a3a510.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;250&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Full Beacon (Page #2)&lt;/em&gt;&lt;/p&gt;
+&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;If you receive any signals from SNUGLITE-III HANA or DURI, we kindly ask you to share your data with us.
+Your contributions are extremely valuable to our research.
+We will gladly provide eQSL for your reception report.
+Also, we would provide acknowledgment certificate if your data is used in our publications.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Email: 
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>[2025.11.25] SNUGLITE-III 발사관 탑재 영상</title>
-      <link>https://snugnss.github.io/snuglite/251125/</link>
+      <link>http://localhost:1313/snuglite/251125/</link>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/251125/</guid>
+      <guid>http://localhost:1313/snuglite/251125/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
 &lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -33,9 +457,9 @@
     
     <item>
       <title>[2025.11.08] SNUGLITE-III 하나, 두리 최종 탑재완료</title>
-      <link>https://snugnss.github.io/snuglite/251108/</link>
+      <link>http://localhost:1313/snuglite/251108/</link>
       <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/251108/</guid>
+      <guid>http://localhost:1313/snuglite/251108/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;snuglite-iii-하나-두리-최종-탑재-완료&#34;&gt;SNUGLITE-III 하나, 두리 최종 탑재 완료&lt;/h2&gt;
 &lt;p&gt;SNUGLITE-III 하나와 두리는 2025년 11월 7일 나로우주센터에서 최종적으로 탑재를 완료했다. 누리호(4차 발사)는 11월 27일(목) 새벽 00시 54분부터 01시 14분 사이에 고도 600 km의 태양동기궤도(LTAN 12:30)로 향할 예정이다.&lt;/p&gt;
@@ -70,9 +494,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;251108-fig1&#34; 
-               srcset=&#34;https://snugnss.github.io/snuglite/251108/fig1_hu_dc34d62a84ada200.webp 320w, https://snugnss.github.io/snuglite/251108/fig1_hu_fea5b6ce68b9b106.webp 480w, https://snugnss.github.io/snuglite/251108/fig1_hu_5848b5a6f4cbd589.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/snuglite/251108/fig1_hu_dc34d62a84ada200.webp 320w, http://localhost:1313/snuglite/251108/fig1_hu_fea5b6ce68b9b106.webp 480w, http://localhost:1313/snuglite/251108/fig1_hu_5848b5a6f4cbd589.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/snuglite/251108/fig1_hu_dc34d62a84ada200.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/251108/fig1_hu_dc34d62a84ada200.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -98,9 +522,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;251108-fig2&#34; 
-               srcset=&#34;https://snugnss.github.io/snuglite/251108/fig2_hu_cea76b2934f1fa49.webp 320w, https://snugnss.github.io/snuglite/251108/fig2_hu_2ba8befadd2a46b4.webp 480w, https://snugnss.github.io/snuglite/251108/fig2_hu_6f6833b6be03c048.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/snuglite/251108/fig2_hu_cea76b2934f1fa49.webp 320w, http://localhost:1313/snuglite/251108/fig2_hu_2ba8befadd2a46b4.webp 480w, http://localhost:1313/snuglite/251108/fig2_hu_6f6833b6be03c048.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/snuglite/251108/fig2_hu_cea76b2934f1fa49.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/251108/fig2_hu_cea76b2934f1fa49.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -126,9 +550,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;251108-fig3&#34; 
-               srcset=&#34;https://snugnss.github.io/snuglite/251108/fig3_hu_ae34e7765083d9e9.webp 320w, https://snugnss.github.io/snuglite/251108/fig3_hu_8bb8c29f674b3c08.webp 480w, https://snugnss.github.io/snuglite/251108/fig3_hu_a46ecbb70158e526.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/snuglite/251108/fig3_hu_ae34e7765083d9e9.webp 320w, http://localhost:1313/snuglite/251108/fig3_hu_8bb8c29f674b3c08.webp 480w, http://localhost:1313/snuglite/251108/fig3_hu_a46ecbb70158e526.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/snuglite/251108/fig3_hu_ae34e7765083d9e9.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/251108/fig3_hu_ae34e7765083d9e9.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -154,9 +578,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;251108-fig4&#34; 
-               srcset=&#34;https://snugnss.github.io/snuglite/251108/fig4_hu_601fd5cc2a20f364.webp 320w, https://snugnss.github.io/snuglite/251108/fig4_hu_c3b558b02055a5f6.webp 480w, https://snugnss.github.io/snuglite/251108/fig4_hu_58842fb5aed3eecc.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/snuglite/251108/fig4_hu_601fd5cc2a20f364.webp 320w, http://localhost:1313/snuglite/251108/fig4_hu_c3b558b02055a5f6.webp 480w, http://localhost:1313/snuglite/251108/fig4_hu_58842fb5aed3eecc.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/snuglite/251108/fig4_hu_601fd5cc2a20f364.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/251108/fig4_hu_601fd5cc2a20f364.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -185,9 +609,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;251108-fig5&#34; 
-               srcset=&#34;https://snugnss.github.io/snuglite/251108/fig5_hu_3bcd58e52f080da3.webp 320w, https://snugnss.github.io/snuglite/251108/fig5_hu_f0171aaad45f9342.webp 480w, https://snugnss.github.io/snuglite/251108/fig5_hu_ad2d0ba074ed6ba0.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/snuglite/251108/fig5_hu_3bcd58e52f080da3.webp 320w, http://localhost:1313/snuglite/251108/fig5_hu_f0171aaad45f9342.webp 480w, http://localhost:1313/snuglite/251108/fig5_hu_ad2d0ba074ed6ba0.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/snuglite/251108/fig5_hu_3bcd58e52f080da3.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/251108/fig5_hu_3bcd58e52f080da3.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -213,9 +637,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;251108-fig6&#34; 
-               srcset=&#34;https://snugnss.github.io/snuglite/251108/fig6_hu_d27ce33f2f1862ad.webp 320w, https://snugnss.github.io/snuglite/251108/fig6_hu_15014db45c280092.webp 480w, https://snugnss.github.io/snuglite/251108/fig6_hu_f99c2cd5a0b7bbfb.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/snuglite/251108/fig6_hu_d27ce33f2f1862ad.webp 320w, http://localhost:1313/snuglite/251108/fig6_hu_15014db45c280092.webp 480w, http://localhost:1313/snuglite/251108/fig6_hu_f99c2cd5a0b7bbfb.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/snuglite/251108/fig6_hu_d27ce33f2f1862ad.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/251108/fig6_hu_d27ce33f2f1862ad.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -241,9 +665,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;251108-fig7&#34; 
-               srcset=&#34;https://snugnss.github.io/snuglite/251108/fig7_hu_9d957eb1cbdfa2bb.webp 320w, https://snugnss.github.io/snuglite/251108/fig7_hu_d7faa2adeaa41b45.webp 480w, https://snugnss.github.io/snuglite/251108/fig7_hu_cbd4fab2e04d9f74.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/snuglite/251108/fig7_hu_9d957eb1cbdfa2bb.webp 320w, http://localhost:1313/snuglite/251108/fig7_hu_d7faa2adeaa41b45.webp 480w, http://localhost:1313/snuglite/251108/fig7_hu_cbd4fab2e04d9f74.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/snuglite/251108/fig7_hu_9d957eb1cbdfa2bb.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/251108/fig7_hu_9d957eb1cbdfa2bb.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -269,9 +693,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;251108-fig8&#34; 
-               srcset=&#34;https://snugnss.github.io/snuglite/251108/fig8_hu_96bc3e38abf56825.webp 320w, https://snugnss.github.io/snuglite/251108/fig8_hu_4112b045dd191d2b.webp 480w, https://snugnss.github.io/snuglite/251108/fig8_hu_3a9a868cf44b26f.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/snuglite/251108/fig8_hu_96bc3e38abf56825.webp 320w, http://localhost:1313/snuglite/251108/fig8_hu_4112b045dd191d2b.webp 480w, http://localhost:1313/snuglite/251108/fig8_hu_3a9a868cf44b26f.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/snuglite/251108/fig8_hu_96bc3e38abf56825.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/251108/fig8_hu_96bc3e38abf56825.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -282,9 +706,9 @@
     
     <item>
       <title>[2025.11.07] SNUGLITE-III 소개 영상 (KARITV)</title>
-      <link>https://snugnss.github.io/snuglite/251107/</link>
+      <link>http://localhost:1313/snuglite/251107/</link>
       <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/251107/</guid>
+      <guid>http://localhost:1313/snuglite/251107/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
 &lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -299,9 +723,9 @@
     
     <item>
       <title>[2025.10.31] SNUGLITE-III 소개 (KARI Blog)</title>
-      <link>https://snugnss.github.io/snuglite/251031/</link>
+      <link>http://localhost:1313/snuglite/251031/</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/251031/</guid>
+      <guid>http://localhost:1313/snuglite/251031/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h2 id=&#34;heading&#34;&gt;
 &lt;/h2&gt;
@@ -310,18 +734,18 @@
     
     <item>
       <title>[2024.11.20] SNUGLITE-III A, B 이름 공모전 결과 발표</title>
-      <link>https://snugnss.github.io/snuglite/241120/</link>
+      <link>http://localhost:1313/snuglite/241120/</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/241120/</guid>
+      <guid>http://localhost:1313/snuglite/241120/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
  &lt;!-- ![241120-fig1](featured.png) --&gt;</description>
     </item>
     
     <item>
       <title>[2024.10.11] SNUGLITE-III A, B 이름 공모전</title>
-      <link>https://snugnss.github.io/snuglite/241011/</link>
+      <link>http://localhost:1313/snuglite/241011/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/241011/</guid>
+      <guid>http://localhost:1313/snuglite/241011/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;p&gt;Please refer to QR code in the poster or the link to participate in the contest.&lt;/p&gt;
 &lt;p&gt;
@@ -331,9 +755,9 @@
     
     <item>
       <title>SNUGLITE-III (2022-)</title>
-      <link>https://snugnss.github.io/projects/snuglite-iii/</link>
+      <link>http://localhost:1313/projects/snuglite-iii/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/projects/snuglite-iii/</guid>
+      <guid>http://localhost:1313/projects/snuglite-iii/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;seoul-national-university-gnss-laboratory-satellite-snuglite-iii-project&#34;&gt;Seoul National University GNSS Laboratory Satellite (SNUGLITE)-III Project&lt;/h3&gt;
 &lt;ul&gt;
@@ -362,9 +786,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;snuglite3-fig1&#34; 
-               srcset=&#34;https://snugnss.github.io/projects/snuglite-iii/fig1_hu_ee5b5c11640c39b0.webp 320w, https://snugnss.github.io/projects/snuglite-iii/fig1_hu_7a30dfe0add35084.webp 480w, https://snugnss.github.io/projects/snuglite-iii/fig1_hu_afb8df3db4f1a530.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/projects/snuglite-iii/fig1_hu_ee5b5c11640c39b0.webp 320w, http://localhost:1313/projects/snuglite-iii/fig1_hu_7a30dfe0add35084.webp 480w, http://localhost:1313/projects/snuglite-iii/fig1_hu_afb8df3db4f1a530.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/projects/snuglite-iii/fig1_hu_ee5b5c11640c39b0.webp&#34;
+               src=&#34;http://localhost:1313/projects/snuglite-iii/fig1_hu_ee5b5c11640c39b0.webp&#34;
                width=&#34;760&#34;
                height=&#34;569&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -400,15 +824,15 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;see-beacon-structure-here&#34;&gt;See beacon structure here:&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://snugnss.github.io/snuglite/251126/&#34;&gt;SNUGLITE-III Beacon Structure &lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://localhost:1313/snuglite/251126/&#34;&gt;SNUGLITE-III Beacon Structure &lt;/a&gt; &lt;/br&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ground Station</title>
-      <link>https://snugnss.github.io/projects/groundstation/</link>
+      <link>http://localhost:1313/projects/groundstation/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/projects/groundstation/</guid>
+      <guid>http://localhost:1313/projects/groundstation/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h1 id=&#34;snu-ground-station&#34;&gt;SNU Ground Station&lt;/h1&gt;
 &lt;ul&gt;
@@ -441,9 +865,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;gnd-fig1&#34; 
-               srcset=&#34;https://snugnss.github.io/projects/groundstation/fig1_hu_149063e8df27a0d7.webp 320w, https://snugnss.github.io/projects/groundstation/fig1_hu_e9c5ec2d2181093a.webp 326w&#34;
+               srcset=&#34;http://localhost:1313/projects/groundstation/fig1_hu_149063e8df27a0d7.webp 320w, http://localhost:1313/projects/groundstation/fig1_hu_e9c5ec2d2181093a.webp 326w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/projects/groundstation/fig1_hu_149063e8df27a0d7.webp&#34;
+               src=&#34;http://localhost:1313/projects/groundstation/fig1_hu_149063e8df27a0d7.webp&#34;
                width=&#34;326&#34;
                height=&#34;700&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

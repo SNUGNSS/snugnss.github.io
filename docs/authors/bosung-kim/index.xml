@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bosung Kim | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/authors/bosung-kim/</link>
-      <atom:link href="https://snugnss.github.io/authors/bosung-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/bosung-kim/</link>
+      <atom:link href="http://localhost:1313/authors/bosung-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Bosung Kim</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://snugnss.github.io/authors/bosung-kim/avatar_hu_5cb559ac44e32f47.jpg</url>
+      <url>http://localhost:1313/authors/bosung-kim/avatar_hu_5cb559ac44e32f47.jpg</url>
       <title>Bosung Kim</title>
-      <link>https://snugnss.github.io/authors/bosung-kim/</link>
+      <link>http://localhost:1313/authors/bosung-kim/</link>
     </image>
     
   </channel>

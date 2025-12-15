@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SNUGLITE-I | SNU GNSS Laboratory</title>
-    <link>https://snugnss.github.io/tags/snuglite-i/</link>
-      <atom:link href="https://snugnss.github.io/tags/snuglite-i/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/snuglite-i/</link>
+      <atom:link href="http://localhost:1313/tags/snuglite-i/index.xml" rel="self" type="application/rss+xml" />
     <description>SNUGLITE-I</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://snugnss.github.io/media/logo_hu_88ff3fe3538e33af.png</url>
+      <url>http://localhost:1313/media/logo_hu_88ff3fe3538e33af.png</url>
       <title>SNUGLITE-I</title>
-      <link>https://snugnss.github.io/tags/snuglite-i/</link>
+      <link>http://localhost:1313/tags/snuglite-i/</link>
     </image>
     
     <item>
       <title>[2020.05.15] SNUGLITE-I 운용 결과 저널 출판</title>
-      <link>https://snugnss.github.io/snuglite/200515/</link>
+      <link>http://localhost:1313/snuglite/200515/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/200515/</guid>
+      <guid>http://localhost:1313/snuglite/200515/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;ul&gt;
 &lt;li&gt;In orbit results and analyses of SNUGLITE cube-satellite were published in an article at Applied Sciences. The authors would like to thank the amateur operators’ efforts to receive the data from the SNUGLITE CubeSat and upload for sharing.&lt;/li&gt;
@@ -29,9 +29,9 @@
     
     <item>
       <title>[2019.04.22] SNUGLITE-I 비콘 수신 경과 (April 22, 2019)</title>
-      <link>https://snugnss.github.io/snuglite/190422/</link>
+      <link>http://localhost:1313/snuglite/190422/</link>
       <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/190422/</guid>
+      <guid>http://localhost:1313/snuglite/190422/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -62,9 +62,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;190422-fig1&#34; 
-               srcset=&#34;https://snugnss.github.io/snuglite/190422/fig1_hu_a1b382f4509213f3.webp 320w, https://snugnss.github.io/snuglite/190422/fig1_hu_aa53ecd68cafe8a5.webp 480w, https://snugnss.github.io/snuglite/190422/fig1_hu_859c8f038e27f3cd.webp 720w&#34;
+               srcset=&#34;http://localhost:1313/snuglite/190422/fig1_hu_a1b382f4509213f3.webp 320w, http://localhost:1313/snuglite/190422/fig1_hu_aa53ecd68cafe8a5.webp 480w, http://localhost:1313/snuglite/190422/fig1_hu_859c8f038e27f3cd.webp 720w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/snuglite/190422/fig1_hu_a1b382f4509213f3.webp&#34;
+               src=&#34;http://localhost:1313/snuglite/190422/fig1_hu_a1b382f4509213f3.webp&#34;
                width=&#34;720&#34;
                height=&#34;425&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -76,9 +76,9 @@
     
     <item>
       <title>[2018.12.12] SNUGLITE-I 아마추어 서포터 (SatNOGS)</title>
-      <link>https://snugnss.github.io/snuglite/181212/</link>
+      <link>http://localhost:1313/snuglite/181212/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/181212/</guid>
+      <guid>http://localhost:1313/snuglite/181212/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -98,9 +98,9 @@
     
     <item>
       <title>[2018.12.04] SNUGLITE-I 발사 (SpaceX Falcon-9)</title>
-      <link>https://snugnss.github.io/snuglite/181204/</link>
+      <link>http://localhost:1313/snuglite/181204/</link>
       <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/181204/</guid>
+      <guid>http://localhost:1313/snuglite/181204/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;ul&gt;
 &lt;li&gt;Launch Date: December 3, 2018&lt;/li&gt;
@@ -119,9 +119,9 @@
     
     <item>
       <title>[2018.12.01] SNUGLITE-I 큐브위성 붐 전개 개발</title>
-      <link>https://snugnss.github.io/snuglite/181201/</link>
+      <link>http://localhost:1313/snuglite/181201/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/snuglite/181201/</guid>
+      <guid>http://localhost:1313/snuglite/181201/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;figure style=&#34;text-align: center;&#34;&gt;
 &lt;p&gt;&lt;/br&gt; &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -135,9 +135,9 @@
     
     <item>
       <title>Ground Station</title>
-      <link>https://snugnss.github.io/projects/groundstation/</link>
+      <link>http://localhost:1313/projects/groundstation/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/projects/groundstation/</guid>
+      <guid>http://localhost:1313/projects/groundstation/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h1 id=&#34;snu-ground-station&#34;&gt;SNU Ground Station&lt;/h1&gt;
 &lt;ul&gt;
@@ -170,9 +170,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;gnd-fig1&#34; 
-               srcset=&#34;https://snugnss.github.io/projects/groundstation/fig1_hu_149063e8df27a0d7.webp 320w, https://snugnss.github.io/projects/groundstation/fig1_hu_e9c5ec2d2181093a.webp 326w&#34;
+               srcset=&#34;http://localhost:1313/projects/groundstation/fig1_hu_149063e8df27a0d7.webp 320w, http://localhost:1313/projects/groundstation/fig1_hu_e9c5ec2d2181093a.webp 326w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/projects/groundstation/fig1_hu_149063e8df27a0d7.webp&#34;
+               src=&#34;http://localhost:1313/projects/groundstation/fig1_hu_149063e8df27a0d7.webp&#34;
                width=&#34;326&#34;
                height=&#34;700&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -219,9 +219,9 @@
     
     <item>
       <title>SNUGLITE-I (2017-2019)</title>
-      <link>https://snugnss.github.io/projects/snuglite-i/</link>
+      <link>http://localhost:1313/projects/snuglite-i/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://snugnss.github.io/projects/snuglite-i/</guid>
+      <guid>http://localhost:1313/projects/snuglite-i/</guid>
       <description>&lt;!--------------------------------------------------------------------------------------&gt;
 &lt;h3 id=&#34;seoul-national-university-gnss-laboratory-satellite-snuglite-i-project&#34;&gt;Seoul National University GNSS Laboratory Satellite (SNUGLITE)-I Project&lt;/h3&gt;
 &lt;ul&gt;
@@ -250,9 +250,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;snuglite1-fig1&#34; 
-               srcset=&#34;https://snugnss.github.io/projects/snuglite-i/fig1_hu_d38eabfeb39973a0.webp 320w, https://snugnss.github.io/projects/snuglite-i/fig1_hu_dc98c586c6b04405.webp 480w, https://snugnss.github.io/projects/snuglite-i/fig1_hu_b68dc691eed56551.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/projects/snuglite-i/fig1_hu_d38eabfeb39973a0.webp 320w, http://localhost:1313/projects/snuglite-i/fig1_hu_dc98c586c6b04405.webp 480w, http://localhost:1313/projects/snuglite-i/fig1_hu_b68dc691eed56551.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/projects/snuglite-i/fig1_hu_d38eabfeb39973a0.webp&#34;
+               src=&#34;http://localhost:1313/projects/snuglite-i/fig1_hu_d38eabfeb39973a0.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -311,9 +311,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;snuglite1-fig2&#34; 
-               srcset=&#34;https://snugnss.github.io/projects/snuglite-i/fig2_hu_be472be21232c0be.webp 320w, https://snugnss.github.io/projects/snuglite-i/fig2_hu_6ec2692eeedef4ab.webp 480w, https://snugnss.github.io/projects/snuglite-i/fig2_hu_4ea77af614e99d25.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/projects/snuglite-i/fig2_hu_be472be21232c0be.webp 320w, http://localhost:1313/projects/snuglite-i/fig2_hu_6ec2692eeedef4ab.webp 480w, http://localhost:1313/projects/snuglite-i/fig2_hu_4ea77af614e99d25.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/projects/snuglite-i/fig2_hu_be472be21232c0be.webp&#34;
+               src=&#34;http://localhost:1313/projects/snuglite-i/fig2_hu_be472be21232c0be.webp&#34;
                width=&#34;760&#34;
                height=&#34;76&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -351,9 +351,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;snuglite1-fig2&#34; 
-               srcset=&#34;https://snugnss.github.io/projects/snuglite-i/fig3_hu_b5a284bdaba0de38.webp 320w, https://snugnss.github.io/projects/snuglite-i/fig3_hu_955002800f3db17f.webp 480w, https://snugnss.github.io/projects/snuglite-i/fig3_hu_8b83eafa65db532d.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/projects/snuglite-i/fig3_hu_b5a284bdaba0de38.webp 320w, http://localhost:1313/projects/snuglite-i/fig3_hu_955002800f3db17f.webp 480w, http://localhost:1313/projects/snuglite-i/fig3_hu_8b83eafa65db532d.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/projects/snuglite-i/fig3_hu_b5a284bdaba0de38.webp&#34;
+               src=&#34;http://localhost:1313/projects/snuglite-i/fig3_hu_b5a284bdaba0de38.webp&#34;
                width=&#34;760&#34;
                height=&#34;208&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -380,9 +380,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;snuglite1-fig2&#34; 
-               srcset=&#34;https://snugnss.github.io/projects/snuglite-i/fig4_hu_e1e788a93ff619b3.webp 320w, https://snugnss.github.io/projects/snuglite-i/fig4_hu_ccaa2d7155e976ed.webp 480w, https://snugnss.github.io/projects/snuglite-i/fig4_hu_65b0a0466b4976de.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/projects/snuglite-i/fig4_hu_e1e788a93ff619b3.webp 320w, http://localhost:1313/projects/snuglite-i/fig4_hu_ccaa2d7155e976ed.webp 480w, http://localhost:1313/projects/snuglite-i/fig4_hu_65b0a0466b4976de.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;https://snugnss.github.io/projects/snuglite-i/fig4_hu_e1e788a93ff619b3.webp&#34;
+               src=&#34;http://localhost:1313/projects/snuglite-i/fig4_hu_e1e788a93ff619b3.webp&#34;
                width=&#34;760&#34;
                height=&#34;524&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
